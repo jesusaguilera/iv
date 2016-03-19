@@ -500,11 +500,32 @@ angular.module('definicionesModule', [])
     {palabra:"Anomia / Anomía", definicion:"Estado de desorganización social o aislamiento del individuo como consecuencia de falta de congruencia de las normas sociales. / Trastorno del lenguaje, dificultad para recordar las cosas."},
     {palabra:"Distopía", definicion:"Representación de sociedad futura negativa por la alineación humana."},
     {palabra:"Deferencia", definicion:"Muestra de respeto y cortesía."},
-    {palabra:"Edicto", definicion:"Mandato. / Escrito que se fija en los lugares públicos de las ciudades y poblados, y en el cual se da noticia de algo para que sea notorio a todos"}
-    {palabra:"Plañidero", definicion:"Lloroso, lastimero."}
-    {palabra:"Aducir", definicion:"Esponer algo con razones y pruebas."}
-    {palabra:"Gregario", definicion:"Que junto con otros similares siguen un dogma a pies juntillas."}
-    {palabra:"Tránsfuga", definicion:"Que cambia de opinion rápido."}
+    {palabra:"Edicto", definicion:"Mandato. / Escrito que se fija en los lugares públicos de las ciudades y poblados, y en el cual se da noticia de algo para que sea notorio a todos"},
+    {palabra:"Plañidero", definicion:"Lloroso, lastimero."},
+    {palabra:"Aducir", definicion:"Esponer algo con razones y pruebas."},
+    {palabra:"Gregario", definicion:"Que junto con otros similares siguen un dogma a pies juntillas."},
+    {palabra:"Tránsfuga", definicion:"Que cambia de opinion rápido."},
+    {palabra:"Ígneo", definicion:"Que tiene naturaleza de fuego."},
+    {palabra:"Endémico", definicion:"Propio de determinadas localizdades y regiones."},
+    {palabra:"Emolumento", definicion:"Remuneración adicional que corresponde a un empleo."},
+    {palabra:"Factual", definicion:"Perteneciente a los hechos."},
+    {palabra:"Hipóstasis", definicion:"Considerar lo abstracto e irreal como algo real."},
+    {palabra:"Inanición", definicion:"Debilidad grande por falta de algo."},
+    {palabra:"Idiocia", definicion:"De idiota."},
+    {palabra:"Anejo", definicion:"Unido y dependiente de algo. / Propio, inherente."},
+    {palabra:"Anagogía", definicion:"Elevación y enajenamiento del alma en al contemplación de las cosas divinas."},
+    {palabra:"Adumbrar", definicion:"Sombrear ( en dibujo )."},
+    {palabra:"Misandria", definicion:"Aversión a los varones."},
+    {palabra:"Indolente", definicion:"Que no se afecta o conmueve."},
+    {palabra:"Pandemonio", definicion:"Lugar de mucho ruido y confusión."},
+    {palabra:"Ripiar", definicion:"Hacer pedazos algo."},
+    {palabra:"Aseverar", definicion:"Afirmar, asegurar algo que se dice."},
+    {palabra:"Sinecura", definicion:"Empleo o cargo retribuido que ocasiona poco o ningún trabajo."},
+    {palabra:"Pecuniario", definicion:"Relativo al dinero en efectivo."},
+    {palabra:"Momio", definicion:"Sin gordura. / Chollo. / Momía."},
+    {palabra:"Fielato", definicion:"Oficio de fiel."},
+    {palabra:"Sevicia", definicion:"Trato cruel. / Crueldad excesiva."},
+    {palabra:"Triunvirato", definicion:"Junta de 3 personas para cualquier empresa o asunto."}
   ];
 
 }]);
