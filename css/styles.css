@@ -1,0 +1,19 @@
+body {
+  color: #4c4c4c;
+  font-family: helvetica, sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  border-bottom: 1px solid grey;
+}
+
+.definition-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.definition-list .word {
+  color: red;
+}
