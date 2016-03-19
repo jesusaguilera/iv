@@ -525,7 +525,8 @@ angular.module('definicionesModule', [])
     {palabra:"Momio", definicion:"Sin gordura. / Chollo. / Momía."},
     {palabra:"Fielato", definicion:"Oficio de fiel."},
     {palabra:"Sevicia", definicion:"Trato cruel. / Crueldad excesiva."},
-    {palabra:"Triunvirato", definicion:"Junta de 3 personas para cualquier empresa o asunto."}
+    {palabra:"Triunvirato", definicion:"Junta de 3 personas para cualquier empresa o asunto."},
+    {palabra:"Dicterio", definicion:"Dicho denigrativo que insulta y provoca."}
   ];
 
 }]);
