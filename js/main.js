@@ -499,7 +499,6 @@ angular.module('definicionesModule', [])
     {palabra:"Fagocitar", definicion:"Absorver o neutralizar."},
     {palabra:"Anomia / Anomía", definicion:"Estado de desorganización social o aislamiento del individuo como consecuencia de falta de congruencia de las normas sociales. / Trastorno del lenguaje, dificultad para recordar las cosas."},
     {palabra:"Distopía", definicion:"Representación de sociedad futura negativa por la alineación humana."},
-    {palabra:"Deferencia", definicion:"Muestra de respeto y cortesía."},
     {palabra:"Edicto", definicion:"Mandato. / Escrito que se fija en los lugares públicos de las ciudades y poblados, y en el cual se da noticia de algo para que sea notorio a todos"},
     {palabra:"Plañidero", definicion:"Lloroso, lastimero."},
     {palabra:"Aducir", definicion:"Esponer algo con razones y pruebas."},
