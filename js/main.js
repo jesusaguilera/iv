@@ -525,7 +525,15 @@ angular.module('definicionesModule', [])
     {palabra:"Fielato", definicion:"Oficio de fiel."},
     {palabra:"Sevicia", definicion:"Trato cruel. / Crueldad excesiva."},
     {palabra:"Triunvirato", definicion:"Junta de 3 personas para cualquier empresa o asunto."},
-    {palabra:"Dicterio", definicion:"Dicho denigrativo que insulta y provoca."}
+    {palabra:"Dicterio", definicion:"Dicho denigrativo que insulta y provoca."},
+    {palabra:"Exhabrupto", definicion:"Salida de tono."},
+    {palabra:"Pudendas", definicion:"Torpe, feo, que debe causar vergüenza. / Miembro viril."},
+    {palabra:"Fenecer", definicion:"Concluir, morir, poner fin a algo."},
+    {palabra:"Verbigracia", definicion:"ejemplo. / Por ejemplo."},
+    {palabra:"Concitar", definicion:"Provocar o causar algo con alguna reacción. / Reunir personas o cosas."},
+    {palabra:"Perorar", definicion:"Pronunciar un discuro. / Hablar en la conversación familiar como si se estuviera pronunciando un discurso."},
+    {palabra:"Vicario", definicion:"Que tiene las veces, poder y facultades de otra persona o la sustituye. / Segunda superiora en algunos conventos de monjas."},
+    {palabra:"Chocarrero", definicion:"Grosero, fullero."}
   ];
 
 }]);
