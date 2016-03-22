@@ -534,7 +534,16 @@ angular.module('definicionesModule', [])
     {palabra:"Perorar", definicion:"Pronunciar un discuro. / Hablar en la conversación familiar como si se estuviera pronunciando un discurso."},
     {palabra:"Vicario", definicion:"Que tiene las veces, poder y facultades de otra persona o la sustituye. / Segunda superiora en algunos conventos de monjas."},
     {palabra:"Chocarrero", definicion:"Grosero, fullero."},
-    {palabra:"Espetar", definicion:"Decir a alguien de palabra o por escrito algo, causándole sorpresa o molestia. / Ponerse tieso, afectando gravedad y majestad. / Encajarse, asegurarse."}
+    {palabra:"Espetar", definicion:"Decir a alguien de palabra o por escrito algo, causándole sorpresa o molestia. / Ponerse tieso, afectando gravedad y majestad. / Encajarse, asegurarse."},
+    {palabra:"Atávico", definicion:"Que es arcaico o característico del pasado."},
+    {palabra:"Colegir", definicion:"Juntar, inferir."},
+    {palabra:"Inferir", definicion:"Sacar consecuencia de una cosa."},
+    {palabra:"Sursum corda", definicion:"Arriba los corazones."},
+    {palabra:"Incidental", definicion:"Que incide. / Que tiene poca importancia respecto a otra."},
+    {palabra:"Colacionar", definicion:"Cotejar, colación."},
+    {palabra:"Cotejar", definicion:"Confrontar algo con otra u otras cosas, o compararlas teniéndolas a la vista."},
+    {palabra:"Circunciso", definicion:"Pesona circuncidada. / Moro, judio."},
+    {palabra:"Litigio", definicion:"Pleito, altercado, juicio. / Disputa, contienda."}
   ];
 
 }]);
