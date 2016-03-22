@@ -16,7 +16,7 @@ angular.module('definicionesModule', [])
     {palabra:"Melómano", definicion:"Fanático de la música."},
     {palabra:"Peyorativo", definicion:"Expresión desfavorable."},
     {palabra:"Dádiva", definicion:"Algo que se da con gratuidad."},
-    {palabra:"Epíteto", definicion:"No determina, sino que caracteriza. Ej: La blanca nieve."},
+    {palabra:"Epíteto", definicion:"Adjetivo que denota una cualidad prototípica del sustantivo al que modifica y que no ejerce función restrictiva.En la blanca nieve, blanca es un epíteto. / Palabra o sintagma fijo que tienen una función caracterizadora de personas o cosas. El rey Pedro I tuvo el epíteto de El Cruel. / Expresión calificativa usada como elogio o, más frecuentemente, como insulto. En la discusión se oyeron los más variados epítetos."},
     {palabra:"Magnanimidad", definicion:"Grandeza."},
     {palabra:"Ignominia", definicion:"Afrenta pública."},
     {palabra:"Afrenta", definicion:"Vergüenza, Deshonor."},
@@ -546,7 +546,8 @@ angular.module('definicionesModule', [])
     {palabra:"Litigio", definicion:"Pleito, altercado, juicio. / Disputa, contienda."},
     {palabra:"Genuflexión", definicion:"Acción y efecto de doblar la rodilla, bajándola hacia el suelo, ordinariamente en señal de reverencia."},
     {palabra:"Faccioso", definicion:"Inquieto, revoltoso, perturbador de la quietud pública."},
-    {palabra:"Conflagración", definicion:"Perturbación repentina y violenta de pueblos o naciones. / Incendio grande."}
+    {palabra:"Conflagración", definicion:"Perturbación repentina y violenta de pueblos o naciones. / Incendio grande."},
+    {palabra:"Agostar", definicion:"Consumir, debilitar, o destruir las cualidades físicas o morales de alguien."}
   ];
 
 }]);
