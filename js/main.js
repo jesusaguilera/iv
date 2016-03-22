@@ -543,7 +543,8 @@ angular.module('definicionesModule', [])
     {palabra:"Colacionar", definicion:"Cotejar, colación."},
     {palabra:"Cotejar", definicion:"Confrontar algo con otra u otras cosas, o compararlas teniéndolas a la vista."},
     {palabra:"Circunciso", definicion:"Pesona circuncidada. / Moro, judio."},
-    {palabra:"Litigio", definicion:"Pleito, altercado, juicio. / Disputa, contienda."}
+    {palabra:"Litigio", definicion:"Pleito, altercado, juicio. / Disputa, contienda."},
+    {palabra:"Genuflexión", definicion:"Acción y efecto de doblar la rodilla, bajándola hacia el suelo, ordinariamente en señal de reverencia."}
   ];
 
 }]);
