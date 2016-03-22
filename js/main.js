@@ -533,7 +533,8 @@ angular.module('definicionesModule', [])
     {palabra:"Concitar", definicion:"Provocar o causar algo con alguna reacción. / Reunir personas o cosas."},
     {palabra:"Perorar", definicion:"Pronunciar un discuro. / Hablar en la conversación familiar como si se estuviera pronunciando un discurso."},
     {palabra:"Vicario", definicion:"Que tiene las veces, poder y facultades de otra persona o la sustituye. / Segunda superiora en algunos conventos de monjas."},
-    {palabra:"Chocarrero", definicion:"Grosero, fullero."}
+    {palabra:"Chocarrero", definicion:"Grosero, fullero."},
+    {palabra:"Espetar", definicion:"Decir a alguien de palabra o por escrito algo, causándole sorpresa o molestia. / Ponerse tieso, afectando gravedad y majestad. / Encajarse, asegurarse."}
   ];
 
 }]);
