@@ -547,7 +547,8 @@ angular.module('definicionesModule', [])
     {palabra:"Genuflexión", definicion:"Acción y efecto de doblar la rodilla, bajándola hacia el suelo, ordinariamente en señal de reverencia."},
     {palabra:"Faccioso", definicion:"Inquieto, revoltoso, perturbador de la quietud pública."},
     {palabra:"Conflagración", definicion:"Perturbación repentina y violenta de pueblos o naciones. / Incendio grande."},
-    {palabra:"Agostar", definicion:"Consumir, debilitar, o destruir las cualidades físicas o morales de alguien."}
+    {palabra:"Agostar", definicion:"Consumir, debilitar, o destruir las cualidades físicas o morales de alguien."},
+    {palabra:"Interpelar", definicion:"Requerir, compeler, preguntar a alguien. / Implorar a alguien auxilio."},
   ];
 
 }]);
