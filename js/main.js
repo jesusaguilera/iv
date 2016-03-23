@@ -371,7 +371,7 @@ angular.module('definicionesModule', [])
     {palabra:"Arrabalero", definicion:"Grosero, tosco, cerril, ordinario."},
     {palabra:"Entelequia", definicion:"Cosa irreal. / En Aristóteles: Fín u objetivo de una actividad que la completa y la perfecciona."},
     {palabra:"Nepotismo", definicion:"Preferencia que se dan a parientes para concesiones o empleos públicos."},
-    {palabra:"Ergo", definicion:"Por tanto, luego, pues..."},
+    {palabra:"Ergo", definicion:"Latin: Por tanto, luego, pues..."},
     {palabra:"Silogismo", definicion:"Método mediante el cual se realiza un razonamiento deductivo."},
     {palabra:"Razonamiento deductivo", definicion:"El que se usa para determinar si un hecho o idea es cierto al compararlo con una idea o hecho universal."},
     {palabra:"Inferir", definicion:"Formular perdicciones o hipótesis acerca de un tema."},
@@ -392,7 +392,7 @@ angular.module('definicionesModule', [])
     {palabra:"Preconizar", definicion:"Encomiar, elogiar. / Apoyar algo, recomendar algo, proponer algo."},
     {palabra:"Boato", definicion:"Ostentación en el porte exterior."},
     {palabra:"Iracundo", definicion:"Que muestra ira."},
-    {palabra:"Mor", definicion:"Por causa de..."},
+    {palabra:"Mor", definicion:"Latin: Por causa de..."},
     {palabra:"Supino", definicion:"Dicho de algo negativo. Ej: Estupidez supina."},
     {palabra:"Horrisono", definicion:"Que su sonido causa horror y espanto."},
     {palabra:"Crátera", definicion:"En Grecia y Roma donde se mezclaba el vino con agua."},
@@ -412,7 +412,7 @@ angular.module('definicionesModule', [])
     {palabra:"Orbe", definicion:"Mundo"},
     {palabra:"Inánime", definicion:"Sin señal de vida, que no tiene alma."},
     {palabra:"Inane", definicion:"Vano, fútil, inútil."},
-    {palabra:"Per se", definicion:"De por sí..."},
+    {palabra:"Per se", definicion:"Latín: De por sí..."},
     {palabra:"Taxativo", definicion:"Que limita. Circunscribe. / Que no admite discusión."},
     {palabra:"Vegetar", definicion:"Vivir maquinalmente como una planta. / Llevar una vida tranquila, exenta de trabajo y cuidados."},
     {palabra:"Pogromo", definicion:"Masacre aceptada o promovida por el poder de judios u otros grupos étnicos."},
@@ -538,7 +538,7 @@ angular.module('definicionesModule', [])
     {palabra:"Atávico", definicion:"Que es arcaico o característico del pasado."},
     {palabra:"Colegir", definicion:"Juntar, inferir."},
     {palabra:"Inferir", definicion:"Sacar consecuencia de una cosa."},
-    {palabra:"Sursum corda", definicion:"Arriba los corazones."},
+    {palabra:"Sursum corda", definicion:"Latin: Arriba los corazones."},
     {palabra:"Incidental", definicion:"Que incide. / Que tiene poca importancia respecto a otra."},
     {palabra:"Colacionar", definicion:"Cotejar, colación."},
     {palabra:"Cotejar", definicion:"Confrontar algo con otra u otras cosas, o compararlas teniéndolas a la vista."},
@@ -549,6 +549,11 @@ angular.module('definicionesModule', [])
     {palabra:"Conflagración", definicion:"Perturbación repentina y violenta de pueblos o naciones. / Incendio grande."},
     {palabra:"Agostar", definicion:"Consumir, debilitar, o destruir las cualidades físicas o morales de alguien."},
     {palabra:"Interpelar", definicion:"Requerir, compeler, preguntar a alguien. / Implorar a alguien auxilio."},
+    {palabra:"Panem et circenses", definicion:"Latin: pan y circo."},
+    {palabra:"Meconio", definicion:"Primer excremento de los niños recién nacidos. Jugo que se saca de las cabezas de las adormideras en farmacia."},
+    {palabra:"Deglutir", definicion:"Tragar los alimentos, hacerlos pasar de la boca al estómago."},
+    {palabra:"Idus", definicion:"En el antiguo cómputo romano y en el eclesiástico, el día 15 de marzo, mayo, julio y octubre, y el 13 de los demás meses."}
+
   ];
 
 }]);
