@@ -555,7 +555,13 @@ angular.module('definicionesModule', [])
     {palabra:"Idus", definicion:"En el antiguo cómputo romano y en el eclesiástico, el día 15 de marzo, mayo, julio y octubre, y el 13 de los demás meses."},
     {palabra:"Coyunda", definicion:"Correa fuert y ancha. / Unión conyugal. / Sujección, dominio. / Látigo. / Pene."},
     {palabra:"Hespérides", definicion:"Mit. Griega: Eran mélides ( ninfas de árboles frutales ) que cuidaban un maravillosos jardín en un lejano rincón de occidentes. Estrabrón entre otros lo situan en Tartessos ( sur oeste de la península ibérica )"},
-    {palabra:"Prea", definicion:"Cosa prendida, tomada o cogida."}
+    {palabra:"Prea", definicion:"Cosa prendida, tomada o cogida."},
+    {palabra:"Aqueo", definicion:"Natural de Acaya, región griega del norte del Peloponeso, o de la Grecia antigua."},
+    {palabra:"Espolear", definicion:"Picar con la espuela al caballo. / Avivar, incitar, estimular a alguien para que haga algo."},
+    {palabra:"Prorratear", definicion:"Repartir una cantidad proporcionalmente."},
+    {palabra:"Erario", definicion:"Hacienda. / Contribuyente, tributario."},
+    {palabra:"Arrostrar", definicion:"Hacer cara, resisitir sin cobardía calamidades o peligros."},
+    {palabra:"Opulencia", definicion:"Riqueza, abundancia de bienes. / Sobreabundancia de algo."},
 
   ];
 
