@@ -552,7 +552,9 @@ angular.module('definicionesModule', [])
     {palabra:"Panem et circenses", definicion:"Latin: pan y circo."},
     {palabra:"Meconio", definicion:"Primer excremento de los niños recién nacidos. Jugo que se saca de las cabezas de las adormideras en farmacia."},
     {palabra:"Deglutir", definicion:"Tragar los alimentos, hacerlos pasar de la boca al estómago."},
-    {palabra:"Idus", definicion:"En el antiguo cómputo romano y en el eclesiástico, el día 15 de marzo, mayo, julio y octubre, y el 13 de los demás meses."}
+    {palabra:"Idus", definicion:"En el antiguo cómputo romano y en el eclesiástico, el día 15 de marzo, mayo, julio y octubre, y el 13 de los demás meses."},
+    {palabra:"Coyunda", definicion:"Correa fuert y ancha. / Unión conyugal. / Sujección, dominio. / Látigo. / Pene."},
+    {palabra:"Hespérides", definicion:"Mit. Griega: Eran mélides ( ninfas de árboles frutales ) que cuidaban un maravillosos jardín en un lejano rincón de occidentes. Estrabrón entre otros lo situan en Tartessos ( sur oeste de la península ibérica )"}
 
   ];
 
