@@ -561,7 +561,9 @@ angular.module('definicionesModule', [])
     {palabra:"Prorratear", definicion:"Repartir una cantidad proporcionalmente."},
     {palabra:"Erario", definicion:"Hacienda. / Contribuyente, tributario."},
     {palabra:"Arrostrar", definicion:"Hacer cara, resisitir sin cobardía calamidades o peligros."},
-    {palabra:"Opulencia", definicion:"Riqueza, abundancia de bienes. / Sobreabundancia de algo."}
+    {palabra:"Opulencia", definicion:"Riqueza, abundancia de bienes. / Sobreabundancia de algo."},
+    {palabra:"Ánaade", definicion:"Pato."},
+    {palabra:"Soporífero", definicion:"Que mueve al sueño."}
 
   ];
 
