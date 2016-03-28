@@ -595,7 +595,9 @@ angular.module('definicionesModule', [])
     {palabra:"Acerbo", definicion:"Áspero de sabor y olor. / Cruel muy duro."},
     {palabra:"Himeneo", definicion:"Dios del matrimonio."},
     {palabra:"Apocado", definicion:"Con timidez, humildad o vergüenza excesiva."},
-    {palabra:"Tremolar", definicion:"Ondear bandera."}
+    {palabra:"Tremolar", definicion:"Ondear bandera."},
+    {palabra:"Oblongo", definicion:"Más alto que ancho."},
+    {palabra:"Orondo", definicion:"Barrigudo, grueso, gordo, hinchando. / Dicho de una vasija de mucha concavidad."}
 
   ];
 
