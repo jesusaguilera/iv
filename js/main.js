@@ -563,7 +563,7 @@ angular.module('definicionesModule', [])
     {palabra:"Arrostrar", definicion:"Hacer cara, resisitir sin cobardía calamidades o peligros."},
     {palabra:"Opulencia", definicion:"Riqueza, abundancia de bienes. / Sobreabundancia de algo."},
     {palabra:"Ánaade", definicion:"Pato."},
-    {palabra:"Soporífero", definicion:"Que mueve al sueño."}
+    {palabra:"Soporífero", definicion:"Que mueve al sueño."},
     {palabra:"Caro a Ares", definicion:"Querido por Ares."},
     {palabra:"Blasonar ", definicion:"Hacer ostentación de algo."},
     {palabra:"Envés", definicion:"Cara opuesta de una hoja."},
