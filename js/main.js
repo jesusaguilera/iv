@@ -563,7 +563,7 @@ angular.module('definicionesModule', [])
     {palabra:"Arrostrar", definicion:"Hacer cara, resisitir sin cobardía calamidades o peligros."},
     {palabra:"Opulencia", definicion:"Riqueza, abundancia de bienes. / Sobreabundancia de algo."},
     {palabra:"Ánaade", definicion:"Pato."},
-    {palabra:"Soporífero", definicion:"Que mueve al sueño."}
+    {palabra:"Soporífero", definicion:"Que mueve al sueño."},
     {palabra:"Caro a Ares", definicion:"Querido por Ares."},
     {palabra:"Blasonar ", definicion:"Hacer ostentación de algo."},
     {palabra:"Envés", definicion:"Cara opuesta de una hoja."},
@@ -603,7 +603,6 @@ angular.module('definicionesModule', [])
     {palabra:"Refacción", definicion:"Compostura o reparación de lo estropeado. / Tentempié, restauración..."},
     {palabra:"Colegiar", definicion:"Dicho de los individuos de una misma profesión o clase: Reunirse en colegio."},
     {palabra:"Colegio", definicion:"Sociedad o reunión de personas de una misma profesión. Ej: colegio de abogados, de médicos..."}
-
 
   ];
 
