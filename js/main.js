@@ -238,7 +238,7 @@ angular.module('definicionesModule', [])
     {palabra:"Paroxismo", definicion:"Exaltación extrema de los afectos y pasiones."},
     {palabra:"Adlátere", definicion:"Persona subordinada a otra."},
     {palabra:"Dimanar", definicion:"Manar. / Proceder. provenir y tener origen una cosa de otra."},
-    {palabra:"Aveznar", definicion:"Acostumbrar."},
+    {palabra:"Avezar", definicion:"Acostumbrar."},
     {palabra:"Polímata", definicion:"Persona que sabe de muchos campos. ( Da Vinci, Aristóteles, etc )"},
     {palabra:"Ucronía", definicion:"Genereo literario que da por supuesto acontecimientos no sucedidos. ( Republicanos ganaron, Dinosaurios no se extinguieron, etc. )"},
     {palabra:"Perentoria", definicion:"Último plazo que se concede de un asunto. / Concluyente, determinante. / Urgente"},
