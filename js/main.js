@@ -600,7 +600,9 @@ angular.module('definicionesModule', [])
     {palabra:"Orondo", definicion:"Barrigudo, grueso, gordo, hinchando. / Dicho de una vasija de mucha concavidad."},
     {palabra:"Cotejar", definicion:"Comparar una cosa con otra."},
     {palabra:"Colación", definicion:"Cotejo que se hace de una cosa con otra. / Conferencia o conversación que tenían los antiguos monjes sobre cosas espirituales."},
-    {palabra:"Refacción", definicion:"Compostura o reparación de lo estropeado. / Tentempié, restauración..."}
+    {palabra:"Refacción", definicion:"Compostura o reparación de lo estropeado. / Tentempié, restauración..."},
+    {palabra:"Colegiar", definicion:"Dicho de los individuos de una misma profesión o clase: Reunirse en colegio."},
+    {palabra:"Colegio", definicion:"Sociedad o reunión de personas de una misma profesión. Ej: colegio de abogados, de médicos..."}
 
 
   ];
