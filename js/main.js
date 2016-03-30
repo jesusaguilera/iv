@@ -71,7 +71,7 @@ angular.module('definicionesModule', [])
     {palabra:"Empirismo", definicion:"Basado en la experiencia."},
     {palabra:"Concupiscencia", definicion:"Deseo de bienes y placeres deshonestos."},
     {palabra:"Ponderar", definicion:"Encarecer"},
-    {palabra:"Facción", definicion:"Acción de guerra. / Gente amotinada."},
+    {palabra:"Facción", definicion:"Grupo de personas unidas por ideas o intereses comunes dentro de una agrupación o colectividad. / Acción de guerra. / Gente amotinada."},
     {palabra:"Otrora", definicion:"En otro tiempo, en un tiempo pasado."},
     {palabra:"Nefando", definicion:"Indigno, torpe."},
     {palabra:"Fáctico", definicion:"Basado en hechos."},
