@@ -604,7 +604,8 @@ angular.module('definicionesModule', [])
     {palabra:"Colegiar", definicion:"Dicho de los individuos de una misma profesión o clase: Reunirse en colegio."},
     {palabra:"Colegio", definicion:"Sociedad o reunión de personas de una misma profesión. Ej: colegio de abogados, de médicos..."},
     {palabra:"Talasocracia", definicion:"Dominio de los mares, es un concepto geoestratégico que señala al estado cuyos dominios son principalmente marítimos."},
-    {palabra:"Inerme", definicion:"Que está desprovisto de medios o armas para defenderse."}
+    {palabra:"Inerme", definicion:"Que está desprovisto de medios o armas para defenderse."},
+    {palabra:"Sofisma", definicion:"Razón o argumento falso con apariencia de verdad."},
 
 
   ];
