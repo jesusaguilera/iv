@@ -253,7 +253,7 @@ angular.module('definicionesModule', [])
     {palabra:"Elidir", definicion:"Frustar, debilitar, desvanecer."},
     {palabra:"Elocuencia", definicion:"Facultad de hablar o escribir para deleitar y conmover."},
     {palabra:"Omnímodo", definicion:"Que lo abraza y lo comprende todo."},
-    {palabra:"Cisma", definicion:"Escisión, discordia, desaveniencia."},
+    {palabra:"Cisma", definicion:"División, separación, escisión, discordia, desaveniencia."},
     {palabra:"Prosapia", definicion:"Ascendencia, linaje o generación de una persona."},
     {palabra:"Alcurnia", definicion:"Ascendenci o linaje sobre todo si es noble y antiguo."},
     {palabra:"Desafuero", definicion:"Acto violento contra la ley. / Acción contraria a las buenas costumbres o a la razón. / Privar de fuero a quien lo tenía."},
@@ -602,7 +602,9 @@ angular.module('definicionesModule', [])
     {palabra:"Colación", definicion:"Cotejo que se hace de una cosa con otra. / Conferencia o conversación que tenían los antiguos monjes sobre cosas espirituales."},
     {palabra:"Refacción", definicion:"Compostura o reparación de lo estropeado. / Tentempié, restauración..."},
     {palabra:"Colegiar", definicion:"Dicho de los individuos de una misma profesión o clase: Reunirse en colegio."},
-    {palabra:"Colegio", definicion:"Sociedad o reunión de personas de una misma profesión. Ej: colegio de abogados, de médicos..."}
+    {palabra:"Colegio", definicion:"Sociedad o reunión de personas de una misma profesión. Ej: colegio de abogados, de médicos..."},
+    {palabra:"Talasocracia", definicion:"Dominio de los mares, es un concepto geoestratégico que señala al estado cuyos dominios son principalmente marítimos."},
+    {palabra:"Inerme", definicion:"Que está desprovisto de medios o armas para defenderse."}
 
 
   ];
