@@ -16,7 +16,6 @@
     <body>
 
       <div ng-app="definicionesModule" ng-strict-di>
-        <h1 class="title">Mejorar Vocabulario</h1>
         <div ng-controller="definicionesController">
           <ul ng-repeat="definicion in definiciones" class="definition-list">
             <li class="definition-container" ng-click="showWord=true"> <p><span class="definition">{{definicion.definicion}}</span> <strong class="word" ng-show="showWord">{{definicion.palabra}}</strong></p> </li>
