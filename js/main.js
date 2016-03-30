@@ -41,7 +41,7 @@ angular.module('definicionesModule', [])
     {palabra:"Onanimso", definicion:"Masturbación."},
     {palabra:"Fruslería", definicion:"De poco valor."},
     {palabra:"Circunspecto", definicion:"Prudente, decoroso"},
-    {palabra:"Enjundia", definicion:"Valor, fuerza."},
+    {palabra:"Enjundia", definicion:"Parte más sustanciosa e importante de algo no material. / Valor, fuerza."},
     {palabra:"Vacuo", definicion:"Vacío, Falto de contenido."},
     {palabra:"Pleonasmo", definicion:"Redundancia de palabras."},
     {palabra:"Incólume", definicion:"Sano, sin lesión."},
@@ -608,7 +608,14 @@ angular.module('definicionesModule', [])
     {palabra:"Sofisma", definicion:"Razón o argumento falso con apariencia de verdad."},
     {palabra:"Dote", definicion:"Conjunto de bienes y derechos aportados por la mujer al matrimonio, que tiene como finalidad atender al levantamiento de las cargas comunes y que le deberá ser devuelto una vez disuelto aquel"},
     {palabra:"Prebenda", definicion:"Oficio, empleo o ministerio lucrativo y poco trabajoso."},
-    {palabra:"Omnívoro", definicion:"Dicho de un animal: Que se alimenta de toda clase de sustancias orgánicas."}
+    {palabra:"Omnívoro", definicion:"Dicho de un animal: Que se alimenta de toda clase de sustancias orgánicas."},
+    {palabra:"Pusilánime", definicion:"Falto de valor y ánimo para tomar decisiones o afrontar situaciones comprometidas."},
+    {palabra:"Verspertino", definicion:"Perteneciente o relativo a la tarde."},
+    {palabra:"Fiduciario", definicion:"Dicho de un negocio o de un contrato: Basado principalmente en la confianza entre las partes. / Persona que actúa en interés de otra sin hacerlo público."},
+    {palabra:"Auscultar", definicion:"Aplicar el oído a la pared torácica o abdominal, con instrumentos adecuados. / Sondear el pensamiento de otras personas, el estado de un negocio, la disposición ajena ante un asunto."},
+    {palabra:"Delicuescente", definicion:"Evanescente, sin vigor, decadente."},
+    {palabra:"Apiolar", definicion:"Atar los pies de un animal muerto en la caza. / Prender. / Matar a alguien."},
+    {palabra:"Claudicar", definicion:"Acabar por ceder a presión o tentación."}
 
   ];
 
