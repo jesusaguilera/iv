@@ -607,8 +607,8 @@ angular.module('definicionesModule', [])
     {palabra:"Inerme", definicion:"Que está desprovisto de medios o armas para defenderse."},
     {palabra:"Sofisma", definicion:"Razón o argumento falso con apariencia de verdad."},
     {palabra:"Dote", definicion:"Conjunto de bienes y derechos aportados por la mujer al matrimonio, que tiene como finalidad atender al levantamiento de las cargas comunes y que le deberá ser devuelto una vez disuelto aquel"},
-    {palabra:"Prebenda", definicion:"Oficio, empleo o ministerio lucrativo y poco trabajoso."}
-
+    {palabra:"Prebenda", definicion:"Oficio, empleo o ministerio lucrativo y poco trabajoso."},
+    {palabra:"Omnívoro", definicion:"Dicho de un animal: Que se alimenta de toda clase de sustancias orgánicas."}
 
   ];
 
