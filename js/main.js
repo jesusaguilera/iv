@@ -615,6 +615,7 @@ angular.module('definicionesModule', [])
     {palabra:"Auscultar", definicion:"Aplicar el oído a la pared torácica o abdominal, con instrumentos adecuados. / Sondear el pensamiento de otras personas, el estado de un negocio, la disposición ajena ante un asunto."},
     {palabra:"Delicuescente", definicion:"Evanescente, sin vigor, decadente."},
     {palabra:"Apiolar", definicion:"Atar los pies de un animal muerto en la caza. / Prender. / Matar a alguien."},
+    {palabra:"Claudicar", definicion:"Acabar por ceder a presión o tentación."}
 
   ];
 
