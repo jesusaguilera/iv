@@ -615,7 +615,10 @@ angular.module('definicionesModule', [])
     {palabra:"Auscultar", definicion:"Aplicar el oído a la pared torácica o abdominal, con instrumentos adecuados. / Sondear el pensamiento de otras personas, el estado de un negocio, la disposición ajena ante un asunto."},
     {palabra:"Delicuescente", definicion:"Evanescente, sin vigor, decadente."},
     {palabra:"Apiolar", definicion:"Atar los pies de un animal muerto en la caza. / Prender. / Matar a alguien."},
-    {palabra:"Claudicar", definicion:"Acabar por ceder a presión o tentación."}
+    {palabra:"Claudicar", definicion:"Acabar por ceder a presión o tentación."},
+    {palabra:"Hemiplejía", definicion:"Parálisis de todo el lado de un cuerpo."},
+    {palabra:"Semial", definicion:"Perteneciente o relativo al semen. / Perteneciente o relativo a la semilla. / Fecundo (fértil)."},
+    {palabra:"Constructo", definicion:"Construcción teórica para entender un problema determinado."}
 
   ];
 
