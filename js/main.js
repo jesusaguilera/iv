@@ -625,7 +625,8 @@ angular.module('definicionesModule', [])
     {palabra:"Concomitante", definicion:"Que aparece o actúa conjuntamente con otra cosa."},
     {palabra:"Subvenir", definicion:"Acudir al auxilio de una persona o casa. / Pagar el total de los gastos que ocasione cierta cosa."},
     {palabra:"Exonerar", definicion:"Aliviar de una carga u obligación."},
-    {palabra:"Coercitivo", definicion:"Que sirve para forzar la voluntad o la conducta de alguien. / Represivo, inhibitorio."}
+    {palabra:"Coercitivo", definicion:"Que sirve para forzar la voluntad o la conducta de alguien. / Represivo, inhibitorio."},
+    {palabra:"Diaconía", definicion:"Distrito y término en que antiguamente estaban divididas las iglesias para el socorro de los pobres, al cuidado de un diácono."}
   ];
 
 }]);
