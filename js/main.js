@@ -624,7 +624,8 @@ angular.module('definicionesModule', [])
     {palabra:"Conmensurar", definicion:"Medir con igual o debida proporción distintas cosas."},
     {palabra:"Concomitante", definicion:"Que aparece o actúa conjuntamente con otra cosa."},
     {palabra:"Subvenir", definicion:"Acudir al auxilio de una persona o casa. / Pagar el total de los gastos que ocasione cierta cosa."},
-    {palabra:"Exonerar", definicion:"Aliviar de una carga u obligación."}
+    {palabra:"Exonerar", definicion:"Aliviar de una carga u obligación."},
+    {palabra:"Coercitivo", definicion:"Que sirve para forzar la voluntad o la conducta de alguien. / Represivo, inhibitorio."}
   ];
 
 }]);
