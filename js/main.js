@@ -627,7 +627,11 @@ angular.module('definicionesModule', [])
     {palabra:"Exonerar", definicion:"Aliviar de una carga u obligación."},
     {palabra:"Coercitivo", definicion:"Que sirve para forzar la voluntad o la conducta de alguien. / Represivo, inhibitorio."},
     {palabra:"Diaconía", definicion:"Distrito y término en que antiguamente estaban divididas las iglesias para el socorro de los pobres, al cuidado de un diácono."},
-    {palabra:"Edicto", definicion:"Mandato, decreto publicado con autoridad del príncipe o del magistrado."}
+    {palabra:"Edicto", definicion:"Mandato, decreto publicado con autoridad del príncipe o del magistrado."},
+    {palabra:"Doxografía", definicion:"rama de la literatura que comprende aquellas obras dedicadas a recoger los puntos de vista de filósofos y científicos del pasado sobre filosofía, ciencia y otras materias."},
+    {palabra:"Doxa", definicion:"Concepto utilizado por Parménides. Según Platón se trata de un conocimiento fenoménico y en consecuencia engañoso. Conocimiento sensible, de opinión. Platón lo confrontaba al conocimiento científico ( Episteme )."},
+    {palabra:"Pistis", definicion:"Era la personificación de la buena fe, la confianza y fiabilidad."},
+    {palabra:"Fenómeno", definicion:"Lo que se puede percibir con los sentidos. Es el aspecto que las cosas ofrecen ante nuestros sentidos; es decir, el primer contacto que tenemos con las cosas, lo que denominamos experiencia"}
   ];
 
 }]);
