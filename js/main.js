@@ -636,7 +636,12 @@ angular.module('definicionesModule', [])
     {palabra:"Extravagante", definicion:"Que se hace o dice fuera del orden o común modo de obrar. / Raro, extraño, desacostumbrado, excesivamente peculiar u original."},
     {palabra:"Diezmo", definicion:"Derecho del 10 % del valor de ciertas mercaderías, especialmente el que se pagaba al rey."},
     {palabra:"Abad", definicion:"Superior de un monasterio perteneciente a determinadas órdenes religiosas cristianas con el título de abadía."},
-    {palabra:"Flatus vocis", definicion:"Un nombre, palabra o sonido sin mera correspondencia objetiva con el mundo real. Sin valor, algo insignificante y carente de sentido."}
+    {palabra:"Flatus vocis", definicion:"Un nombre, palabra o sonido sin mera correspondencia objetiva con el mundo real. Sin valor, algo insignificante y carente de sentido."},
+    {palabra:"Jerigonza", definicion:"Lenguaje especial de algunos gremios. / Lenguaje de mal gusto, complicado y difícil de entender. / Acción extraña y ridícula."},
+    {palabra:"Sistémico", definicion:"Perteneciente o relativo a la totalidad de un sistema; general, por oposición a local. / Perteneciente o relativo a un organismo en su conjunto."},
+    {palabra:"Corifeo", definicion:"Persona que es seguida por otras en una opinión, una ideología o un partido."},
+    {palabra:"Cainita", definicion:"Perteneciente o relativo a Caín. / Dicho de un sentimiento o de una actitud de rechazo: Que se dirige contra familiares o amigos."},
+    {palabra:"Fratricida", definicion:"Persona que mata a su hermano."}
   ];
 
 }]);
