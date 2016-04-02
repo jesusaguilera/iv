@@ -632,7 +632,8 @@ angular.module('definicionesModule', [])
     {palabra:"Doxa", definicion:"Concepto utilizado por Parménides. Según Platón se trata de un conocimiento fenoménico y en consecuencia engañoso. Conocimiento sensible, de opinión. Platón lo confrontaba al conocimiento científico ( Episteme )."},
     {palabra:"Pistis", definicion:"Era la personificación de la buena fe, la confianza y fiabilidad."},
     {palabra:"Fenómeno", definicion:"Lo que se puede percibir con los sentidos. Es el aspecto que las cosas ofrecen ante nuestros sentidos; es decir, el primer contacto que tenemos con las cosas, lo que denominamos experiencia"},
-    {palabra:"Hombre de Estado", definicion:"El de actitud reconocida para dirigir acertadamente los negocios políticos de una nación."}
+    {palabra:"Hombre de Estado", definicion:"El de actitud reconocida para dirigir acertadamente los negocios políticos de una nación."},
+    {palabra:"Extravagante", definicion:"Que se hace o dice fuera del orden o común modo de obrar. / Raro, extraño, desacostumbrado, excesivamente peculiar u original."}
   ];
 
 }]);
