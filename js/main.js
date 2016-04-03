@@ -646,7 +646,10 @@ angular.module('definicionesModule', [])
     {palabra:"Inicuo", definicion:"Que no tiene equidad, que no es justo. / Que es malvado."},
     {palabra:"Iniquidad", definicion:"Injusticia o gran maldad en el modo de obrar."},
     {palabra:"Celada", definicion:"Pieza de la armadura para cubrir y proteger la cabeza."},
-    {palabra:"Ladino", definicion:"Que actúa con astucia y disimulo para conseguir lo que se propone."}
+    {palabra:"Ladino", definicion:"Que actúa con astucia y disimulo para conseguir lo que se propone."},
+    {palabra:"Sustancial", definicion:"Relativo a la sustancia de un asunto. / Lo importante o esencial."},
+    {palabra:"Atómico", definicion:"Relativo al átomo, parte indivisible."},
+    {palabra:"Insustancial", definicion:"Carente de sustancia o interés, o muy escaso de ellos."}
   ];
 
 }]);
