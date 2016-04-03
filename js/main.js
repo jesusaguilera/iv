@@ -641,7 +641,12 @@ angular.module('definicionesModule', [])
     {palabra:"Sistémico", definicion:"Perteneciente o relativo a la totalidad de un sistema; general, por oposición a local. / Perteneciente o relativo a un organismo en su conjunto."},
     {palabra:"Corifeo", definicion:"Persona que es seguida por otras en una opinión, una ideología o un partido."},
     {palabra:"Cainita", definicion:"Perteneciente o relativo a Caín. / Dicho de un sentimiento o de una actitud de rechazo: Que se dirige contra familiares o amigos."},
-    {palabra:"Fratricida", definicion:"Persona que mata a su hermano."}
+    {palabra:"Fratricida", definicion:"Persona que mata a su hermano."},
+    {palabra:"Demiurgo", definicion:"Artífice o alma universal que es principio ordenador de los elementos preexistentes."},
+    {palabra:"Inicuo", definicion:"Que no tiene equidad, que no es justo. / Que es malvado."},
+    {palabra:"Iniquidad", definicion:"Injusticia o gran maldad en el modo de obrar."},
+    {palabra:"Celada", definicion:"Pieza de la armadura para cubrir y proteger la cabeza."},
+    {palabra:"Ladino", definicion:"Que actúa con astucia y disimulo para conseguir lo que se propone."}
   ];
 
 }]);
