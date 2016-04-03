@@ -649,7 +649,8 @@ angular.module('definicionesModule', [])
     {palabra:"Ladino", definicion:"Que actúa con astucia y disimulo para conseguir lo que se propone."},
     {palabra:"Sustancial", definicion:"Relativo a la sustancia de un asunto. / Lo importante o esencial."},
     {palabra:"Atómico", definicion:"Relativo al átomo, parte indivisible."},
-    {palabra:"Insustancial", definicion:"Carente de sustancia o interés, o muy escaso de ellos."}
+    {palabra:"Insustancial", definicion:"Carente de sustancia o interés, o muy escaso de ellos."},
+    {palabra:"Nuclear", definicion:"Pertenciente al núcleo, parte central de algo."},
   ];
 
 }]);
