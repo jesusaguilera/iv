@@ -624,7 +624,7 @@ angular.module('definicionesModule', [])
     {palabra:"Conmensurar", definicion:"Medir con igual o debida proporción distintas cosas."},
     {palabra:"Concomitante", definicion:"Que aparece o actúa conjuntamente con otra cosa."},
     {palabra:"Subvenir", definicion:"Acudir al auxilio de una persona o casa. / Pagar el total de los gastos que ocasione cierta cosa."},
-    {palabra:"Exonerar", definicion:"Aliviar de una carga u obligación."},
+    {palabra:"Exonerar", definicion:"Aliviar de una carga u obligación. / Separar, privar o destituir a alguien de un empleo."},
     {palabra:"Coercitivo", definicion:"Que sirve para forzar la voluntad o la conducta de alguien. / Represivo, inhibitorio."},
     {palabra:"Diaconía", definicion:"Distrito y término en que antiguamente estaban divididas las iglesias para el socorro de los pobres, al cuidado de un diácono."},
     {palabra:"Edicto", definicion:"Mandato, decreto publicado con autoridad del príncipe o del magistrado."},
@@ -651,6 +651,10 @@ angular.module('definicionesModule', [])
     {palabra:"Atómico", definicion:"Relativo al átomo, parte indivisible."},
     {palabra:"Insustancial", definicion:"Carente de sustancia o interés, o muy escaso de ellos."},
     {palabra:"Nuclear", definicion:"Pertenciente al núcleo, parte central de algo."},
+    {palabra:"Revocar", definicion:"Dejar sin efecto una concesión, un mandato o una resolución. / Apartar, retraer, disuadir a alguien de un designio."},
+    {palabra:"Semítico", definicion:"Relativo a los pueblos que se establecieron en Mesopotamia y el Próximo Oriente con anterioridad al primer milenio antes de Cristo y que tenían lenguas con un origen común."},
+    {palabra:"Capelo", definicion:"Dignidad del cardenal."},
+    {palabra:"Atopia", definicion:"Reacción anormal de hipersensibilidad frente a diversos alérgenos."},
   ];
 
 }]);
