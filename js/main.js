@@ -659,6 +659,7 @@ angular.module('definicionesModule', [])
     {palabra:"Mónada", definicion:"Cada una de las sustancias indivisibles, pero de naturaleza distinta, que componen el universo."},
     {palabra:"Hermenéutica", definicion:"Técnica o método de interpretación de textos."},
     {palabra:"Impudicia", definicion:"Falta de recato y pudor."},
+    {palabra:"Introspección", definicion:"Mirada interior que se dirige a los propios actos o estados de ánimo."},
   ];
 
 }]);
