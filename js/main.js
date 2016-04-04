@@ -655,6 +655,9 @@ angular.module('definicionesModule', [])
     {palabra:"Semítico", definicion:"Relativo a los pueblos que se establecieron en Mesopotamia y el Próximo Oriente con anterioridad al primer milenio antes de Cristo y que tenían lenguas con un origen común."},
     {palabra:"Capelo", definicion:"Dignidad del cardenal."},
     {palabra:"Atopia", definicion:"Reacción anormal de hipersensibilidad frente a diversos alérgenos."},
+    {palabra:"Sui generis", definicion:"De su propio género o especie."},
+    {palabra:"Mónada", definicion:"Cada una de las sustancias indivisibles, pero de naturaleza distinta, que componen el universo."},
+    {palabra:"Hermenéutica", definicion:"Técnica o método de interpretación de textos."},
   ];
 
 }]);
