@@ -658,6 +658,7 @@ angular.module('definicionesModule', [])
     {palabra:"Sui generis", definicion:"De su propio género o especie."},
     {palabra:"Mónada", definicion:"Cada una de las sustancias indivisibles, pero de naturaleza distinta, que componen el universo."},
     {palabra:"Hermenéutica", definicion:"Técnica o método de interpretación de textos."},
+    {palabra:"Impudicia", definicion:"Falta de recato y pudor."},
   ];
 
 }]);
