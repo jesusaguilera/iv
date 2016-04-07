@@ -673,7 +673,8 @@ angular.module('definicionesModule', [])
     {palabra:"Mancomunar", definicion:"Unir personas, fuerzas o caudales para un fin. / Unirse, asociarse, obligarse de mancomún."},
     {palabra:"Propalar", definicion:"Divulgar algo oculto."},
     {palabra:"Homeo-", definicion:"Significa 'semejante', 'parecido'."},
-    {palabra:"-patia", definicion:" Significa 'sentimiento', 'afección' o 'dolencia'. Homeopatía, telepatía."},
+    {palabra:"-patia", definicion:"Significa 'sentimiento', 'afección' o 'dolencia'. Homeopatía, telepatía."},
+    {palabra:"Visibilizar", definicion:"Hacer visible artificialmente lo que no puede verse a simple vista, como con los rayos X los cuerpos ocultos, o con el microscopio los microbios."},
   ];
 
 }]);
