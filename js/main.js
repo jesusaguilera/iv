@@ -675,6 +675,13 @@ angular.module('definicionesModule', [])
     {palabra:"Homeo-", definicion:"Significa 'semejante', 'parecido'."},
     {palabra:"-patia", definicion:"Significa 'sentimiento', 'afección' o 'dolencia'. Homeopatía, telepatía."},
     {palabra:"Visibilizar", definicion:"Hacer visible artificialmente lo que no puede verse a simple vista, como con los rayos X los cuerpos ocultos, o con el microscopio los microbios."},
+    {palabra:"Meta-", definicion:"Significa 'junto a', 'después de', 'entre', 'con' o 'acerca de'."},
+    {palabra:"Cuasi", definicion:"Casi."},
+    {palabra:"Demudar", definicion:"Alterar repentiamente una cosa, especialmente el color o la expresión de la cara de una persona."},
+    {palabra:"Dirimir", definicion:"Resolver o solucionar un desacuerdo o una discusión. / Deshacer la unidad de un grupo."},
+    {palabra:"Proto-", definicion:"Indica prioridad, preeminencia o superioridad."},
+    {palabra:"Gnoseología", definicion:"Teoría del conocimiento. / Epistemología."},
+    {palabra:"Determinar", definicion:"Decidir algo, despejar la incertidumbre sobre ello. / Establecer o fijar algo. / Señalar o indicar algo con claridad o exactitud."},
   ];
 
 }]);
