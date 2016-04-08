@@ -686,6 +686,7 @@ angular.module('definicionesModule', [])
     {palabra:"Acémila", definicion:"Mula o macho de carga. / Asno, persona ruda."},
     {palabra:"Pico-", definicion:"Significa 'una billonésima (10−12) parte'."},
     {palabra:"Choteo", definicion:"Burla, pitorreo."},
+    {palabra:"Desbrozar", definicion:"Quitar la broza, desembarazar, limpiar. / Eliminar los aspectos accesorios o confusos que complican un asunto innecesariamente y entorpecen su comprensión."},
   ];
 
 }]);
