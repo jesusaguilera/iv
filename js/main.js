@@ -683,6 +683,9 @@ angular.module('definicionesModule', [])
     {palabra:"Proto-", definicion:"Indica prioridad, preeminencia o superioridad."},
     {palabra:"Gnoseología", definicion:"Teoría del conocimiento. / Epistemología."},
     {palabra:"Determinar", definicion:"Decidir algo, despejar la incertidumbre sobre ello. / Establecer o fijar algo. / Señalar o indicar algo con claridad o exactitud."},
+    {palabra:"Acémila", definicion:"Mula o macho de carga. / Asno, persona ruda."},
+    {palabra:"Pico-", definicion:"Significa 'una billonésima (10−12) parte'."},
+    {palabra:"Choteo", definicion:"Burla, pitorreo."},
   ];
 
 }]);
