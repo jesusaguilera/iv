@@ -536,7 +536,7 @@ angular.module('definicionesModule', [])
     {palabra:"Chocarrero", definicion:"Grosero, fullero."},
     {palabra:"Espetar", definicion:"Decir a alguien de palabra o por escrito algo, causándole sorpresa o molestia. / Ponerse tieso, afectando gravedad y majestad. / Encajarse, asegurarse."},
     {palabra:"Atávico", definicion:"Que es arcaico o característico del pasado."},
-    {palabra:"Colegir", definicion:"Juntar, inferir."},
+    {palabra:"Colegir", definicion:"Juntar, inferir, sacar una consecuencia de otra cosa."},
     {palabra:"Inferir", definicion:"Sacar consecuencia de una cosa."},
     {palabra:"Sursum corda", definicion:"Latin: Arriba los corazones."},
     {palabra:"Incidental", definicion:"Que incide. / Que tiene poca importancia respecto a otra."},
@@ -686,6 +686,21 @@ angular.module('definicionesModule', [])
     {palabra:"Acémila", definicion:"Mula o macho de carga. / Asno, persona ruda."},
     {palabra:"Pico-", definicion:"Significa 'una billonésima (10−12) parte'."},
     {palabra:"Choteo", definicion:"Burla, pitorreo."},
+    {palabra:"Desbrozar", definicion:"Quitar la broza, desembarazar, limpiar. / Eliminar los aspectos accesorios o confusos que complican un asunto innecesariamente y entorpecen su comprensión."},
+    {palabra:"Iso-", definicion:"Significa 'igual'"},
+    {palabra:"Isomorfo", definicion:"Dicho de dos o más cuerpos: Que, con diferente composición química, presentan igual estructura cristalina y pueden cristalizar asociados;"},
+    {palabra:"Palíndromo", definicion:"Palabra o frase cuyas letras están dispuestas de tal manera que resulta la misma leída de izquierda a derecha que de derecha a izquierda; p. ej., anilina; dábale arroz a la zorra el abad."},
+    {palabra:"Engranar", definicion:"Enlazar, trabar. / Dicho de dos ruedas dentadas: Encajar entre sí."},
+    {palabra:"Sojuzgar", definicion:"Sujetar o dominar con violencia algo o a alguien."},
+    {palabra:"Sibila", definicion:"Mujer sabia a quien los antiguos atribuyeron espíritu profético."},
+    {palabra:"Bóvido", definicion:"Dicho de un mamífero: Del grupo de los rumiantes, carente de incisivos en la mandíbula superior y con ocho en la inferior, y con cuernos óseos no caedizos cubiertos por estuche córneo tanto en el macho como en la hembra"},
+    {palabra:"Procaz", definicion:"Atrevido, desvergonzado."},
+    {palabra:"Chamagoso", definicion:"Que no está limpio."},
+    {palabra:"Poluto", definicion:"Sucio."},
+    {palabra:"Taxonomía", definicion:"Ciencia que trata de los principios, métodos y fines de la clasificación. Se aplica en particular, dentro de la biología, para la ordenación jerarquizada y sistemática, con sus nombres, de los grupos de animales y de vegetales. / Clasificación."},
+    {palabra:"Esquilmar", definicion:"Coger el fruto de las haciendas, heredades y ganados. / Dicho de una planta: Chupar con exceso el jugo de la tierra. / Menoscabar, agotar una fuente de riqueza sacando de ella mayor provecho que el debido."},
+    {palabra:"Parvo", definicion:"Pequeño en tamaño, importancia o cantidad."},
+  ];
   ];
 
 }]);
