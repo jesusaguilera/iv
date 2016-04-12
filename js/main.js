@@ -700,7 +700,9 @@ angular.module('definicionesModule', [])
     {palabra:"Taxonomía", definicion:"Ciencia que trata de los principios, métodos y fines de la clasificación. Se aplica en particular, dentro de la biología, para la ordenación jerarquizada y sistemática, con sus nombres, de los grupos de animales y de vegetales. / Clasificación."},
     {palabra:"Esquilmar", definicion:"Coger el fruto de las haciendas, heredades y ganados. / Dicho de una planta: Chupar con exceso el jugo de la tierra. / Menoscabar, agotar una fuente de riqueza sacando de ella mayor provecho que el debido."},
     {palabra:"Parvo", definicion:"Pequeño en tamaño, importancia o cantidad."},
-  ];
+    {palabra:"Adolecer", definicion:"Causar dolencia o enfermedad. / Caer enfermo o padecer alguna enfermedad habitual. / Tener o padecer algún defecto. / Compadecerse"},
+    {palabra:"Ermita", definicion:"Causar dolencia o enfermedad. / Caer enfermo o padecer alguna enfermedad habitual. / Tener o padecer algún defecto. / Compadecerse"},
+    {palabra:"Disforme", definicion:"Feo, horroroso, monstruoso. / Deforme."},
   ];
 
 }]);
