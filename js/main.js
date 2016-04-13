@@ -706,6 +706,7 @@ angular.module('definicionesModule', [])
     {palabra:"Calígine", definicion:"Niebla, oscuridad, tenebrosidad."},
     {palabra:"Decaedro", definicion:"Sólido que tiene 10 caras."},
     {palabra:"Trapaza", definicion:"Artificio engañoso e ilícito con que se perjudica y defrauda a alguien en alguna compra, venta o cambio. / Fraude, engaño."},
+    {palabra:"Demoscopia", definicion:"Estudio de las opiniones, aficiones y comportamiento humanos mediante sondeos de opinión."},
   ];
 
 }]);
