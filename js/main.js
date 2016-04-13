@@ -703,6 +703,9 @@ angular.module('definicionesModule', [])
     {palabra:"Adolecer", definicion:"Causar dolencia o enfermedad. / Caer enfermo o padecer alguna enfermedad habitual. / Tener o padecer algún defecto. / Compadecerse"},
     {palabra:"Ermita", definicion:"Causar dolencia o enfermedad. / Caer enfermo o padecer alguna enfermedad habitual. / Tener o padecer algún defecto. / Compadecerse"},
     {palabra:"Disforme", definicion:"Feo, horroroso, monstruoso. / Deforme."},
+    {palabra:"Calígine", definicion:"Niebla, oscuridad, tenebrosidad."},
+    {palabra:"Decaedro", definicion:"Sólido que tiene 10 caras."},
+    {palabra:"Trapaza", definicion:"Artificio engañoso e ilícito con que se perjudica y defrauda a alguien en alguna compra, venta o cambio. / Fraude, engaño."},
   ];
 
 }]);
