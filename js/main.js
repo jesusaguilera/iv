@@ -720,6 +720,10 @@ angular.module('definicionesModule', [])
     {palabra:"Conceptuar", definicion:"Formar concepto de algo o alguien."},
     {palabra:"Proselitistas", definicion:"Celoso de ganar prosélitos."},
     {palabra:"Prosélito", definicion:"Persona incorporada a una religión. / Partidario que se gana para una facción, parcialidad o doctrina."},
+    {palabra:"Inquinar", definicion:"Manchar, contagiar."},
+    {palabra:"Arribista", definicion:"Persona que progresa en la vida por medios rápidos y sin escrúpulos."},
+    {palabra:"Redrar", definicion:"Arredrar (separar, apartar)"},
+    {palabra:"Arredrar", definicion:"Retraer, hacer volver atrás, por el peligro que ofrece o el temor que infunde la ejecución de algo. / Amedrentar, atemorizar."},
   ];
 
 }]);
