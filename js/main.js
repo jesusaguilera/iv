@@ -725,6 +725,7 @@ angular.module('definicionesModule', [])
     {palabra:"Redrar", definicion:"Arredrar (separar, apartar)"},
     {palabra:"Arredrar", definicion:"Retraer, hacer volver atrás, por el peligro que ofrece o el temor que infunde la ejecución de algo. / Amedrentar, atemorizar."},
     {palabra:"Indiano", definicion:"Alguien que llega rico de América."},
+    {palabra:"Inequidad", definicion:"Desigualdad o falta de equidad."},
   ];
 
 }]);
