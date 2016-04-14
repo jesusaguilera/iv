@@ -714,6 +714,12 @@ angular.module('definicionesModule', [])
     {palabra:"Mesocracia", definicion:"Sistema social en que la clase media es preponderante. / Clase media."},
     {palabra:"Ubérrimo", definicion:"Muy fértil"},
     {palabra:"Naftalina", definicion:"Naftaleno utilizado contra la polilla y como desinfectante."},
+    {palabra:"Sinecdóque", definicion:"Designación de una cosa con el nombre de otra, de manera similar a la metonimia, aplicando a un todo el nombre de una de sus partes, o viceversa, a un género el de una especie, o al contrario, a una cosa el de la materia de que está formada, etc., como en cien cabezas por cien reses, en los mortales por los seres humanos, en el acero por la espada, etc."},
+    {palabra:"Genericidad", definicion:"Cualidad de genérico."},
+    {palabra:"Intensión", definicion:"Compresión. / Intensidad."},
+    {palabra:"Conceptuar", definicion:"Formar concepto de algo o alguien."},
+    {palabra:"Proselitistas", definicion:"Celoso de ganar prosélitos."},
+    {palabra:"Prosélito", definicion:"Persona incorporada a una religión. / Partidario que se gana para una facción, parcialidad o doctrina."},
   ];
 
 }]);
