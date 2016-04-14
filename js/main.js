@@ -707,6 +707,12 @@ angular.module('definicionesModule', [])
     {palabra:"Decaedro", definicion:"Sólido que tiene 10 caras."},
     {palabra:"Trapaza", definicion:"Artificio engañoso e ilícito con que se perjudica y defrauda a alguien en alguna compra, venta o cambio. / Fraude, engaño."},
     {palabra:"Demoscopia", definicion:"Estudio de las opiniones, aficiones y comportamiento humanos mediante sondeos de opinión."},
+    {palabra:"Quiralidad", definicion:"Propiedad de quiral"},
+    {palabra:"Quiral", definicion:"Dicho de una estructura o de un objeto: Que no es superponible con su imagen especular, asimétrico."},
+    {palabra:"Dextrógiro", definicion:"Que gira en el sentido de las agujas del reloj."},
+    {palabra:"Mesocrático", definicion:"Perteneciente o relativo a la clase media."},
+    {palabra:"Mesocracia", definicion:"Sistema social en que la clase media es preponderante. / Clase media."},
+    {palabra:"Ubérrimo", definicion:"Muy fértil"},
   ];
 
 }]);
