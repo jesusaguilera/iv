@@ -687,6 +687,7 @@ angular.module('definicionesModule', [])
     {palabra:"Pico-", definicion:"Significa 'una billonésima (10−12) parte'."},
     {palabra:"Choteo", definicion:"Burla, pitorreo."},
     {palabra:"Desbrozar", definicion:"Quitar la broza, desembarazar, limpiar. / Eliminar los aspectos accesorios o confusos que complican un asunto innecesariamente y entorpecen su comprensión."},
+    {palabra:"Exudar Exudación", definicion:"Dicho de un cuerpo: Dejar que salga por sus poros o sus grietas un líquido o una sustancia viscosa."},
   ];
 
 }]);
