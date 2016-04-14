@@ -713,6 +713,7 @@ angular.module('definicionesModule', [])
     {palabra:"Mesocrático", definicion:"Perteneciente o relativo a la clase media."},
     {palabra:"Mesocracia", definicion:"Sistema social en que la clase media es preponderante. / Clase media."},
     {palabra:"Ubérrimo", definicion:"Muy fértil"},
+    {palabra:"Naftalina", definicion:"Naftaleno utilizado contra la polilla y como desinfectante."},
   ];
 
 }]);
