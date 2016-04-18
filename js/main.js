@@ -687,6 +687,7 @@ angular.module('definicionesModule', [])
     {palabra:"Pico-", definicion:"Significa 'una billonésima (10−12) parte'."},
     {palabra:"Choteo", definicion:"Burla, pitorreo."},
     {palabra:"Desbrozar", definicion:"Quitar la broza, desembarazar, limpiar. / Eliminar los aspectos accesorios o confusos que complican un asunto innecesariamente y entorpecen su comprensión."},
+    {palabra:"Exudar Exudación", definicion:"Dicho de un cuerpo: Dejar que salga por sus poros o sus grietas un líquido o una sustancia viscosa."},
     {palabra:"Iso-", definicion:"Significa 'igual'"},
     {palabra:"Isomorfo", definicion:"Dicho de dos o más cuerpos: Que, con diferente composición química, presentan igual estructura cristalina y pueden cristalizar asociados;"},
     {palabra:"Palíndromo", definicion:"Palabra o frase cuyas letras están dispuestas de tal manera que resulta la misma leída de izquierda a derecha que de derecha a izquierda; p. ej., anilina; dábale arroz a la zorra el abad."},
@@ -726,6 +727,11 @@ angular.module('definicionesModule', [])
     {palabra:"Arredrar", definicion:"Retraer, hacer volver atrás, por el peligro que ofrece o el temor que infunde la ejecución de algo. / Amedrentar, atemorizar."},
     {palabra:"Indiano", definicion:"Alguien que llega rico de América."},
     {palabra:"Inequidad", definicion:"Desigualdad o falta de equidad."},
+    {palabra:"Hediento", definicion:"Que despide mal olor."},
+    {palabra:"Mefítico", definicion:"Dicho de una cosa: Que, respirada, puede causar daño, y especialmente cuando es fétida."},
+    {palabra:"Colombofilia", definicion:"Técnica o afición a la cría, adiestramiento, cuidado, etc., de las palomas, en especial de las mensajeras."},
+    {palabra:"Cáustico", definicion:"Dicho de una cosa: Que quema y destruye los tejidos animales."},
+    {palabra:"Inocular", definicion:"Introducir en un organismo una sustancia que contiene los gérmenes de una enfermedad. / Pervertir, contaminar a alguien con el mal ejemplo o la falsa doctrina."},
   ];
 
 }]);
