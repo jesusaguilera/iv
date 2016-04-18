@@ -729,6 +729,9 @@ angular.module('definicionesModule', [])
     {palabra:"Inequidad", definicion:"Desigualdad o falta de equidad."},
     {palabra:"Hediento", definicion:"Que despide mal olor."},
     {palabra:"Mefítico", definicion:"Dicho de una cosa: Que, respirada, puede causar daño, y especialmente cuando es fétida."},
+    {palabra:"Colombofilia", definicion:"Técnica o afición a la cría, adiestramiento, cuidado, etc., de las palomas, en especial de las mensajeras."},
+    {palabra:"Cáustico", definicion:"Dicho de una cosa: Que quema y destruye los tejidos animales."},
+    {palabra:"Inocular", definicion:"Introducir en un organismo una sustancia que contiene los gérmenes de una enfermedad. / Pervertir, contaminar a alguien con el mal ejemplo o la falsa doctrina."},
   ];
 
 }]);
