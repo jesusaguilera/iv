@@ -678,7 +678,7 @@ angular.module('definicionesModule', [])
     {palabra:"Párvulo", definicion:"Pequeño, inocente, cándido, sin malicia, humilde, apocado."},
     {palabra:"Meta-", definicion:"Significa 'junto a', 'después de', 'entre', 'con' o 'acerca de'."},
     {palabra:"Cuasi", definicion:"Casi."},
-    {palabra:"Demudar", definicion:"Alterar repentiamente una cosa, especialmente el color o la expresión de la cara de una persona."},
+    {palabra:"Demudar", definicion:"Mudar, variar. / Alterar, disfrazar, desfigurar. / Cambiarse repentinamente el color, el gesto o la expresión del semblante."},
     {palabra:"Dirimir", definicion:"Resolver o solucionar un desacuerdo o una discusión. / Deshacer la unidad de un grupo."},
     {palabra:"Proto-", definicion:"Indica prioridad, preeminencia o superioridad."},
     {palabra:"Gnoseología", definicion:"Teoría del conocimiento. / Epistemología."},
