@@ -732,6 +732,16 @@ angular.module('definicionesModule', [])
     {palabra:"Colombofilia", definicion:"Técnica o afición a la cría, adiestramiento, cuidado, etc., de las palomas, en especial de las mensajeras."},
     {palabra:"Cáustico", definicion:"Dicho de una cosa: Que quema y destruye los tejidos animales."},
     {palabra:"Inocular", definicion:"Introducir en un organismo una sustancia que contiene los gérmenes de una enfermedad. / Pervertir, contaminar a alguien con el mal ejemplo o la falsa doctrina."},
+    {palabra:"Paladino", definicion:"Público, claro y patente."},
+    {palabra:"Conníve", definicion:"Del inglés: Guiñar el ojo. / Disimular, fingir ceguedad e ignorancia tolerando o permitiendo algo."},
+    {palabra:"Cianosis", definicion:"Coloración azul y alguna vez negruzca o lívida de la piel, debida a trastornos circulatorios."},
+    {palabra:"Cianótico", definicion:"Perteneciente o relativo a la cianosis."},
+    {palabra:"Lívido", definicion:"Amoratado. / Intensamente pálido."},
+    {palabra:"Coadyuvar", definicion:"Contribuir o ayudar a que algo se realice o tenga lugar"},
+    {palabra:"Coadyuvante", definicion:"Que coadyuva. / Persona que interviene en un proceso sosteniendo la pretensión de una de las partes."},
+    {palabra:"Septicemia", definicion:"Infección generalizada producida por la presencia en la sangre de microorganismos patógenos o de sus toxinas."},
+    {palabra:"Gargajear", definicion:"Arrojar gargajos."},
+    {palabra:"Expeler", definicion:"Expulsar."},
   ];
 
 }]);
