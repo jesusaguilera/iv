@@ -742,6 +742,7 @@ angular.module('definicionesModule', [])
     {palabra:"Septicemia", definicion:"Infección generalizada producida por la presencia en la sangre de microorganismos patógenos o de sus toxinas."},
     {palabra:"Gargajear", definicion:"Arrojar gargajos."},
     {palabra:"Expeler", definicion:"Expulsar."},
+    {palabra:"Deontología", definicion:"Parte de la ética que trata de los deberes, especialmente de los que rigen una actividad profesional. / Conjunto de deberes relacionados con el ejercicio de una determinada profesión."},
   ];
 
 }]);
