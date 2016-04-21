@@ -761,6 +761,7 @@ angular.module('definicionesModule', [])
     {palabra:"Boyante", definicion:"Que se encuentra en una situación favorable, próspera o de felicidad."},
     {palabra:"Tartufo", definicion:"Hombre hipócrita y falso."},
     {palabra:"Detritus", definicion:"Resultado de la descomposición de una masa sólida en partículas."},
+    {palabra:"Ínfula", definicion:"Resultad de la descomposición de una masa sólida en partículas. / Vanidad pretenciosa."},
   ];
 
 }]);
