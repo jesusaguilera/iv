@@ -731,7 +731,7 @@ angular.module('definicionesModule', [])
     {palabra:"Hediento", definicion:"Que despide mal olor."},
     {palabra:"Mefítico", definicion:"Dicho de una cosa: Que, respirada, puede causar daño, y especialmente cuando es fétida."},
     {palabra:"Colombofilia", definicion:"Técnica o afición a la cría, adiestramiento, cuidado, etc., de las palomas, en especial de las mensajeras."},
-    {palabra:"Cáustico", definicion:"Dicho de una cosa: Que quema y destruye los tejidos animales."},
+    {palabra:"Cáustico", definicion:"Dicho de una cosa: Que quema y destruye los tejidos animales. / Mordaz."},
     {palabra:"Inocular", definicion:"Introducir en un organismo una sustancia que contiene los gérmenes de una enfermedad. / Pervertir, contaminar a alguien con el mal ejemplo o la falsa doctrina."},
     {palabra:"Paladino", definicion:"Público, claro y patente."},
     {palabra:"Conníve", definicion:"Del inglés: Guiñar el ojo. / Disimular, fingir ceguedad e ignorancia tolerando o permitiendo algo."},
