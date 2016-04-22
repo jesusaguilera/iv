@@ -367,7 +367,7 @@ angular.module('definicionesModule', [])
     {palabra:"Baldón", definicion:"Injuria, afrenta. / Persona o cosa que supone baldón."},
     {palabra:"Plutocracia", definicion:"Situación en la que los ricos ejercen su preponderancia en el gobierno del estado. / Conjunto de ciudadanos adinerados que ejercen su influencia en el gobierno del estado."},
     {palabra:"Egregio", definicion:"Famoso, ilustre, notable, eminente."},
-    {palabra:"Zafio", definicion:"Grosero, inculto, ordinario, cateto, cerril, vulgar."},
+    {palabra:"Zafio", definicion:"Persona grosera o tosca en sus modales, o carente de tacto en su comportamiento, inculto, ordinario, cateto, cerril, vulgar."},
     {palabra:"Arrabalero", definicion:"Grosero, tosco, cerril, ordinario."},
     {palabra:"Entelequia", definicion:"Cosa irreal. / En Aristóteles: Fín u objetivo de una actividad que la completa y la perfecciona."},
     {palabra:"Nepotismo", definicion:"Preferencia que se dan a parientes para concesiones o empleos públicos."},
@@ -767,6 +767,7 @@ angular.module('definicionesModule', [])
     {palabra:"Departir", definicion:"Hablar, conversar. / Separar, repartir, dividir en partes. / Diferenciar, distinguir."},
     {palabra:"Arrabalero", definicion:"Que vive en los arrabales o periferias de las ciudades."},
     {palabra:"Respecto", definicion:"Razón, relación o proporción de algo a otra cosa."},
+    {palabra:"Espinar", definicion:"Punzar. / Herir, lastimar y ofender con palabras picantes."},
   ];
 
 }]);
