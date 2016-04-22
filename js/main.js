@@ -772,6 +772,8 @@ angular.module('definicionesModule', [])
     {palabra:"Emérito", definicion:"Dicho de una persona, especialmente de un profesor: Que se ha jubilado y mantiene sus honores y alguna de sus funciones. / En la Roma antigua, dicho de un soldado: Que había cumplido su tiempo de servicio y disfrutaba la recompensa debida a sus méritos."},
     {palabra:"Prominente", definicion:"Que se levanta o sobresale sobre lo que está a su inmediación o alrededores. / Ilustre, famoso, destacado."},
     {palabra:"Connivencia", definicion:"Disimulo o tolerancia en el superior acerca de las transgresiones que cometen sus subordinados contra las reglas o las leyes bajo las cuales viven. / Confabulación."},
+    {palabra:"Inopinado", definicion:"Que sucede sin haber pensado en ello, o sin esperarlo."},
+    {palabra:"Benzodiazepinas", definicion:"Las benzodiazepinas son medicamentos psicotrópicos que actúan sobre el sistema nervioso central, con efectos sedantes, hipnóticos, ansiolíticos, anticonvulsivos, amnésicos y miorrelajantes"},
   ];
 
 }]);
