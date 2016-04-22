@@ -768,6 +768,7 @@ angular.module('definicionesModule', [])
     {palabra:"Arrabalero", definicion:"Que vive en los arrabales o periferias de las ciudades."},
     {palabra:"Respecto", definicion:"Razón, relación o proporción de algo a otra cosa."},
     {palabra:"Espinar", definicion:"Punzar. / Herir, lastimar y ofender con palabras picantes."},
+    {palabra:"Veleidad", definicion:"Voluntad antojadiza o deseo vano. / Inconstancia, ligereza."},
   ];
 
 }]);
