@@ -769,6 +769,8 @@ angular.module('definicionesModule', [])
     {palabra:"Respecto", definicion:"Razón, relación o proporción de algo a otra cosa."},
     {palabra:"Espinar", definicion:"Punzar. / Herir, lastimar y ofender con palabras picantes."},
     {palabra:"Veleidad", definicion:"Voluntad antojadiza o deseo vano. / Inconstancia, ligereza."},
+    {palabra:"Emérito", definicion:"Dicho de una persona, especialmente de un profesor: Que se ha jubilado y mantiene sus honores y alguna de sus funciones. / En la Roma antigua, dicho de un soldado: Que había cumplido su tiempo de servicio y disfrutaba la recompensa debida a sus méritos."},
+    {palabra:"Prominente", definicion:"Que se levanta o sobresale sobre lo que está a su inmediación o alrededores. / Ilustre, famoso, destacado."},
   ];
 
 }]);
