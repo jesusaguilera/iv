@@ -367,7 +367,7 @@ angular.module('definicionesModule', [])
     {palabra:"Baldón", definicion:"Injuria, afrenta. / Persona o cosa que supone baldón."},
     {palabra:"Plutocracia", definicion:"Situación en la que los ricos ejercen su preponderancia en el gobierno del estado. / Conjunto de ciudadanos adinerados que ejercen su influencia en el gobierno del estado."},
     {palabra:"Egregio", definicion:"Famoso, ilustre, notable, eminente."},
-    {palabra:"Zafio", definicion:"Grosero, inculto, ordinario, cateto, cerril, vulgar."},
+    {palabra:"Zafio", definicion:"Persona grosera o tosca en sus modales, o carente de tacto en su comportamiento, inculto, ordinario, cateto, cerril, vulgar."},
     {palabra:"Arrabalero", definicion:"Grosero, tosco, cerril, ordinario."},
     {palabra:"Entelequia", definicion:"Cosa irreal. / En Aristóteles: Fín u objetivo de una actividad que la completa y la perfecciona."},
     {palabra:"Nepotismo", definicion:"Preferencia que se dan a parientes para concesiones o empleos públicos."},
@@ -764,7 +764,16 @@ angular.module('definicionesModule', [])
     {palabra:"Ínfula", definicion:"Resultad de la descomposición de una masa sólida en partículas. / Vanidad pretenciosa."},
     {palabra:"Sociopata", definicion:"Trastorno de personalidad antisocial, es una patología de índole psíquico que deriva en que las personas que la padecen pierden la noción de la importancia de las normas sociales, como son las leyes y los derechos individuales."},
     {palabra:"Resiliencia", definicion:"Capacidad de adaptación de un ser vivo frente a un agente perturbador o un estado o situación adversos. / Capacidad de un material, mecanismo o sistema para recuperar su estado inicial cuando ha cesado la perturbación a la que había estado sometido."},
-    {palabra:"Departir", definicion:"Hablar, conversar. /"},
+    {palabra:"Departir", definicion:"Hablar, conversar. / Separar, repartir, dividir en partes. / Diferenciar, distinguir."},
+    {palabra:"Arrabalero", definicion:"Que vive en los arrabales o periferias de las ciudades."},
+    {palabra:"Respecto", definicion:"Razón, relación o proporción de algo a otra cosa."},
+    {palabra:"Espinar", definicion:"Punzar. / Herir, lastimar y ofender con palabras picantes."},
+    {palabra:"Veleidad", definicion:"Voluntad antojadiza o deseo vano. / Inconstancia, ligereza."},
+    {palabra:"Emérito", definicion:"Dicho de una persona, especialmente de un profesor: Que se ha jubilado y mantiene sus honores y alguna de sus funciones. / En la Roma antigua, dicho de un soldado: Que había cumplido su tiempo de servicio y disfrutaba la recompensa debida a sus méritos."},
+    {palabra:"Prominente", definicion:"Que se levanta o sobresale sobre lo que está a su inmediación o alrededores. / Ilustre, famoso, destacado."},
+    {palabra:"Connivencia", definicion:"Disimulo o tolerancia en el superior acerca de las transgresiones que cometen sus subordinados contra las reglas o las leyes bajo las cuales viven. / Confabulación."},
+    {palabra:"Inopinado", definicion:"Que sucede sin haber pensado en ello, o sin esperarlo."},
+    {palabra:"Benzodiazepinas", definicion:"Las benzodiazepinas son medicamentos psicotrópicos que actúan sobre el sistema nervioso central, con efectos sedantes, hipnóticos, ansiolíticos, anticonvulsivos, amnésicos y miorrelajantes"},
   ];
 
 }]);
