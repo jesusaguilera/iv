@@ -764,7 +764,9 @@ angular.module('definicionesModule', [])
     {palabra:"Ínfula", definicion:"Resultad de la descomposición de una masa sólida en partículas. / Vanidad pretenciosa."},
     {palabra:"Sociopata", definicion:"Trastorno de personalidad antisocial, es una patología de índole psíquico que deriva en que las personas que la padecen pierden la noción de la importancia de las normas sociales, como son las leyes y los derechos individuales."},
     {palabra:"Resiliencia", definicion:"Capacidad de adaptación de un ser vivo frente a un agente perturbador o un estado o situación adversos. / Capacidad de un material, mecanismo o sistema para recuperar su estado inicial cuando ha cesado la perturbación a la que había estado sometido."},
-    {palabra:"Departir", definicion:"Hablar, conversar. /"},
+    {palabra:"Departir", definicion:"Hablar, conversar. / Separar, repartir, dividir en partes. / Diferenciar, distinguir."},
+    {palabra:"Arrabalero", definicion:"Que vive en los arrabales o periferias de las ciudades."},
+    {palabra:"Respecto", definicion:"Razón, relación o proporción de algo a otra cosa."},
   ];
 
 }]);
