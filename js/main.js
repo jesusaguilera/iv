@@ -781,6 +781,7 @@ angular.module('definicionesModule', [])
     {palabra:"Sílfide", definicion:"Ninfa o espíritu elemental del aire de la mitología germánica. / Mujer que es muy esbelta y muy bella."},
     {palabra:"Herético", definicion:"Que contiene, implica o defiende herejías."},
     {palabra:"Subyugar", definicion:"Someter o dominar completamente a una persona o colectividad utilizando la persuasión. / Dominar [una pasión o un sentimiento, normalmente positivos] a alguien."},
+    {palabra:"Alevosía", definicion:"Cautela para asegurar la comisión de un delito contra las personas, sin riesgo para el delincuente. Es circunstancia agravante de la responsabilidad criminal. / Traición, Perfidia."},
   ];
 
 }]);
