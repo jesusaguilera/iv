@@ -774,6 +774,13 @@ angular.module('definicionesModule', [])
     {palabra:"Connivencia", definicion:"Disimulo o tolerancia en el superior acerca de las transgresiones que cometen sus subordinados contra las reglas o las leyes bajo las cuales viven. / Confabulación."},
     {palabra:"Inopinado", definicion:"Que sucede sin haber pensado en ello, o sin esperarlo."},
     {palabra:"Benzodiazepinas", definicion:"Las benzodiazepinas son medicamentos psicotrópicos que actúan sobre el sistema nervioso central, con efectos sedantes, hipnóticos, ansiolíticos, anticonvulsivos, amnésicos y miorrelajantes"},
+    {palabra:"Savoir faire", definicion:"Destreza o gracia especial que tiene una persona para hacer las cosas, especialmente las relacionadas con el trato social."},
+    {palabra:"Impeler", definicion:"Impulsar o hacer que una cosa o persona adquiera un movimiento rápido al aplicarle una fuerza. / Ejercer presión o influencia sobre una persona para que haga cierta cosa."},
+    {palabra:"Apolíneo", definicion:"De Apolo (dios de las artes en la mitología griega) o relacionado con él. / Que responde al canon de belleza masculina."},
+    {palabra:"Profesar", definicion:"Aceptar y seguir [una persona] voluntariamente una religión, una doctrina o una creencia. / Tener [una persona] una determinada inclinación o un sentimiento intenso hacia algo o alguien."},
+    {palabra:"Sílfide", definicion:"Ninfa o espíritu elemental del aire de la mitología germánica. / Mujer que es muy esbelta y muy bella."},
+    {palabra:"Herético", definicion:"Que contiene, implica o defiende herejías."},
+    {palabra:"Subyugar", definicion:"Someter o dominar completamente a una persona o colectividad utilizando la persuasión. / Dominar [una pasión o un sentimiento, normalmente positivos] a alguien."},
   ];
 
 }]);
