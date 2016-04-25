@@ -782,6 +782,9 @@ angular.module('definicionesModule', [])
     {palabra:"Herético", definicion:"Que contiene, implica o defiende herejías."},
     {palabra:"Subyugar", definicion:"Someter o dominar completamente a una persona o colectividad utilizando la persuasión. / Dominar [una pasión o un sentimiento, normalmente positivos] a alguien."},
     {palabra:"Alevosía", definicion:"Cautela para asegurar la comisión de un delito contra las personas, sin riesgo para el delincuente. Es circunstancia agravante de la responsabilidad criminal. / Traición, Perfidia."},
+    {palabra:"Patria", definicion:"Tierra de los padres, la tierra paterna. / Tierra natal o adoptiva ordenada como nación, a la que se siente ligado el ser humano por vínculos jurídicos, históricos y afectivos."},
+    {palabra:"Vernáculo", definicion:"Dicho especialmente del idioma o lengua: Doméstico, nativo, de la casa o país propios."},
+    {palabra:"Lucutoso", definicion:"Triste, fúnebre y digno de llanto."},
   ];
 
 }]);
