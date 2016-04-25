@@ -168,7 +168,7 @@ angular.module('definicionesModule', [])
     {palabra:"Libar", definicion:"Chupar suavemente el jugo de una cosa."},
     {palabra:"Virtud", definicion:"Disposición del alma para con la ley moral."},
     {palabra:"Ardid", definicion:"Medio empleado para el logro de algo mañosamente. / Mañoso, astuto, sagaz."},
-    {palabra:"Prólijo", definicion:"Largo, dilatado, en exceso. / Cuidadoso, esmerado. / Impertinente, molesto."},
+    {palabra:"Prólijo", definicion:"Que pone esmero en los detalles. / Largo, dilatado, en exceso. / Cuidadoso, esmerado. / Impertinente, molesto."},
     {palabra:"Ambivalencia", definicion:"Condición que se presta a dos interpretaciones opuestas. / Estado de ánimo donde coexisten dos emociones o sentimientos opuestos."},
     {palabra:"Escarnio", definicion:"Burla tenaz."},
     {palabra:"Labriego", definicion:"Labrador rustico."},
@@ -785,6 +785,12 @@ angular.module('definicionesModule', [])
     {palabra:"Patria", definicion:"Tierra de los padres, la tierra paterna. / Tierra natal o adoptiva ordenada como nación, a la que se siente ligado el ser humano por vínculos jurídicos, históricos y afectivos."},
     {palabra:"Vernáculo", definicion:"Dicho especialmente del idioma o lengua: Doméstico, nativo, de la casa o país propios."},
     {palabra:"Lucutoso", definicion:"Triste, fúnebre y digno de llanto."},
+    {palabra:"Silicosis", definicion:"Enfermedad crónica del aparato respiratorio que se produce por haber aspirado polvo de sílice en gran cantidad."},
+    {palabra:"Óbito", definicion:"Muerte de una persona. / Deceso, defunción."},
+    {palabra:"Deceso", definicion:"Muerte de una persona."},
+    {palabra:"Polisémica", definicion:"Palabra que tiene varios significados."},
+    {palabra:"Monosémica", definicion:"Palabra que tiene un único significado."},
+    {palabra:"Parafilia", definicion:"Desviación sexual."},
   ];
 
 }]);
