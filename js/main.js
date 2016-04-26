@@ -452,7 +452,7 @@ angular.module('definicionesModule', [])
     {palabra:"Tísico", definicion:"Que padece tísis."},
     {palabra:"Tísis", definicion:"Tubercolusos pulmonar."},
     {palabra:"Multívoco", definicion:"Que tiene varias interpretaciones."},
-    {palabra:"Rémora", definicion:"Persona que retrasa, dificulta o detiene algo."},
+    {palabra:"Rémora", definicion:"Obstáculo físico o inmaterial que dificulta un proceso. Persona que retrasa, dificulta o detiene algo."},
     {palabra:"Mefistofélico", definicion:"Diabólico, malvado, perverso."},
     {palabra:"Megalómano", definicion:"Delirio de grandeza."},
     {palabra:"Egagrópila", definicion:"Bola de alimento no digerido que regurgitan las aves con pelo, huesos y plumas."},
@@ -791,6 +791,9 @@ angular.module('definicionesModule', [])
     {palabra:"Polisémica", definicion:"Palabra que tiene varios significados."},
     {palabra:"Monosémica", definicion:"Palabra que tiene un único significado."},
     {palabra:"Parafilia", definicion:"Desviación sexual."},
+    {palabra:"Comicios", definicion:"Actos previos a una votación cuya finalidad es informar y convencer a los votantes de las ideas de una candidatura."},
+    {palabra:"Motu Propio", definicion:"Voluntariamente o por propia iniciativa."},
+    {palabra:"Auspiciar", definicion:"Patrocinio o ayuda que recibe una persona, una entidad, un proyecto, etc., para propiciar su desarrollo o su ejecución. / Señal o indicio que se interpreta como el anuncio de un hecho futuro, especialmente en relación con una actividad que se emprende."},
   ];
 
 }]);
