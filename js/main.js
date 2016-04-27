@@ -791,6 +791,11 @@ angular.module('definicionesModule', [])
     {palabra:"Polisémica", definicion:"Palabra que tiene varios significados."},
     {palabra:"Monosémica", definicion:"Palabra que tiene un único significado."},
     {palabra:"Parafilia", definicion:"Desviación sexual."},
+    {palabra:"Inquina", definicion:"Antipatía o aversión que se experimenta contra una persona o una cosa y que impulsa a tratarla de forma negativa o injusta, o a apartarse de ella."},
+    {palabra:"Monacato", definicion:"Estado o profesión de monje. / Institución monástica."},
+    {palabra:"Horda", definicion:"Comunidad de salvajes nómadas. / Grupo de gente que obra sin disciplina y con violencia."},
+    {palabra:"Auspiciar", definicion:"Patrocinar, favorecer. / Presagiar, adivinar, predecir."},
+    {palabra:"Homonización", definicion:"Proceso por el cual una raza de primates dio lugar a la especie humana."},
   ];
 
 }]);
