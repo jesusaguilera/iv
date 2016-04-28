@@ -807,6 +807,7 @@ angular.module('definicionesModule', [])
     {palabra:"Letanía", definicion:"Oración dialogada compuesta por una serie de súplicas o invocaciones breves a Dios o a los santos que una persona recita o canta y que las demás personas que participan en la oración repiten o contestan. / Lista o enumeración larga y monótona."},
     {palabra:"Sético", definicion:"Que produce putrefacción o es causado por ella. / Que contiene gérmenes patógenos"},
     {palabra:"Patógeno", definicion:"Que origina y desarrolla una enfermedad"},
+    {palabra:"Facineroso", definicion:"Delincuente habitual. / Que origina y desarrolla una enfermedad."},
   ];
 
 }]);
