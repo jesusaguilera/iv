@@ -808,6 +808,11 @@ angular.module('definicionesModule', [])
     {palabra:"Sético", definicion:"Que produce putrefacción o es causado por ella. / Que contiene gérmenes patógenos"},
     {palabra:"Patógeno", definicion:"Que origina y desarrolla una enfermedad"},
     {palabra:"Facineroso", definicion:"Delincuente habitual. / Que origina y desarrolla una enfermedad."},
+    {palabra:"Contubernio", definicion:"Alianza o liga vituperable. / Habitación con otra persona. / Cohabitación ilícita."},
+    {palabra:"Efigie", definicion:"Personificación, representación viva de un sentimiento. / Imagen o representación de una persona."},
+    {palabra:"Frontispicio", definicion:"Fachada o delantera de un edificio, mueble u otra cosa. / Página de un libro anterior a la portada, que suele contener el título y algún grabado o viñeta. / Frontón."},
+    {palabra:"Pecunio", definicion:"Peculio"},
+    {palabra:"Peculio", definicion:"Dinero"},
   ];
 
 }]);
