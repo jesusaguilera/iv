@@ -791,9 +791,22 @@ angular.module('definicionesModule', [])
     {palabra:"Polisémica", definicion:"Palabra que tiene varios significados."},
     {palabra:"Monosémica", definicion:"Palabra que tiene un único significado."},
     {palabra:"Parafilia", definicion:"Desviación sexual."},
+    {palabra:"Inquina", definicion:"Antipatía o aversión que se experimenta contra una persona o una cosa y que impulsa a tratarla de forma negativa o injusta, o a apartarse de ella."},
+    {palabra:"Monacato", definicion:"Estado o profesión de monje. / Institución monástica."},
+    {palabra:"Horda", definicion:"Comunidad de salvajes nómadas. / Grupo de gente que obra sin disciplina y con violencia."},
+    {palabra:"Auspiciar", definicion:"Patrocinar, favorecer. / Presagiar, adivinar, predecir."},
+    {palabra:"Homonización", definicion:"Proceso por el cual una raza de primates dio lugar a la especie humana."},
     {palabra:"Comicios", definicion:"Actos previos a una votación cuya finalidad es informar y convencer a los votantes de las ideas de una candidatura."},
     {palabra:"Motu Propio", definicion:"Voluntariamente o por propia iniciativa."},
     {palabra:"Auspiciar", definicion:"Patrocinio o ayuda que recibe una persona, una entidad, un proyecto, etc., para propiciar su desarrollo o su ejecución. / Señal o indicio que se interpreta como el anuncio de un hecho futuro, especialmente en relación con una actividad que se emprende."},
+    {palabra:"Sepelio", definicion:"Ceremonia de inhumación o entierro de un cadaver."},
+    {palabra:"Inhumar", definicion:"Enterrar un cadaver."},
+    {palabra:"Displicente", definicion:"Que desplace, desagrada y disgusta. / Desdeñoso, descontentadizo, desabrido o de mal humor."},
+    {palabra:"Proceloso", definicion:"Borrascoso, tormentoso, tempestuoso."},
+    {palabra:"Sinapsis", definicion:"Conexión entre el axón de una neurona y la dendrita de otra cercana mediante neurotransmisores. / Relación funcional entre dos células. / Unión de dos cromosomas durante la profase."},
+    {palabra:"Letanía", definicion:"Oración dialogada compuesta por una serie de súplicas o invocaciones breves a Dios o a los santos que una persona recita o canta y que las demás personas que participan en la oración repiten o contestan. / Lista o enumeración larga y monótona."},
+    {palabra:"Sético", definicion:"Que produce putrefacción o es causado por ella. / Que contiene gérmenes patógenos"},
+    {palabra:"Patógeno", definicion:"Que origina y desarrolla una enfermedad"},
   ];
 
 }]);
