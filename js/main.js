@@ -814,6 +814,8 @@ angular.module('definicionesModule', [])
     {palabra:"Pecunio", definicion:"Peculio"},
     {palabra:"Peculio", definicion:"Dinero"},
     {palabra:"Sufete", definicion:"Cada uno de los dos magistrados supremos de Cartago y de otras repúblicas fenicias."},
+    {palabra:"Inerme", definicion:"Sin armas. / Desprovisto de aguijones, pinchos o espinas."},
+    {palabra:"Desabrir", definicion:"Dar mal gusto a la comida. / Disgustar, desazonar el ánimo de alguien. "},
   ];
 
 }]);
