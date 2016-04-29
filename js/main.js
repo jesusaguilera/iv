@@ -813,6 +813,7 @@ angular.module('definicionesModule', [])
     {palabra:"Frontispicio", definicion:"Fachada o delantera de un edificio, mueble u otra cosa. / Página de un libro anterior a la portada, que suele contener el título y algún grabado o viñeta. / Frontón."},
     {palabra:"Pecunio", definicion:"Peculio"},
     {palabra:"Peculio", definicion:"Dinero"},
+    {palabra:"Sufete", definicion:"Cada uno de los dos magistrados supremos de Cartago y de otras repúblicas fenicias."},
   ];
 
 }]);
