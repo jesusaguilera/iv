@@ -816,6 +816,11 @@ angular.module('definicionesModule', [])
     {palabra:"Sufete", definicion:"Cada uno de los dos magistrados supremos de Cartago y de otras repúblicas fenicias."},
     {palabra:"Inerme", definicion:"Sin armas. / Desprovisto de aguijones, pinchos o espinas."},
     {palabra:"Desabrir", definicion:"Dar mal gusto a la comida. / Disgustar, desazonar el ánimo de alguien. "},
+    {palabra:"Sucedáneo", definicion:"Dar mal gusto a la comida. / Disgustar, desazonar el ánimo de alguien. "},
+    {palabra:"Imprecar", definicion:"Proferir palabras con que se expresa el vivo deseo de que alguien sufra mal o daño."},
+    {palabra:"Pedigón", definicion:"Que pide con frecuencia e inoportunidad. / Que pide, especialmente con insistencia."},
+    {palabra:"Desgajar", definicion:"Desgarrar, arrancar, separar con violencia la rama del tronco de donde nace. / Despedazar, romper, deshacer algo unido y trabado. / "},
+    {palabra:"Sincretismo", definicion:"Combinación de distintas teorías, actitudes u opiniones."},
   ];
 
 }]);
