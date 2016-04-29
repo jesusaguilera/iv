@@ -819,6 +819,7 @@ angular.module('definicionesModule', [])
     {palabra:"Sucedáneo", definicion:"Dar mal gusto a la comida. / Disgustar, desazonar el ánimo de alguien. "},
     {palabra:"Imprecar", definicion:"Proferir palabras con que se expresa el vivo deseo de que alguien sufra mal o daño."},
     {palabra:"Pedigón", definicion:"Que pide con frecuencia e inoportunidad. / Que pide, especialmente con insistencia."},
+    {palabra:"Desgajar", definicion:"Desgarrar, arrancar, separar con violencia la rama del tronco de donde nace. / Despedazar, romper, deshacer algo unido y trabado. / "},
   ];
 
 }]);
