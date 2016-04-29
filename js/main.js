@@ -807,6 +807,13 @@ angular.module('definicionesModule', [])
     {palabra:"Letanía", definicion:"Oración dialogada compuesta por una serie de súplicas o invocaciones breves a Dios o a los santos que una persona recita o canta y que las demás personas que participan en la oración repiten o contestan. / Lista o enumeración larga y monótona."},
     {palabra:"Sético", definicion:"Que produce putrefacción o es causado por ella. / Que contiene gérmenes patógenos"},
     {palabra:"Patógeno", definicion:"Que origina y desarrolla una enfermedad"},
+    {palabra:"Facineroso", definicion:"Delincuente habitual. / Que origina y desarrolla una enfermedad."},
+    {palabra:"Contubernio", definicion:"Alianza o liga vituperable. / Habitación con otra persona. / Cohabitación ilícita."},
+    {palabra:"Efigie", definicion:"Personificación, representación viva de un sentimiento. / Imagen o representación de una persona."},
+    {palabra:"Frontispicio", definicion:"Fachada o delantera de un edificio, mueble u otra cosa. / Página de un libro anterior a la portada, que suele contener el título y algún grabado o viñeta. / Frontón."},
+    {palabra:"Pecunio", definicion:"Peculio"},
+    {palabra:"Peculio", definicion:"Dinero"},
+    {palabra:"Sufete", definicion:"Cada uno de los dos magistrados supremos de Cartago y de otras repúblicas fenicias."},
   ];
 
 }]);
