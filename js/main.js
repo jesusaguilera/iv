@@ -821,6 +821,26 @@ angular.module('definicionesModule', [])
     {palabra:"Pedigón", definicion:"Que pide con frecuencia e inoportunidad. / Que pide, especialmente con insistencia."},
     {palabra:"Desgajar", definicion:"Desgarrar, arrancar, separar con violencia la rama del tronco de donde nace. / Despedazar, romper, deshacer algo unido y trabado. / "},
     {palabra:"Sincretismo", definicion:"Combinación de distintas teorías, actitudes u opiniones."},
+    {palabra:"Hominización", definicion:"Proceso evolutivo, de primate a especie humana."},
+    {palabra:"Pregnancia", definicion:"Cualidad de las formas visuales que captan la atención del observador por la simplicidad, equilibrio o estabilidad de su estructura."},
+    {palabra:"Tropismo", definicion:"Tendencia de un organismo a reaccionar de una manera determianda a los estímulos exteriores."},
+    {palabra:"Escópico", definicion:"Visual, 'con la mirada'. Se usa con frecuencia en el psicoanálisis y en las artes visuales."},
+    {palabra:"Pulsión", definicion:"Impuslo. En psicoanálisis fuerza que impulsa al sujeto a llevar a cabo una acción."},
+    {palabra:"Príapo", definicion:"Pene, especialmente el del hombre."},
+    {palabra:"Meandro", definicion:"Cada una de las curvas que describe el curso de un río. Adorno de líneas sinuosas y repetidas."},
+    {palabra:"Sosiego", definicion:"Calma, tranquilidad, quietud, paz, placidez."},
+    {palabra:"Abrevadero", definicion:"Lugar donde abreva el ganado."},
+    {palabra:"Abrevar", definicion:"Beber, especialmente los animales."},
+    {palabra:"Remora", definicion:"Obstáculo físico o inmaterial que impide un proceso, un proyecto o una acción."},
+    {palabra:"Mitosis", definicion:"Proceso de reproducción de una célula que consiste en la división de los cromosomas y en la división del núcleo."},
+    {palabra:"Ameba", definicion:"Una protista unicelular del género Amoeba. Es un protozoo caracterizado por su forma cambiante, puesto que carece de pared celular, y por su movimiento ameboide a base de seudópodos"},
+    {palabra:"Elucubrar", definicion:"Reflexionar a cerca de algo con atención y cuidado para estudiarlo o comprenderlo bien o para llegar a alguna conclusión."},
+    {palabra:"Acre", definicion:"Áspero y picante al gusto y al olfato, como el sabor y el olor del ajo, del fósforo, etc."},
+    {palabra:"Verba volant scripta manent", definicion:"Cita latina de Cayo Tito: 'Las palabras vuelan, lo escrito queda.'"},
+    {palabra:"Truculento", definicion:"Que sobrecoge o asusta por su morbosidad, exagerada crueldad o dramatismo."},
+    {palabra:"Eminentemente", definicion:"Predominantemente. Que tiene un grado superior."},
+    {palabra:"Siliente", definicion:"Silencioso."},
+  
   ];
 
 }]);
