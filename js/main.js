@@ -805,7 +805,7 @@ angular.module('definicionesModule', [])
     {palabra:"Proceloso", definicion:"Borrascoso, tormentoso, tempestuoso."},
     {palabra:"Sinapsis", definicion:"Conexión entre el axón de una neurona y la dendrita de otra cercana mediante neurotransmisores. / Relación funcional entre dos células. / Unión de dos cromosomas durante la profase."},
     {palabra:"Letanía", definicion:"Oración dialogada compuesta por una serie de súplicas o invocaciones breves a Dios o a los santos que una persona recita o canta y que las demás personas que participan en la oración repiten o contestan. / Lista o enumeración larga y monótona."},
-    {palabra:"Sético", definicion:"Que produce putrefacción o es causado por ella. / Que contiene gérmenes patógenos"},
+    {palabra:"Séptico", definicion:"Que produce putrefacción o es causado por ella. / Que contiene gérmenes patógenos"},
     {palabra:"Patógeno", definicion:"Que origina y desarrolla una enfermedad"},
     {palabra:"Facineroso", definicion:"Delincuente habitual. / Que origina y desarrolla una enfermedad."},
     {palabra:"Contubernio", definicion:"Alianza o liga vituperable. / Habitación con otra persona. / Cohabitación ilícita."},
@@ -840,6 +840,7 @@ angular.module('definicionesModule', [])
     {palabra:"Truculento", definicion:"Que sobrecoge o asusta por su morbosidad, exagerada crueldad o dramatismo."},
     {palabra:"Eminentemente", definicion:"Predominantemente. Que tiene un grado superior."},
     {palabra:"Siliente", definicion:"Silencioso."},
+    {palabra:"Polonio 210", definicion:"Se trata de un raro metaloide altamente radiactivo"},
   
   ];
 
