@@ -841,6 +841,8 @@ angular.module('definicionesModule', [])
     {palabra:"Eminentemente", definicion:"Predominantemente. Que tiene un grado superior."},
     {palabra:"Siliente", definicion:"Silencioso."},
     {palabra:"Polonio 210", definicion:"Se trata de un raro metaloide altamente radiactivo"},
+    {palabra:"Histriónico", definicion:"Perteneciente o relativo al histrión."},
+    {palabra:"Histrión", definicion:"Actor teatral. / Persona que se expresa con afectación o exageración propia de un actor teatral. / Prestidigitador, acróbata o cualquier otra persona que divertía al público con disfraces. / Hombre que representaba disfrazado en la comedia o tragedia antigua."},
   
   ];
 
