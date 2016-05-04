@@ -843,6 +843,8 @@ angular.module('definicionesModule', [])
     {palabra:"Polonio 210", definicion:"Se trata de un raro metaloide altamente radiactivo"},
     {palabra:"Histriónico", definicion:"Perteneciente o relativo al histrión."},
     {palabra:"Histrión", definicion:"Actor teatral. / Persona que se expresa con afectación o exageración propia de un actor teatral. / Prestidigitador, acróbata o cualquier otra persona que divertía al público con disfraces. / Hombre que representaba disfrazado en la comedia o tragedia antigua."},
+    {palabra:"Irredento", definicion:"Dicho especialmente del territorio que una nación pretende anexionarse por razones históricas, de lengua, raza, etc.: Que permanece sin redimir."},
+    {palabra:"Redimir", definicion:"Rescatar o sacar de esclavitud al cautivo mediante precio. / Comprar de nuevo algo que se había vendido, poseído o tenido por alguna razón o título. / Librar de una obligación o extinguirla."},
   
   ];
 
