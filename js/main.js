@@ -125,6 +125,7 @@ angular.module('definicionesModule', [])
     {palabra:"Cerrilismo", definicion:"Cualidad de cerril."},
     {palabra:"Cerril", definicion:"Tosco, grosero. / Terreno áspero y escabroso."},
     {palabra:"Antisemita", definicion:"Enemigo de la raza hebréa ( israelitas y judios )."},
+    {palabra:"Semita", definicion:"Dicho de una persona: Que pertenece a alguno de los pueblos que integran la familia formada por los árabes, los hebreos y otros."},
     {palabra:"Sucinta", definicion:"Breve. / Recogido o ceñido por abajo."},
     {palabra:"Exornar", definicion:"Adornar, embellecer, hermosear."},
     {palabra:"Epifenómeno", definicion:"Fenómeno que acompaña al fenómeno principal pero no tiene influencia sobre él."},
@@ -791,7 +792,7 @@ angular.module('definicionesModule', [])
     {palabra:"Polisémica", definicion:"Palabra que tiene varios significados."},
     {palabra:"Monosémica", definicion:"Palabra que tiene un único significado."},
     {palabra:"Parafilia", definicion:"Desviación sexual."},
-    {palabra:"Inquina", definicion:"Antipatía o aversión que se experimenta contra una persona o una cosa y que impulsa a tratarla de forma negativa o injusta, o a apartarse de ella."},
+    {palabra:"Inquina", definicion:"Aversión, mala voluntad."},
     {palabra:"Monacato", definicion:"Estado o profesión de monje. / Institución monástica."},
     {palabra:"Horda", definicion:"Comunidad de salvajes nómadas. / Grupo de gente que obra sin disciplina y con violencia."},
     {palabra:"Auspiciar", definicion:"Patrocinar, favorecer. / Presagiar, adivinar, predecir."},
@@ -843,6 +844,9 @@ angular.module('definicionesModule', [])
     {palabra:"Polonio 210", definicion:"Se trata de un raro metaloide altamente radiactivo"},
     {palabra:"Histriónico", definicion:"Perteneciente o relativo al histrión."},
     {palabra:"Histrión", definicion:"Actor teatral. / Persona que se expresa con afectación o exageración propia de un actor teatral. / Prestidigitador, acróbata o cualquier otra persona que divertía al público con disfraces. / Hombre que representaba disfrazado en la comedia o tragedia antigua."},
+    {palabra:"Irredento", definicion:"Dicho especialmente del territorio que una nación pretende anexionarse por razones históricas, de lengua, raza, etc.: Que permanece sin redimir."},
+    {palabra:"Redimir", definicion:"Rescatar o sacar de esclavitud al cautivo mediante precio. / Comprar de nuevo algo que se había vendido, poseído o tenido por alguna razón o título. / Librar de una obligación o extinguirla."},
+    {palabra:"Pírrico", definicion:"Dicho de un triunfo o de una victoria: Obtenidos con más daño del vencedor que del vencido. / Conseguido con mucho trabajo o por un margen muy pequeño. / De poco valor o insuficiente, especialmente en proporción al esfuerzo realizado. / Dicho de una danza: Practicada en la Grecia antigua y que imitaba un combate."},
   
   ];
 
