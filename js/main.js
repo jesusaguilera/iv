@@ -847,6 +847,14 @@ angular.module('definicionesModule', [])
     {palabra:"Irredento", definicion:"Dicho especialmente del territorio que una nación pretende anexionarse por razones históricas, de lengua, raza, etc.: Que permanece sin redimir."},
     {palabra:"Redimir", definicion:"Rescatar o sacar de esclavitud al cautivo mediante precio. / Comprar de nuevo algo que se había vendido, poseído o tenido por alguna razón o título. / Librar de una obligación o extinguirla."},
     {palabra:"Pírrico", definicion:"Dicho de un triunfo o de una victoria: Obtenidos con más daño del vencedor que del vencido. / Conseguido con mucho trabajo o por un margen muy pequeño. / De poco valor o insuficiente, especialmente en proporción al esfuerzo realizado. / Dicho de una danza: Practicada en la Grecia antigua y que imitaba un combate."},
+    {palabra:"Disgenesia", definicion:"Disgenesia es un término opuesto a la eugenesia, y es utilizado por algunos científicos actuales para caracterizar la selección de variables genéticas negativas."},
+    {palabra:"Eugenesia", definicion:"Aplicación de las leyes biológicas de la herencia al perfeccionamiento de la especie humana."},
+    {palabra:"Divergente", definicion:"Que diverge, que se separa en dos líneas. / Discordar, discrepar."},
+    {palabra:"Discordante", definicion:"Que está en desacuerdo con otra u otras personas o cosas. / Que no guarda consonancia armónica con los demás sonidos de un conjunto."},
+    {palabra:"Medianía", definicion:"Vulgar, del montón. / Condición de ser medio, mediano o promedio. / Por extensión, cosa o persona sin defectos o virtudes notorias"},
+    {palabra:"Peccata minuta", definicion:"Lat. Pequeño pecado. / Expresión latina familiar que se usa para indicar un error o falta leve. Se usa en sentido coloquial para designar una culpa, equivocación o error de poca importancia. / Se usa para referirse a algo sin importancia o de poco valor. 'Lo que ha hecho este hombre es peccata minuta, en comparación con lo que han hecho otros.'"},
+    {palabra:"Mindfulness", definicion:"La atención plena, conciencia plena o conciencia pura; también traducido como conciencia es una facultad espiritual o psicológica que se consideran de gran importancia en el camino hacia la iluminación"},
+    {palabra:"Epítome", definicion:"Resumen de un discurso extenso en unas pocas palabras finales. / Resumen o compendio de una obra extensa, que expone lo fundamental o más preciso de la materia tratada en ella."},
   
   ];
 
