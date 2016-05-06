@@ -855,6 +855,13 @@ angular.module('definicionesModule', [])
     {palabra:"Peccata minuta", definicion:"Lat. Pequeño pecado. / Expresión latina familiar que se usa para indicar un error o falta leve. Se usa en sentido coloquial para designar una culpa, equivocación o error de poca importancia. / Se usa para referirse a algo sin importancia o de poco valor. 'Lo que ha hecho este hombre es peccata minuta, en comparación con lo que han hecho otros.'"},
     {palabra:"Mindfulness", definicion:"La atención plena, conciencia plena o conciencia pura; también traducido como conciencia es una facultad espiritual o psicológica que se consideran de gran importancia en el camino hacia la iluminación"},
     {palabra:"Epítome", definicion:"Resumen de un discurso extenso en unas pocas palabras finales. / Resumen o compendio de una obra extensa, que expone lo fundamental o más preciso de la materia tratada en ella."},
+    {palabra:"Verbosidad", definicion:"Abundancia de palabras en la elocución."},
+    {palabra:"Elocución", definicion:"Manera de hablar y manejar los conceptos. / Modo de elegir y distribuir los pensamientos y las palabras en el discurso."},
+    {palabra:"Habitud", definicion:"Relación que tiene una cosa respecto de otra. / Relación que tiene una cosa con otra."},
+    {palabra:"Locuacidad", definicion:"Cualidad de locuaz."},
+    {palabra:"Locuaz", definicion:"Que habla mucho o demasiado. / Loco."},
+    {palabra:"Ávido", definicion:"Ansioso, codicioso."},
+    {palabra:"Embelesar", definicion:"Arrebatar o cautivar los sentidos."},
   
   ];
 
