@@ -864,6 +864,8 @@ angular.module('definicionesModule', [])
     {palabra:"Embelesar", definicion:"Arrebatar o cautivar los sentidos."},
     {palabra:"Habitud", definicion:"Relación que tiene una cosa respecto de otra. / Hábito, costumbre."},
     {palabra:"Disforia", definicion:"La disforia se caracteriza generalmente como una emoción desagradable o molesta, como la tristeza, ansiedad, irritabilidad o inquietud. Es el opuesto etimológico de la euforia."},
+    {palabra:"Fraseología", definicion:"Conjunto de modos de expresión peculiares de una lengua, de un grupo, de una época, actividad o individuo. / Conjunto de expresiones intrincadas, pretenciosas o falaces. / Palabrería."},
+    {palabra:"Facundia", definicion:"Facilidad y desenvoltura en el hablar."},
   
   ];
 
