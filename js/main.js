@@ -862,6 +862,8 @@ angular.module('definicionesModule', [])
     {palabra:"Locuaz", definicion:"Que habla mucho o demasiado. / Loco."},
     {palabra:"Ávido", definicion:"Ansioso, codicioso."},
     {palabra:"Embelesar", definicion:"Arrebatar o cautivar los sentidos."},
+    {palabra:"Habitud", definicion:"Relación que tiene una cosa respecto de otra. / Hábito, costumbre."},
+    {palabra:"Disforia", definicion:"La disforia se caracteriza generalmente como una emoción desagradable o molesta, como la tristeza, ansiedad, irritabilidad o inquietud. Es el opuesto etimológico de la euforia."},
   
   ];
 
