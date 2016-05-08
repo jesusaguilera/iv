@@ -879,6 +879,8 @@ angular.module('definicionesModule', [])
     {palabra:"Seráfico", definicion:"Angelical."},
     {palabra:"Presbicia", definicion:"Vista cansada."},
     {palabra:"Proléptico", definicion:"Conocimiento anticipado de una cosa, en la doctrina de los epicúreos y los estoicos."},
+    {palabra:"Acucia", definicion:"Diligencia, solicitud, prisa. / Deseo vehemente."},
+    {palabra:"Bluf", definicion:"Montaje propagandístico para crear un prestigio falso. / Fanfarronada."},
   
   ];
 
