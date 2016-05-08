@@ -881,6 +881,8 @@ angular.module('definicionesModule', [])
     {palabra:"Proléptico", definicion:"Conocimiento anticipado de una cosa, en la doctrina de los epicúreos y los estoicos."},
     {palabra:"Acucia", definicion:"Diligencia, solicitud, prisa. / Deseo vehemente."},
     {palabra:"Bluf", definicion:"Montaje propagandístico para crear un prestigio falso. / Fanfarronada."},
+    {palabra:"Prurito", definicion:"Deseo persistente y excesivo de hacer algo de la mejor manera posible."},
+    {palabra:"Egotismo", definicion:"Prurito de hablar de sí mismo. / Sentimiento exagerado de la propia personalidad."},
   
   ];
 
