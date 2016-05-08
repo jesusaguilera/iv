@@ -883,6 +883,8 @@ angular.module('definicionesModule', [])
     {palabra:"Bluf", definicion:"Montaje propagandístico para crear un prestigio falso. / Fanfarronada."},
     {palabra:"Prurito", definicion:"Deseo persistente y excesivo de hacer algo de la mejor manera posible."},
     {palabra:"Egotismo", definicion:"Prurito de hablar de sí mismo. / Sentimiento exagerado de la propia personalidad."},
+    {palabra:"Abigarrado", definicion:"Heterogéneo, reuinido sin concierto."},
+    {palabra:"Heterogéneo", definicion:"Compuesto de partes de diversa naturaleza."},
   
   ];
 
