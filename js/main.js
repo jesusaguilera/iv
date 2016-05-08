@@ -867,6 +867,18 @@ angular.module('definicionesModule', [])
     {palabra:"Fraseología", definicion:"Conjunto de modos de expresión peculiares de una lengua, de un grupo, de una época, actividad o individuo. / Conjunto de expresiones intrincadas, pretenciosas o falaces. / Palabrería."},
     {palabra:"Facundia", definicion:"Facilidad y desenvoltura en el hablar."},
     {palabra:"Astracanada", definicion:"Acción o comportamiento públicos disparatados y ridículos."},
+    {palabra:"Exhortar", definicion:"Incitar o actuar mediante razones o ruegos."},
+    {palabra:"Exabrupto", definicion:"Salida de tono o ademán inesperado con viveza."},
+    {palabra:"Dialectal", definicion:"Relativo del dialecto."},
+    {palabra:"Arameo", definicion:"Perteneciente a un pueblo semítico."},
+    {palabra:"Esperanto", definicion:"Lengua que fue creada para convertirse en una lengua auxiliar internacional, crada por un oftalmólog Polaco."},
+    {palabra:"Sofisticar", definicion:"Falsificar o corromper algo."},
+    {palabra:"Fluctuación", definicion:"Oscilar. / Duda, irresolución o indeterminación. /  Dicho de una cosa: correr el riesgo de perderse y aurrinarse"},
+    {palabra:"Punición", definicion:"Castigo."},
+    {palabra:"Vesícula", definicion:"Vegija. / Abultamiento que aparece en la piel en forma de bolsa pequeña llena de liquido, a causa de una quemadura, roce o enfermedad."},
+    {palabra:"Seráfico", definicion:"Angelical."},
+    {palabra:"Presbicia", definicion:"Vista cansada."},
+    {palabra:"Proléptico", definicion:"Conocimiento anticipado de una cosa, en la doctrina de los epicúreos y los estoicos."},
   
   ];
 
