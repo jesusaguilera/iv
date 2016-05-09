@@ -885,6 +885,8 @@ angular.module('definicionesModule', [])
     {palabra:"Egotismo", definicion:"Prurito de hablar de sí mismo. / Sentimiento exagerado de la propia personalidad."},
     {palabra:"Abigarrado", definicion:"Heterogéneo, reuinido sin concierto."},
     {palabra:"Heterogéneo", definicion:"Compuesto de partes de diversa naturaleza."},
+    {palabra:"Trepidar", definicion:"Temblar fuertemente."},
+    {palabra:"Filia", definicion:"Amor o afición por algo."},
   
   ];
 
