@@ -887,6 +887,10 @@ angular.module('definicionesModule', [])
     {palabra:"Heterogéneo", definicion:"Compuesto de partes de diversa naturaleza."},
     {palabra:"Trepidar", definicion:"Temblar fuertemente."},
     {palabra:"Filia", definicion:"Amor o afición por algo."},
+    {palabra:"Diáspora", definicion:"Dispersión de los judíos exiliados de su país. / Dispersión de grupos humanos que abandonan su lugar de origen."},
+    {palabra:"Injerir", definicion:"Meter una cosa en otra. / Injertar plantas. / Introducir en un escrito una palabra, una nota, un texto, etc. / Entremeterse, introducirse en una dependencia o negocio."},
+    {palabra:"Acaecer", definicion:"Suceder."},
+    {palabra:"Exacerbar", definicion:"Irritar, causar muy grave enfado o enojo. / Agravar o avivar una enfermedad, una pasión, una molestia. / Intensificar, extremar, exagerar."},
   
   ];
 
