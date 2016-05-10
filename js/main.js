@@ -904,6 +904,7 @@ angular.module('definicionesModule', [])
     {palabra:"Conturbar", definicion:"Alterar o inquietar a alguien o causar intranquilidad en su ánimo."},
     {palabra:"Disentir", definicion:"No ajustarse al sentir o parecer de alguien."},
     {palabra:"Glosa", definicion:"Explicación que se pone al margen como aclaración de un texto escrito."},
+    {palabra:"Profeta", definicion:"Persona que, por señales o cálculos hechos previamente, conjetura y predice acontecimientos futuros."},
   ];
 
 }]);
