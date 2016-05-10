@@ -857,7 +857,6 @@ angular.module('definicionesModule', [])
     {palabra:"Epítome", definicion:"Resumen de un discurso extenso en unas pocas palabras finales. / Resumen o compendio de una obra extensa, que expone lo fundamental o más preciso de la materia tratada en ella."},
     {palabra:"Verbosidad", definicion:"Abundancia de palabras en la elocución."},
     {palabra:"Elocución", definicion:"Manera de hablar y manejar los conceptos. / Modo de elegir y distribuir los pensamientos y las palabras en el discurso."},
-    {palabra:"Habitud", definicion:"Relación que tiene una cosa respecto de otra. / Relación que tiene una cosa con otra."},
     {palabra:"Locuacidad", definicion:"Cualidad de locuaz."},
     {palabra:"Locuaz", definicion:"Que habla mucho o demasiado. / Loco."},
     {palabra:"Ávido", definicion:"Ansioso, codicioso."},
