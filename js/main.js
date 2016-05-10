@@ -857,7 +857,6 @@ angular.module('definicionesModule', [])
     {palabra:"Epítome", definicion:"Resumen de un discurso extenso en unas pocas palabras finales. / Resumen o compendio de una obra extensa, que expone lo fundamental o más preciso de la materia tratada en ella."},
     {palabra:"Verbosidad", definicion:"Abundancia de palabras en la elocución."},
     {palabra:"Elocución", definicion:"Manera de hablar y manejar los conceptos. / Modo de elegir y distribuir los pensamientos y las palabras en el discurso."},
-    {palabra:"Habitud", definicion:"Relación que tiene una cosa respecto de otra. / Relación que tiene una cosa con otra."},
     {palabra:"Locuacidad", definicion:"Cualidad de locuaz."},
     {palabra:"Locuaz", definicion:"Que habla mucho o demasiado. / Loco."},
     {palabra:"Ávido", definicion:"Ansioso, codicioso."},
@@ -900,6 +899,12 @@ angular.module('definicionesModule', [])
     {palabra:"Conmiseración", definicion:"Compasión que se tiene del mal de alguien."},
     {palabra:"Gentil", definicion:"Entre los judíos, dicho de una persona o una comunidad: Que profesa otra religión. / Pagano. / Notable. / Amable o cortés."},
     {palabra:"Mediato", definicion:"Que en tiempo, lugar o grado está próximo a una cosa, mediando otra entre las dos, como el nieto respecto del abuelo."},
+    {palabra:"Dación", definicion:"Acción y efecto de dar algo."},
+    {palabra:"Azorar", definicion:"Dicho de un azor: Asustar, perseguir o alcanzar a otras aves. / Conturbar, sobresaltar. / Irritar, encender, infundir ánimo."},
+    {palabra:"Conturbar", definicion:"Alterar o inquietar a alguien o causar intranquilidad en su ánimo."},
+    {palabra:"Disentir", definicion:"No ajustarse al sentir o parecer de alguien."},
+    {palabra:"Glosa", definicion:"Explicación que se pone al margen como aclaración de un texto escrito."},
+    {palabra:"Profeta", definicion:"Persona que, por señales o cálculos hechos previamente, conjetura y predice acontecimientos futuros."},
   ];
 
 }]);
