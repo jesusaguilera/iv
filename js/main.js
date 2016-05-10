@@ -340,7 +340,7 @@ angular.module('definicionesModule', [])
     {palabra:"Gleba", definicion:"Terrón que se levanta del arado. / Gente del pueblo bajo."},
     {palabra:"Exánime", definicion:"Sin señal de vida. / Debilitado sin aliento, desmayado."},
     {palabra:"Perínclito", definicion:"Grande heróico, inclito de sumo grado."},
-    {palabra:"Posopopeya", definicion:"Atribución a las cosas inanimadas o abstractas de cualidades de seres animados, o a los seres ideales las del ser humano."},
+    {palabra:"Prosopopeya", definicion:"Afectación de gravedad y pompa. / Figura retórica de pensamiento que consiste en atribuir a los seres inanimados o abstractos características y cualidades propias de los seres animados, o a los seres irracionales actitudes propias de los seres racionales o en hacer hablar a personas muertas o ausentes."},
     {palabra:"Sustantivar", definicion:"Considerar algo como sustancia."},
     {palabra:"Célere", definicion:"Pronto, rápido."},
     {palabra:"Univocar", definicion:"Convertir en una razón mismas una o más cosas."},
@@ -894,7 +894,12 @@ angular.module('definicionesModule', [])
     {palabra:"Falsario", definicion:"Que falsea algo. / Que suele hacer falsedades o decir mentiras."},
     {palabra:"Indulgente", definicion:"Inclinado a perdonar y disimular los yerros o a conceder gracias."},
     {palabra:"Menesteroso", definicion:"Falto, necesitado, que carece de una cosa o de muchas."},
-  
+    {palabra:"Trascendencia", definicion:"Penetración, perspicacia. / Resultado, consecuencia de índole grave o muy importante. / Aquello que está más allá de los límites naturales."},
+    {palabra:"Panegirista", definicion:"Orador que pronuncia el panegírico. / Persona que alaba algo o a alguien de palabra o por escrito."},
+    {palabra:"Loador", definicion:"Alabador. / Que hace loa."},
+    {palabra:"Conmiseración", definicion:"Compasión que se tiene del mal de alguien."},
+    {palabra:"Gentil", definicion:"Entre los judíos, dicho de una persona o una comunidad: Que profesa otra religión. / Pagano. / Notable. / Amable o cortés."},
+    {palabra:"Mediato", definicion:"Que en tiempo, lugar o grado está próximo a una cosa, mediando otra entre las dos, como el nieto respecto del abuelo."},
   ];
 
 }]);
