@@ -844,7 +844,7 @@ angular.module('definicionesModule', [])
     {palabra:"Polonio 210", definicion:"Se trata de un raro metaloide altamente radiactivo"},
     {palabra:"Histriónico", definicion:"Perteneciente o relativo al histrión."},
     {palabra:"Histrión", definicion:"Actor teatral. / Persona que se expresa con afectación o exageración propia de un actor teatral. / Prestidigitador, acróbata o cualquier otra persona que divertía al público con disfraces. / Hombre que representaba disfrazado en la comedia o tragedia antigua."},
-    {palabra:"Irredento", definicion:"Dicho especialmente del territorio que una nación pretende anexionarse por razones históricas, de lengua, raza, etc.: Que permanece sin redimir."},
+    {palabra:"Irredento", definicion:"[territorio] Que no está anexionado a otro al que se considera unido por razones nacionales. / Que está sin redimir, perdonar o liberar. 'esta actitud, según algunos, fue motivada por una irredenta búsqueda de perfección'"},
     {palabra:"Redimir", definicion:"Rescatar o sacar de esclavitud al cautivo mediante precio. / Comprar de nuevo algo que se había vendido, poseído o tenido por alguna razón o título. / Librar de una obligación o extinguirla."},
     {palabra:"Pírrico", definicion:"Dicho de un triunfo o de una victoria: Obtenidos con más daño del vencedor que del vencido. / Conseguido con mucho trabajo o por un margen muy pequeño. / De poco valor o insuficiente, especialmente en proporción al esfuerzo realizado. / Dicho de una danza: Practicada en la Grecia antigua y que imitaba un combate."},
     {palabra:"Disgenesia", definicion:"Disgenesia es un término opuesto a la eugenesia, y es utilizado por algunos científicos actuales para caracterizar la selección de variables genéticas negativas."},
@@ -891,6 +891,9 @@ angular.module('definicionesModule', [])
     {palabra:"Injerir", definicion:"Meter una cosa en otra. / Injertar plantas. / Introducir en un escrito una palabra, una nota, un texto, etc. / Entremeterse, introducirse en una dependencia o negocio."},
     {palabra:"Acaecer", definicion:"Suceder."},
     {palabra:"Exacerbar", definicion:"Irritar, causar muy grave enfado o enojo. / Agravar o avivar una enfermedad, una pasión, una molestia. / Intensificar, extremar, exagerar."},
+    {palabra:"Falsario", definicion:"Que falsea algo. / Que suele hacer falsedades o decir mentiras."},
+    {palabra:"Indulgente", definicion:"Inclinado a perdonar y disimular los yerros o a conceder gracias."},
+    {palabra:"Menesteroso", definicion:"Falto, necesitado, que carece de una cosa o de muchas."},
   
   ];
 
