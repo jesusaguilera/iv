@@ -905,6 +905,19 @@ angular.module('definicionesModule', [])
     {palabra:"Disentir", definicion:"No ajustarse al sentir o parecer de alguien."},
     {palabra:"Glosa", definicion:"Explicación que se pone al margen como aclaración de un texto escrito."},
     {palabra:"Profeta", definicion:"Persona que, por señales o cálculos hechos previamente, conjetura y predice acontecimientos futuros."},
+    {palabra:"Teorético", definicion:"Teórico. / Que se dirige al conocimiento, no a la acción ni a la práctica. / Estudio del conocimiento."},
+    {palabra:"Delación", definicion:"Acusación o denuncia de un hecho censurable."},
+    {palabra:"Ágrafo", definicion:"Que es incapaz de escribir o no sabe hacerlo. / Dicho de una persona: Poco dada a escribir."},
+    {palabra:"Demañando", definicion:"Falta de mañan y habilidad."},
+    {palabra:"Pingüe", definicion:"Craso, gordo, mantecoso. / Abundante, copioso, fértil."},
+    {palabra:"Craso", definicion:"Indisculpable. / Graso, untuoso. / Grueso, gordo. Crasitud."},
+    {palabra:"Crasitud", definicion:"Gordura. Tejido adiposo."},
+    {palabra:"Hálito", definicion:"Aliento. / Vapor que algo arroja. / Soplo suave y apacible."},
+    {palabra:"Bullanga", definicion:"Tumulto, rebullicio."},
+    {palabra:"Palmario", definicion:"Claro, patente, manifiesto."},
+    {palabra:"Diamantino", definicion:"Perteneciente o relativo al diamante. Duro, persistente, inquebrantable."},
+    {palabra:"Inquirir", definicion:"Indagar, averiguar o examinar cuidadosamente algo."},
+    {palabra:"Sima", definicion:"Cavidad grande y muy profunda en la tierra."},
   ];
 
 }]);
