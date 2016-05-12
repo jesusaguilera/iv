@@ -924,6 +924,7 @@ angular.module('definicionesModule', [])
     {palabra:"Meridional", definicion:"Sur."},
     {palabra:"Nesciencia", definicion:"Necedad, ignorancia. Falto de ciencia."},
     {palabra:"Manumisión", definicion:"En la antigua Roma proceso de liberar a un esclavo, tras lo cual se convertía en liberto."},
+    {palabra:"Pormenorizar", definicion:"Describir o enumerar minuciosamente."},
   ];
 
 }]);
