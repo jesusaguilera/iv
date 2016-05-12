@@ -918,6 +918,12 @@ angular.module('definicionesModule', [])
     {palabra:"Diamantino", definicion:"Perteneciente o relativo al diamante. Duro, persistente, inquebrantable."},
     {palabra:"Inquirir", definicion:"Indagar, averiguar o examinar cuidadosamente algo."},
     {palabra:"Sima", definicion:"Cavidad grande y muy profunda en la tierra."},
+    {palabra:"Munícipe", definicion:"Vecino de un municipio. / Concejal"},
+    {palabra:"Afasia", definicion:"Daño en el cerebro que impide el habla."},
+    {palabra:"Septentrional", definicion:"Norte."},
+    {palabra:"Meridional", definicion:"Sur."},
+    {palabra:"Nesciencia", definicion:"Necedad, ignorancia. Falto de ciencia."},
+    {palabra:"Manumisión", definicion:"En la antigua Roma proceso de liberar a un esclavo, tras lo cual se convertía en liberto."},
   ];
 
 }]);
