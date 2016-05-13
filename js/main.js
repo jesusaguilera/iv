@@ -931,6 +931,16 @@ angular.module('definicionesModule', [])
     {palabra:"Albur", definicion:"Suerte o azar."},
     {palabra:"Cuita", definicion:"Trabajo, aflicción, desventura, pena. / Ansia, anhelo, deseo vehemente."},
     {palabra:"Pléyade", definicion:"Grupo de personas famosas, especialemnte en las letras, que viven en la misma época."},
+    {palabra:"Runas", definicion:"Cada uno de los caracteres que empleaban en la escritura los antiguos escandinavos y otros pueblos germánicos. / Inscripción en lengua germánica de los siglos III y IV d. C."},
+    {palabra:"Beocio", definicion:"Ignorante, tonto, estúpido."},
+    {palabra:"Carcamán", definicion:"Persona de muchas pretensiones y poco mérito."},
+    {palabra:"Astroso", definicion:"Vil, abyecto, despreciable. "},
+    {palabra:"Panegírico", definicion:"En oratoria, discurso o sermón en alabanza de algo o de alguien. / Elogio enfático de algo o de alguien."},
+    {palabra:"Cropolito", definicion:"Masa fecal endurecida o fosilizada."},
+    {palabra:"Prensil", definicion:"Que sirve para asir o coger."},
+    {palabra:"Impostar", definicion:"Fijar la voz en las cuerdas vocales para emitir el sonido en su plenitud sin vacilación ni temblor."},
+    {palabra:"Cosmovisión", definicion:"Visión o concepción global del universo."},
+    {palabra:"Aleccionar", definicion:"Instruir, enseñar, amaestrar."},
   ];
 
 }]);
