@@ -924,6 +924,8 @@ angular.module('definicionesModule', [])
     {palabra:"Meridional", definicion:"Sur."},
     {palabra:"Nesciencia", definicion:"Necedad, ignorancia. Falto de ciencia."},
     {palabra:"Manumisión", definicion:"En la antigua Roma proceso de liberar a un esclavo, tras lo cual se convertía en liberto."},
+    {palabra:"Manumitir", definicion:"Dar libertad a un esclavo. ( Verbo infinitivo )."},
+    {palabra:"Manumiso", definicion:"Esclavo que ha sido liberado."},
   ];
 
 }]);
