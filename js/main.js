@@ -941,6 +941,7 @@ angular.module('definicionesModule', [])
     {palabra:"Impostar", definicion:"Fijar la voz en las cuerdas vocales para emitir el sonido en su plenitud sin vacilación ni temblor."},
     {palabra:"Cosmovisión", definicion:"Visión o concepción global del universo."},
     {palabra:"Aleccionar", definicion:"Instruir, enseñar, amaestrar."},
+    {palabra:"Desarraigar", definicion:"Extinguir, extirpar enteramente una pasión, una costumbre o un vicio. / Separar a alguien del lugar o medio donde se ha criado, o cortar los vínculos afectivos que tiene con ellos."},
   ];
 
 }]);
