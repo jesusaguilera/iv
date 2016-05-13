@@ -942,6 +942,9 @@ angular.module('definicionesModule', [])
     {palabra:"Cosmovisión", definicion:"Visión o concepción global del universo."},
     {palabra:"Aleccionar", definicion:"Instruir, enseñar, amaestrar."},
     {palabra:"Desarraigar", definicion:"Extinguir, extirpar enteramente una pasión, una costumbre o un vicio. / Separar a alguien del lugar o medio donde se ha criado, o cortar los vínculos afectivos que tiene con ellos."},
+    {palabra:"Idiomático", definicion:"Propio y peculiar de una lengua determinada."},
+    {palabra:"Sapiencia", definicion:"Sabiduría."},
+    {palabra:"Filibustero", definicion:"Pirata, que por el siglo XVII formó parte de los grupos que infestaron el mar de las Antillas."},
   ];
 
 }]);
