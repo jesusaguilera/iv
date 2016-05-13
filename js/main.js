@@ -926,6 +926,11 @@ angular.module('definicionesModule', [])
     {palabra:"Manumisión", definicion:"En la antigua Roma proceso de liberar a un esclavo, tras lo cual se convertía en liberto."},
     {palabra:"Manumitir", definicion:"Dar libertad a un esclavo. ( Verbo infinitivo )."},
     {palabra:"Manumiso", definicion:"Esclavo que ha sido liberado."},
+    {palabra:"Pormenorizar", definicion:"Describir o enumerar minuciosamente."},
+    {palabra:"Benemérito", definicion:"Digno de galardón."},
+    {palabra:"Albur", definicion:"Suerte o azar."},
+    {palabra:"Cuita", definicion:"Trabajo, aflicción, desventura, pena. / Ansia, anhelo, deseo vehemente."},
+    {palabra:"Pléyade", definicion:"Grupo de personas famosas, especialemnte en las letras, que viven en la misma época."},
   ];
 
 }]);
