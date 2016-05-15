@@ -945,6 +945,16 @@ angular.module('definicionesModule', [])
     {palabra:"Idiomático", definicion:"Propio y peculiar de una lengua determinada."},
     {palabra:"Sapiencia", definicion:"Sabiduría."},
     {palabra:"Filibustero", definicion:"Pirata, que por el siglo XVII formó parte de los grupos que infestaron el mar de las Antillas."},
+    {palabra:"Oligofrenia", definicion:"Discapacidad mental grave que se caracteriza por una deficiencia en el desarrollo intelectual y alteraciones del sistema nervioso."},
+    {palabra:"Permuta", definicion:"Intercambio de una cosa por otra sin meidación de dinero, salvo excepciones. / Intercambio de empleo entre dos personas que ocupan un puesto público."},
+    {palabra:"Concomitancia", definicion:"Coincidencia deliberada o casual de dos más factores en la producción de un efeto. / Relación, afinidad o punto en común."},
+    {palabra:"Marchamo", definicion:"Estilo especial que caracteriza algo."},
+    {palabra:"Pánfilo", definicion:"Ingenuo, que tarda en comprender las cosas."},
+    {palabra:"Defenestrar", definicion:"Separar o expulsar a una persona de su cargo, especialmente si es de forma inseperada."},
+    {palabra:"Medrar", definicion:"Mejorar de fortuna aumentando sus bienes, reputación, etc. especialmente cuando lo hace con artimañas o aprovechándose de las circunstancias."},
+    {palabra:"Epifanía", definicion:"Manifestación de una cosa."},
+    {palabra:"Contubernio", definicion:"Alianza o liga vituperable. Cohabitación ilícita. / Habitación con otra persona."},
+    {palabra:"Detentar", definicion:"Ocupar un cargo de poder de maner ilegítima. / Tener si derecho una cosa que no le pertenece."},
   ];
 
 }]);
