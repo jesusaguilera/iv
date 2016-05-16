@@ -955,6 +955,8 @@ angular.module('definicionesModule', [])
     {palabra:"Epifanía", definicion:"Manifestación de una cosa."},
     {palabra:"Contubernio", definicion:"Alianza o liga vituperable. Cohabitación ilícita. / Habitación con otra persona."},
     {palabra:"Detentar", definicion:"Ocupar un cargo de poder de maner ilegítima. / Tener si derecho una cosa que no le pertenece."},
+    {palabra:"Cimarrón", definicion:"Dicho de un esclavo: Que se refugiaba en los montes buscando la libertad"},
+    {palabra:"Pestífero", definicion:"Que puede ocasionar peste o daño grave. / Que es muy malo en su línea. / Que tiene muy mal olor."},
   ];
 
 }]);
