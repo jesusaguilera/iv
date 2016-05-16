@@ -461,7 +461,7 @@ angular.module('definicionesModule', [])
     {palabra:"Inguinal", definicion:"Relativo a las ingles."},
     {palabra:"Emético", definicion:"Vomitivo."},
     {palabra:"Paritario", definicion:"Dicho de una asmablea donde sus partes estan en igualdad."},
-    {palabra:"Vodevil", definicion:"Comedia frívola y picante basado en intriga."},
+    {palabra:"Vodevil", definicion:"Comedia frívola, ligera y picante, de argumento basado en la intriga y el equívoco, que puede incluir números musicales y de variedades."},
     {palabra:"Pseudo", definicion:"Falso."},
     {palabra:"Antonimia", definicion:"Condición de antónimo."},
     {palabra:"Beligerante", definicion:"Combativo."},
@@ -956,7 +956,15 @@ angular.module('definicionesModule', [])
     {palabra:"Contubernio", definicion:"Alianza o liga vituperable. Cohabitación ilícita. / Habitación con otra persona."},
     {palabra:"Detentar", definicion:"Ocupar un cargo de poder de maner ilegítima. / Tener si derecho una cosa que no le pertenece."},
     {palabra:"Cimarrón", definicion:"Dicho de un esclavo: Que se refugiaba en los montes buscando la libertad"},
-    {palabra:"Pestífero", definicion:"Que puede ocasionar peste o daño grave. / Que es muy malo en su línea. / Que tiene muy mal olor."},
+    {palabra:"Avezado", definicion:"Ducho, experimentado en algo."},
+    {palabra:"Jactancia", definicion:"Alabanza propia, desordenada y presuntuosa."},
+    {palabra:"Mácula", definicion:"Mancha. / Cosa que deslustra y desdora. / Engaño, trampa."},
+    {palabra:"Afección", definicion:"Afecto. / Afición, inclinación, apego. / Enfermedad."},
+    {palabra:"Bajel", definicion:"Embarcación."},
+    {palabra:"Conturbado", definicion:"Revuelto, intranquilo."},
+    {palabra:"Cabal", definicion:"Excelente en su clase. / Completo, exacto, perfecto."},
+    {palabra:"Sicalípticas", definicion:"Pertenciente o relativo a la sicalipsis."},
+    {palabra:"Sicalipsis", definicion:"Del argot teatral y literario español de la primera mitad del siglo XIX. / Zarzuela sicalíptica, tipo de zarzuela de corte popular que se caracteriza por sus diálogos llenos de insinuaciones y connotaciones sexuales, canciones de aroma picante y enredos de corte vodevilesco y en ocasiones presenta elementos de opereta, revista, e incluso cuplé. / Malicia sexual, picardía erótica. "},
   ];
 
 }]);
