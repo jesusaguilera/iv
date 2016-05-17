@@ -965,6 +965,14 @@ angular.module('definicionesModule', [])
     {palabra:"Cabal", definicion:"Excelente en su clase. / Completo, exacto, perfecto."},
     {palabra:"Sicalípticas", definicion:"Pertenciente o relativo a la sicalipsis."},
     {palabra:"Sicalipsis", definicion:"Del argot teatral y literario español de la primera mitad del siglo XIX. / Zarzuela sicalíptica, tipo de zarzuela de corte popular que se caracteriza por sus diálogos llenos de insinuaciones y connotaciones sexuales, canciones de aroma picante y enredos de corte vodevilesco y en ocasiones presenta elementos de opereta, revista, e incluso cuplé. / Malicia sexual, picardía erótica. "},
+    {palabra:"Tardo", definicion:"Lento, perezoso en obrar. / Que sucede después de lo que convenía o se esperaba. / Torpe"},
+    {palabra:"Áureo", definicion:"Relativo al oro."},
+    {palabra:"Próvido", definicion:"Prevenido, cuidadoso y diligente para proveer y acudir con lo necesario al logro de un fin. / Propicio, benévolo."},
+    {palabra:"Tonante", definicion:"Que truena."},
+    {palabra:"Dilación", definicion:"Demora, tardanza o detención de algo por algún tiempo."},
+    {palabra:"Altivo", definicion:"Orgulloso, soberbio. / Dicho de una cosa: Erguida, elevada."},
+    {palabra:"Rozagante", definicion:"Dicho de una vestidura: Vistosa y muy larga. / Vistoso, ufano."},
+    {palabra:"Bestiario", definicion:"En la literatura medieval, colección de relatos, descripciones e imágenes de animales reales o fantásticos. / En los circos romanos, hombre que luchaba con las fieras."},
   ];
 
 }]);
