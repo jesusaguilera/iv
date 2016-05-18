@@ -973,6 +973,8 @@ angular.module('definicionesModule', [])
     {palabra:"Altivo", definicion:"Orgulloso, soberbio. / Dicho de una cosa: Erguida, elevada."},
     {palabra:"Rozagante", definicion:"Dicho de una vestidura: Vistosa y muy larga. / Vistoso, ufano."},
     {palabra:"Bestiario", definicion:"En la literatura medieval, colección de relatos, descripciones e imágenes de animales reales o fantásticos. / En los circos romanos, hombre que luchaba con las fieras."},
+    {palabra:"Dilecto", definicion:"Amado con dilección."},
+    {palabra:"Dilección", definicion:"Voluntad honesta, amor reflexivo."},
   ];
 
 }]);
