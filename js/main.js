@@ -973,6 +973,10 @@ angular.module('definicionesModule', [])
     {palabra:"Altivo", definicion:"Orgulloso, soberbio. / Dicho de una cosa: Erguida, elevada."},
     {palabra:"Rozagante", definicion:"Dicho de una vestidura: Vistosa y muy larga. / Vistoso, ufano."},
     {palabra:"Bestiario", definicion:"En la literatura medieval, colección de relatos, descripciones e imágenes de animales reales o fantásticos. / En los circos romanos, hombre que luchaba con las fieras."},
+    {palabra:"Jaez", definicion:"Adorno de cintas con que se entrelazan las crines del caballo. / Cualidad o propiedad de algo."},
+    {palabra:"Hinojo", definicion:"Rodilla."},
+    {palabra:"Cejar", definicion:"Retroceder, ir hacia atrás. / Aflojar o ceder en un negocio, empeño o discusión."},
+    {palabra:"Inanición", definicion:"Debilidad grande por falta de alimento o por otras causas."},
   ];
 
 }]);
