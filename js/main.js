@@ -527,7 +527,6 @@ angular.module('definicionesModule', [])
     {palabra:"Fielato", definicion:"Oficio de fiel."},
     {palabra:"Sevicia", definicion:"Trato cruel. / Crueldad excesiva."},
     {palabra:"Triunvirato", definicion:"Junta de 3 personas para cualquier empresa o asunto."},
-    {palabra:"Dicterio", definicion:"Dicho denigrativo que insulta y provoca."},
     {palabra:"Exhabrupto", definicion:"Salida de tono."},
     {palabra:"Pudendas", definicion:"Torpe, feo, que debe causar vergüenza. / Miembro viril."},
     {palabra:"Fenecer", definicion:"Concluir, morir, poner fin a algo."},
@@ -954,7 +953,7 @@ angular.module('definicionesModule', [])
     {palabra:"Medrar", definicion:"Mejorar de fortuna aumentando sus bienes, reputación, etc. especialmente cuando lo hace con artimañas o aprovechándose de las circunstancias."},
     {palabra:"Epifanía", definicion:"Manifestación de una cosa."},
     {palabra:"Contubernio", definicion:"Alianza o liga vituperable. Cohabitación ilícita. / Habitación con otra persona."},
-    {palabra:"Detentar", definicion:"Ocupar un cargo de poder de maner ilegítima. / Tener si derecho una cosa que no le pertenece."},
+    {palabra:"Detentar", definicion:"Ocupar un cargo de poder de manera ilegítima. / Tener si derecho una cosa que no le pertenece."},
     {palabra:"Cimarrón", definicion:"Dicho de un esclavo: Que se refugiaba en los montes buscando la libertad"},
     {palabra:"Avezado", definicion:"Ducho, experimentado en algo."},
     {palabra:"Jactancia", definicion:"Alabanza propia, desordenada y presuntuosa."},
@@ -982,6 +981,14 @@ angular.module('definicionesModule', [])
     {palabra:"Folículo", definicion:"Glándula, en forma de saco, situada en el espesor de la piel o de las mucosas."},
     {palabra:"Forúnculo", definicion:"Inflamación purulenta producida por la infección bacteriana de un folículo piloso."},
     {palabra:"Cánula", definicion:"Caña pequeña. / Tubo corto que se emplea en diferentes operaciones de cirugía o que forma parte de aparatos físicos o quirúrgicos."},
+    {palabra:"Exequias", definicion:"Ceremonias religiosas que se celebran por un difunto."},
+    {palabra:"Laso", definicion:"Flojo y macilento. / Cansado, desfallecido, falto de fuerzas."},
+    {palabra:"Macilento", definicion:"Flaco, descolorido."},
+    {palabra:"Apóstrofe", definicion:"Dicterio."},
+    {palabra:"Dicterio", definicion:"Dicho denigrativo que insulta y provoca."},
+    {palabra:"Denodarse", definicion:"Atreverse, esforzarse, mostrarse osado o feroz."},
+    {palabra:"Mingitorio", definicion:"Relacionado con la micción. / Urinario."},
+    {palabra:"Mayestático", definicion:"Que tiene las características que se considern propias de la majestad ( solemnidad, elegancia o grandeza capaz de infundir admiración y respeto. )"},
   ];
 
 }]);
