@@ -977,6 +977,11 @@ angular.module('definicionesModule', [])
     {palabra:"Hinojo", definicion:"Rodilla."},
     {palabra:"Cejar", definicion:"Retroceder, ir hacia atrás. / Aflojar o ceder en un negocio, empeño o discusión."},
     {palabra:"Inanición", definicion:"Debilidad grande por falta de alimento o por otras causas."},
+    {palabra:"Polivalente", definicion:"Que vale para muchas cosas."},
+    {palabra:"Resollar", definicion:"Dicho de una persona o animal: Absover y expeler el aire por sus órganos."},
+    {palabra:"Folículo", definicion:"Glándula, en forma de saco, situada en el espesor de la piel o de las mucosas."},
+    {palabra:"Forúnculo", definicion:"Inflamación purulenta producida por la infección bacteriana de un folículo piloso."},
+    {palabra:"Cánula", definicion:"Caña pequeña. / Tubo corto que se emplea en diferentes operaciones de cirugía o que forma parte de aparatos físicos o quirúrgicos."},
   ];
 
 }]);
