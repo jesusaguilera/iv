@@ -527,6 +527,10 @@ angular.module('definicionesModule', [])
     {palabra:"Fielato", definicion:"Oficio de fiel."},
     {palabra:"Sevicia", definicion:"Trato cruel. / Crueldad excesiva."},
     {palabra:"Triunvirato", definicion:"Junta de 3 personas para cualquier empresa o asunto."},
+<<<<<<< HEAD
+    {palabra:"Dicterio", definicion:"Insulto, Dicho denigrativo que insulta y provoca."},
+=======
+>>>>>>> 3d3e30b730833c40dd1b205184a08180c0232cb9
     {palabra:"Exhabrupto", definicion:"Salida de tono."},
     {palabra:"Pudendas", definicion:"Torpe, feo, que debe causar vergüenza. / Miembro viril."},
     {palabra:"Fenecer", definicion:"Concluir, morir, poner fin a algo."},
@@ -784,7 +788,7 @@ angular.module('definicionesModule', [])
     {palabra:"Alevosía", definicion:"Cautela para asegurar la comisión de un delito contra las personas, sin riesgo para el delincuente. Es circunstancia agravante de la responsabilidad criminal. / Traición, Perfidia."},
     {palabra:"Patria", definicion:"Tierra de los padres, la tierra paterna. / Tierra natal o adoptiva ordenada como nación, a la que se siente ligado el ser humano por vínculos jurídicos, históricos y afectivos."},
     {palabra:"Vernáculo", definicion:"Dicho especialmente del idioma o lengua: Doméstico, nativo, de la casa o país propios."},
-    {palabra:"Lucutoso", definicion:"Triste, fúnebre y digno de llanto."},
+    {palabra:"Luctuoso", definicion:"Triste, fúnebre y digno de llanto."},
     {palabra:"Silicosis", definicion:"Enfermedad crónica del aparato respiratorio que se produce por haber aspirado polvo de sílice en gran cantidad."},
     {palabra:"Óbito", definicion:"Muerte de una persona. / Deceso, defunción."},
     {palabra:"Deceso", definicion:"Muerte de una persona."},
@@ -972,8 +976,11 @@ angular.module('definicionesModule', [])
     {palabra:"Altivo", definicion:"Orgulloso, soberbio. / Dicho de una cosa: Erguida, elevada."},
     {palabra:"Rozagante", definicion:"Dicho de una vestidura: Vistosa y muy larga. / Vistoso, ufano."},
     {palabra:"Bestiario", definicion:"En la literatura medieval, colección de relatos, descripciones e imágenes de animales reales o fantásticos. / En los circos romanos, hombre que luchaba con las fieras."},
+    {palabra:"Dilecto", definicion:"Amado con dilección."},
+    {palabra:"Dilección", definicion:"Voluntad honesta, amor reflexivo."},
     {palabra:"Jaez", definicion:"Adorno de cintas con que se entrelazan las crines del caballo. / Cualidad o propiedad de algo."},
     {palabra:"Hinojo", definicion:"Rodilla."},
+    {palabra:"Esmegma", definicion:"Materia blanquecina que se deposita en los repliegues de los órganos genitales externos."},
     {palabra:"Cejar", definicion:"Retroceder, ir hacia atrás. / Aflojar o ceder en un negocio, empeño o discusión."},
     {palabra:"Inanición", definicion:"Debilidad grande por falta de alimento o por otras causas."},
     {palabra:"Polivalente", definicion:"Que vale para muchas cosas."},
@@ -989,6 +996,14 @@ angular.module('definicionesModule', [])
     {palabra:"Denodarse", definicion:"Atreverse, esforzarse, mostrarse osado o feroz."},
     {palabra:"Mingitorio", definicion:"Relacionado con la micción. / Urinario."},
     {palabra:"Mayestático", definicion:"Que tiene las características que se considern propias de la majestad ( solemnidad, elegancia o grandeza capaz de infundir admiración y respeto. )"},
+    {palabra:"Percutir", definicion:"Dar uno o varios golpes, especialmente de manera repetitiva."},
+    {palabra:"Mancebo", definicion:"persona joven. Ni niño, ni adulto."},
+    {palabra:"Manceba", definicion:"Mujer que convive con un hombre sin estar casada con él."},
+    {palabra:"Ungénito", definicion:"Hijo único."},
+    {palabra:"Ingénito", definicion:"No engendrado, con natural y como nacido con alguien."},
+    {palabra:"Bizarría", definicion:"Valor y decisión en la forma de actuar."},
+    {palabra:"Recua", definicion:"Animales de carga."},
+    {palabra:"Desuncir", definicion:"Liberar de yugo."},
   ];
 
 }]);
