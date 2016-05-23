@@ -1004,6 +1004,7 @@ angular.module('definicionesModule', [])
     {palabra:"Bizarría", definicion:"Valor y decisión en la forma de actuar."},
     {palabra:"Recua", definicion:"Animales de carga."},
     {palabra:"Desuncir", definicion:"Liberar de yugo."},
+    {palabra:"Explícito", definicion:"Que expresa clara y determinadamente una cosa."},
   ];
 
 }]);
