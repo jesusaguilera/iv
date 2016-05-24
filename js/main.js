@@ -1002,6 +1002,11 @@ angular.module('definicionesModule', [])
     {palabra:"Desuncir", definicion:"Liberar de yugo."},
     {palabra:"Explícito", definicion:"Que expresa clara y determinadamente una cosa."},
     {palabra:"Torticero", definicion:"Injusto, o que no se arregla a las leyes o a la razón."},
+    {palabra:"Gregal", definicion:"Que anda agrupado a otros de su especie."},
+    {palabra:"Almo", definicion:"Excelente, digno de veneración. / Criador, alimentador."},
+    {palabra:"Prorrumpir", definicion:"Proferir con fuerza una voz, suspiro o pasión vehemente."},
+    {palabra:"Cornígero", definicion:"Que tiene cuernos."},
+    {palabra:"Huestes", definicion:"Seguidores de una persona o una causa."},
   ];
 
 }]);
