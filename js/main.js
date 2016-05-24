@@ -527,10 +527,6 @@ angular.module('definicionesModule', [])
     {palabra:"Fielato", definicion:"Oficio de fiel."},
     {palabra:"Sevicia", definicion:"Trato cruel. / Crueldad excesiva."},
     {palabra:"Triunvirato", definicion:"Junta de 3 personas para cualquier empresa o asunto."},
-<<<<<<< HEAD
-    {palabra:"Dicterio", definicion:"Insulto, Dicho denigrativo que insulta y provoca."},
-=======
->>>>>>> 3d3e30b730833c40dd1b205184a08180c0232cb9
     {palabra:"Exhabrupto", definicion:"Salida de tono."},
     {palabra:"Pudendas", definicion:"Torpe, feo, que debe causar vergüenza. / Miembro viril."},
     {palabra:"Fenecer", definicion:"Concluir, morir, poner fin a algo."},
