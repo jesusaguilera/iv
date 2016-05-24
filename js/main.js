@@ -1001,6 +1001,7 @@ angular.module('definicionesModule', [])
     {palabra:"Recua", definicion:"Animales de carga."},
     {palabra:"Desuncir", definicion:"Liberar de yugo."},
     {palabra:"Explícito", definicion:"Que expresa clara y determinadamente una cosa."},
+    {palabra:"Torticero", definicion:"Injusto, o que no se arregla a las leyes o a la razón."},
   ];
 
 }]);
