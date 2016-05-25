@@ -1008,6 +1008,9 @@ angular.module('definicionesModule', [])
     {palabra:"Cornígero", definicion:"Que tiene cuernos."},
     {palabra:"Huestes", definicion:"Seguidores de una persona o una causa."},
     {palabra:"Ambages", definicion:"Rodeos."},
+    {palabra:"Sierpe", definicion:"Culebra de gran tamaño. / Persona muy fea o muy feroz o que está muy colérica. / Cosa que se mueve como una culebra."},
+    {palabra:"Agorero", definicion:"Que predice males. / Pesimista. / Que adivina agüeros."},
+    {palabra:"Lapídeo", definicion:"De piedra."},
   ];
 
 }]);
