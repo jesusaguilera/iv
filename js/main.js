@@ -1007,6 +1007,7 @@ angular.module('definicionesModule', [])
     {palabra:"Prorrumpir", definicion:"Proferir con fuerza una voz, suspiro o pasión vehemente."},
     {palabra:"Cornígero", definicion:"Que tiene cuernos."},
     {palabra:"Huestes", definicion:"Seguidores de una persona o una causa."},
+    {palabra:"Ambages", definicion:"Rodeos."},
   ];
 
 }]);
