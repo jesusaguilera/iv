@@ -1011,6 +1011,10 @@ angular.module('definicionesModule', [])
     {palabra:"Sierpe", definicion:"Culebra de gran tamaño. / Persona muy fea o muy feroz o que está muy colérica. / Cosa que se mueve como una culebra."},
     {palabra:"Agorero", definicion:"Que predice males. / Pesimista. / Que adivina agüeros."},
     {palabra:"Lapídeo", definicion:"De piedra."},
+    {palabra:"Lustrar", definicion:"Sacar brillo. / Adular."},
+    {palabra:"Contuso", definicion:"Que ha recibido contusión."},
+    {palabra:"Aparar", definicion:"Coger algo."},
+    {palabra:"Refocilar", definicion:"Regodearse, recrearse en algo grosero."},
   ];
 
 }]);
