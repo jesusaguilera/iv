@@ -212,7 +212,7 @@ angular.module('definicionesModule', [])
     {palabra:"Monismo", definicion:"Reducir seres y fenómenos a 1 sustancia única de la que todos derivan."},
     {palabra:"Abolengo", definicion:"Ascendencia de abuelos o antepasados ilustres."},
     {palabra:"En ciernes", definicion:"En flor, estar en sus principios."},
-    {palabra:"Ínfula", definicion:"Cada una de las dos cintas de la mitra episcopal."},
+    {palabra:"Ínfula", definicion:"Vanidad pretenciosa."},
     {palabra:"Episcooal", definicion:"Perteneciente o relativo al obispo."},
     {palabra:"Apotegma", definicion:"Dicho breve de alguien ilustre."},
     {palabra:"Cogitativo", definicion:"Que tiene la facultad de pensar."},
