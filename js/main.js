@@ -1015,6 +1015,7 @@ angular.module('definicionesModule', [])
     {palabra:"Contuso", definicion:"Que ha recibido contusión."},
     {palabra:"Aparar", definicion:"Coger algo."},
     {palabra:"Refocilar", definicion:"Regodearse, recrearse en algo grosero."},
+    {palabra:"Incipiente", definicion:"Que empieza."},
   ];
 
 }]);
