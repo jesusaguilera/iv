@@ -1027,6 +1027,7 @@ angular.module('definicionesModule', [])
     {palabra:"Unívoco", definicion:"Que tiene un mismo significado, misma interpretación. / Que tiene igual naturaleza o valor que otra cosa."},
     {palabra:"Multívoco", definicion:"Que tiene varias interpretaciones."},
     {palabra:"Discente", definicion:"Persona que recibe enseñanza. / Estudiante."},
+    {palabra:"Palíndromo", definicion:"Palabra o expresión que es igual si se lee de izquierda a derecha que de derecha a izquierda."},
   ];
 
 }]);
