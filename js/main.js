@@ -1018,6 +1018,12 @@ angular.module('definicionesModule', [])
     {palabra:"Incipiente", definicion:"Que empieza."},
     {palabra:"Neonato", definicion:"Recién nacido."},
     {palabra:"Ecolalia", definicion:"Perturbación del lenguaje que consiste en repetir el enfermo involuntariamente una palabra o frase que acaba de pronunciar él mismo u otra persona en su presencia."},
+    {palabra:"Archi-", definicion:"Con sustantivos, indica preeminencia o superioridad. / Con adjetivos, se emplea en lenguaje coloquial y significa 'muy'."},
+    {palabra:"Canoro/ra", definicion:"Dicho de la voz de las aves y de las personas: Grata y melodiosa."},
+    {palabra:"Ponto", definicion:"Mar."},
+    {palabra:"Piélago", definicion:"Mar. / Parte del mar, que dista mucho de la tierra."},
+    {palabra:"Reprensible", definicion:"Digno de reprensión."},
+    {palabra:"Reprensión", definicion:"Acción de reprender."},
   ];
 
 }]);
