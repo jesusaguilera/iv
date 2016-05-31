@@ -1016,6 +1016,8 @@ angular.module('definicionesModule', [])
     {palabra:"Aparar", definicion:"Coger algo."},
     {palabra:"Refocilar", definicion:"Regodearse, recrearse en algo grosero."},
     {palabra:"Incipiente", definicion:"Que empieza."},
+    {palabra:"Neonato", definicion:"Recién nacido."},
+    {palabra:"Ecolalia", definicion:"Perturbación del lenguaje que consiste en repetir el enfermo involuntariamente una palabra o frase que acaba de pronunciar él mismo u otra persona en su presencia."},
   ];
 
 }]);
