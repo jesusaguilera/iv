@@ -1026,6 +1026,7 @@ angular.module('definicionesModule', [])
     {palabra:"Reprensión", definicion:"Acción de reprender."},
     {palabra:"Unívoco", definicion:"Que tiene un mismo significado, misma interpretación. / Que tiene igual naturaleza o valor que otra cosa."},
     {palabra:"Multívoco", definicion:"Que tiene varias interpretaciones."},
+    {palabra:"Discente", definicion:"Persona que recibe enseñanza. / Estudiante."},
   ];
 
 }]);
