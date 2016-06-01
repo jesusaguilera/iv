@@ -1028,6 +1028,10 @@ angular.module('definicionesModule', [])
     {palabra:"Multívoco", definicion:"Que tiene varias interpretaciones."},
     {palabra:"Discente", definicion:"Persona que recibe enseñanza. / Estudiante."},
     {palabra:"Palíndromo", definicion:"Palabra o expresión que es igual si se lee de izquierda a derecha que de derecha a izquierda."},
+    {palabra:"Folgar", definicion:"Holgar, tener ayuntamiento carnal."},
+    {palabra:"Ayuntar", definicion:"Juntar, añadir. / Realizar el coito."},
+    {palabra:"Gárgaro", definicion:"Escondite."},
+    {palabra:"Esquirla", definicion:"Astilla de un hueso desprendida de este por caries o por fractura."},
   ];
 
 }]);
