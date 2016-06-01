@@ -1031,6 +1031,7 @@ angular.module('definicionesModule', [])
     {palabra:"Folgar", definicion:"Holgar, tener ayuntamiento carnal."},
     {palabra:"Ayuntar", definicion:"Juntar, añadir. / Realizar el coito."},
     {palabra:"Gárgaro", definicion:"Escondite."},
+    {palabra:"Esquirla", definicion:"Astilla de un hueso desprendida de este por caries o por fractura."},
   ];
 
 }]);
