@@ -1034,6 +1034,13 @@ angular.module('definicionesModule', [])
     {palabra:"Esquirla", definicion:"Astilla de un hueso desprendida de este por caries o por fractura."},
     {palabra:"Causalidad", definicion:"Conjunto de cosas que causan algo."},
     {palabra:"Casualidad", definicion:"Combinación de circunstancias que no se pueden prever ni evitar"},
+    {palabra:"Ostensible", definicion:"Que puede manifestarse. / Claro, manifiesto, patente."},
+    {palabra:"Flagar", definicion:"Arder o resplandecer como una llama."},
+    {palabra:"Revelar", definicion:"Descubrir."},
+    {palabra:"Rebelar", definicion:"Sublevar."},
+    {palabra:"Desgalgar", definicion:"Despeñar."},
+    {palabra:"Preces", definicion:"Ruegos, súplicas."},
+    {palabra:"Hirsuto", definicion:"Cubierto de pelo hirsuto o de púas o espinas. / De carácter áspero."},
   ];
 
 }]);
