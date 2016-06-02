@@ -1032,6 +1032,8 @@ angular.module('definicionesModule', [])
     {palabra:"Ayuntar", definicion:"Juntar, añadir. / Realizar el coito."},
     {palabra:"Gárgaro", definicion:"Escondite."},
     {palabra:"Esquirla", definicion:"Astilla de un hueso desprendida de este por caries o por fractura."},
+    {palabra:"Causalidad", definicion:"Conjunto de cosas que causan algo."},
+    {palabra:"Casualidad", definicion:"Combinación de circunstancias que no se pueden prever ni evitar"},
   ];
 
 }]);
