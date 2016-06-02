@@ -1041,6 +1041,8 @@ angular.module('definicionesModule', [])
     {palabra:"Desgalgar", definicion:"Despeñar."},
     {palabra:"Preces", definicion:"Ruegos, súplicas."},
     {palabra:"Hirsuto", definicion:"Cubierto de pelo hirsuto o de púas o espinas. / De carácter áspero."},
+    {palabra:"Inexorable", definicion:"Que no se puede vencer. / Que no se deja vencer con ruegos."},
+    {palabra:"Delación", definicion:"Acusación, denuncia. / Llamamiento a aceptar o repudiar una herencia o legado."},
   ];
 
 }]);
