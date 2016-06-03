@@ -1043,6 +1043,9 @@ angular.module('definicionesModule', [])
     {palabra:"Hirsuto", definicion:"Cubierto de pelo hirsuto o de púas o espinas. / De carácter áspero."},
     {palabra:"Inexorable", definicion:"Que no se puede vencer. / Que no se deja vencer con ruegos."},
     {palabra:"Delación", definicion:"Acusación, denuncia. / Llamamiento a aceptar o repudiar una herencia o legado."},
+    {palabra:"Mostrenco", definicion:"Ignorante, torpe."},
+    {palabra:"Heder", definicion:"Despedir olor."},
+    {palabra:"Garlar", definicion:"Hablar mucho, sin interrupción y poco discretamente."},
   ];
 
 }]);
