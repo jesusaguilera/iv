@@ -1046,6 +1046,10 @@ angular.module('definicionesModule', [])
     {palabra:"Mostrenco", definicion:"Ignorante, torpe."},
     {palabra:"Heder", definicion:"Despedir olor."},
     {palabra:"Garlar", definicion:"Hablar mucho, sin interrupción y poco discretamente."},
+    {palabra:"Noctívago", definicion:"Noctámbulo."},
+    {palabra:"Nesciencia", definicion:"Ignorancia, necedad, falta de ciencia."},
+    {palabra:"Ilación", definicion:"Inferir una cosa de otra. / Enlace, nexo."},
+    {palabra:"Replicativo", definicion:"Inferir una cosa de otra. / Enlace, nexo."},
   ];
 
 }]);
