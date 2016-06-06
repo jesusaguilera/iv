@@ -1050,6 +1050,7 @@ angular.module('definicionesModule', [])
     {palabra:"Nesciencia", definicion:"Ignorancia, necedad, falta de ciencia."},
     {palabra:"Ilación", definicion:"Inferir una cosa de otra. / Enlace, nexo."},
     {palabra:"Replicativo", definicion:"Inferir una cosa de otra. / Enlace, nexo."},
+    {palabra:"Obsecuencia", definicion:"Sumisión, amabilidad, condescendencia."},
   ];
 
 }]);
