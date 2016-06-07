@@ -1049,8 +1049,11 @@ angular.module('definicionesModule', [])
     {palabra:"Noctívago", definicion:"Noctámbulo."},
     {palabra:"Nesciencia", definicion:"Ignorancia, necedad, falta de ciencia."},
     {palabra:"Ilación", definicion:"Inferir una cosa de otra. / Enlace, nexo."},
-    {palabra:"Replicativo", definicion:"Inferir una cosa de otra. / Enlace, nexo."},
+    {palabra:"Replicativo", definicion:"Repetitivo."},
     {palabra:"Obsecuencia", definicion:"Sumisión, amabilidad, condescendencia."},
+    {palabra:"Subterfugio", definicion:"Efugio, escapatoria, excusa artificiosa."},
+    {palabra:"Efugio", definicion:"Evasión, salida, recurso para sortear una dificultad."},
+    {palabra:"Concitar", definicion:"Provocar o causar algo, como un sentimiento o una reacción. / Reunir personas o cosas. / Instigar a alguien contra otra persona."},
   ];
 
 }]);
