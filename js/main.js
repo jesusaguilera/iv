@@ -1054,6 +1054,8 @@ angular.module('definicionesModule', [])
     {palabra:"Subterfugio", definicion:"Efugio, escapatoria, excusa artificiosa."},
     {palabra:"Efugio", definicion:"Evasión, salida, recurso para sortear una dificultad."},
     {palabra:"Concitar", definicion:"Provocar o causar algo, como un sentimiento o una reacción. / Reunir personas o cosas. / Instigar a alguien contra otra persona."},
+    {palabra:"Haragán", definicion:"Que rehuye del trabajo."},
+    {palabra:"Ralea", definicion:"Especie, género, cualidad. / Raza, casta o linaje de una persona."},
   ];
 
 }]);
