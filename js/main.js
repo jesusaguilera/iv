@@ -1073,6 +1073,8 @@ angular.module('definicionesModule', [])
     {palabra:"Marcial", definicion:"Gallardo, valiente, garboso."},
     {palabra:"Latebra", definicion:"Escondrijo, refugio."},
     {palabra:"Feral ", definicion:"Cruel, sangriento, de fiera."},
+    {palabra:"Panegírico", definicion:"Discurso en honor o alabanza hacia una persona, elogio."},
+    {palabra:"Distaxia", definicion:"Dificultad en la dirección de los movimientos voluntarios."},
 
   ];
 
