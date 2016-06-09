@@ -607,7 +607,7 @@ angular.module('definicionesModule', [])
     {palabra:"Talasocracia", definicion:"Dominio de los mares, es un concepto geoestratégico que señala al estado cuyos dominios son principalmente marítimos."},
     {palabra:"Inerme", definicion:"Que está desprovisto de medios o armas para defenderse."},
     {palabra:"Sofisma", definicion:"Razón o argumento falso con apariencia de verdad."},
-    {palabra:"Dote", definicion:"Conjunto de bienes y derechos aportados por la mujer al matrimonio, que tiene como finalidad atender al levantamiento de las cargas comunes y que le deberá ser devuelto una vez disuelto aquel"},
+    {palabra:"Dote", definicion:"Conjunto de bienes y derechos aportados por la mujer al matrimonio, que tiene como finalidad atender al levantamiento de las cargas comunes y que le deberá ser devuelto una vez disuelto aquel."},
     {palabra:"Prebenda", definicion:"Oficio, empleo o ministerio lucrativo y poco trabajoso."},
     {palabra:"Omnívoro", definicion:"Dicho de un animal: Que se alimenta de toda clase de sustancias orgánicas."},
     {palabra:"Pusilánime", definicion:"Falto de valor y ánimo para tomar decisiones o afrontar situaciones comprometidas."},
@@ -1056,6 +1056,24 @@ angular.module('definicionesModule', [])
     {palabra:"Concitar", definicion:"Provocar o causar algo, como un sentimiento o una reacción. / Reunir personas o cosas. / Instigar a alguien contra otra persona."},
     {palabra:"Haragán", definicion:"Que rehuye del trabajo."},
     {palabra:"Ralea", definicion:"Especie, género, cualidad. / Raza, casta o linaje de una persona."},
+    {palabra:"Gerifalte", definicion:"Jefe, autoridad. / Persona que roba."},
+    {palabra:"Grey", definicion:"Rebaño. / Reunión de fieles cristianos."},
+    {palabra:"Omertá", definicion:"Ley del silencio."},
+    {palabra:"Acuidad", definicion:"Agudeza."},
+    {palabra:"Intermisión", definicion:"Interrupción de alguna cosa durante un tiempo."},
+    {palabra:"Exangüe", definicion:"Agotado, falto de fuerzas. / Sin sangre."},
+    {palabra:"Vesania", definicion:"Demencia furiosa."},
+    {palabra:"Longánimo", definicion:"Magnánimo, constante, generoso."},
+    {palabra:"Melindroso", definicion:"De delicadeza o escrúpulos excesivos."},
+    {palabra:"Dúctil", definicion:"Dócil, que se adapta y es fácil de dominar."},
+    {palabra:"Duermevela", definicion:"Sueño ligero, sueño inquieto."},
+    {palabra:"Letargo", definicion:"Somnolencia, intactividad."},
+    {palabra:"Pundonor", definicion:"Dignidad y dedicación a una labor."},
+    {palabra:"Presteza", definicion:"Habilidad y rapidez para hacer algo."},
+    {palabra:"Marcial", definicion:"Gallardo, valiente, garboso."},
+    {palabra:"Latebra", definicion:"Escondrijo, refugio."},
+    {palabra:"Feral ", definicion:"Cruel, sangriento, de fiera."},
+
   ];
 
 }]);
