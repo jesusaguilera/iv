@@ -451,7 +451,7 @@ angular.module('definicionesModule', [])
     {palabra:"Finar", definicion:"Fallecer."},
     {palabra:"Vasallaje", definicion:"De vasallo. / Vínculo de una persona a otra"},
     {palabra:"Tísico", definicion:"Que padece tísis."},
-    {palabra:"Tísis", definicion:"Tubercolusos pulmonar."},
+    {palabra:"Tísis", definicion:"Tubercolusis pulmonar."},
     {palabra:"Multívoco", definicion:"Que tiene varias interpretaciones."},
     {palabra:"Rémora", definicion:"Obstáculo físico o inmaterial que dificulta un proceso. Persona que retrasa, dificulta o detiene algo."},
     {palabra:"Mefistofélico", definicion:"Diabólico, malvado, perverso."},
