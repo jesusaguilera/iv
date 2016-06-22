@@ -1076,6 +1076,8 @@ angular.module('definicionesModule', [])
     {palabra:"Panegírico", definicion:"Discurso en honor o alabanza hacia una persona, elogio."},
     {palabra:"Distaxia", definicion:"Dificultad en la dirección de los movimientos voluntarios."},
     {palabra:"Escultismo", definicion:"Movimiento de juventud que pretende una educación integral del individuo, generalmente por medio de actividades en grupo y en contacto con la naturaleza."},
+    {palabra:"Hervencia", definicion:"Género de suplicio usado antiguamente, que consistía en cocer en calderas a los grandes criminales o sus miembros mutilados, que luego se colgaban de escarpias junto a los caminos o sobre las puertas de las ciudades."},
+    {palabra:"Vetusto", definicion:"Extremadamente viejo, anticuado."},
 
   ];
 
