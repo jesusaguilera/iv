@@ -1088,6 +1088,20 @@ angular.module('definicionesModule', [])
     {palabra:"Facero", definicion:"Fronterizo."},
     {palabra:"Balante", definicion:"Que bala. / Oveja o carnero."},
     {palabra:"Tornátil", definicion:"Que gira con facilidad y presteza."},
+    {palabra:"Axiología", definicion:"Disciplina filosófica que estudia los valores de las cosas."},
+    {palabra:"Enantiomorfos", definicion:"Dicho de cuerpos iguales entre sí pero que no pueden superponerse, como dos guantes de distinta mano."},
+    {palabra:"Numinosas", definicion:"Se refiere al ingenio poético, mirado como una deidad que inspira al poéta en sus composiciones."},
+    {palabra:"Pergeñar", definicion:"Hacer el esbozo o idea previa de un trabajo, de manera rápida. / Disponer o ejecutar una cosa con mayor o menor habilidad."},
+    {palabra:"Anastasis", definicion:"Calco de la palabra griega, resurreción en Cristo."},
+    {palabra:"Patois", definicion:"Conjunto de localidades generalmente rurales."},
+    {palabra:"Desiderativo", definicion:"Que expresa un deseo."},
+    {palabra:"Conminar", definicion:"Amenazar a una persona con una pena o castigo si no obedece una orden o mandato. / Requerir un mandato con amenaza."},
+    {palabra:"Taumaturgia", definicion:"Capacidad de realizar prodigios considerados sobrenaturales."},
+    {palabra:"Cartapacio", definicion:"Cuaderno para escribir apuntes."},
+    {palabra:"Pediluvio", definicion:"Baño de pies."},
+    {palabra:"Musitar", definicion:"Hablar en voz baja, casi susurrando."},
+    {palabra:"Desvencijado", definicion:"Descompuesto, estropeado, destartalado."},
+    {palabra:"Endometrio", definicion:"Membrana mucosa que recubre la cabidad del útero."},
 
   ];
 
