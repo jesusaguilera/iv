@@ -1139,6 +1139,10 @@ angular.module('definicionesModule', [])
     {palabra:"Anfictionía", definicion:"Liga griega más conocida como la liga délfica."},
     {palabra:"Eutaxia", definicion:"Buen orden ( en sentido político, no moral. )"},
     {palabra:"Iniquidad", definicion:"Buen orden ( en sentido político, no moral. )"},
+    {palabra:"Dialelo", definicion:"Círculo que se produce en una argumentación, según el cual, se comienza admitiendo lo que se va a demostrar."},
+    {palabra:"Holomérico", definicion:"Tipos de totalidad en lso que puede decirse que el todo se reproduce en sus partes."},
+    {palabra:"Diversificar", definicion:"Hacer diversa una cosa que era única o uniforme. / Variar los bienes que se producen, compran o venden con objeto de aumentar la clientela."},
+    {palabra:"Otear", definicion:"Registrar desde un lugar alto lo que está abajo. / Escudriñar, registrar o mirar con cuidado."},
 
   ];
 
