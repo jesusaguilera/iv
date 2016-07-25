@@ -3,7 +3,7 @@ angular.module('definicionesModule', [])
 .controller ('definicionesController', ['$scope', function($scope) { 
   // Lista de definiciones
   $scope.definiciones = [
-    {palabra:"Supino", definicion:"Necio, ignorante."},
+    {palabra:"Supino", definicion:"Que está tendido sobre la espalda. / Que es muy grande y evidente."},
     {palabra:"Estólido", definicion:"Falto de razón y discuros."},
     {palabra:"Estoicismo", definicion:"Dominio sobre la propia sensibilidad."},
     {palabra:"Ecuánime", definicion:"Constante en ánimo."},
