@@ -1143,6 +1143,11 @@ angular.module('definicionesModule', [])
     {palabra:"Holomérico", definicion:"Tipos de totalidad en lso que puede decirse que el todo se reproduce en sus partes."},
     {palabra:"Diversificar", definicion:"Hacer diversa una cosa que era única o uniforme. / Variar los bienes que se producen, compran o venden con objeto de aumentar la clientela."},
     {palabra:"Otear", definicion:"Registrar desde un lugar alto lo que está abajo. / Escudriñar, registrar o mirar con cuidado."},
+    {palabra:"Cornúpeta", definicion:"Animal dotado de cuernos."},
+    {palabra:"Venal", definicion:"Relativo a las venas. / Vendible o expuesto en venta. / Que se deja sobornar con dádivas."},
+    {palabra:"Demétiro", definicion:"Falto de mérito. / Acción, cualidad o circunstancia que hace desmerecer."},
+    {palabra:"Acervo", definicion:"Conjunto de bienes o valores morales o culturales que pertenecen a un grupo."},
+    {palabra:"Exención", definicion:"Efecto de eximir a una persona de una carga, culpa, obligación o compromiso."},
 
   ];
 
