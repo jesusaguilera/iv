@@ -1181,6 +1181,8 @@ angular.module('definicionesModule', [])
     {palabra:"Estabular", definicion:"Criar al ganado en establos o recinto similares."},
     {palabra:"Incoercible", definicion:"Que no puede ser coercido, reprimido o contenido."},
     {palabra:"Coercer", definicion:"Imperdir a una persona que haga una cosa."},
+    {palabra:"iletrado", definicion:"Analfabeto."},
+    {palabra:"Indocto", definicion:"Inculto. / Falto de instrucción."},
 
   ];
 
