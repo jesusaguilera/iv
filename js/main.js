@@ -1,6 +1,4 @@
-angular.module('definicionesModule', []) 
-
-.controller ('definicionesController', ['$scope', function($scope) { 
+angular.module('definicionesModule', []).controller ('definicionesController', ['$scope', function($scope) { 
   // Lista de definiciones
   $scope.definiciones = [
     {palabra:"Supino", definicion:"Que está tendido sobre la espalda. / Que es muy grande y evidente."},
@@ -1183,6 +1181,22 @@ angular.module('definicionesModule', [])
     {palabra:"Coercer", definicion:"Imperdir a una persona que haga una cosa."},
     {palabra:"iletrado", definicion:"Analfabeto."},
     {palabra:"Indocto", definicion:"Inculto. / Falto de instrucción."},
+    {palabra:"Frugal", definicion:"(Comida) Que es sencilla y poco abundante. / Persona que se alimenta de dichas comidas."},
+    {palabra:"Envés", definicion:"Cara opuesta a la principal."},
+    {palabra:"Desdeñoso", definicion:"Que manifiesta desdén."},
+    {palabra:"Artesonón", definicion:"Maderas o vigas situadas en las techumbres."},
+    {palabra:"Matacán", definicion:"Obra sólida que se ubica en la parte alta de una muralla, torre o fortificación."},
+    {palabra:"Petimetre", definicion:"Persona joven que se procupa en exceso de su aspecto y de vestir a la moda."},
+    {palabra:"Genotipo", definicion:"Conjunto de los genes que existen en le núcleo celular de cada individuo."},
+    {palabra:"Fenotipo", definicion:"Conjunto de caracteres visibles que un individuo presenta como resultado de la interacción entre su genotipo y el medio."},
+    {palabra:"Porquero", definicion:"Persona que guarda a los puercos."},
+    {palabra:"Cisión", definicion:"Cisura o incisión."},
+    {palabra:"Galeno", definicion:"Médico. / Dicho del viento suave y apacible."},
+    {palabra:"Insidia", definicion:"Engaño oculto o disimilado para perjudicar a alguien."},
+    {palabra:"Edecán", definicion:"Auxiliar, acompañante o correveidile."},
+    {palabra:"Correveidile", definicion:"Aficionado a contar chistes. Persona que lleva y trae cuentos y chismes. Alcahute"},
+    {palabra:"Fecundo", definicion:"Aficionado a contar chistes. Persona que lleva y trae cuentos y chismes. Alcahute"},
+
 
   ];
 
