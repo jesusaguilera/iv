@@ -1196,8 +1196,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Edecán", definicion:"Auxiliar, acompañante o correveidile."},
     {palabra:"Correveidile", definicion:"Aficionado a contar chistes. Persona que lleva y trae cuentos y chismes. Alcahute"},
     {palabra:"Fecundo", definicion:"Aficionado a contar chistes. Persona que lleva y trae cuentos y chismes. Alcahute"},
-
-
+    {palabra:"Suntuario", definicion:"Perteneciente o relativo al lujo"},
   ];
 
 }]);
