@@ -15,10 +15,17 @@
 
     <body>
 
+      <p> Cambiar a: <button class="toggle-definition" type="button"> Palabra </button> </p>
+
       <div ng-app="definicionesModule" ng-strict-di>
         <div ng-controller="definicionesController">
           <ul ng-repeat="definicion in definiciones" class="definition-list">
-            <li class="definition-container" ng-click="showWord=true"> <p><span class="definition">{{definicion.definicion}}</span> <strong class="word" ng-show="showWord">{{definicion.palabra}}</strong></p> </li>
+            <li class="definition-container" ng-click="showWord=true"> 
+              <p>
+                <span class="definition" ng-hide="hideDefinition">{{definicion.definicion}}</span> 
+                <strong class="word" ng-show="showWord">{{definicion.palabra}}</strong>
+              </p> 
+            </li>
           </ul>
         </div>
 
