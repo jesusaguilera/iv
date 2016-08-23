@@ -1216,6 +1216,19 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Aterido", definicion:"Que está paralizado o entumecido a causa del frío."},
     {palabra:"Orillo", definicion:"Orilla de una pieza de tela salida de fábrica."},
     {palabra:"Exangüe", definicion:"Orilla de una pieza de tela salida de fábrica."},
+    {palabra:"Anfractuoso", definicion:"Quebrado, tortuoso, desigual, sinuoso."},
+    {palabra:"Sinuoso", definicion:"Que trata de ocultar el propósito."},
+    {palabra:"Prosodia", definicion:"Parte de la gramática que enseaña la recta pronunciación y acentuación."},
+    {palabra:"Pulular", definicion:"Abundar y moverse mucho en un lugar."},
+    {palabra:"Aviesa", definicion:"Que es malintencionado o perverso."},
+    {palabra:"Aparcero", definicion:"Persona que se dedica a explotar el terreno."},
+    {palabra:"Senescal", definicion:"Servidor de edad avanzada."},
+    {palabra:"Contemporizar", definicion:"Acomodarse al gusto o la voluntad de otra persona con algún fin, generalmennte para evitar un enfrentamiento."},
+    {palabra:"Pírrico", definicion:"Triunfo que se consigue con muy poca ventaja sobre le derrotado. / Que ocasiona grave daño al vencedor y casi equivale a una derrota."},
+    {palabra:"Fiiocracia", definicion:"Doctrina que dice que la riqueza provenía exclusivamente de la explotación de los recursos naturales."},
+    {palabra:"Diezmo", definicion:"Derecho del 10% del valor de ciertas mercaderías que se pagaba al rey."},
+    {palabra:"Escarapela", definicion:"Riña especialemente entre mujeres."},
+    {palabra:"Facticio", definicion:"Que ha sido elaborado artificialmente a partir de elementos verdaderos."},
   ];
 
 }]);
