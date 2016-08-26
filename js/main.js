@@ -1229,6 +1229,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Diezmo", definicion:"Derecho del 10% del valor de ciertas mercaderías que se pagaba al rey."},
     {palabra:"Escarapela", definicion:"Riña especialemente entre mujeres."},
     {palabra:"Facticio", definicion:"Que ha sido elaborado artificialmente a partir de elementos verdaderos."},
+    {palabra:"Trompetear", definicion:"Pregonar, publicar una noticias."},
+    {palabra:"Catecúmeno", definicion:"Neófito en cualquier doctrina."},
   ];
 
 }]);
