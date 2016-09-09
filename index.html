@@ -20,10 +20,10 @@
       <div ng-app="definicionesModule" ng-strict-di>
         <div ng-controller="definicionesController">
           <ul ng-repeat="definicion in definiciones" class="definition-list">
-            <li class="definition-container" ng-click="showWord=true"> 
+            <li class="definition-container" ng-click="showWord=hideDefinition"> 
               <p>
-                <span class="definition" ng-hide="hideDefinition">{{definicion.definicion}}</span> 
-                <strong class="word" ng-show="showWord">{{definicion.palabra}}</strong>
+                <span class="definition" ng-show="hideDefinition">{{definicion.definicion}}</span> 
+                <strong class="word" ng-hide="showWord">{{definicion.palabra}}</strong>
               </p> 
             </li>
           </ul>
