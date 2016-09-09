@@ -1063,7 +1063,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Vesania", definicion:"Demencia furiosa."},
     {palabra:"Longánimo", definicion:"Magnánimo, constante, generoso."},
     {palabra:"Melindroso", definicion:"De delicadeza o escrúpulos excesivos."},
-    {palabra:"Dúctil", definicion:"Dócil, que se adapta y es fácil de dominar."},
+    {palabra:"Dúctil", definicion:"Dócil, que se adapta y es fácil de dominar. Que cambia facilmente."},
     {palabra:"Duermevela", definicion:"Sueño ligero, sueño inquieto."},
     {palabra:"Letargo", definicion:"Somnolencia, intactividad."},
     {palabra:"Pundonor", definicion:"Dignidad y dedicación a una labor."},
@@ -1231,6 +1231,19 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Facticio", definicion:"Que ha sido elaborado artificialmente a partir de elementos verdaderos."},
     {palabra:"Trompetear", definicion:"Pregonar, publicar una noticias."},
     {palabra:"Catecúmeno", definicion:"Neófito en cualquier doctrina."},
+    {palabra:"Conculcar", definicion:"Ir en contra de lo que dispone una ley, norma o principio. / Oprimir."},
+    {palabra:"Paramecio", definicion:"Organismo microscópico unicelular de forma ovalada."},
+    {palabra:"Vericueto", definicion:"Lugar o sitio áspero, alto y quebrado, por donde no se puede andar sino con dificultad."},
+    {palabra:"Célibe", definicion:"Soltero, especialemente por haber hecho voto de castidad."},
+    {palabra:"Sindéresis", definicion:"Capacidad natural para juzgar rectamente, con acierto."},
+    {palabra:"Anómico", definicion:"Anomía es la falta de normas o incapacidad de la estructura social de proveer a ciertos individuos lo necesario para lograr las metas de la sociedad."},
+    {palabra:"Retraer", definicion:"Disuadir a una persona de hacer algo. / Encoger un órgano para que quede oculto."},
+    {palabra:"Bucelario", definicion:"Entre los visigodos, hombre libre que se sometía al patrocinio de un magnate, a quien prestaba servicios y del cual recibía el disfrute de alguna propiedad."},
+    {palabra:"Pretor", definicion:"Magistrado de la antigua Roma, inferior al cónsul que ejercía jurisdicción en esta ciudad o provincia."},
+    {palabra:"Lupanar", definicion:"Prostíbulo."},
+    {palabra:"Asurar", definicion:"Requemar, abrasar. Inquietar mucho, asarse."},
+    {palabra:"Maridaje", definicion:"Unión y conformidad entre marido y mujer. / Unión íntima o armoniosa entre dos cosas."},
+    {palabra:"Colutorio", definicion:"Líquido medicinal para enjuague bucal."},
   ];
 
 }]);
