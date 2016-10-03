@@ -1244,6 +1244,11 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Asurar", definicion:"Requemar, abrasar. Inquietar mucho, asarse."},
     {palabra:"Maridaje", definicion:"Unión y conformidad entre marido y mujer. / Unión íntima o armoniosa entre dos cosas."},
     {palabra:"Colutorio", definicion:"Líquido medicinal para enjuague bucal."},
+    {palabra:"Asaz", definicion:"Bastante."},
+    {palabra:"Pauperización", definicion:"Empobrecimiento de una población o de un país."},
+    {palabra:"Zafio", definicion:"Que es inculto y no tiene finura."},
+    {palabra:"Infuso", definicion:"Que es infundido por Dios o por otro poder sobrenatural."},
+    {palabra:"Falencia", definicion:"Error que se comete al afirmar o asegurar cierta cosa."},
   ];
 
 }]);
