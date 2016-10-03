@@ -1250,6 +1250,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Infuso", definicion:"Que es infundido por Dios o por otro poder sobrenatural."},
     {palabra:"Falencia", definicion:"Error que se comete al afirmar o asegurar cierta cosa."},
     {palabra:"Larvado", definicion:"Dicho de un sentimiento: Que no se manifista abiertamente."},
+    {palabra:"Natalicio", definicion:"Perteneciente o relativo al día del nacimiento."},
   ];
 
 }]);
