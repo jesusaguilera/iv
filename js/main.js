@@ -1251,6 +1251,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Falencia", definicion:"Error que se comete al afirmar o asegurar cierta cosa."},
     {palabra:"Larvado", definicion:"Dicho de un sentimiento: Que no se manifista abiertamente."},
     {palabra:"Natalicio", definicion:"Perteneciente o relativo al día del nacimiento."},
+    {palabra:"Fastuoso", definicion:"Lujoso, magnífico, digno de verse."},
   ];
 
 }]);
