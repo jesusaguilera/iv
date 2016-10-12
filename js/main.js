@@ -1253,6 +1253,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Natalicio", definicion:"Perteneciente o relativo al día del nacimiento."},
     {palabra:"Fastuoso", definicion:"Lujoso, magnífico, digno de verse."},
     {palabra:"Vindicar", definicion:"Vengar."},
+    {palabra:"Cultipicaño", definicion:"Culto y picaresco conjuntamente."},
   ];
 
 }]);
