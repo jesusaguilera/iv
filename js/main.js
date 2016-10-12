@@ -1252,6 +1252,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Larvado", definicion:"Dicho de un sentimiento: Que no se manifista abiertamente."},
     {palabra:"Natalicio", definicion:"Perteneciente o relativo al día del nacimiento."},
     {palabra:"Fastuoso", definicion:"Lujoso, magnífico, digno de verse."},
+    {palabra:"Vindicar", definicion:"Vengar."},
   ];
 
 }]);
