@@ -1254,6 +1254,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Fastuoso", definicion:"Lujoso, magnífico, digno de verse."},
     {palabra:"Vindicar", definicion:"Vengar."},
     {palabra:"Cultipicaño", definicion:"Culto y picaresco conjuntamente."},
+    {palabra:"Bufa", definicion:"Cómico cercano a lo grotesco o a lo chocarrero."},
+    {palabra:"Adarme", definicion:"Cantidad mínima o pequeña porción de algo."},
+    {palabra:"Mandanga", definicion:"Flema, indolencia, pachorra. / Tonterías, cuentos, pejigueras."},
+    {palabra:"Munificencia", definicion:"Generosidad esplendida."},
   ];
 
 }]);
