@@ -1243,6 +1243,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Lupanar", definicion:"Prostíbulo."},
     {palabra:"Asurar", definicion:"Requemar, abrasar. Inquietar mucho, asarse."},
     {palabra:"Maridaje", definicion:"Unión y conformidad entre marido y mujer. / Unión íntima o armoniosa entre dos cosas."},
+    {palabra:"Maridar", definicion:"Casarse o unirse en matrimonio. / Unirse carnalmente o hacer vida maridable. / Unir o enlazar."},
     {palabra:"Colutorio", definicion:"Líquido medicinal para enjuague bucal."},
     {palabra:"Asaz", definicion:"Bastante."},
     {palabra:"Pauperización", definicion:"Empobrecimiento de una población o de un país."},
@@ -1259,6 +1260,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Adarme", definicion:"Cantidad mínima o pequeña porción de algo."},
     {palabra:"Mandanga", definicion:"Flema, indolencia, pachorra. / Tonterías, cuentos, pejigueras."},
     {palabra:"Munificencia", definicion:"Generosidad esplendida."},
+    {palabra:"Albacea", definicion:"Persona encargada de llevar a cabo la última voluntad de un difunto y custodiar los bienes hasta que pasen a sus herederos."},
+    {palabra:"Citra", definicion:"Del lado de acá."},
+    {palabra:"Pertrecho", definicion:"Instrumentos necesarios para cualquier operación."},
+    {palabra:"Receso", definicion:"Separación, apartamiento, desvio. / Pausa, descanso, interrupción."},
   ];
 
 }]);
