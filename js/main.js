@@ -1264,6 +1264,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Citra", definicion:"Del lado de acá."},
     {palabra:"Pertrecho", definicion:"Instrumentos necesarios para cualquier operación."},
     {palabra:"Receso", definicion:"Separación, apartamiento, desvio. / Pausa, descanso, interrupción."},
+    {palabra:"Pelambrera", definicion:"Pelo o vello abundante y revuelto. / Alopecia."},
   ];
 
 }]);
