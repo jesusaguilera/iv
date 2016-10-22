@@ -1265,6 +1265,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Pertrecho", definicion:"Instrumentos necesarios para cualquier operación."},
     {palabra:"Receso", definicion:"Separación, apartamiento, desvio. / Pausa, descanso, interrupción."},
     {palabra:"Pelambrera", definicion:"Pelo o vello abundante y revuelto. / Alopecia."},
+    {palabra:"Edicto", definicion:"Mandato, decreto publicado con autoridad del príncipe o del magistrado."},
   ];
 
 }]);
