@@ -1283,6 +1283,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Empingorotado", definicion:"Que tiene una posición social ventajosa y presume de ello."},
     {palabra:"Refractario", definicion:"Que resiste la acción del fuego sin cambiar de estado ni destruirse. / Persona que se opone a aceptar una idea, opinión o costrumbre"},
     {palabra:"Entente", definicion:"Relación amistosa basada en la confianza y en el mutuo conocimiento, especialmente entre gobierno o países."},
+    {palabra:"Periclitar", definicion:"Decaer, declinar. / Estar en peligro."},
+    {palabra:"Florilegio", definicion:"Colección constituida por fragmentos literarios seleccionados de uno o varios autores."},
   ];
 
 }]);
