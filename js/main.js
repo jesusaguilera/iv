@@ -1266,6 +1266,23 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Receso", definicion:"Separación, apartamiento, desvio. / Pausa, descanso, interrupción."},
     {palabra:"Pelambrera", definicion:"Pelo o vello abundante y revuelto. / Alopecia."},
     {palabra:"Edicto", definicion:"Mandato, decreto publicado con autoridad del príncipe o del magistrado."},
+    {palabra:"Malinchismo", definicion:"Muestra de apego a lo extranjero menospreciando lo propio."},
+    {palabra:"Barraganía", definicion:"Amancebamiento."},
+    {palabra:"Pregnante", definicion:"Que está lleno de significado."},
+    {palabra:"Lancinante", definicion:"Dolor que es muy agudo o intenso."},
+    {palabra:"Inveterado", definicion:"Que es antiguo y está arraigado a costumbres o creencias."},
+    {palabra:"Réprobo", definicion:"Que está condenado al infierno."},
+    {palabra:"Interdecir", definicion:"Prohibir."},
+    {palabra:"Futesa", definicion:"Insignificancia."},
+    {palabra:"Obnubilar", definicion:"Perder el entendimiento, la capacidad de razonar o darse cuenta de las cosas."},
+    {palabra:"Injerir", definicion:"Introducir una cosa en otra. / Entremeterse o intervenir en asuntos ajenos."},
+    {palabra:"Engañifa", definicion:"Cosa que tiene apariencia de calidad, valor o utilidad y resulta engañosa."},
+    {palabra:"Fasto", definicion:"Que es acertado./ Suntuoso, lujoso o extraordinario."},
+    {palabra:"Deplorar", definicion:"Sentir pena o disgusto por algo."},
+    {palabra:"Bilioso", definicion:"Que tiene exceso de bilis."},
+    {palabra:"Empingorotado", definicion:"Que tiene una posición social ventajosa y presume de ello."},
+    {palabra:"Refractario", definicion:"Que resiste la acción del fuego sin cambiar de estado ni destruirse. / Persona que se opone a aceptar una idea, opinión o costrumbre"},
+    {palabra:"Entente", definicion:"Relación amistosa basada en la confianza y en el mutuo conocimiento, especialmente entre gobierno o países."},
   ];
 
 }]);
