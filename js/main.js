@@ -1285,6 +1285,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Entente", definicion:"Relación amistosa basada en la confianza y en el mutuo conocimiento, especialmente entre gobierno o países."},
     {palabra:"Periclitar", definicion:"Decaer, declinar. / Estar en peligro."},
     {palabra:"Florilegio", definicion:"Colección constituida por fragmentos literarios seleccionados de uno o varios autores."},
+    {palabra:"Somático", definicion:"De la parte material o corpórea de un ser animado o relacionado con ella."},
   ];
 
 }]);
