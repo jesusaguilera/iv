@@ -1287,6 +1287,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Florilegio", definicion:"Colección constituida por fragmentos literarios seleccionados de uno o varios autores."},
     {palabra:"Somático", definicion:"De la parte material o corpórea de un ser animado o relacionado con ella."},
     {palabra:"Baldragas", definicion:"Hombre insustancial, simple y de poco carácter."},
+    {palabra:"Bergante", definicion:"Persona granuja, sinvergüenza, falta de escrúpulos y, en ocasiones, delincuente."},
   ];
 
 }]);
