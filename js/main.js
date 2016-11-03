@@ -1290,6 +1290,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Bergante", definicion:"Persona granuja, sinvergüenza, falta de escrúpulos y, en ocasiones, delincuente."},
     {palabra:"Cipayo", definicion:"Secuaz a sueldo."},
     {palabra:"Taimado", definicion:"Bellaco, astuto, disimulado y pronto en advertirlo todo."},
+    {palabra:"Parénesis", definicion:"Exhortación o amonestación."},
+    {palabra:"Ripio", definicion:"Palabra o frase inútil o superflua que se emplea viciosamente. / Residuo."},
   ];
 
 }]);
