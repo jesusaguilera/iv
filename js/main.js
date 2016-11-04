@@ -1292,6 +1292,13 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Taimado", definicion:"Bellaco, astuto, disimulado y pronto en advertirlo todo."},
     {palabra:"Parénesis", definicion:"Exhortación o amonestación."},
     {palabra:"Ripio", definicion:"Palabra o frase inútil o superflua que se emplea viciosamente. / Residuo."},
+    {palabra:"Arrochar", definicion:"Rechazar, despreciar."},
+    {palabra:"Martagón", definicion:"Persona astuta, reservada y difícil de engañar."},
+    {palabra:"Lucillo", definicion:"Piedra destinada a sepultar a personas de distinción."},
+    {palabra:"Borrajear", definicion:"Escribir sin asunto determinado. / Hacer rúbricas o garabatos por entretenimiento."},
+    {palabra:"Reposero", definicion:"Persona que normalmente disfruta de permisos para ausentarse del trabajo."},
+    {palabra:"Lángara", definicion:"Persona que no es de confianza."},
+    {palabra:"Fautor", definicion:"Persona que favorece y ayuda a otra."},
   ];
 
 }]);
