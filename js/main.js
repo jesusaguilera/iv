@@ -1299,6 +1299,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Reposero", definicion:"Persona que normalmente disfruta de permisos para ausentarse del trabajo."},
     {palabra:"Lángara", definicion:"Persona que no es de confianza."},
     {palabra:"Fautor", definicion:"Persona que favorece y ayuda a otra."},
+    {palabra:"Escrófula", definicion:" Tumefacción fría de los ganglios linfáticos propia de las enfermedades infecciosas y tubercolusis."},
+    {palabra:"Giñapo", definicion:"Persona que anda con vestido roto y andrajoso. / Persona envilecida, degradada. / Persona moralmente abatida, o muy débil y enfermiza."},
   ];
 
 }]);
