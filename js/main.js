@@ -1302,6 +1302,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Escrófula", definicion:" Tumefacción fría de los ganglios linfáticos propia de las enfermedades infecciosas y tubercolusis."},
     {palabra:"Giñapo", definicion:"Persona que anda con vestido roto y andrajoso. / Persona envilecida, degradada. / Persona moralmente abatida, o muy débil y enfermiza."},
     {palabra:"Refrendar", definicion:"Corroborar algo afirmándolo."},
+    {palabra:"Desopilante", definicion:"Festivo, divertido, que produce mucha risa."},
   ];
 
 }]);
