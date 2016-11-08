@@ -1301,7 +1301,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Fautor", definicion:"Persona que favorece y ayuda a otra."},
     {palabra:"Escrófula", definicion:" Tumefacción fría de los ganglios linfáticos propia de las enfermedades infecciosas y tubercolusis."},
     {palabra:"Giñapo", definicion:"Persona que anda con vestido roto y andrajoso. / Persona envilecida, degradada. / Persona moralmente abatida, o muy débil y enfermiza."},
-    {palabra:"Refrenar", definicion:"Corroborar algo afirmándolo."},
+    {palabra:"Refrendar", definicion:"Corroborar algo afirmándolo."},
   ];
 
 }]);
