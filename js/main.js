@@ -71,7 +71,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Ponderar", definicion:"Encarecer"},
     {palabra:"Facción", definicion:"Grupo de personas unidas por ideas o intereses comunes dentro de una agrupación o colectividad. / Acción de guerra. / Gente amotinada."},
     {palabra:"Otrora", definicion:"En otro tiempo, en un tiempo pasado."},
-    {palabra:"Nefando", definicion:"Indigno, torpe."},
+    {palabra:"Nefando", definicion:"Indigno, torpe, de que no se puede hablar sin repugnancia u horror."},
     {palabra:"Fáctico", definicion:"Basado en hechos."},
     {palabra:"Exégesis", definicion:"Interpretación."},
     {palabra:"Escisión", definicion:"Rompimiento."},
@@ -1308,6 +1308,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Apriscar", definicion:"Recoger el ganado en el aprisco."},
     {palabra:"Aprisco", definicion:"Paraje donde los pastores recogen el ganado para resguardarlo de la intemperie."},
     {palabra:"Trapisonda", definicion:"Bulla, riña, embrollo. / Agitación del mar, formada por olas pequeñas que se cruzan en diversos sentidos y cuyo ruido se oye a bastante distancia."},
+    {palabra:"Recalcitrante", definicion:"Terco, reacio, reincidiente, obstinado."},
   ];
 
 }]);
