@@ -1311,6 +1311,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Recalcitrante", definicion:"Terco, reacio, reincidiente, obstinado."},
     {palabra:"Hampa", definicion:"Conjunto de maleantes formados en bandas. / Vida de las gentes holgazanas y maleantes."},
     {palabra:"Pizpireto", definicion:"Alegre, vivaz y coqueto."},
+    {palabra:"Inquisitivo", definicion:"Relativo a la indagación y averiguación. / Que inquiere y averigua con cuidado y diligencia las cosas o es inclinado a ello."},
+    {palabra:"Inquerir / Inquirir", definicion:"Indagar, averiguar o examinar cuidadosamente."},
   ];
 
 }]);
