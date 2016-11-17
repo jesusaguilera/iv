@@ -1316,6 +1316,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Ramplón", definicion:"Vulgar, chabacano."},
     {palabra:"Caletre", definicion:"Tino, discernimiento, capacidad."},
     {palabra:"Fatuidad", definicion:"Necio. Falto de entendimiento o razón. / Presunción o vanidad infundada y ridícula."},
+    {palabra:"Perdulario", definicion:"Que pierde las cosas frecuentemente. / Sumamente descuidado en sus intereses y su persona. / Vicioso incorregible"},
   ];
 
 }]);
