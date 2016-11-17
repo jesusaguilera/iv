@@ -1313,6 +1313,9 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Pizpireto", definicion:"Alegre, vivaz y coqueto."},
     {palabra:"Inquisitivo", definicion:"Relativo a la indagación y averiguación. / Que inquiere y averigua con cuidado y diligencia las cosas o es inclinado a ello."},
     {palabra:"Inquerir / Inquirir", definicion:"Indagar, averiguar o examinar cuidadosamente."},
+    {palabra:"Ramplón", definicion:"Vulgar, chabacano."},
+    {palabra:"Caletre", definicion:"Tino, discernimiento, capacidad."},
+    {palabra:"Fatuidad", definicion:"Necio. Falto de entendimiento o razón. / Presunción o vanidad infundada y ridícula."},
   ];
 
 }]);
