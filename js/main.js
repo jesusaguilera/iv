@@ -1317,6 +1317,20 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Caletre", definicion:"Tino, discernimiento, capacidad."},
     {palabra:"Fatuidad", definicion:"Necio. Falto de entendimiento o razón. / Presunción o vanidad infundada y ridícula."},
     {palabra:"Perdulario", definicion:"Que pierde las cosas frecuentemente. / Sumamente descuidado en sus intereses y su persona. / Vicioso incorregible"},
+    {palabra:"Inconcuso", definicion:"Que es completamente firme y no admite duda ni contradicción."},
+    {palabra:"Limos", definicion:"En la mitología griega era la representación del hambre, su opuesta era la diosa de los alimentos Deméter."},
+    {palabra:"Pravo", definicion:"Malvado, perverso y de dañadas costumbres."},
+    {palabra:"Tonsura", definicion:"Ceremonia de liturgia católica donde a cada hombre se cortaba y trozo de cabello como consagración de su entrada al clero. / Círculo rasurado que llevan algunos clérigos en la coronilla."},
+    {palabra:"Pendencia", definicion:"Enfrentamiento, pelea violenta y acalorada."},
+    {palabra:"Escarpadura", definicion:"Escarpe ( pendiente, inclinación )"},
+    {palabra:"Connotar", definicion:"Tener algo un sentido o significado indirecto que puede interpretarse de algún modo. / Sugerir (una  palabra) un significado secundario y subjetivo por su asociación con otras ideas."},
+    {palabra:"Omnisciente", definicion:"Que conoce todas las cosas reales y posibles."},
+    {palabra:"Orto", definicion:"Salidaa del sol por el horizonte. / Principio u origen de algo, especialmente una ideologíua, movimiento, etc."},
+    {palabra:"Inducción", definicion:"Forma de razonamiento que consiste en establecer una ley o conclusión general a partir de la observación de hechos o casos particulares. / Suposición o conclusión a la que se llega con esta forma de razonamiento."},
+    {palabra:"Prontuario", definicion:"Compendio de las reglas de una ciencia o un arte."},
+    {palabra:"Reato", definicion:"Resto de pena que queda por cumplir, aun después de perdonado el pecado."},
+    {palabra:"Malhadado", definicion:"Que sufre una desgracia o tiene mal hado, mala suerte. / Que causa desgracia."},
+    {palabra:"Climaterio", definicion:"Periodo de la vida de las personas que se caractyeriza por una serie de fenómenos que afectan a todo el organismo y que se deben a una disminución natural de la actividad de las glándulas sexuales."},
   ];
 
 }]);
