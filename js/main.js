@@ -1331,6 +1331,12 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Reato", definicion:"Resto de pena que queda por cumplir, aun después de perdonado el pecado."},
     {palabra:"Malhadado", definicion:"Que sufre una desgracia o tiene mal hado, mala suerte. / Que causa desgracia."},
     {palabra:"Climaterio", definicion:"Periodo de la vida de las personas que se caractyeriza por una serie de fenómenos que afectan a todo el organismo y que se deben a una disminución natural de la actividad de las glándulas sexuales."},
+    {palabra:"Enjalbegar", definicion:"Blanquear una pared con cal, yeso o tierra blanca."},
+    {palabra:"Empíreo", definicion:"Cielo."},
+    {palabra:"Acogotar", definicion:"Matar por medio de golpe en el cogote. / Agarrar por el cogote."},
+    {palabra:"Acoquinar", definicion:"Acobardar o asustar."},
+    {palabra:"Poliomielitis", definicion:"Enfermedad viral que afecta a la médula espinal."},
+    {palabra:"Delectable", definicion:"Deleitoso."},
   ];
 
 }]);
