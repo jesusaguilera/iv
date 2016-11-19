@@ -1337,6 +1337,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Acoquinar", definicion:"Acobardar o asustar."},
     {palabra:"Poliomielitis", definicion:"Enfermedad viral que afecta a la médula espinal."},
     {palabra:"Delectable", definicion:"Deleitoso."},
+    {palabra:"Circunloquio", definicion:"Rodeo de palabras."},
   ];
 
 }]);
