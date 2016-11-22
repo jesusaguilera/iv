@@ -1338,6 +1338,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Poliomielitis", definicion:"Enfermedad viral que afecta a la médula espinal."},
     {palabra:"Delectable", definicion:"Deleitoso."},
     {palabra:"Circunloquio", definicion:"Rodeo de palabras."},
+    {palabra:"Vigorexia", definicion:"Trastorno donde la persona se ve delgado, debil y enclenque."},
+    {palabra:"Ginecomastia", definicion:"Agrandamiento patológico de las glándulas mamarias del hombre."},
   ];
 
 }]);
