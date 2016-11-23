@@ -1341,6 +1341,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Vigorexia", definicion:"Trastorno donde la persona se ve delgado, debil y enclenque."},
     {palabra:"Ginecomastia", definicion:"Agrandamiento patológico de las glándulas mamarias del hombre."},
     {palabra:"Estentóreo", definicion:"Dicho de la voz o del acento: Muy fuerte, ruidoso o retumbante."},
+    {palabra:"Randa", definicion:"Ratero, granuja."},
   ];
 
 }]);
