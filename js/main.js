@@ -1342,6 +1342,15 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Ginecomastia", definicion:"Agrandamiento patológico de las glándulas mamarias del hombre."},
     {palabra:"Estentóreo", definicion:"Dicho de la voz o del acento: Muy fuerte, ruidoso o retumbante."},
     {palabra:"Randa", definicion:"Ratero, granuja."},
+    {palabra:"Befar", definicion:"Hacer mofa de alguien."},
+    {palabra:"Ajuar", definicion:"Conjunto de muebles, ropas y enseres de uso común en las casas. / Conjunto de cosas que lleva a su nueva casa una mujer que se casa."},
+    {palabra:"Jenízaro / Genízaro", definicion:"Mezclado de dos especies. / Dicho de una persona nacida de padres con diferente nacionalidad."},
+    {palabra:"Lisérgico", definicion:"Ácido alucinógeno y se emplea en psiquiatría y como droga."},
+    {palabra:"Comitente", definicion:"Que comete."},
+    {palabra:"Raciocinar", definicion:"Hacer funcionar (una pesona) la inteligencia para obtener unas ideas de otras."},
+    {palabra:"Capcioso", definicion:"Palabra, doctrina o proposición falaz, embustera."},
+    {palabra:"Agio", definicion:"Agiotaje (especulación abusiva)."},
+    {palabra:"Hipoxia", definicion:"Alteración de las fases de ventilación alveolar que produce una deficiente entrega de oxígeno."},
   ];
 
 }]);
