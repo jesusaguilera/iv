@@ -1352,6 +1352,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Agio", definicion:"Agiotaje (especulación abusiva)."},
     {palabra:"Hipoxia", definicion:"Alteración de las fases de ventilación alveolar que produce una deficiente entrega de oxígeno."},
     {palabra:"Neurastenia", definicion:"Neurosis que se caracteriza por fuertes síntomas depresivos, tendencia a la tristeza y gran inestabilidad emotiva."},
+    {palabra:"Gerontofilia", definicion:"Atracción sexual hacia personas ancianas."},
     {palabra:"Arrumbar", definicion:"Poner una cosa como inútil en un lugar retirado o apartado. / Desechar, abandonar o dejar fuera de uso. / Arrollar a alguien en la conversación, obligándole a callar."},
   ];
 
