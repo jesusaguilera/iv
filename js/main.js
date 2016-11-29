@@ -1347,13 +1347,17 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Jenízaro / Genízaro", definicion:"Mezclado de dos especies. / Dicho de una persona nacida de padres con diferente nacionalidad."},
     {palabra:"Lisérgico", definicion:"Ácido alucinógeno y se emplea en psiquiatría y como droga."},
     {palabra:"Comitente", definicion:"Que comete."},
-    {palabra:"Raciocinar", definicion:"Hacer funcionar (una pesona) la inteligencia para obtener unas ideas de otras."},
+    {palabra:"Raciocinar", definicion:"Hacer funcionar (una persona) la inteligencia para obtener unas ideas de otras."},
     {palabra:"Capcioso", definicion:"Palabra, doctrina o proposición falaz, embustera."},
     {palabra:"Agio", definicion:"Agiotaje (especulación abusiva)."},
     {palabra:"Hipoxia", definicion:"Alteración de las fases de ventilación alveolar que produce una deficiente entrega de oxígeno."},
     {palabra:"Neurastenia", definicion:"Neurosis que se caracteriza por fuertes síntomas depresivos, tendencia a la tristeza y gran inestabilidad emotiva."},
     {palabra:"Gerontofilia", definicion:"Atracción sexual hacia personas ancianas."},
+    {palabra:"Indemnidad", definicion:"Que está fuera de daño o prejuicio."},
     {palabra:"Arrumbar", definicion:"Poner una cosa como inútil en un lugar retirado o apartado. / Desechar, abandonar o dejar fuera de uso. / Arrollar a alguien en la conversación, obligándole a callar."},
+    {palabra:"Epizootia", definicion:"Epidemia en animales."},
+    {palabra:"Enarbolar", definicion:"Enfadarse."},
+    {palabra:"Azarado", definicion:"Torcerse por un caso imprevisto."},
   ];
 
 }]);
