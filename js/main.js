@@ -1358,6 +1358,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Epizootia", definicion:"Epidemia en animales."},
     {palabra:"Enarbolar", definicion:"Enfadarse."},
     {palabra:"Azarado", definicion:"Torcerse por un caso imprevisto."},
+    {palabra:"Mendaz", definicion:"Mentiroso."},
   ];
 
 }]);
