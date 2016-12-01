@@ -1363,6 +1363,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Deflación", definicion:"Descenso del nivel general de los precios."},
     {palabra:"Estanflación", definicion:"Situación de estancamiento económico, con aumento del paro y de la inflación."},
     {palabra:"Inflación", definicion:"Elevación de los precios. / Engreimineto, vanidad."},
+    {palabra:"Mayéutico", definicion:"Método socrático con que el maestro, mediante preguntas, va haciendo que el discípulo descubra nociones que en él estaban latentes."},
+    {palabra:"Componenda", definicion:"Arreglo o transacción censurable o de carácter inmoral. / Avenencia para evitar un daño."},
+    {palabra:"Femíneo", definicion:"Femenino."},
+    {palabra:"Paluego", definicion:"Trozos de alimentos que se quedan entre los dientes."},
   ];
 
 }]);
