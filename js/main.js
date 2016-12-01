@@ -619,7 +619,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Semial", definicion:"Perteneciente o relativo al semen. / Perteneciente o relativo a la semilla. / Fecundo (fértil)."},
     {palabra:"Constructo", definicion:"Construcción teórica para entender un problema determinado."},
     {palabra:"Balcanización", definicion:"División generalmente violenta y artificial por potencias extraregionales de los territorios de los paises que integran una unión."},
-    {palabra:"Fuero", definicion:"Conjunto de privilegios o exenciones jurídicas de las que goza un territorio o un persona."},
+    {palabra:"Fuero", definicion:"Jurisdicción, poder. / Norma o código históricos dados a un territorio determinado. / Arrogancia, presunción."},
     {palabra:"Conmensurar", definicion:"Medir con igual o debida proporción distintas cosas."},
     {palabra:"Concomitante", definicion:"Que aparece o actúa conjuntamente con otra cosa."},
     {palabra:"Subvenir", definicion:"Acudir al auxilio de una persona o casa. / Pagar el total de los gastos que ocasione cierta cosa."},
