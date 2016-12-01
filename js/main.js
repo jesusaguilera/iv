@@ -1359,6 +1359,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Enarbolar", definicion:"Enfadarse."},
     {palabra:"Azarado", definicion:"Torcerse por un caso imprevisto."},
     {palabra:"Mendaz", definicion:"Mentiroso."},
+    {palabra:"Ascesis", definicion:"Reglas y prácticas encaminadas al logro de la virtud."},
   ];
 
 }]);
