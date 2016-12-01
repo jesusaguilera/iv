@@ -1360,6 +1360,9 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Azarado", definicion:"Torcerse por un caso imprevisto."},
     {palabra:"Mendaz", definicion:"Mentiroso."},
     {palabra:"Ascesis", definicion:"Reglas y prácticas encaminadas al logro de la virtud."},
+    {palabra:"Deflación", definicion:"Descenso del nivel general de los precios."},
+    {palabra:"Estanflación", definicion:"Situación de estancamiento económico, con aumento del paro y de la inflación."},
+    {palabra:"Inflación", definicion:"Elevación de los precios. / Engreimineto, vanidad."},
   ];
 
 }]);
