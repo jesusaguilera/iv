@@ -1367,6 +1367,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Componenda", definicion:"Arreglo o transacción censurable o de carácter inmoral. / Avenencia para evitar un daño."},
     {palabra:"Femíneo", definicion:"Femenino."},
     {palabra:"Paluego", definicion:"Trozos de alimentos que se quedan entre los dientes."},
+    {palabra:"Foguear", definicion:"Acostumbrar a alguien a las penalidades y trabajos de un estado u ocupación. / Acostumbrar a las personas y a los caballos al sonido de la pólvora."},
   ];
 
 }]);
