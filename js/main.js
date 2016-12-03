@@ -1368,6 +1368,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Femíneo", definicion:"Femenino."},
     {palabra:"Paluego", definicion:"Trozos de alimentos que se quedan entre los dientes."},
     {palabra:"Foguear", definicion:"Acostumbrar a alguien a las penalidades y trabajos de un estado u ocupación. / Acostumbrar a las personas y a los caballos al sonido de la pólvora."},
+    {palabra:"Musteriense", definicion:"Dicho de un estadio cultural: Correspondiente al Paleolítico medio."},
   ];
 
 }]);
