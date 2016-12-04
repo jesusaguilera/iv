@@ -1369,6 +1369,16 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Paluego", definicion:"Trozos de alimentos que se quedan entre los dientes."},
     {palabra:"Foguear", definicion:"Acostumbrar a alguien a las penalidades y trabajos de un estado u ocupación. / Acostumbrar a las personas y a los caballos al sonido de la pólvora."},
     {palabra:"Musteriense", definicion:"Dicho de un estadio cultural: Correspondiente al Paleolítico medio."},
+    {palabra:"Super-", definicion:"Encima (superestructura), eminencia (superintendente), exceso (superproducción)."},
+    {palabra:"Pan-", definicion:"Significa totalidad. (Panteísmo)."},
+    {palabra:"Dipsomanía", definicion:"Alcoholismo."},
+    {palabra:"Chocarrería", definicion:"Dicho o hecho de mal gusto o imporpia de personas educadas."},
+    {palabra:"Gabela", definicion:"Impuesto que se paga al Estado. / Carga, servidumbre, gravamen."},
+    {palabra:"Emolumento", definicion:"Impuesto que se paga al Estado. / Carga, servidumbre, gravamen."},
+    {palabra:"Caución", definicion:"Grarantía que da una persona del cumplimeinto de un pacto, obligación o contrato mediante la presentación de fiadores, juramento u otra medida."},
+    {palabra:"Filomatía", definicion:"Amor a las ciencias."},
+    {palabra:"Pericia", definicion:"Habilidad para resolver algo."},
+    {palabra:"Concomitante", definicion:"Habilidad para resolver algo."},
   ];
 
 }]);
