@@ -1381,6 +1381,11 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Paleo-", definicion:"Antiguo o primitivo."},
     {palabra:"Paleolítico", definicion:"Periodo primero de la edad de piedra."},
     {palabra:"Neolítico", definicion:"Periodo último de la edad de piedra."},
+    {palabra:"Orto-", definicion:"Recto o correcto. (ortodoncia, ortofonía)"},
+    {palabra:"Lardáceo", definicion:"Semejante o parecido al lardo."},
+    {palabra:"Lardo", definicion:"Grasa o unto de los animales."},
+    {palabra:"Unto", definicion:"Crasitud o gordura interior del cuerpo del animal."},
+    {palabra:"Crasitud", definicion:"Gordura."},
   ];
 
 }]);
