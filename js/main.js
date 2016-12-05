@@ -1386,6 +1386,9 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Lardo", definicion:"Grasa o unto de los animales."},
     {palabra:"Unto", definicion:"Crasitud o gordura interior del cuerpo del animal."},
     {palabra:"Crasitud", definicion:"Gordura."},
+    {palabra:"Hipertofriado", definicion:"Crecer en exceso."},
+    {palabra:"Homúnculo", definicion:"Hombre pequeño."},
+    {palabra:"Medro", definicion:"Mejora."},
   ];
 
 }]);
