@@ -1375,10 +1375,12 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Chocarrería", definicion:"Dicho o hecho de mal gusto o imporpia de personas educadas."},
     {palabra:"Gabela", definicion:"Impuesto que se paga al Estado. / Carga, servidumbre, gravamen."},
     {palabra:"Emolumento", definicion:"Impuesto que se paga al Estado. / Carga, servidumbre, gravamen."},
-    {palabra:"Caución", definicion:"Grarantía que da una persona del cumplimeinto de un pacto, obligación o contrato mediante la presentación de fiadores, juramento u otra medida."},
+    {palabra:"Caución", definicion:"Grarantía que da una persona del cumplimeinto de un eacto, obligación o contrato mediante la presentación de fiadores, juramento u otra medida."},
     {palabra:"Filomatía", definicion:"Amor a las ciencias."},
     {palabra:"Pericia", definicion:"Habilidad para resolver algo."},
-    {palabra:"Concomitante", definicion:"Habilidad para resolver algo."},
+    {palabra:"Paleo-", definicion:"Antiguo o primitivo."},
+    {palabra:"Paleolítico", definicion:"Periodo primero de la edad de piedra."},
+    {palabra:"Neolítico", definicion:"Periodo último de la edad de piedra."},
   ];
 
 }]);
