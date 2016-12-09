@@ -1390,6 +1390,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Homúnculo", definicion:"Hombre pequeño."},
     {palabra:"Medro", definicion:"Mejora."},
     {palabra:"Anuencia", definicion:"Consentimiento."},
+    {palabra:"Deletéreo", definicion:"Mortífero, venenoso."},
   ];
 
 }]);
