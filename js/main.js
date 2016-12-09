@@ -1389,6 +1389,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Hipertofriado", definicion:"Crecer en exceso."},
     {palabra:"Homúnculo", definicion:"Hombre pequeño."},
     {palabra:"Medro", definicion:"Mejora."},
+    {palabra:"Anuencia", definicion:"Consentimiento."},
   ];
 
 }]);
