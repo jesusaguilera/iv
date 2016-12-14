@@ -1392,6 +1392,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Anuencia", definicion:"Consentimiento."},
     {palabra:"Deletéreo", definicion:"Mortífero, venenoso."},
     {palabra:"Pilatuna", definicion:"Travesura, acción propia de niños que, en busca de diversión, ocasiona molestia."},
+    {palabra:"Ciclotimia", definicion:"Trastorno del estado de ánimo considerado como un trastorno bipolar leve."},
   ];
 
 }]);
