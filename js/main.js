@@ -93,7 +93,6 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Exigua", definicion:"Insuficiente, escaso."},
     {palabra:"Dicción", definicion:"Palabra."},
     {palabra:"Cimero", definicion:"Que está en la parte superior."},
-    {palabra:"Preterida", definicion:"Omitida."},
     {palabra:"Inepcia", definicion:"Ineptitud, necio."},
     {palabra:"Prospectivo", definicion:"Que se refiere al futuro."},
     {palabra:"Homónima", definicion:"Que lleva un mismo nombre."},
@@ -244,7 +243,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Efeméride", definicion:"Acontecimiento importante que se recuerda en cualquier aniversario de él."},
     {palabra:"Soliloquio", definicion:"Habla a solas."},
     {palabra:"Ineluctable", definicion:"Cosa que no puede contradecirse."},
-    {palabra:"Frugalidad", definicion:"Templanza."},
+    {palabra:"Frugalidad", definicion:"Templanza, parquedad en el comidad y la bebida."},
+    {palabra:"Parquedad", definicion:"Moderación económica y prudrente de las cosas. Moderación, sobriedad."},
     {palabra:"Casquivana", definicion:"Alegre de cascos. (cachonda)"},
     {palabra:"Providencia", definicion:"Disposición anticipada que conduce a un fín"},
     {palabra:"Áulicos", definicion:"Relativo de un palacio."},
@@ -1393,6 +1393,22 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Deletéreo", definicion:"Mortífero, venenoso."},
     {palabra:"Pilatuna", definicion:"Travesura, acción propia de niños que, en busca de diversión, ocasiona molestia."},
     {palabra:"Ciclotimia", definicion:"Trastorno del estado de ánimo considerado como un trastorno bipolar leve."},
+    {palabra:"Ordalía", definicion:"Prueba ritual usada en la Europa medieval y en ciertas sociedades para averiguar la culpabilidad o inocencia de una persona acusada, y una de cuyas formas es el juicio de Dios."},
+    {palabra:"Accesión", definicion:"Coito."},
+    {palabra:"Hontanar", definicion:"Sitio en el que nacen fuentes o manantiales."},
+    {palabra:"Preterir", definicion:"Omitir."},
+    {palabra:"Helimorfismo", definicion:"Doctrina aristotélica seguida por la mayoría de los escolásticos según la cual los cuerpos se hallan constituidos por materia y forma; la materia es lo informe, la sustancia amorfa, mientras que la forma es la determinación de la materia."},
+    {palabra:"Sintaxis", definicion:"Modo de combinarse y ordenarse las palabras y las expresiones dentro del discurso. / Doctrina lingüistica que lo estudia."},
+    {palabra:"Sintagma", definicion:"Palabra o grupo de palabras que constituyen una unidad sintactica y que cumplen una función determinada con respecto a otras palabras de la oración."},
+    {palabra:"Deducción", definicion:"Forma de razonamiento que consiste en partir de un principio genereal conocido para llegar a un principio particular desconocido."},
+    {palabra:"Inducción", definicion:"Forma de razonamiento que consiste en establecer una leya o conclusión general a partir de particulares."}
+    {palabra:"Estipendio", definicion:"Cantidad de dinero que se paga a alguien por un trabajo realizado."}
+    {palabra:"Meteco", definicion:"Extranjero, forastero."}
+    {palabra:"Displicencia", definicion:"Actitud indiferente y de desagrado hacia algo o alguien."}
+    {palabra:"Deyección", definicion:"Ciscar / Materias arrojadas por un volcán."}
+    {palabra:"Garantir", definicion:"Dar garantía."}
+    {palabra:"Falible", definicion:"Que puede fallar."}
+    {palabra:"Bacteriófago", definicion:"Virus que afecta las bacterias."}
   ];
 
 }]);
