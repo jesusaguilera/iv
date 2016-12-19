@@ -1411,6 +1411,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Bacteriófago", definicion:"Virus que afecta las bacterias."}
     {palabra:"Excremental", definicion:"Excrementicio."}
     {palabra:"Excrementicio", definicion:"Perteneciente o relativo a la excreción y a las sustancias excretadas."}
+    {palabra:"Holganza", definicion:"Descanso. / Carencia de trabajo. / Placer, contento, diversión y regocijo."}
   ];
 
 }]);
