@@ -1409,6 +1409,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Garantir", definicion:"Dar garantía."}
     {palabra:"Falible", definicion:"Que puede fallar."}
     {palabra:"Bacteriófago", definicion:"Virus que afecta las bacterias."}
+    {palabra:"Excremental", definicion:"Excrementicio."}
+    {palabra:"Excrementicio", definicion:"Perteneciente o relativo a la excreción y a las sustancias excretadas."}
   ];
 
 }]);
