@@ -1412,6 +1412,13 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Excremental", definicion:"Excrementicio."},
     {palabra:"Excrementicio", definicion:"Perteneciente o relativo a la excreción y a las sustancias excretadas."},
     {palabra:"Holganza", definicion:"Descanso. / Carencia de trabajo. / Placer, contento, diversión y regocijo."},
+    {palabra:"Cortical", definicion:"Pertenciente o relativo a la corteza."},
+    {palabra:"Basal", definicion:"Situado en la base de una formación orgánica o de una construcción."},
+    {palabra:"Disyuntivo", definicion:"Que tiene la cualidad de desunir."},
+    {palabra:"Yuxtaponer", definicion:"Unir. / Poner una cosa junto a otra sin una en medio."},
+    {palabra:"Conjuntivo", definicion:"Que junta o une una cosa con otra."},
+    {palabra:"Hipostasis", definicion:"Consideración de lo abstracto o irreal como algo real."},
+    {palabra:"Hendíadis / endíadis", definicion:"Figura retórica que consiste en la expresión de un único concepto mediante dos términos coordinados. Ej: estará aquí en carne y hueso, prometer el oro y el moro."},
   ];
 
 }]);
