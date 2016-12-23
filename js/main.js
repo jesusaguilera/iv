@@ -346,7 +346,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Contingente", definicion:"Que puede o no suceder."},
     {palabra:"Descollar", definicion:"Sobresalir, Distinguirse."},
     {palabra:"Reificación", definicion:"Cosificación."},
-    {palabra:"Contricción", definicion:"Arrepentimiento de una culpa."},
+    {palabra:"Contrición", definicion:"Arrepentimiento de una culpa."},
     {palabra:"Lábil", definicion:"Que resbala. / Frágil. / Poco estable."},
     {palabra:"Obliterar", definicion:"Anular, tachar, borrar. / Cerrar u obstruir un conducto."},
     {palabra:"Exégeta", definicion:"Persona que interpreta o expone un texto."},
