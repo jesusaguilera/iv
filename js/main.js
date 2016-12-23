@@ -1419,7 +1419,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Conjuntivo", definicion:"Que junta o une una cosa con otra."},
     {palabra:"Hipostasis", definicion:"Consideración de lo abstracto o irreal como algo real."},
     {palabra:"Hendíadis / endíadis", definicion:"Figura retórica que consiste en la expresión de un único concepto mediante dos términos coordinados. Ej: estará aquí en carne y hueso, prometer el oro y el moro."},
-
+    {palabra:"Propedéutico", definicion:"Enseñanza preparatoria para el estudio de una cienca o una disciplina."},
   ];
 
 }]);
