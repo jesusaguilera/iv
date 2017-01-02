@@ -1421,6 +1421,19 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Hendíadis / endíadis", definicion:"Figura retórica que consiste en la expresión de un único concepto mediante dos términos coordinados. Ej: estará aquí en carne y hueso, prometer el oro y el moro."},
     {palabra:"Propedéutico", definicion:"Enseñanza preparatoria para el estudio de una cienca o una disciplina."},
     {palabra:"Auspicio", definicion:"Ayuda que recibe una persona, una entidad o un proyecto, etc., para propiciar su desarrollo o ejecución."},
+    {palabra:"Ad infinitum", definicion:"Latín: Hasta el infinito."},
+    {palabra:"Composible", definicion:"Compatible."},
+    {palabra:"Enuresis", definicion:"Micciones incontroladas."},
+    {palabra:"Componibilidad", definicion:"Poner juntos."},
+    {palabra:"Exacción", definicion:"Exigencia de pago de impuestos, multas, deudas, etc."},
+    {palabra:"Hilemorfismo", definicion:"Doctrina aristotélica según la cual los cuerpos se hallan constituidos por materia y forma."},
+    {palabra:"Individualizar", definicion:"Señalar las caracteristicas particulares que hacen qeu un individuo o grupo sea diferente de los demás de su clase."},
+    {palabra:"Individuación", definicion:"Acción de distinguir una cosa o una persona detalladamente de otras coasas o personas, por tener cualidades particulares."},
+    {palabra:"A fortiori", definicion:"Latín: Con mayor motivo."},
+    {palabra:"Holismo", definicion:"Todo, por entero, totalidad. / Posición metodológica y epistemológica qeu psotula cómo los sitemas y sus propiedades, deben ser analizados en su conjunto y no solo a través de las partes."},
+    {palabra:"Fisión", definicion:"Rotura o división de un núcleo atómico."},
+    {palabra:"Ofidio", definicion:"Reptiles escamosos sin extremidades, de cuerpo muy alargado y estrecho (serpiente)."},
+    {palabra:"Nóumeno, Noúmeno", definicion:"Objeto pensado por la razón, por oposicion a fenómeno (objeto captado por los sentidos), tal como es en sí y no tal como se nos aparece."},
   ];
 
 }]);
