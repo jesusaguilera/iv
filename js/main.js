@@ -501,7 +501,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Distopía", definicion:"Representación de sociedad futura negativa por la alineación humana."},
     {palabra:"Edicto", definicion:"Mandato. / Escrito que se fija en los lugares públicos de las ciudades y poblados, y en el cual se da noticia de algo para que sea notorio a todos"},
     {palabra:"Plañidero", definicion:"Lloroso, lastimero."},
-    {palabra:"Aducir", definicion:"Esponer algo con razones y pruebas."},
+    {palabra:"Aducir", definicion:"Presentar o alegar pruebas, razones, etc."},
     {palabra:"Gregario", definicion:"Que junto con otros similares siguen un dogma a pies juntillas."},
     {palabra:"Tránsfuga", definicion:"Que cambia de opinion rápido."},
     {palabra:"Ígneo", definicion:"Que tiene naturaleza de fuego."},
@@ -1377,7 +1377,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Emolumento", definicion:"Impuesto que se paga al Estado. / Carga, servidumbre, gravamen."},
     {palabra:"Caución", definicion:"Grarantía que da una persona del cumplimeinto de un eacto, obligación o contrato mediante la presentación de fiadores, juramento u otra medida."},
     {palabra:"Filomatía", definicion:"Amor a las ciencias."},
-    {palabra:"Pericia", definicion:"Habilidad para resolver algo."},
+    {palabra:"Pericia", definicion:"Sabiduría, práctica, experiencia y habilidad en una ciencia o arte."},
     {palabra:"Paleo-", definicion:"Antiguo o primitivo."},
     {palabra:"Paleolítico", definicion:"Periodo primero de la edad de piedra."},
     {palabra:"Neolítico", definicion:"Periodo último de la edad de piedra."},
@@ -1434,6 +1434,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Fisión", definicion:"Rotura o división de un núcleo atómico."},
     {palabra:"Ofidio", definicion:"Reptiles escamosos sin extremidades, de cuerpo muy alargado y estrecho (serpiente)."},
     {palabra:"Nóumeno, Noúmeno", definicion:"Objeto pensado por la razón, por oposicion a fenómeno (objeto captado por los sentidos), tal como es en sí y no tal como se nos aparece."},
+    {palabra:"Donoso", definicion:"Que tiene donaire y gracia."},
+    {palabra:"Deturpar", definicion:"Afear, manchar, estropear, deformar."},
   ];
 
 }]);
