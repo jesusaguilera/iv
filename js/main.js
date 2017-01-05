@@ -1102,7 +1102,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Desvencijado", definicion:"Descompuesto, estropeado, destartalado."},
     {palabra:"Endometrio", definicion:"Membrana mucosa que recubre la cabidad del útero."},
     {palabra:"Indubitable", definicion:"Indudable."},
-    {palabra:"Onomástica", definicion:"Día del santo de una persona."},
+    {palabra:"Onomástica", definicion:"Perteneciente o relativo a los nombres, y especialmente a los nombres propios. / Ciencia que trata de la catalogación y estudio de los nombres propios. / Día del santo de una persona."},
     {palabra:"Salafismo", definicion:"Movimiento sunnita que retorna a los orígenes del islam."},
     {palabra:"Haragán", definicion:"Holgazán."},
     {palabra:"Candidiasis", definicion:"Enfermedad infecciosa de la piel y las mucosas causada por un hongo."},
@@ -1120,7 +1120,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Lustro", definicion:"Quinquenio. Periodo de 5 años."},
     {palabra:"Cimarrón", definicion:"Dicho de un animal doméstico que huye al campo y se hace montaraz."},
     {palabra:"Montaraz", definicion:"Que vive en el campo o la montaña."},
-    {palabra:"Inter alia", definicion:"Entre otros."},
+    {palabra:"Inter alia", definicion:"Latín: Entre otros."},
     {palabra:"Prolepsis", definicion:"En la doctrina de los epicúreos y los estoicos, conocimiento anticipado de algo. / Anticipación mental de una acción por realizar. / Pasaje de una obra literaria que anticipa una escena posterior rompiendo la secuencia cronológica."},
     {palabra:"Praeter", definicion:"Además de, después, excepto, más, salvo."},
     {palabra:"Extrasómico", definicion:"Fuera del cuerpo o sin relación con él."},
@@ -1436,6 +1436,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Nóumeno, Noúmeno", definicion:"Objeto pensado por la razón, por oposicion a fenómeno (objeto captado por los sentidos), tal como es en sí y no tal como se nos aparece."},
     {palabra:"Donoso", definicion:"Que tiene donaire y gracia."},
     {palabra:"Deturpar", definicion:"Afear, manchar, estropear, deformar."},
+    {palabra:"Toponimia", definicion:"Conjunto de los nombres propios de lugar de un país o de una región"},
+    {palabra:"Onomástica", definicion:"Conjunto de los nombres propios de lugar de un país o de una región"},
   ];
 
 }]);
