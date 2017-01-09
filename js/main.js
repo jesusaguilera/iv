@@ -1450,6 +1450,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Grimorio", definicion:"Libro de fórmulas mágicas usado por los antiguos hechiceros."},
     {palabra:"Epatar", definicion:"Producir admiración o asombro."},
     {palabra:"Acondroplasia", definicion:"Variedad de enanismo donde las extremidades son cortas."},
+    {palabra:"Sub aeternitatis", definicion:"En virtud de la eternidad."},
   ];
 
 }]);
