@@ -1453,6 +1453,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Acondroplasia", definicion:"Variedad de enanismo donde las extremidades son cortas."},
     {palabra:"Sub aeternitatis", definicion:"En virtud de la eternidad."},
     {palabra:"Miasma", definicion:"Efluvio maligno."},
+    {palabra:"Prédica", definicion:"Sermón o plática. / Perorata, discurso vehemente."},
+    {palabra:"Circunstanciar", definicion:"Determinar las circunstacias de algo."},
+    {palabra:"Disonancia", definicion:"Falta de correspondencia, conformidad o igualdad entre dos o más cosas."},
+    {palabra:"Heterótrofo", definicion:"Que se nutre de sustancias elaboradas por otros seres vivos."},
   ];
 
 }]);
