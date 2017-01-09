@@ -1273,6 +1273,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Inveterado", definicion:"Que es antiguo y está arraigado a costumbres o creencias."},
     {palabra:"Réprobo", definicion:"Que está condenado al infierno."},
     {palabra:"Interdecir", definicion:"Prohibir."},
+    {palabra:"Interdicción", definicion:"Acción y efecto de interdecir."},
     {palabra:"Futesa", definicion:"Insignificancia."},
     {palabra:"Obnubilar", definicion:"Perder el entendimiento, la capacidad de razonar o darse cuenta de las cosas."},
     {palabra:"Injerir", definicion:"Introducir una cosa en otra. / Entremeterse o intervenir en asuntos ajenos."},
