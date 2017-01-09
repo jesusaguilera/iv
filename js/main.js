@@ -1451,6 +1451,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Epatar", definicion:"Producir admiración o asombro."},
     {palabra:"Acondroplasia", definicion:"Variedad de enanismo donde las extremidades son cortas."},
     {palabra:"Sub aeternitatis", definicion:"En virtud de la eternidad."},
+    {palabra:"Miasma", definicion:"Efluvio maligno."},
   ];
 
 }]);
