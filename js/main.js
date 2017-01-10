@@ -1457,6 +1457,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Circunstanciar", definicion:"Determinar las circunstacias de algo."},
     {palabra:"Disonancia", definicion:"Falta de correspondencia, conformidad o igualdad entre dos o más cosas."},
     {palabra:"Heterótrofo", definicion:"Que se nutre de sustancias elaboradas por otros seres vivos."},
+    {palabra:"Sindrómico", definicion:"Perteneciente o relativo a un síndrome."},
+    {palabra:"Síndrome", definicion:"Conjunto de signos o fenómenos reveladores de una situación generalmente negativa."},
   ];
 
 }]);
