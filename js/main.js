@@ -1418,7 +1418,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Disyuntivo", definicion:"Que tiene la cualidad de desunir."},
     {palabra:"Yuxtaponer", definicion:"Unir. / Poner una cosa junto a otra sin una en medio."},
     {palabra:"Conjuntivo", definicion:"Que junta o une una cosa con otra."},
-    {palabra:"Hipostasis", definicion:"Consideración de lo abstracto o irreal como algo real."},
+    {palabra:"Hipóstasis", definicion:"Consideración de lo abstracto o irreal como algo real."},
     {palabra:"Hendíadis / endíadis", definicion:"Figura retórica que consiste en la expresión de un único concepto mediante dos términos coordinados. Ej: estará aquí en carne y hueso, prometer el oro y el moro."},
     {palabra:"Propedéutico", definicion:"Enseñanza preparatoria para el estudio de una cienca o una disciplina."},
     {palabra:"Auspicio", definicion:"Ayuda que recibe una persona, una entidad o un proyecto, etc., para propiciar su desarrollo o ejecución."},
