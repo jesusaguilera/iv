@@ -1459,6 +1459,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Heterótrofo", definicion:"Que se nutre de sustancias elaboradas por otros seres vivos."},
     {palabra:"Sindrómico", definicion:"Perteneciente o relativo a un síndrome."},
     {palabra:"Síndrome", definicion:"Conjunto de signos o fenómenos reveladores de una situación generalmente negativa."},
+    {palabra:"Ecuanimidad", definicion:"Igualdad o constancia en ánimo."},
   ];
 
 }]);
