@@ -1463,6 +1463,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Sic", definicion:"En impresos y manuscritos españoles, por lo general entre paréntesis, para dar a entender que una palabra o frase empleada en ellos, y que pudiera parecer inexacta, es textual."},
     {palabra:"Hipocorístico", definicion:"Dicho de un nombre: Que, en forma diminutiva, abreviada o infantil, se usa como designación cariñosa, familiar o eufemística; p. ej., Pepe, Charo."},
     {palabra:"Patronímico", definicion:"Dicho de un apellido: Que se daba antiguamente en España al hijo, y que está formado sobre el nombre del padre. Ej: Fernandez de Ferenando."},
+    {palabra:"Anaquel", definicion:"Estante."},
+    {palabra:"Renuente", definicion:"Reacio, remiso. / Dificultoso, trabajoso."},
+    {palabra:"Sustantividad", definicion:"Existencia real, individualidad, independencia."},
+    {palabra:"Turgente", definicion:"Abultado y firme. / Dicho de un líquido: Que hincha alguna parte del cuerpo."},
   ];
 
 }]);
