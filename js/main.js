@@ -1467,6 +1467,9 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Renuente", definicion:"Reacio, remiso. / Dificultoso, trabajoso."},
     {palabra:"Sustantividad", definicion:"Existencia real, individualidad, independencia."},
     {palabra:"Turgente", definicion:"Abultado y firme. / Dicho de un líquido: Que hincha alguna parte del cuerpo."},
+    {palabra:"Pleura", definicion:"Membranas serosas que en ambos lados del pecho de los mamíferos cubren las paredes de la cavidad torácica y la superficie de los pulmones."},
+    {palabra:"Fiscalizar", definicion:"Criticar y traer a juicio las acciones u obras de alguien."},
+    {palabra:"Alipori", definicion:"Vergüenza ajena."},
   ];
 
 }]);
