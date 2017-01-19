@@ -1470,6 +1470,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Pleura", definicion:"Membranas serosas que en ambos lados del pecho de los mamíferos cubren las paredes de la cavidad torácica y la superficie de los pulmones."},
     {palabra:"Fiscalizar", definicion:"Criticar y traer a juicio las acciones u obras de alguien."},
     {palabra:"Alipori", definicion:"Vergüenza ajena."},
+    {palabra:"Dipsomanía", definicion:"Alcoholismo."},
   ];
 
 }]);
