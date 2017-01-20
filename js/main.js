@@ -1471,6 +1471,9 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Fiscalizar", definicion:"Criticar y traer a juicio las acciones u obras de alguien."},
     {palabra:"Alipori", definicion:"Vergüenza ajena."},
     {palabra:"Dipsomanía", definicion:"Alcoholismo."},
+    {palabra:"Apartheid", definicion:"Sistema político y social desarrollado en la República de Sudáfrica y otros estados sudafricanos, basado en la segregación o separación de la población por motivos raciales o étnicos y en el trato discriminatorio hacia la población negra."},
+    {palabra:"Vitriólico", definicion:"Perteneciente o relativo al vitriolo o que tiene sus propiedades."},
+    {palabra:"Vitriolo", definicion:"Ácido sulfúrico."},
   ];
 
 }]);
