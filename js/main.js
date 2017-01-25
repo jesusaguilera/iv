@@ -1479,6 +1479,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Ágape", definicion:"Banquete / Comida fraternal."},
     {palabra:"Gaudeamus", definicion:"Fiesta, regocijo, comida y bebida abundantes."},
     {palabra:"Ahormar", definicion:"Ajustar algo a su horma o molde."},
+    {palabra:"Eudemonismo", definicion:"Es la denominación que se asigna a toda teoría ética que postula que el bien buscado por naturaleza por el ser humano es la felicidad."},
+    {palabra:"Grimorio", definicion:"Es la denominación que se asigna a toda teoría ética que postula que el bien buscado por naturaleza por el ser humano es la felicidad."},
+    {palabra:"Teratoscopia", definicion:"Rama de las artes adivinatorias que se basa en la interpretaciones del prodigio y el monstruo (El monstruo como señal. Ej:Lluvia de piedras o lágrimas de sangre)"},
+    {palabra:"Martirologio", definicion:"Libro o catálogo de los mártires. / Libro de todos los santos conocidos. / Lista de las víctimas de una causa."},
   ];
 
 }]);
