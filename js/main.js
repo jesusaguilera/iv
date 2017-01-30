@@ -1483,6 +1483,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Grimorio", definicion:" Libro de fórmulas mágicas usado por los antiguos hechiceros."},
     {palabra:"Teratoscopia", definicion:"Rama de las artes adivinatorias que se basa en la interpretaciones del prodigio y el monstruo (El monstruo como señal. Ej:Lluvia de piedras o lágrimas de sangre)"},
     {palabra:"Martirologio", definicion:"Libro o catálogo de los mártires. / Libro de todos los santos conocidos. / Lista de las víctimas de una causa."},
+    {palabra:"Isovalencia", definicion:"Iso=igual, Valencia=valor."},
   ];
 
 }]);
