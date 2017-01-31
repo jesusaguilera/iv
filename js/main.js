@@ -1487,6 +1487,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Tautegórico", definicion:"Referido a sí mismo."},
     {palabra:"Alegórico", definicion:"Referido a otro."},
     {palabra:"Cogitar", definicion:"Reflexionar o meditar algo."},
+    {palabra:"Anamnesis", definicion:"Conjunto de datos que se recogen en la historia clínica de un paciente."},
   ];
 
 }]);
