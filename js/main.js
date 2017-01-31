@@ -1498,6 +1498,9 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Acendrar", definicion:"Depurar, purificar, limpiar."},
     {palabra:"Óbice", definicion:"Obstáculo, impedimento."},
     {palabra:"Sortilegio", definicion:"Adivinación que se hace por suertes supersticiosas."},
+    {palabra:"Escolio", definicion:"Nota que se pone a un texto para explicarlo."},
+    {palabra:"Autogórico", definicion:"Que se representa a sí mismo."},
+    {palabra:"Tautogórico", definicion:"Que el signo significante es la causa de su significado. Ej: 'Te lo prometo'."},
   ];
 
 }]);
