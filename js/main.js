@@ -1203,7 +1203,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Cuaquerismo", definicion:"Doctrina religiosa protestante que tuvo su origen en las ideas del relicgioso británico George Fox, se caracteriza por creer que la revelación divina es inmediata e individual y que todas las personas pueden sentir la palabra de Dios en sus almas."},
     {palabra:"Encamar", definicion:"Animar a alguien con razones espurias a hacer o decir algo."},
     {palabra:"Anomia", definicion:"Ausencia de la ley. / Conjunto de situaciones que dervian de la carencai de normas sociales o de su degradación."},
-    {palabra:"Conato", definicion:"Inicio de una acción que se frusta antes de llegar a su término."},
+    {palabra:"Conato", definicion:"Inicio de una acción que se frusta antes de llegar a su término. / Propensión, tendencia, propósito. / Empeño y esfuerzo en la ejecución de algo."},
     {palabra:"Pitecántropo", definicion:"Mamífero homínido que vivió durante el Pleistoceno."},
     {palabra:"Deplorar", definicion:"Sentir pena o disgusto por algo."},
     {palabra:"Corifeo", definicion:"Persona que dirigía el coro de las antiguas tragedias clásicas."},
@@ -1486,6 +1486,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Isovalencia", definicion:"Iso=igual, Valencia=valor."},
     {palabra:"Tautegórico", definicion:"Referido a sí mismo."},
     {palabra:"Alegórico", definicion:"Referido a otro."},
+    {palabra:"Cogitar", definicion:"Reflexionar o meditar algo."},
   ];
 
 }]);
