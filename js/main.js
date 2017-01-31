@@ -1497,6 +1497,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Facticio", definicion:"Elaborado artificialmente."},
     {palabra:"Acendrar", definicion:"Depurar, purificar, limpiar."},
     {palabra:"Óbice", definicion:"Obstáculo, impedimento."},
+    {palabra:"Sortilegio", definicion:"Adivinación que se hace por suertes supersticiosas."},
   ];
 
 }]);
