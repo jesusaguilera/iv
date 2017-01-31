@@ -1488,6 +1488,15 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Alegórico", definicion:"Referido a otro."},
     {palabra:"Cogitar", definicion:"Reflexionar o meditar algo."},
     {palabra:"Anamnesis", definicion:"Conjunto de datos que se recogen en la historia clínica de un paciente."},
+    {palabra:"Paronomasia / Paranomasia", definicion:"Semejanza fonética entre dos o más palabras Ej: roja y reja."},
+    {palabra:"Paisanaje", definicion:"Conjunto de paisanos."},
+    {palabra:"Exergo", definicion:"Cita con la que se encabeza un texto."},
+    {palabra:"Inmarcesible", definicion:"Inmarchitable."},
+    {palabra:"Ecónomo", definicion:"Hombre que adminstraba los bienes del demente o del pródigo. / Gerente."},
+    {palabra:"Pródigo", definicion:"Dadivoso. Que despedicia."},
+    {palabra:"Facticio", definicion:"Elaborado artificialmente."},
+    {palabra:"Acendrar", definicion:"Depurar, purificar, limpiar."},
+    {palabra:"Óbice", definicion:"Obstáculo, impedimento."},
   ];
 
 }]);
