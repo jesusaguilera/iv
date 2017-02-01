@@ -1507,6 +1507,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Nesciente", definicion:"Que no sabe."},
     {palabra:"Eviterno", definicion:"Que, habiendo comenzado en el tiempo, no tendrá fin."},
     {palabra:"Metabolizar", definicion:"Asimilar algo."},
+    {palabra:"Genitivo", definicion:"Que engendra o produce algo."},
   ];
 
 }]);
