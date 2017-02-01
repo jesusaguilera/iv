@@ -1504,6 +1504,9 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Satrapía", definicion:"Dignidad de un sátrapa. / Territorio gobernado por un sátrapa."},
     {palabra:"Anfibología", definicion:"Doble sentido de una palabra que puede provocar dudas e interpretaciones erróneas."},
     {palabra:"Atingencia", definicion:"Relación, conexión."},
+    {palabra:"Nesciente", definicion:"Que no sabe."},
+    {palabra:"Eviterno", definicion:"Que, habiendo comenzado en el tiempo, no tendrá fin."},
+    {palabra:"Metabolizar", definicion:"Asimilar algo."},
   ];
 
 }]);
