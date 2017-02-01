@@ -1502,6 +1502,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Autogórico", definicion:"Que se representa a sí mismo."},
     {palabra:"Tautogórico", definicion:"Que el signo significante es la causa de su significado. Ej: 'Te lo prometo'."},
     {palabra:"Satrapía", definicion:"Dignidad de un sátrapa. / Territorio gobernado por un sátrapa."},
+    {palabra:"Anfibología", definicion:"Doble sentido de una palabra que puede provocar dudas e interpretaciones erróneas."},
+    {palabra:"Atingencia", definicion:"Relación, conexión."},
   ];
 
 }]);
