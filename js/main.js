@@ -1512,6 +1512,9 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Bonhomía", definicion:"Afabilidad, sencillez, bondad y honradez."},
     {palabra:"Oncología", definicion:"Que estudia los tumores y su tratamiento. Ej: 'La onocología se ocupa del cáncer (cáncerología)'"},
     {palabra:"Nadir", definicion:"Punto de la esfera celeste opuesta al cenit."},
+    {palabra:"Dialógico", definicion:"Que contempla la posibilidad de discusión."},
+    {palabra:"Arrogar", definicion:"Atribuir, adjudicar. / Apropiarse indebida o exageradamente de cosas inmateriales, como facultades, derechos u honores."},
+    {palabra:"Recusar", definicion:"No querer admitir algo o aceptarlo."},
   ];
 
 }]);
