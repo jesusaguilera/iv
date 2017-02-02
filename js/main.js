@@ -1515,6 +1515,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Dialógico", definicion:"Que contempla la posibilidad de discusión."},
     {palabra:"Arrogar", definicion:"Atribuir, adjudicar. / Apropiarse indebida o exageradamente de cosas inmateriales, como facultades, derechos u honores."},
     {palabra:"Recusar", definicion:"No querer admitir algo o aceptarlo."},
+    {palabra:"Cronotopo", definicion:"Conexión de las relaciones temporales y espaciales. Unidad de espacio-tiempo indisoluble."},
   ];
 
 }]);
