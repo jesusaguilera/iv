@@ -1510,6 +1510,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Genitivo", definicion:"Que engendra o produce algo."},
     {palabra:"Dativa", definicion:"Relativo a lo dado."},
     {palabra:"Bonhomía", definicion:"Afabilidad, sencillez, bondad y honradez."},
+    {palabra:"Oncología", definicion:"Que estudia los tumores y su tratamiento. Ej: 'La onocología se ocupa del cáncer (cáncerología)'"},
+    {palabra:"Nadir", definicion:"Punto de la esfera celeste opuesta al cenit."},
   ];
 
 }]);
