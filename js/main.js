@@ -1508,6 +1508,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Eviterno", definicion:"Que, habiendo comenzado en el tiempo, no tendrá fin."},
     {palabra:"Metabolizar", definicion:"Asimilar algo."},
     {palabra:"Genitivo", definicion:"Que engendra o produce algo."},
+    {palabra:"Dativa", definicion:"Relativo a lo dado."},
+    {palabra:"Bonhomía", definicion:"Afabilidad, sencillez, bondad y honradez."},
   ];
 
 }]);
