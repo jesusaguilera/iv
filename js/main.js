@@ -1519,6 +1519,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Añagaza", definicion:"Artificio para atraer con engaño. Señuelo para coger aves."},
     {palabra:"Otredad", definicion:"Condición de ser otro."},
     {palabra:"Domeñar", definicion:"Sujetar, someter y reñir."},
+    {palabra:"Fratría", definicion:"Sociedad íntima, hermandad, cofradía."},
   ];
 
 }]);
