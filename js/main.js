@@ -1516,6 +1516,9 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Arrogar", definicion:"Atribuir, adjudicar. / Apropiarse indebida o exageradamente de cosas inmateriales, como facultades, derechos u honores."},
     {palabra:"Recusar", definicion:"No querer admitir algo o aceptarlo."},
     {palabra:"Cronotopo", definicion:"Conexión de las relaciones temporales y espaciales. Unidad de espacio-tiempo indisoluble."},
+    {palabra:"Añagaza", definicion:"Artificio para atraer con engaño. Señuelo para coger aves."},
+    {palabra:"Otredad", definicion:"Condición de ser otro."},
+    {palabra:"Domeñar", definicion:"Sujetar, someter y reñir."},
   ];
 
 }]);
