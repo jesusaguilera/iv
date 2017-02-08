@@ -1523,6 +1523,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Filarquía", definicion:"Mando de una serie de tríbus de la antigüedad."},
     {palabra:"Statu quo", definicion:"Estado de las cosas en un determinado momento."},
     {palabra:"Rehala", definicion:"Rebaño de ganada lanar de distintos dueños conducido por un solo mayoral. / Jauria o agrupación de perros de caza."},
+    {palabra:"Apoyatura", definicion:"Apoyo."},
+    {palabra:"Rejo", definicion:"Robustez o fortaleza. / Soga. / Punta o aguijón de hierro."},
+    {palabra:"Andrina / Endrino", definicion:"De color negro azulado, parecido al de la endrina."},
+    {palabra:"Procaz", definicion:"Desvergonzado, atrevido."},
   ];
 
 }]);
