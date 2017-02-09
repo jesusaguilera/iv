@@ -1447,7 +1447,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Bolardo", definicion:"Poste de hierro."},
     {palabra:"Pareidolia", definicion:"Fenómeno psicológico que percibe caras donde no las hay."},
     {palabra:"Amenidad", definicion:"Cualidad de ameno."},
-    {palabra:"Apodíctico", definicion:"En lógica que expresa una verdad concluyente y no deja lugar a discusión."},
+    {palabra:"Apodíctico", definicion:"Totalmente cierto, válido."},
     {palabra:"Grimorio", definicion:"Libro de fórmulas mágicas usado por los antiguos hechiceros."},
     {palabra:"Epatar", definicion:"Producir admiración o asombro."},
     {palabra:"Acondroplasia", definicion:"Variedad de enanismo donde las extremidades son cortas."},
