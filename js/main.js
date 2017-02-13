@@ -1527,6 +1527,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Rejo", definicion:"Robustez o fortaleza. / Soga. / Punta o aguijón de hierro."},
     {palabra:"Andrina / Endrino", definicion:"De color negro azulado, parecido al de la endrina."},
     {palabra:"Procaz", definicion:"Desvergonzado, atrevido."},
+    {palabra:"Impostado", definicion:"Artificial, fingido."},
   ];
 
 }]);
