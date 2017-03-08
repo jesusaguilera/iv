@@ -1547,6 +1547,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Heterogonía", definicion:"Reproducción de especies por dos formas, uan por cruzamiento sexual y otra por partenogénesis."},
     {palabra:"Partenogénesis", definicion:"Tipo de reproducción sexual que consiste en el desarrollo de una célula reproductora hasta llegar a formarse un nuevo individuo, sin que se produzca fecundación."},
     {palabra:"Exención", definicion:"Efecto de eximir a una persona de una carga, culpa, obligación o compromiso."},
+    {palabra:"Bonhomía", definicion:"Afabilidad, sencillez, bondad y honradez en el carácter y en el comportamiento."},
   ];
 
 }]);
