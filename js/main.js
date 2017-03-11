@@ -1552,6 +1552,9 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Horadar", definicion:"Agujerear atravesando de parte a parte."},
     {palabra:"Herrumbre", definicion:"Óxido del hierro."},
     {palabra:"Mucama", definicion:"Criada."},
+    {palabra:"Diversidad funcional", definicion:"Discapacidad."},
+    {palabra:"Capacitismo", definicion:"Discriminación o prejuicio contra discapacitados."},
+    {palabra:"Fisicalismo", definicion:"Doctrina filosófica que afirma que todo lo que existe es exclusivamente físico. (Materialismo reduccionista y monista.)"},
   ];
 
 }]);
