@@ -1556,6 +1556,12 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Capacitismo", definicion:"Discriminación o prejuicio contra discapacitados."},
     {palabra:"Fisicalismo", definicion:"Doctrina filosófica que afirma que todo lo que existe es exclusivamente físico. (Materialismo reduccionista y monista.)"},
     {palabra:"Sapiosexual", definicion:"Neologismo, atracción sexual por la inteligencia de otro individuo."},
+    {palabra:"Brete", definicion:"Aprieto sin efugio o evasiva."},
+    {palabra:"Efugio", definicion:"Evasión, salida."},
+    {palabra:"Parergon", definicion:"Aditamiento a una cosa, que le sirve de ornato."},
+    {palabra:"Aditamiento", definicion:"Cosa que se añade a otra."},
+    {palabra:"Luengo", definicion:"Largo. / Dilación, demora."},
+    {palabra:"Palimpsesto", definicion:"Manuscrito en el que se ha borrado, mediante raspado u otro procedimiento, el texto para volver a escribir un nuevo texto."},
   ];
 
 }]);
