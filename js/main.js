@@ -1565,6 +1565,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Praxeología", definicion:"Metodología que busca estudiar la estructura lógica de la acción humana."},
     {palabra:"Apotético", definicion:"Posición fenomenológica característica de los objetos que percibimos en nuestro 'mundo entorno'. (Son apotéticas las conductas de acecho de los animales, la captación de los comportamientos de otros sujetos, los planes, proyectos o fines, los símbolos, &c.)"},
     {palabra:"Paretético", definicion:"Forma de relaciones que implican causalidad mecánica. (Las sinapsis neuronales que se producen cuando un sujeto operatorio (animal o humano) «frunce el ceño» para ejercer el raciocinio)"},
+    {palabra:"Xeno-", definicion:"Extranjero. Ej: Xenófobia."},
   ];
 
 }]);
