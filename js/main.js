@@ -1562,6 +1562,9 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Aditamiento", definicion:"Cosa que se añade a otra."},
     {palabra:"Luengo", definicion:"Largo. / Dilación, demora."},
     {palabra:"Palimpsesto", definicion:"Manuscrito en el que se ha borrado, mediante raspado u otro procedimiento, el texto para volver a escribir un nuevo texto."},
+    {palabra:"Praxeología", definicion:"Metodología que busca estudiar la estructura lógica de la acción humana."},
+    {palabra:"Apotético", definicion:"Posición fenomenológica característica de los objetos que percibimos en nuestro 'mundo entorno'. (Son apotéticas las conductas de acecho de los animales, la captación de los comportamientos de otros sujetos, los planes, proyectos o fines, los símbolos, &c.)"},
+    {palabra:"Paretético", definicion:"Forma de relaciones que implican causalidad mecánica. (Las sinapsis neuronales que se producen cuando un sujeto operatorio (animal o humano) «frunce el ceño» para ejercer el raciocinio)"},
   ];
 
 }]);
