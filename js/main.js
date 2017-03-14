@@ -398,7 +398,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Crátera", definicion:"En Grecia y Roma donde se mezclaba el vino con agua."},
     {palabra:"Palinodia", definicion:"Retractación pública."},
     {palabra:"Malgré lui", definicion:"A pesar de..."},
-    {palabra:"Solipismo", definicion:"Creencia metafísica que dice que de lo único que se puede estar seguro es de la existencia de su propia mente y que la realidad que nos rodea es incognoscible."},
+    {palabra:"Solipsismo", definicion:"Forma radical de subjetivismo según la cual solo existe o solo puede ser conocido el propio yo."},
     {palabra:"Eufonía", definicion:"Efecto acústico que resulta de la combinación de sonidos en uan palabra o frase."},
     {palabra:"Disgresión", definicion:"Apartarse de un relato o discurso para traar algo relacionado con él."},
     {palabra:"Escamotear", definicion:"Robar o quitar algo con agilidad y astucia."},
