@@ -854,7 +854,6 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Medianía", definicion:"Vulgar, del montón. / Condición de ser medio, mediano o promedio. / Por extensión, cosa o persona sin defectos o virtudes notorias"},
     {palabra:"Peccata minuta", definicion:"Lat. Pequeño pecado. / Expresión latina familiar que se usa para indicar un error o falta leve. Se usa en sentido coloquial para designar una culpa, equivocación o error de poca importancia. / Se usa para referirse a algo sin importancia o de poco valor. 'Lo que ha hecho este hombre es peccata minuta, en comparación con lo que han hecho otros.'"},
     {palabra:"Mindfulness", definicion:"La atención plena, conciencia plena o conciencia pura; también traducido como conciencia es una facultad espiritual o psicológica que se consideran de gran importancia en el camino hacia la iluminación"},
-    {palabra:"Epítome", definicion:"Resumen"},
     {palabra:"Verbosidad", definicion:"Abundancia de palabras en la elocución."},
     {palabra:"Elocución", definicion:"Manera de hablar y manejar los conceptos. / Modo de elegir y distribuir los pensamientos y las palabras en el discurso."},
     {palabra:"Locuacidad", definicion:"Cualidad de locuaz."},
@@ -1567,6 +1566,9 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Apotético", definicion:"Posición fenomenológica característica de los objetos que percibimos en nuestro 'mundo entorno'. (Son apotéticas las conductas de acecho de los animales, la captación de los comportamientos de otros sujetos, los planes, proyectos o fines, los símbolos, &c.)"},
     {palabra:"Paretético", definicion:"Forma de relaciones que implican causalidad mecánica. (Las sinapsis neuronales que se producen cuando un sujeto operatorio (animal o humano) «frunce el ceño» para ejercer el raciocinio)"},
     {palabra:"Xeno-", definicion:"Extranjero. Ej: Xenófobia."},
+    {palabra:"Colusión", definicion:"Pacto ilícito de engaño a tercero."},
+    {palabra:"Poliandria", definicion:"Estado de la mujer casada con más de un hombre."},
+    {palabra:"Incardinar", definicion:"Incorporar a alguien en algo."},
   ];
 
 }]);
