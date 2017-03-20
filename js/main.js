@@ -1569,6 +1569,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Colusión", definicion:"Pacto ilícito de engaño a tercero."},
     {palabra:"Poliandria", definicion:"Estado de la mujer casada con más de un hombre."},
     {palabra:"Incardinar", definicion:"Incorporar a alguien en algo."},
+    {palabra:"Factum", definicion:"Hecho."},
   ];
 
 }]);
