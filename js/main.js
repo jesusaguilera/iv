@@ -1570,6 +1570,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Poliandria", definicion:"Estado de la mujer casada con más de un hombre."},
     {palabra:"Incardinar", definicion:"Incorporar a alguien en algo."},
     {palabra:"Factum", definicion:"Hecho."},
+    {palabra:"Ex nihilo", definicion:"Desde/De la nada."},
   ];
 
 }]);
