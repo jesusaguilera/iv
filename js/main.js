@@ -1571,6 +1571,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Incardinar", definicion:"Incorporar a alguien en algo."},
     {palabra:"Factum", definicion:"Hecho."},
     {palabra:"Ex nihilo", definicion:"Desde/De la nada."},
+    {palabra:"Azogar", definicion:"Turbarse y agitarse mucho."},
+    {palabra:"Consuetudinario", definicion:"Que se rige por la costumbre, aplicado normalmente al derecho."},
+    {palabra:"Diádoco / Proclo", definicion:"Sucesor."},
+    {palabra:"Hénada", definicion:"Uno, unidad."},
   ];
 
 }]);
