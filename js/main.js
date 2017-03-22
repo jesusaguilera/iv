@@ -1575,6 +1575,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Consuetudinario", definicion:"Que se rige por la costumbre, aplicado normalmente al derecho."},
     {palabra:"Diádoco / Proclo", definicion:"Sucesor."},
     {palabra:"Hénada", definicion:"Uno, unidad."},
+    {palabra:"Asíntota", definicion:"Línea recta que, prolongada indefinidamente, se acerca de continuo a una curva, sin llegar nunca a encontrarla."},
   ];
 
 }]);
