@@ -1578,6 +1578,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Asíntota", definicion:"Línea recta que, prolongada indefinidamente, se acerca de continuo a una curva, sin llegar nunca a encontrarla."},
     {palabra:"Dimorfismo", definicion:"Dos formas o dos aspectos anatómicos diferentes."},
     {palabra:"Excipiente", definicion:"Sustancia inerte que se utiliza para dar solidez a otra."},
+    {palabra:"Prognato", definicion:"Que tiene mandíbulas salientes. / Que tiene las partes bucales prominentes."},
   ];
 
 }]);
