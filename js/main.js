@@ -1579,6 +1579,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Dimorfismo", definicion:"Dos formas o dos aspectos anatómicos diferentes."},
     {palabra:"Excipiente", definicion:"Sustancia inerte que se utiliza para dar solidez a otra."},
     {palabra:"Prognato", definicion:"Que tiene mandíbulas salientes. / Que tiene las partes bucales prominentes."},
+    {palabra:"Preservativo", definicion:"Que tiene la virtud o eficacia de preservar."},
+    {palabra:"-cida", definicion:"Significa 'matador', 'exterminador'. (Herbicida, insecticida)"},
+    {palabra:"Intersectarse", definicion:"Geom: Dicho de dos líneas, dos superficies o sólidos: Cortarse o cruzarse entre sí."},
+    {palabra:"Ad hominem", definicion:"Contra el hombre."},
   ];
 
 }]);
