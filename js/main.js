@@ -1583,6 +1583,9 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"-cida", definicion:"Significa 'matador', 'exterminador'. (Herbicida, insecticida)"},
     {palabra:"Intersectarse", definicion:"Geom: Dicho de dos líneas, dos superficies o sólidos: Cortarse o cruzarse entre sí."},
     {palabra:"Ad hominem", definicion:"Contra el hombre."},
+    {palabra:"Hagiografía", definicion:"Historia de la vida de los santos. / Biografía excesivamente elogiosa."},
+    {palabra:"Roturar", definicion:"Arrar o labrar por primera vez las tierras para ponerlos en cultivo."},
+    {palabra:"Dengue", definicion:"Remilgo o resistencia a hacer o tomar una cosa por delicadeza exagerada o por hacerse de rogar"},
   ];
 
 }]);
