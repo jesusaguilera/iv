@@ -1586,6 +1586,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Hagiografía", definicion:"Historia de la vida de los santos. / Biografía excesivamente elogiosa."},
     {palabra:"Roturar", definicion:"Arrar o labrar por primera vez las tierras para ponerlos en cultivo."},
     {palabra:"Dengue", definicion:"Remilgo o resistencia a hacer o tomar una cosa por delicadeza exagerada o por hacerse de rogar"},
+    {palabra:"Dysania", definicion:"Dificultad para levantarse por las mañanas."},
+    {palabra:"Fosfeno", definicion:"Sensación visual producida por la excitación mecánica de la retina o por una presión sobre el globo ocular."},
+    {palabra:"Lemniscata", definicion:"Nomenclatura del símbolo de infinito en geometría."},
+    {palabra:"Tenesmo", definicion:"Ganas frecuentes de ir al aseo."},
   ];
 
 }]);
