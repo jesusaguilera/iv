@@ -1590,6 +1590,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Fosfeno", definicion:"Sensación visual producida por la excitación mecánica de la retina o por una presión sobre el globo ocular."},
     {palabra:"Lemniscata", definicion:"Nomenclatura del símbolo de infinito en geometría."},
     {palabra:"Tenesmo", definicion:"Ganas frecuentes de ir al aseo."},
+    {palabra:"Seráfico", definicion:"Angelical."},
+    {palabra:"Sexador", definicion:"Persona que se dedica a sexar animales."},
   ];
 
 }]);
