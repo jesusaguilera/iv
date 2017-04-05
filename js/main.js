@@ -1592,6 +1592,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Tenesmo", definicion:"Ganas frecuentes de ir al aseo."},
     {palabra:"Seráfico", definicion:"Angelical."},
     {palabra:"Sexador", definicion:"Persona que se dedica a sexar animales."},
+    {palabra:"Talasocracia", definicion:"Dominio ejercido sobre los mares."},
   ];
 
 }]);
