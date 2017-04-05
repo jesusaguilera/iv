@@ -1593,6 +1593,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Seráfico", definicion:"Angelical."},
     {palabra:"Sexador", definicion:"Persona que se dedica a sexar animales."},
     {palabra:"Talasocracia", definicion:"Dominio ejercido sobre los mares."},
+    {palabra:"Estabulario o Animalario", definicion:"Espacio donde se tienen los animales destinados a experimentos de laboratorio"},
   ];
 
 }]);
