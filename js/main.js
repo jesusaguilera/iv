@@ -1608,6 +1608,9 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Subrogación", definicion:"Remplazo de las competencias de otro."},
     {palabra:"Sofrología", definicion:"Conjunto de técnicas terapéuticas alternativas para el manejor del estrés."},
     {palabra:"Quaestio nominis", definicion:"Cuestíon de."},
+    {palabra:"Zangarriana", definicion:"Enfermedad leve y pasajera , que repite con frecuencia. / Tristeza, melancolía, disgusto."},
+    {palabra:"Pavesa", definicion:"Partecilla ligera que salta de una materia inflamada y acaba por convertirse en ceniza."},
+    {palabra:"Erial", definicion:"Dicho de una tierra o campo: Sin cultivar ni labrar."},
   ];
 
 }]);
