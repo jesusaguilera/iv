@@ -312,7 +312,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Circunlocución", definicion:"Rodeo de palabras algo que se podría decir con menos."},
     {palabra:"Gozne", definicion:"Bisagra."},
     {palabra:"Istmo", definicion:"Camino de tierra que une dos islas."},
-    {palabra:"Sincopar", definicion:"Abreviar, acortar. / Supresión de sonidos de una palabra. Ej: Navidad por Natividad."},
+    {palabra:"Sincopar", definicion:"Abreviar, acortar."},
     {palabra:"Argentado", definicion:"Bañado en plata."},
     {palabra:"Probidad", definicion:"Honradez."},
     {palabra:"Aciago o infausto", definicion:"Desgraciado, infeliz."},
@@ -1611,6 +1611,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Zangarriana", definicion:"Enfermedad leve y pasajera , que repite con frecuencia. / Tristeza, melancolía, disgusto."},
     {palabra:"Pavesa", definicion:"Partecilla ligera que salta de una materia inflamada y acaba por convertirse en ceniza."},
     {palabra:"Erial", definicion:"Dicho de una tierra o campo: Sin cultivar ni labrar."},
+    {palabra:"Nuncio", definicion:"Hombre que lleva mensajes o encargos de una persona a otra."},
     {palabra:"Burgo", definicion:"En la Edad Media, fortaleza construida por los nobles feudales para vigilar los territorios de su jurisdicción, donde se asentaban los gremios, entre otros, de comerciantes y artesanos. / Aldea o población muy pequeña, dependiente de otra principal."},
   ];
 
