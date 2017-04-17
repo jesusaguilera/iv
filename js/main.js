@@ -239,7 +239,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Dimanar", definicion:"Manar. / Proceder. provenir y tener origen una cosa de otra."},
     {palabra:"Avezar", definicion:"Acostumbrar."},
     {palabra:"Polímata", definicion:"Persona que sabe de muchos campos. ( Da Vinci, Aristóteles, etc )"},
-    {palabra:"Ucronía", definicion:"Genereo literario que da por supuesto acontecimientos no sucedidos. ( Republicanos ganaron, Dinosaurios no se extinguieron, etc. )"},
+    {palabra:"Ucronía", definicion:"Reconstrucción de la historia sobre datos hipotéticos."},
     {palabra:"Perentoria", definicion:"Definitivo, Último plazo que se concede de un asunto. / Concluyente, determinante. / Urgente"},
     {palabra:"Efeméride", definicion:"Acontecimiento importante que se recuerda en cualquier aniversario de él."},
     {palabra:"Soliloquio", definicion:"Habla a solas."},
