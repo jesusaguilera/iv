@@ -1595,7 +1595,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Talasocracia", definicion:"Dominio ejercido sobre los mares."},
     {palabra:"Estabulario o Animalario", definicion:"Espacio donde se tienen los animales destinados a experimentos de laboratorio"},
     {palabra:"Piélago", definicion:"Balsa, estanque. / Aquello que por su abundancia es dificultoso de enumerar y contar."},
-    {palabra:"Erístico", definicion:"El arte del conflicto y del debate."},
+    {palabra:"Erística", definicion:"El arte del conflicto y del debate."},
     {palabra:"Ínsito", definicion:"Propio y connatural a algo y como nacido en ello."},
     {palabra:"Negligir", definicion:"Descuidar, pasar por alto, abandonar algo."},
     {palabra:"Oneroso", definicion:"Descuidar, pasar por alto, abandonar algo."},
@@ -1611,6 +1611,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Zangarriana", definicion:"Enfermedad leve y pasajera , que repite con frecuencia. / Tristeza, melancolía, disgusto."},
     {palabra:"Pavesa", definicion:"Partecilla ligera que salta de una materia inflamada y acaba por convertirse en ceniza."},
     {palabra:"Erial", definicion:"Dicho de una tierra o campo: Sin cultivar ni labrar."},
+    {palabra:"Burgo", definicion:"En la Edad Media, fortaleza construida por los nobles feudales para vigilar los territorios de su jurisdicción, donde se asentaban los gremios, entre otros, de comerciantes y artesanos. / Aldea o población muy pequeña, dependiente de otra principal."},
   ];
 
 }]);
