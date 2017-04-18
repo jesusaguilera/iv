@@ -1613,6 +1613,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Erial", definicion:"Dicho de una tierra o campo: Sin cultivar ni labrar."},
     {palabra:"Nuncio", definicion:"Hombre que lleva mensajes o encargos de una persona a otra."},
     {palabra:"Burgo", definicion:"En la Edad Media, fortaleza construida por los nobles feudales para vigilar los territorios de su jurisdicción, donde se asentaban los gremios, entre otros, de comerciantes y artesanos. / Aldea o población muy pequeña, dependiente de otra principal."},
+    {palabra:"Paular", definicion:"Terreno pantanoso. / Hablar."},
+    {palabra:"Testa", definicion:"Cabeza. / Cara o parte frontal de las cosas. / Entendimiento, capacidad y prudencia."},
+    {palabra:"Nudo gordiano", definicion:"Dificultad de difícil solución."},
+    {palabra:"Occipucio", definicion:"Parte de la cabeza por donde esta se une con las vértebras del cuello."},
   ];
 
 }]);
