@@ -1617,6 +1617,9 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Testa", definicion:"Cabeza. / Cara o parte frontal de las cosas. / Entendimiento, capacidad y prudencia."},
     {palabra:"Nudo gordiano", definicion:"Dificultad de difícil solución."},
     {palabra:"Occipucio", definicion:"Parte de la cabeza por donde esta se une con las vértebras del cuello."},
+    {palabra:"Adventicio", definicion:"Extraño o que sobreviene, a diferencia de lo natural y propio. / Dicho de un órgano o parte de un animal o de un vegetal: Que se desarrolla en lugar distinto del habitual."},
+    {palabra:"Ofensión", definicion:"Molestia, daño, agravio."},
+    {palabra:"Sapere Aude", definicion:"Latín: Atrévete a saber."},
   ];
 
 }]);
