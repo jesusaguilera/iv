@@ -1620,6 +1620,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Adventicio", definicion:"Extraño o que sobreviene, a diferencia de lo natural y propio. / Dicho de un órgano o parte de un animal o de un vegetal: Que se desarrolla en lugar distinto del habitual."},
     {palabra:"Ofensión", definicion:"Molestia, daño, agravio."},
     {palabra:"Sapere Aude", definicion:"Latín: Atrévete a saber."},
+    {palabra:"Átopo", definicion:"Inclasificable."},
   ];
 
 }]);
