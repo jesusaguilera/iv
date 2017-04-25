@@ -1639,6 +1639,15 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Antropocentrismo", definicion:"Hombre como medida de todas las cosas."},
     {palabra:"Especismo", definicion:"Desconsideración a diferentes especies. La representación más común es el antropocentrismo moral, es decir, la infravaloración de los intereses de quienes no pertenecen a la especie Homo sapiens."},
     {palabra:"Antrópico", definicion:"Todo aquello que tiene que ver con el ser humano y su posición en el mundo, engloba a todas las modificaciones que sufre la naturaleza por causa de la acción humana. Ej: construcción de vías férreas, carreteras, represas hidroeléctricas, teoría del universo."},
+    {palabra:"Necrosis", definicion:"Degeneración del tejido por muerte de sus células."},
+    {palabra:"Necropsia", definicion:"Autopsia."},
+    {palabra:"Sahumar", definicion:"Ahumar una cosa para que tome buen olor."},
+    {palabra:"Hozar", definicion:"Mover y levantar tierra con el hocico."},
+    {palabra:"Golem", definicion:"Ser creado de barro en la mitología judía y medieval"},
+    {palabra:"Abnegado", definicion:"Que sacrifica o renuncia a sus intereses o deseos."},
+    {palabra:"Nigromancia", definicion:"Adivinación mediante la invocación a los muertos. / Magia negra o diabólica"},
+    {palabra:"Duopolio", definicion:"Situación de mercado en que la oferta de un producto o el ejercicio de una actividad se reparte entre dos empresas."},
+    {palabra:"Behetría", definicion:"Confusión, desorden. / Antiguamente, población cuyos vecinos, como dueños absolutos de ella, podían recibir por señor a quien quisiesen."},
   ];
 
 }]);
