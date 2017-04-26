@@ -1648,6 +1648,9 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Nigromancia", definicion:"Adivinación mediante la invocación a los muertos. / Magia negra o diabólica"},
     {palabra:"Duopolio", definicion:"Situación de mercado en que la oferta de un producto o el ejercicio de una actividad se reparte entre dos empresas."},
     {palabra:"Behetría", definicion:"Confusión, desorden. / Antiguamente, población cuyos vecinos, como dueños absolutos de ella, podían recibir por señor a quien quisiesen."},
+    {palabra:"Admonición", definicion:"Discurso con que se hace ver un mal y se invita a corregirse."},
+    {palabra:"Ignoramus et ignorabimus", definicion:"Desconocemos y desconoceremos."},
+    {palabra:"Férula", definicion:"Autoridad o poder despótico."},
   ];
 
 }]);
