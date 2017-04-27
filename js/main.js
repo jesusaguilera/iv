@@ -1651,6 +1651,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Admonición", definicion:"Discurso con que se hace ver un mal y se invita a corregirse."},
     {palabra:"Ignoramus et ignorabimus", definicion:"Desconocemos y desconoceremos."},
     {palabra:"Férula", definicion:"Autoridad o poder despótico."},
+    {palabra:"Procurador", definicion:"Ejecuta o actúa en nombre de otro."},
+    {palabra:"Interregno", definicion:"Periodo de tiempo en que un estado o país carece de soberano."},
   ];
 
 }]);
