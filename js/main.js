@@ -1653,6 +1653,11 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Férula", definicion:"Autoridad o poder despótico."},
     {palabra:"Procurador", definicion:"Ejecuta o actúa en nombre de otro."},
     {palabra:"Interregno", definicion:"Periodo de tiempo en que un estado o país carece de soberano."},
+    {palabra:"Expeditivo", definicion:"Que actúa con eficacia y rapidez en la resolución de un asunto."},
+    {palabra:"Deicida", definicion:"Que prescinde de dioses. / Que dio muerte a Jesús o contribuyó a ello."},
+    {palabra:"Pogromo", definicion:"Saqueo y matanza de gente indefensa, especialmente judíos, llevados a cabo por una multitud."},
+    {palabra:"Obstetricia", definicion:"Parte de la medicina que se ocupa del embarazo, el parto y el período de tiempo posterior a este."},
+    {palabra:"Encíclica", definicion:"Carta solemne que el Papa dirige a todos los obispos y fieles católicos adoctrinando en cuestiones de fe o de costumbres."},
   ];
 
 }]);
