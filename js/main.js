@@ -1353,7 +1353,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Comitente", definicion:"Que comete."},
     {palabra:"Raciocinar", definicion:"Hacer funcionar (una persona) la inteligencia para obtener unas ideas de otras."},
     {palabra:"Capcioso", definicion:"Palabra, doctrina o proposición falaz, embustera."},
-    {palabra:"Agio", definicion:"Agiotaje (especulación abusiva)."},
+    {palabra:"Agio", definicion:"Agiotaje (especulación abusiva). / Beneficio optenido por esta operación."},
     {palabra:"Hipoxia", definicion:"Alteración de las fases de ventilación alveolar que produce una deficiente entrega de oxígeno."},
     {palabra:"Neurastenia", definicion:"Neurosis que se caracteriza por fuertes síntomas depresivos, tendencia a la tristeza y gran inestabilidad emotiva."},
     {palabra:"Gerontofilia", definicion:"Atracción sexual hacia personas ancianas."},
@@ -1658,6 +1658,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Pogromo", definicion:"Saqueo y matanza de gente indefensa, especialmente judíos, llevados a cabo por una multitud."},
     {palabra:"Obstetricia", definicion:"Parte de la medicina que se ocupa del embarazo, el parto y el período de tiempo posterior a este."},
     {palabra:"Encíclica", definicion:"Carta solemne que el Papa dirige a todos los obispos y fieles católicos adoctrinando en cuestiones de fe o de costumbres."},
+    {palabra:"Prospección", definicion:"Exploración de posibilidades futuras basada en indicios presentes."},
+    {palabra:"Enteógeno", definicion:"Sustancia vegetal o preparado de sustancias vegetales con propiedades psicotrópicas."},
+    {palabra:"Antrópodo", definicion:"Invertebrados con simetría bilateral, el cuerpo segmentado y recubierto por un tegumento duro (exoesqueleto) y las patas articuladas"},
+    {palabra:"Exoesqueleto", definicion:"Tejido orgánico duro y rígido que recubre exteriormente el cuerpo de los artrópodos y otros invertebrados."},
   ];
 
 }]);
