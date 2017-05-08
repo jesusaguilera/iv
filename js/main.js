@@ -1662,6 +1662,9 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Enteógeno", definicion:"Sustancia vegetal o preparado de sustancias vegetales con propiedades psicotrópicas."},
     {palabra:"Antrópodo", definicion:"Invertebrados con simetría bilateral, el cuerpo segmentado y recubierto por un tegumento duro (exoesqueleto) y las patas articuladas"},
     {palabra:"Exoesqueleto", definicion:"Tejido orgánico duro y rígido que recubre exteriormente el cuerpo de los artrópodos y otros invertebrados."},
+    {palabra:"Esotro", definicion:"Eso otro."},
+    {palabra:"Euritmia", definicion:"Buena disposición y correspondencia de las partes en una obra de arte."},
+    {palabra:"Vitíligo", definicion:"Enfermedad cutánea que provoca decoloración en la pigmentación de la piel."},
   ];
 
 }]);
