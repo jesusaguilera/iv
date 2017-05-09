@@ -1665,6 +1665,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Esotro", definicion:"Eso otro."},
     {palabra:"Euritmia", definicion:"Buena disposición y correspondencia de las partes en una obra de arte."},
     {palabra:"Vitíligo", definicion:"Enfermedad cutánea que provoca decoloración en la pigmentación de la piel."},
+    {palabra:"Cadalso", definicion:"Patíbulo."},
   ];
 
 }]);
