@@ -1672,6 +1672,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Opunitas", definicion:"Plantas chumberas, cactus."},
     {palabra:"Allende", definicion:"Que algo está más alla o al otro lado de otra cosa. Se usa sólo para grandes extensiones."},
     {palabra:"Predio", definicion:"Finca, tierra o posesión de inmueble."},
+    {palabra:"Vahído", definicion:"Desvanecimiento, turbación breve del sentido por alguna indisposición."},
   ];
 
 }]);
