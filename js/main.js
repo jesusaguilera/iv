@@ -1233,7 +1233,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Escarapela", definicion:"Riña especialemente entre mujeres."},
     {palabra:"Facticio", definicion:"Que ha sido elaborado artificialmente a partir de elementos verdaderos."},
     {palabra:"Trompetear", definicion:"Pregonar, publicar una noticias."},
-    {palabra:"Catecúmeno", definicion:"Neófito en cualquier doctrina."},
+    {palabra:"Catecúmeno", definicion:"Persona que se instruye en los principios de la doctrina católica. / Neófito en cualquier doctrina."},
     {palabra:"Conculcar", definicion:"Ir en contra de lo que dispone una ley, norma o principio. / Oprimir."},
     {palabra:"Paramecio", definicion:"Organismo microscópico unicelular de forma ovalada."},
     {palabra:"Vericueto", definicion:"Lugar o sitio áspero, alto y quebrado, por donde no se puede andar sino con dificultad."},
@@ -1666,6 +1666,12 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Euritmia", definicion:"Buena disposición y correspondencia de las partes en una obra de arte."},
     {palabra:"Vitíligo", definicion:"Enfermedad cutánea que provoca decoloración en la pigmentación de la piel."},
     {palabra:"Cadalso", definicion:"Patíbulo."},
+    {palabra:"Pendolista", definicion:"Persona que escribe con muy buena letra. / Memorista."},
+    {palabra:"Amostazar", definicion:"Irritar, enojar."},
+    {palabra:"Renquear / Renguear", definicion:"Cojear. / Dificultad para hacer algo."},
+    {palabra:"Opunitas", definicion:"Plantas chumberas, cactus."},
+    {palabra:"Allende", definicion:"Que algo está más alla o al otro lado de otra cosa. Se usa sólo para grandes extensiones."},
+    {palabra:"Predio", definicion:"Finca, tierra o posesión de inmueble."},
   ];
 
 }]);
