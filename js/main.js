@@ -1673,6 +1673,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Allende", definicion:"Que algo está más alla o al otro lado de otra cosa. Se usa sólo para grandes extensiones."},
     {palabra:"Predio", definicion:"Finca, tierra o posesión de inmueble."},
     {palabra:"Vahído", definicion:"Desvanecimiento, turbación breve del sentido por alguna indisposición."},
+    {palabra:"Ebionismo", definicion:"Pobre, los pobres, concepto de la época patrística."},
+    {palabra:"Disrupción", definicion:"Rotura o interrupción brusca."},
+    {palabra:"Descerrajar", definicion:"Arrancar o violentar la cerradura de una puerta, cofre, escritorio. / Disparar con un arma de fuego."},
+    {palabra:"Consorte", definicion:"Esposo o esposa."},
   ];
 
 }]);
