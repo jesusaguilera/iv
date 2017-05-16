@@ -91,7 +91,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Hidropésia", definicion:"Derrame o acumulación de líquido seroso."},
     {palabra:"Abjurar", definicion:"Renegar."},
     {palabra:"Exigua", definicion:"Insuficiente, escaso."},
-    {palabra:"Dicción", definicion:"Palabra."},
+    {palabra:"Dicción", definicion:"Manera de hablar, escribir o pronunciar. / Palabra."},
     {palabra:"Cimero", definicion:"Que está en la parte superior."},
     {palabra:"Inepcia", definicion:"Ineptitud, necio."},
     {palabra:"Prospectivo", definicion:"Que se refiere al futuro."},
@@ -1677,6 +1677,15 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Disrupción", definicion:"Rotura o interrupción brusca."},
     {palabra:"Descerrajar", definicion:"Arrancar o violentar la cerradura de una puerta, cofre, escritorio. / Disparar con un arma de fuego."},
     {palabra:"Consorte", definicion:"Esposo o esposa."},
+    {palabra:"Pugnaz", definicion:"Guerrero, belicoso."},
+    {palabra:"Postrer", definicion:"Postrero."},
+    {palabra:"Postrero", definicion:"Último de una serie o sucesión."},
+    {palabra:"Delectación", definicion:"Deleite."},
+    {palabra:"Arreo", definicion:"Adorno."},
+    {palabra:"Pechero", definicion:"Obligado a contribuir. / Plebeyo. / Tributo, contribución."},
+    {palabra:"Ley de Gresham", definicion:"La Ley de Gresham es el principio según el cual, cuando en un país circulan simultáneamente dos tipos de monedas de curso legal, y una de ellas es considerada por el público como 'buena' y la otra como 'mala', la moneda mala siempre expulsa del mercado a la buena."},
+    {palabra:"Dizque", definicion:"Dicho, murmuración, reparo. / Al parecer, presuntamente."},
+    {palabra:"Engañifa", definicion:"Dicho, murmuración, reparo. / Al parecer, presuntamente."},
   ];
 
 }]);
