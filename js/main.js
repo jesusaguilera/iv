@@ -1689,6 +1689,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Dolo", definicion:"Engaño, fraude, simulación. / Voluntad deliberada de cometer un delito a sabiendas de su ilicitud."},
     {palabra:"Inficionar", definicion:"Infectar, corromper, envenenar."},
     {palabra:"Osmosis", definicion:"Influencia recíproca entre dos individuos o elementos que están en contacto."},
+    {palabra:"Pedernal", definicion:"Suma dureza de cualquier cosa."},
+    {palabra:"Ludibrio", definicion:"Escarnio, burla."},
   ];
 
 }]);
