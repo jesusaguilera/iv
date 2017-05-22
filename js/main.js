@@ -1175,7 +1175,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Bucólico", definicion:"Que evoca idealizado la vida en el campo."},
     {palabra:"Putativo", definicion:"Que es considerado como propio sin serlo."},
     {palabra:"Irrecusable", definicion:"Que no puede ser impugando."},
-    {palabra:"Mutatis mutandis", definicion:"Cambiando lo que se debería cambiar."},
+    {palabra:"Mutatis mutandis", definicion:"Cambiando lo que se deba cambiar."},
     {palabra:"Damnatio memoriae", definicion:"Condena de la memoria."},
     {palabra:"Partisano", definicion:"Miembro de un grupo civil organizado para la resistencia clandestina que actúa contra la autoridad o contra el ejército invasor."},
     {palabra:"Quos ego", definicion:"Latín: A quienes yo."},
@@ -1685,7 +1685,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Pechero", definicion:"Obligado a contribuir. / Plebeyo. / Tributo, contribución."},
     {palabra:"Ley de Gresham", definicion:"La Ley de Gresham es el principio según el cual, cuando en un país circulan simultáneamente dos tipos de monedas de curso legal, y una de ellas es considerada por el público como 'buena' y la otra como 'mala', la moneda mala siempre expulsa del mercado a la buena."},
     {palabra:"Dizque", definicion:"Dicho, murmuración, reparo. / Al parecer, presuntamente."},
-    {palabra:"Engañifa", definicion:"Dicho, murmuración, reparo. / Al parecer, presuntamente."},
+    {palabra:"Engañifa", definicion:"Engaño artificioso con apariencia de utilidad."},
+    {palabra:"Dolo", definicion:"Engaño, fraude, simulación. / Voluntad deliberada de cometer un delito a sabiendas de su ilicitud."},
+    {palabra:"Inficionar", definicion:"Infectar, corromper, envenenar."},
+    {palabra:"Osmosis", definicion:"Influencia recíproca entre dos individuos o elementos que están en contacto."},
   ];
 
 }]);
