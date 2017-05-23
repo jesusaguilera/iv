@@ -1691,6 +1691,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Osmosis", definicion:"Influencia recíproca entre dos individuos o elementos que están en contacto."},
     {palabra:"Pedernal", definicion:"Suma dureza de cualquier cosa."},
     {palabra:"Ludibrio", definicion:"Escarnio, burla."},
+    {palabra:"Paráclito", definicion:"Espíritu Santo enviado para consolar a los fieles."},
+    {palabra:"Singladura", definicion:"Rumbo."},
   ];
 
 }]);
