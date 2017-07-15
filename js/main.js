@@ -1727,7 +1727,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Filiación", definicion:"Relación de parentesco entre padres e hijos. / Conjunto de datos personales de un individuo."},
     {palabra:"Afeite", definicion:"Aderezo, compostura. / Cosmético."},
     {palabra:"Jaculatoria", definicion:"Oración breve y fervorosa."},
-    {palabra:"Hiñir", definicion:"Formar."},
+    {palabra:"Hiñir", definicion:"Formar. Heñir, amasar con las manos la masa."},
     {palabra:"Ladino", definicion:"Astuto."},
     {palabra:"Casida", definicion:"Composición poética culta de la poesía árabe."},
     {palabra:"Ritornelo", definicion:"Sección que se repite dentro de un movimiento de un concierto o de un aria. / Cosa negativa o indeseable que se repite."},
@@ -1740,6 +1740,11 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Laya", definicion:"Calidad, especie, clase. ( Esto es de la misma laya. )"},
     {palabra:"Refacción", definicion:"Compostura, reparación. / Pequeña cantidad de alimento que se toma para reponer fuerzas."},
     {palabra:"Junípero Serra", definicion:"Padre fundador de California (EE.UU.)"},
+    {palabra:"Ortogénesis", definicion:"Tendencia de un organismo a desarrollar un determinado carácter previamente definido en su evolución."},
+    {palabra:"Dechado", definicion:"Ejemplar, muestra que se tiene presente imitar."},
+    {palabra:"De facto", definicion:"De hecho, sin reconocimiento jurídico, por la fuerza de los hechos."},
+    {palabra:"De iure", definicion:"De derecho, ( opuesto a 'de facto' )con reconocimiento jurídico, legalmente."},
+    {palabra:"Precámbrico", definicion:"La primera etapa en la historia el planeta."},
   ];
 
 }]);
