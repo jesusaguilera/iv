@@ -1767,6 +1767,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Ab extrinseco", definicion:"Una fuente externa."},
     {palabra:"Indumento", definicion:"Conjunto de prendas de vestir y de adorno que usa una persona."},
     {palabra:"Derredor", definicion:"Espacio que rodea una cosa. / En derredor -> En torno a una cosa o una persona."},
+    {palabra:"Emascular", definicion:"Capar."},
   ];
 
 }]);
