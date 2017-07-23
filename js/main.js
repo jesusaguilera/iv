@@ -1784,6 +1784,11 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Deixis", definicion:"Señalameinto."},
     {palabra:"Estamento", definicion:"Estrato de una sociedad definido por un estilo de vida análoga función social."},
     {palabra:"Encomienda", definicion:"Encargo o petición."},
+    {palabra:"Redivivo", definicion:"Resucitado."},
+    {palabra:"Cursus honorum", definicion:"Nombre que recibía la carrera política en la Antigua Roma."},
+    {palabra:"Digresión", definicion:"Parte de un discurso, exposición, etc., que no tiene relación directa con el asunto principal."},
+    {palabra:"Meliorativo", definicion:"Que mejora, principalmente hablando de conceptos o estimaciones morales."},
+    {palabra:"Anejo", definicion:"Que va unido a otra cosa de la cual depende."},
   ];
 
 }]);
