@@ -1789,6 +1789,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Digresión", definicion:"Parte de un discurso, exposición, etc., que no tiene relación directa con el asunto principal."},
     {palabra:"Meliorativo", definicion:"Que mejora, principalmente hablando de conceptos o estimaciones morales."},
     {palabra:"Anejo", definicion:"Que va unido a otra cosa de la cual depende."},
+    {palabra:"Cinegética", definicion:"Arte de la caza."},
+    {palabra:"Disfemismo", definicion:"Tipo de sarcasmo que consiste en utilizar expresiones peyorativas o negativas para describir personas, cosas, hechos, etc. Se trata de ridiculizar o degradar lo que se nombra y comporta con frecuencia un tono humorístico"},
   ];
 
 }]);
