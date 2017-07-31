@@ -1791,6 +1791,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Anejo", definicion:"Que va unido a otra cosa de la cual depende."},
     {palabra:"Cinegética", definicion:"Arte de la caza."},
     {palabra:"Disfemismo", definicion:"Tipo de sarcasmo que consiste en utilizar expresiones peyorativas o negativas para describir personas, cosas, hechos, etc. Se trata de ridiculizar o degradar lo que se nombra y comporta con frecuencia un tono humorístico"},
+    {palabra:"Bilocación", definicion:"Presencia sobrenatural de una persona en dos lugares a la vez."},
   ];
 
 }]);
