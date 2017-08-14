@@ -1802,6 +1802,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Conjuntivo", definicion:"Dibujo o pintura deformada de tal modo que se recupera su imagen sin deformaciones al mirarla desde un ángulo o a través de un espejo cilíndrico o cónico."},
     {palabra:"Antroponimia", definicion:"Estudio del origen y la significación de los nombres propios de personas."},
     {palabra:"In media res", definicion:"Hacia la mitad de las cosas. Es una técnica literaria donde la narración comienza a mitad de la historia."},
+    {palabra:"Dispepsia", definicion:"Trastorno de la digestion con sintomas como náuseas, pesadez, dolor de estómago, ardor o flatulencias."},
+    {palabra:"Pedomorfosis", definicion:"El individuo adulto de una especie mantiene ciertas características juveniles."},
+    {palabra:"Coram populo", definicion:"Latín: literalmente delante del pueblo. (Públicamente, a la vista de todos)."},
+    {palabra:"Bandería", definicion:"Grupo de gente armada, capitaneada por una persona."},
   ];
 
 }]);
