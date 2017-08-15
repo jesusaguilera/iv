@@ -1799,7 +1799,6 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Correlato", definicion:"Término que corresponde a otro en una correlación."},
     {palabra:"Perpetuum mobile", definicion:"Movimiento perpetuo."},
     {palabra:"Anamorfosis", definicion:"Dibujo o pintura deformada de tal modo que se recupera su imagen sin deformaciones al mirarla desde un ángulo o a través de un espejo cilíndrico o cónico."},
-    {palabra:"Conjuntivo", definicion:"Dibujo o pintura deformada de tal modo que se recupera su imagen sin deformaciones al mirarla desde un ángulo o a través de un espejo cilíndrico o cónico."},
     {palabra:"Antroponimia", definicion:"Estudio del origen y la significación de los nombres propios de personas."},
     {palabra:"In media res", definicion:"Hacia la mitad de las cosas. Es una técnica literaria donde la narración comienza a mitad de la historia."},
     {palabra:"Dispepsia", definicion:"Trastorno de la digestion con sintomas como náuseas, pesadez, dolor de estómago, ardor o flatulencias."},
@@ -1821,6 +1820,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Irenismo", definicion:"Pacifismo."},
     {palabra:"Revisionismo", definicion:"Tendencia a someter a revisión metódica doctrinas, interpretaciones o prácticas establecidas con la intención de actualizarlas."},
     {palabra:"Prótasis", definicion:"Parte de una oración condicional que va introducida por la conjunción si. 'Si vas al mercado, compra verduras. Si vas al mercado es la prótasis'"},
+    {palabra:"Morfogénetico", definicion:"Factores que intervinen en la generación de la forma."},
+    {palabra:"Morfodinámico", definicion:"Factores que generan la actividad moldeadora."},
+    {palabra:"Sinergia", definicion:"Acción conjunta de varios órganos en la realización de una función."},
+    {palabra:"Cognoscente", definicion:"Que es capaz de conocer."},
   ];
 
 }]);
