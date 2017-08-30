@@ -1824,6 +1824,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Morfodinámico", definicion:"Factores que generan la actividad moldeadora."},
     {palabra:"Sinergia", definicion:"Acción conjunta de varios órganos en la realización de una función."},
     {palabra:"Cognoscente", definicion:"Que es capaz de conocer."},
+    {palabra:"Cainismo", definicion:"Actitud revanchista contra los propios compañeros, amigos, compatriotas, etc."},
   ];
 
 }]);
