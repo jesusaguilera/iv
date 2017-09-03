@@ -886,7 +886,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Heterogéneo", definicion:"Compuesto de partes de diversa naturaleza."},
     {palabra:"Trepidar", definicion:"Temblar fuertemente."},
     {palabra:"Filia", definicion:"Amor o afición por algo."},
-    {palabra:"Diáspora", definicion:"Dispersión de los judíos exiliados de su país. / Dispersión de grupos humanos que abandonan su lugar de origen."},
+    {palabra:"Diáspora", definicion:"Dispersión de grupos humanos que abandonan su lugar de origen."},
     {palabra:"Injerir", definicion:"Meter una cosa en otra. / Injertar plantas. / Introducir en un escrito una palabra, una nota, un texto, etc. / Entremeterse, introducirse en una dependencia o negocio."},
     {palabra:"Acaecer", definicion:"Suceder."},
     {palabra:"Exacerbar", definicion:"Irritar, causar muy grave enfado o enojo. / Agravar o avivar una enfermedad, una pasión, una molestia. / Intensificar, extremar, exagerar."},
@@ -1824,9 +1824,21 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Morfodinámico", definicion:"Factores que generan la actividad moldeadora."},
     {palabra:"Sinergia", definicion:"Acción conjunta de varios órganos en la realización de una función."},
     {palabra:"Cognoscente", definicion:"Que es capaz de conocer."},
+    {palabra:"Cognición", definicion:"Conocimiento."},
     {palabra:"Cainismo", definicion:"Actitud revanchista contra los propios compañeros, amigos, compatriotas, etc."},
+    {palabra:"Estipendio", definicion:"Cantidad de dinero que se paga por un trabajo o unos servicios."},
+    {palabra:"Rusticidad", definicion:"Cualidad de rústico."},
+    {palabra:"Rústico", definicion:"Del campo. / Tosco, grosero."},
+    {palabra:"Émulo", definicion:"Competidor o imitador de alguien o de algo, procurando excederlo o aventajarlo."},
+    {palabra:"Serendipia", definicion:"Hallazgo afortunado e inesperado que se produce cuando se está buscando otra cosa."},
+    {palabra:"Euritmia", definicion:"Combinación armónica de proporciones, líneas, colores o sonidos."},
+    {palabra:"Errabundo", definicion:"Que va de un lado para otro sin tener asiento fijo."},
+    {palabra:"Onomástica", definicion:"Rama de la lexicografía que estudia los nombres propios."},
   ];
 
 }]);
 
-
+function MostrarOcultarController($scope) {
+  $scope.hideDefinition = false
+  $scope.showWord = true
+}

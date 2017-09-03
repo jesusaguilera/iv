@@ -15,20 +15,22 @@
 
     <body>
 
-      <p> Cambiar a: <button class="toggle-definition" type="button"> Palabra </button> </p>
+      <div ng-controller='MostrarOcultarController'>
+        <p> Cambiar a: <button class="toggle-definition" type="button" ng-click='cambiarMenu()'> Palabra </button> </p>
 
-      <div ng-app="definicionesModule" ng-strict-di>
-        <div ng-controller="definicionesController">
-          <ul ng-repeat="definicion in definiciones" class="definition-list">
-            <li class="definition-container" ng-click="hideDefinition=true"> 
-              <p>
-                <span class="definition" ng-show="hideDefinition">{{definicion.definicion}}</span> 
-                <strong class="word" ng-hide="showWord">{{definicion.palabra}}</strong>
-              </p> 
-            </li>
-          </ul>
+        <div ng-app="definicionesModule" ng-strict-di>
+          <div ng-controller="definicionesController">
+            <ul ng-repeat="definicion in definiciones" class="definition-list">
+              <li class="definition-container" ng-click="hideDefinition=true"> 
+                <p>
+                  <span class="definition" ng-show="hideDefinition">{{definicion.definicion}}</span> 
+                  <strong class="word" ng-hide="showWord">{{definicion.palabra}}</strong>
+                </p> 
+              </li>
+            </ul>
+          </div>
+
         </div>
-
       </div>
 
 
