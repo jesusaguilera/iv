@@ -15,23 +15,24 @@
 
     <body>
 
-      <div ng-controller='MostrarOcultarController'>
-        <p> Cambiar a: <button class="toggle-definition" type="button" ng-click='cambiarMenu()'> Palabra </button> </p>
 
         <div ng-app="definicionesModule" ng-strict-di>
           <div ng-controller="definicionesController">
-            <ul ng-repeat="definicion in definiciones" class="definition-list">
-              <li class="definition-container" ng-click="hideDefinition=true"> 
+            <div> 
+              <label for="Definition">Hide Word</label><input type="checkbox" ng-model="Word" checked> <br/>
+              <label for="Definition">Show Definition</label><input type="checkbox" ng-model="Definition">
+            </div>
+            <ul ng-repeat="definicion in definiciones | orderBy:'name':reverse" class="definition-list">
+              <li class="definition-container" ng-click="flag=false"> 
                 <p>
-                  <span class="definition" ng-show="hideDefinition">{{definicion.definicion}}</span> 
-                  <strong class="word" ng-hide="showWord">{{definicion.palabra}}</strong>
+                  <strong class="word" ng-hide=Word>{{definicion.palabra}}</strong>
+                  <span class="definition" ng-show=Definition>{{definicion.definicion}}</span> 
                 </p> 
               </li>
             </ul>
           </div>
 
         </div>
-      </div>
 
 
       <script src="js/angular.min.js" type="text/javascript"></script>
