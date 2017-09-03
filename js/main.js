@@ -1836,9 +1836,5 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Onomástica", definicion:"Rama de la lexicografía que estudia los nombres propios."},
   ];
 
-  $scope.cambiarMenu = function($scope, flag) {
-    $scope.flag = true
-  };
-
 }]);
 
