@@ -1838,9 +1838,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
 
 }]);
 
-function MostrarOcultarController($scope) {
-  $scope.cambiarMenu = function() {
+function cambiarMenu($scope) {
     $scope.hideDefinition = false
     $scope.showWord = true
-  };
 }
