@@ -1836,6 +1836,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Onomástica", definicion:"Rama de la lexicografía que estudia los nombres propios."},
     {palabra:"Traccionar", definicion:"Tirar de algo para moverlo o arrastrarlo."},
     {palabra:"Mascarada", definicion:"Fiesta o diversión donde los participantes llevan máscaras."},
+    {palabra:"Movimiento Sacádico", definicion:"Es un movimiento rápido del ojo, cabeza u otra parte del cuerpo de un animal o dispositivo."},
+    {palabra:"Perceptual", definicion:"De la percepción o relacionado con él."},
   ];
 
 }]);
