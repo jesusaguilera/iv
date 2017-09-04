@@ -16,4 +16,5 @@ h1 {
 
 .definition-list .word {
   color: red;
+  cursor: pointer;
 }
