@@ -1834,6 +1834,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Euritmia", definicion:"Combinación armónica de proporciones, líneas, colores o sonidos."},
     {palabra:"Errabundo", definicion:"Que va de un lado para otro sin tener asiento fijo."},
     {palabra:"Onomástica", definicion:"Rama de la lexicografía que estudia los nombres propios."},
+    {palabra:"Traccionar", definicion:"Tirar de algo para moverlo o arrastrarlo."},
+    {palabra:"Mascarada", definicion:"Fiesta o diversión donde los participantes llevan máscaras."},
   ];
 
 }]);
