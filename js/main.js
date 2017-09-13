@@ -1838,6 +1838,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Mascarada", definicion:"Fiesta o diversión donde los participantes llevan máscaras."},
     {palabra:"Movimiento Sacádico", definicion:"Es un movimiento rápido del ojo, cabeza u otra parte del cuerpo de un animal o dispositivo."},
     {palabra:"Perceptual", definicion:"De la percepción o relacionado con él."},
+    {palabra:"Constricción", definicion:"Acción y efecto de constreñir."},
+    {palabra:"Constreñir", definicion:"Obligar por la fuerza, oprimir, reducir, limitar. / Apretar o cerrar oprimiendo."},
   ];
 
 }]);
