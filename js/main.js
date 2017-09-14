@@ -1846,6 +1846,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Desopilante", definicion:"Festivo, divertido, que provoca mucha risa."},
     {palabra:"Cognado", definicion:"En derecho romano, persona unida a otras por lazos de parentesco natural, especialemente pariente por descendencia femenina."},
     {palabra:"Conventículo", definicion:"Reunión pequeña, extraoficial y religiosa clandestina de laicos."},
+    {palabra:"Secularización", definicion:"El paso de algo o alguien de una esfera religiosa a una civil y no teológica."},
   ];
 
 }]);
