@@ -1840,6 +1840,12 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Perceptual", definicion:"De la percepción o relacionado con él."},
     {palabra:"Constricción", definicion:"Acción y efecto de constreñir."},
     {palabra:"Constreñir", definicion:"Obligar por la fuerza, oprimir, reducir, limitar. / Apretar o cerrar oprimiendo."},
+    {palabra:"Moiras", definicion:"Divinidades del destino encargadas de su cumplimiento."},
+    {palabra:"Hilvanar", definicion:"Hacer algo de manera esquemática y provisional."},
+    {palabra:"Amanuense", definicion:"Persona que tiene como oficio escribir a mano, copiando o escribiendo lo que se dicta."},
+    {palabra:"Desopilante", definicion:"Festivo, divertido, que provoca mucha risa."},
+    {palabra:"Cognado", definicion:"En derecho romano, persona unida a otras por lazos de parentesco natural, especialemente pariente por descendencia femenina."},
+    {palabra:"Conventículo", definicion:"Reunión pequeña, extraoficial y religiosa clandestina de laicos."},
   ];
 
 }]);
