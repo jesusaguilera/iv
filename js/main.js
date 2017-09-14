@@ -1850,6 +1850,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Sinonimia", definicion:"Relación de igualdad que hay entre el significado de dos o más palabras o enunciados. 'las definiciones del diccionario buscan la sinonimia con las palabras definidas'"},
     {palabra:"Paronimio", definicion:"Palabra que se parece a otra en su pronunciación o en su forma.'‘acechar’ y ‘asechar’ son palabras parónimas'"},
     {palabra:"Homónima", definicion:"Palabra que se parece a otra en su pronunciación o en su forma.'‘acechar’ y ‘asechar’ son palabras parónimas'"},
+    {palabra:"Pax apparens", definicion:"Sólo aparente."},
   ];
 
 }]);
