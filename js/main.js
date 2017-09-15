@@ -1851,6 +1851,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Paronimio", definicion:"Palabra que se parece a otra en su pronunciación o en su forma.'‘acechar’ y ‘asechar’ son palabras parónimas'"},
     {palabra:"Homónima", definicion:"Palabra que se parece a otra en su pronunciación o en su forma.'‘acechar’ y ‘asechar’ son palabras parónimas'"},
     {palabra:"Pax apparens", definicion:"Sólo aparente."},
+    {palabra:"Noluntad", definicion:"Voluntad de no hacer. / Acto de no querer."},
   ];
 
 }]);
