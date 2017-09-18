@@ -1853,6 +1853,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Pax apparens", definicion:"Sólo aparente."},
     {palabra:"Noluntad", definicion:"Voluntad de no hacer. / Acto de no querer."},
     {palabra:"Sentina", definicion:"Lugar lleno de inmundicia, suciedad y mal olor."},
+    {palabra:"Estertor", definicion:"Respiración anhelosa, con ronquido sibilante, propio de la agonía y el coma. / Ruido que produce el paso del aire por las vías respiratorias obstruidas por mucosidades."},
   ];
 
 }]);
