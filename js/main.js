@@ -1854,6 +1854,11 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Noluntad", definicion:"Voluntad de no hacer. / Acto de no querer."},
     {palabra:"Sentina", definicion:"Lugar lleno de inmundicia, suciedad y mal olor."},
     {palabra:"Estertor", definicion:"Respiración anhelosa, con ronquido sibilante, propio de la agonía y el coma. / Ruido que produce el paso del aire por las vías respiratorias obstruidas por mucosidades."},
+    {palabra:"Conmilitón", definicion:"Soldado compañero de otro en la guerra."},
+    {palabra:"Nemesis", definicion:"Castigo o venganza."},
+    {palabra:"Asertórico", definicion:"Aquel juicio o proposición que no necesariamente es verdadero y que puede caer en una contradicción. Que puede ser falso."},
+    {palabra:"Transido", definicion:"Angustiado o afectado por algo."},
+    {palabra:"Advenedizo", definicion:"Persona que se ha introducido en una posición, ambiente o actividad que no le corresponde."},
   ];
 
 }]);
