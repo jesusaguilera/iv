@@ -1859,6 +1859,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Asertórico", definicion:"Aquel juicio o proposición que no necesariamente es verdadero y que puede caer en una contradicción. Que puede ser falso."},
     {palabra:"Transido", definicion:"Angustiado o afectado por algo."},
     {palabra:"Advenedizo", definicion:"Persona que se ha introducido en una posición, ambiente o actividad que no le corresponde."},
+    {palabra:"Abrogación", definicion:"Anulación o modificación de una ley. Abolición. Abolición."},
   ];
 
 }]);
