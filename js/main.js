@@ -1860,6 +1860,9 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Transido", definicion:"Angustiado o afectado por algo."},
     {palabra:"Advenedizo", definicion:"Persona que se ha introducido en una posición, ambiente o actividad que no le corresponde."},
     {palabra:"Abrogación", definicion:"Anulación o modificación de una ley. Abolición. Abolición."},
+    {palabra:"Quintaesencia Quinta esencia", definicion:"Extracto más depurado o concentrado de algo."},
+    {palabra:"Deux ex machina", definicion:"Latín: Dios en la máquina, Actualmente es utilizada para referirse a un elemento externo que resuelve una historia sin seguir su lógica interna."},
+    {palabra:"Efecto Pneumónido", definicion:"Los pneumónidos son esas larvas de insecto, generalmente avispas, que se alimentan del cuerpo que parasitan hasta que lo matan."},
   ];
 
 }]);
