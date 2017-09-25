@@ -225,7 +225,6 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Ingénito", definicion:"No engendrado."},
     {palabra:"Oftalmía", definicion:"Inflamación de los ojos."},
     {palabra:"Palinodia", definicion:"Retractación pública."},
-    {palabra:"Homónimo", definicion:"2 cosas con el mismo nombre."},
     {palabra:"Verosimil", definicion:"Creíble por no mostrar falsedad."},
     {palabra:"Prócer", definicion:"Eminente, elevado, alto."},
     {palabra:"Meliflua", definicion:"que tiene miel. / dulce, suave, tierno, delicado."},
@@ -1849,7 +1848,6 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Secularización", definicion:"El paso de algo o alguien de una esfera religiosa a una civil y no teológica."},
     {palabra:"Sinonimia", definicion:"Relación de igualdad que hay entre el significado de dos o más palabras o enunciados. 'las definiciones del diccionario buscan la sinonimia con las palabras definidas'"},
     {palabra:"Paronimio", definicion:"Palabra que se parece a otra en su pronunciación o en su forma.'‘acechar’ y ‘asechar’ son palabras parónimas'"},
-    {palabra:"Homónima", definicion:"Palabra que se parece a otra en su pronunciación o en su forma.'‘acechar’ y ‘asechar’ son palabras parónimas'"},
     {palabra:"Pax apparens", definicion:"Sólo aparente."},
     {palabra:"Noluntad", definicion:"Voluntad de no hacer. / Acto de no querer."},
     {palabra:"Sentina", definicion:"Lugar lleno de inmundicia, suciedad y mal olor."},
@@ -1863,6 +1861,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Quintaesencia Quinta esencia", definicion:"Extracto más depurado o concentrado de algo."},
     {palabra:"Deux ex machina", definicion:"Latín: Dios en la máquina, Actualmente es utilizada para referirse a un elemento externo que resuelve una historia sin seguir su lógica interna."},
     {palabra:"Efecto Pneumónido", definicion:"Los pneumónidos son esas larvas de insecto, generalmente avispas, que se alimentan del cuerpo que parasitan hasta que lo matan."},
+    {palabra:"Agro", definicion:"De sabro ácido."},
+    {palabra:"More suo", definicion:"Latín: Costumbre."},
   ];
 
 }]);
