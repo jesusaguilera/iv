@@ -148,7 +148,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Consciencia", definicion:"Similar a conciencia pero no difiere el bien y el mal ( moral )."},
     {palabra:"Asepsia", definicion:"Estado libre de infección."},
     {palabra:"Ostracismo", definicion:"Destierro político."},
-    {palabra:"Tácito", definicion:"Callado, silencioso. / Que no se entiende, se supone."},
+    {palabra:"Tácito", definicion:"Callado, silencioso. / Que no se expresa, se supone."},
     {palabra:"Falaz", definicion:"Embustero, Falso."},
     {palabra:"Conspicuo", definicion:"Notable, ilustre, sobresaliente."},
     {palabra:"Espurio", definicion:"Bastardo."},
@@ -1867,6 +1867,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Precopernicano", definicion:"Sistema anterior a la teoría copernicana. Creencia que todo gira alrededor nuestro."},
     {palabra:"Marrar", definicion:"Errar. / Desviarse de lo recto."},
     {palabra:"Guardia Pretoriana", definicion:"La Guardia Pretoriana era un cuerpo militar que servía de escolta y protección a los emperadores romanos"},
+    {palabra:"Esclerótico", definicion:"Que no puede evolucionar o adaptarse a una nueva situacion o planteamiento."},
+    {palabra:"Batracio", definicion:"Anfibio."},
+    {palabra:"Dogmatomaquia", definicion:"Oposición a posturas dogmáticas."},
+    {palabra:"Mitomaníaco", definicion:"Afición exagerada al mito."},
   ];
 
 }]);
