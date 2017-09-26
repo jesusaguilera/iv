@@ -1044,7 +1044,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Hirsuto", definicion:"Cubierto de pelo hirsuto o de púas o espinas. / De carácter áspero."},
     {palabra:"Inexorable", definicion:"Que no se puede vencer. / Que no se deja vencer con ruegos."},
     {palabra:"Delación", definicion:"Acusación, denuncia. / Llamamiento a aceptar o repudiar una herencia o legado."},
-    {palabra:"Mostrenco", definicion:"Ignorante, torpe."},
+    {palabra:"Mostrenco", definicion:"Ignorante, torpe. / Que no tiene dueño conocido."},
     {palabra:"Heder", definicion:"Despedir olor."},
     {palabra:"Garlar", definicion:"Hablar mucho, sin interrupción y poco discretamente."},
     {palabra:"Noctívago", definicion:"Noctámbulo."},
@@ -1863,6 +1863,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Efecto Pneumónido", definicion:"Los pneumónidos son esas larvas de insecto, generalmente avispas, que se alimentan del cuerpo que parasitan hasta que lo matan."},
     {palabra:"Agro", definicion:"De sabro ácido."},
     {palabra:"More suo", definicion:"Latín: Costumbre."},
+    {palabra:"Nomina numina", definicion:"Latín: Divinización de ciertas palabras, nombres o expresiones a las que se otorga un valor numinoso y completamente resistente a la crítica. Ej: 'Democracia'."},
+    {palabra:"Precopernicano", definicion:"Sistema anterior a la teoría copernicana. Creencia que todo gira alrededor nuestro."},
+    {palabra:"Marrar", definicion:"Errar. / Desviarse de lo recto."},
+    {palabra:"Guardia Pretoriana", definicion:"La Guardia Pretoriana era un cuerpo militar que servía de escolta y protección a los emperadores romanos"},
   ];
 
 }]);
