@@ -1871,6 +1871,19 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Batracio", definicion:"Anfibio."},
     {palabra:"Dogmatomaquia", definicion:"Oposición a posturas dogmáticas."},
     {palabra:"Mitomaníaco", definicion:"Afición exagerada al mito."},
+    {palabra:"Refocilar", definicion:"Regodearse o recrearse."},
+    {palabra:"Supererogación", definicion:"Acción ejecutada además de la obligación. Los actos supererogatorios son aquellos que superan el deber."},
+    {palabra:"Carpetovetónico", definicion:"Persona, costumbre o idea que se tiene por española a ultranza o se definede como tal y sirve de bandera ante cualquier influjo externo."},
+    {palabra:"Terna", definicion:"Conjunto de tres personas propuestas para que se designe de entre ellas la que haya de desempeñar un cargo o empleo. / Trío."},
+    {palabra:"Organoléptico", definicion:"Que produce una impresión sensorial. / Propiedad de un cuerpo que se percibe con lo sentidos (olor, sabro, brillo, etc.) a diferencia de las propiedades químicas o microscópicas."},
+    {palabra:"Retrospectivo", definicion:"Que hace referencia a un tiempo pasado."},
+    {palabra:"Heteróclito", definicion:"Que destaca por lo extraño de sus características, que se sale de lo habitual."},
+    {palabra:"Atrabiliario", definicion:"Que tiene mal carácter y se irrita con facilidad. / Que es raro o extravagante."},
+    {palabra:"Adventicio", definicion:"Que tiene mal carácter y se irrita con facilidad. / Que es raro o extravagante."},
+    {palabra:"Cáustico", definicion:"Dicho de una cosa: Que quema y destruye los tejidos animales. / Mordaz o agresivo en lo que dice."},
+    {palabra:"Greguescos", definicion:"Calazones bombachos muy anchos que cubrían hasta debajo de la rodilla."},
+    {palabra:"Enrigidecer", definicion:"Poner rígido algo."},
+    {palabra:"Agro-", definicion:"Campo: Agropecuario, agroquímica."},
   ];
 
 }]);
