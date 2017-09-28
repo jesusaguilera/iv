@@ -1222,9 +1222,9 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Sinuoso", definicion:"Que trata de ocultar el propósito."},
     {palabra:"Prosodia", definicion:"Parte de la gramática que enseaña la recta pronunciación y acentuación."},
     {palabra:"Pulular", definicion:"Abundar y moverse mucho en un lugar."},
-    {palabra:"Aviesa", definicion:"Que es malintencionado o perverso."},
+    {palabra:"Avieso", definicion:"Que es malintencionado o perverso."},
     {palabra:"Aparcero", definicion:"Persona que se dedica a explotar el terreno."},
-    {palabra:"Senescal", definicion:"Servidor de edad avanzada."},
+    {palabra:"Senescal", definicion:"Mayordomo de edad avanzada."},
     {palabra:"Contemporizar", definicion:"Acomodarse al gusto o la voluntad de otra persona con algún fin, generalmennte para evitar un enfrentamiento."},
     {palabra:"Pírrico", definicion:"Triunfo que se consigue con muy poca ventaja sobre le derrotado. / Que ocasiona grave daño al vencedor y casi equivale a una derrota."},
     {palabra:"Fisiocracia", definicion:"Doctrina que dice que la riqueza provenía exclusivamente de la explotación de los recursos naturales."},
@@ -1237,7 +1237,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Paramecio", definicion:"Organismo microscópico unicelular de forma ovalada."},
     {palabra:"Vericueto", definicion:"Lugar o sitio áspero, alto y quebrado, por donde no se puede andar sino con dificultad."},
     {palabra:"Célibe", definicion:"Soltero, especialemente por haber hecho voto de castidad."},
-    {palabra:"Sindéresis", definicion:"Capacidad natural para juzgar rectamente, con acierto."},
+    {palabra:"Sindéresis", definicion:"Capacidad natural para juzgar rectamente, con acierto, discreción o sensatez."},
     {palabra:"Anómico", definicion:"Anomía es la falta de normas o incapacidad de la estructura social de proveer a ciertos individuos lo necesario para lograr las metas de la sociedad."},
     {palabra:"Retraer", definicion:"Disuadir a una persona de hacer algo. / Encoger un órgano para que quede oculto."},
     {palabra:"Bucelario", definicion:"Entre los visigodos, hombre libre que se sometía al patrocinio de un magnate, a quien prestaba servicios y del cual recibía el disfrute de alguna propiedad."},
@@ -1884,6 +1884,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Greguescos", definicion:"Calazones bombachos muy anchos que cubrían hasta debajo de la rodilla."},
     {palabra:"Enrigidecer", definicion:"Poner rígido algo."},
     {palabra:"Agro-", definicion:"Campo: Agropecuario, agroquímica."},
+    {palabra:"Prevaricar", definicion:"Faltar conscientemente [un funcionario] a los deberes de su cargo al tomar una decisión o dictar una resolución injusta, con plena conciencia de su injusticia."},
+    {palabra:"De hinojos", definicion:"De rodillas."},
+    {palabra:"Inconmensurable", definicion:"Que es muy difícil o imposible de medir o valorar."},
+    {palabra:"Hábeas corpus", definicion:"Procedimiento jurídico mediante el cual cualquier ciudadano puede comparecer inmediatamente ante el juez para que este determine sobre la legalidad del arresto."},
   ];
 
 }]);
