@@ -1888,6 +1888,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"De hinojos", definicion:"De rodillas."},
     {palabra:"Inconmensurable", definicion:"Que es muy difícil o imposible de medir o valorar."},
     {palabra:"Hábeas corpus", definicion:"Procedimiento jurídico mediante el cual cualquier ciudadano puede comparecer inmediatamente ante el juez para que este determine sobre la legalidad del arresto."},
+    {palabra:"Filípica", definicion:"Reprensión, censura dura que se dirige a alguien: le echaron una filípica por llegar tarde."},
+    {palabra:"Atribulado", definicion:"Triste, compungido, apenado, afligido, desolado, consternado, dolorido, acongojado, inconsolable."},
   ];
 
 }]);
