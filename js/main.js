@@ -1891,6 +1891,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Filípica", definicion:"Reprensión, censura dura que se dirige a alguien: le echaron una filípica por llegar tarde."},
     {palabra:"Atribulado", definicion:"Triste, compungido, apenado, afligido, desolado, consternado, dolorido, acongojado, inconsolable."},
     {palabra:"Nihil novum sub sole", definicion:"Latín: Nada nuevo bajo el sol."},
+    {palabra:"Panislamismo", definicion:"Movimiento religioso y político que intenta unir a todos los pueblos musulmanes bajo una única autoridad."},
   ];
 
 }]);
