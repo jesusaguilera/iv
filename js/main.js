@@ -1113,7 +1113,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Salvífico", definicion:"Perteneciente o relativo a la salvación."},
     {palabra:"Ortograma", definicion:"Aquellas materias formalizadas capaces de funcionar como moldes activos o programas en la conformación de unos materiales dados. ej: programa algorítmico, una regla gramatical, una creencia."},
     {palabra:"Biocenosis", definicion:"Conjunto de organismos, vegetales o animales que viven y se reporducen en un espacio."},
-    {palabra:"Biotopo", definicion:"Area de condiciones medioambientales uniformes que provee espacio ital a un conjunto de flora y fauna."},
+    {palabra:"Biotopo", definicion:"Area de condiciones medioambientales uniformes que provee espacio vital a un conjunto de flora y fauna."},
     {palabra:"A quo", definicion:"Que marca el principio de un periodo de tiempo."},
     {palabra:"Ad quem", definicion:"Que marca el final de un tiempo o un proceso."},
     {palabra:"In illo témpore", definicion:"En aquel tiempo."},
@@ -1892,6 +1892,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Atribulado", definicion:"Triste, compungido, apenado, afligido, desolado, consternado, dolorido, acongojado, inconsolable."},
     {palabra:"Nihil novum sub sole", definicion:"Latín: Nada nuevo bajo el sol."},
     {palabra:"Panislamismo", definicion:"Movimiento religioso y político que intenta unir a todos los pueblos musulmanes bajo una única autoridad."},
+    {palabra:"Jaranero", definicion:"Persona muy dado a las jaranas."},
   ];
 
 }]);
