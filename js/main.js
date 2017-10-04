@@ -509,6 +509,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Emolumento", definicion:"Remuneración adicional que corresponde a un empleo."},
     {palabra:"Factual", definicion:"Perteneciente a los hechos."},
     {palabra:"Hipóstasis", definicion:"Considerar lo abstracto e irreal como algo real."},
+    {palabra:"Hipostasiar", definicion:"Elevar, idealizar / Considerar algo como una realidad absoluta."},
     {palabra:"Inanición", definicion:"Debilidad grande por falta de algo."},
     {palabra:"Idiocia", definicion:"De idiota."},
     {palabra:"Anejo", definicion:"Unido y dependiente de algo. / Propio, inherente."},
