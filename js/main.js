@@ -1894,6 +1894,11 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Nihil novum sub sole", definicion:"Latín: Nada nuevo bajo el sol."},
     {palabra:"Panislamismo", definicion:"Movimiento religioso y político que intenta unir a todos los pueblos musulmanes bajo una única autoridad."},
     {palabra:"Jaranero", definicion:"Persona muy dado a las jaranas."},
+    {palabra:"Virtualidad", definicion:"Posibilidad, eficacia, capacidad, poder."},
+    {palabra:"Virtual", definicion:"Que tiene virtud para producir un efecto."},
+    {palabra:"Loor", definicion:"Alabanza generalmente pública: En loor de multitudes."},
+    {palabra:"Insipiente", definicion:"Falto de sabiduría o ciencia. / Falto de juicio."},
+    {palabra:"Alógeno", definicion:"Dicho de una persona: Extranjera o de otra raza, en oposición a los naturales de un país."},
   ];
 
 }]);
