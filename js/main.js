@@ -1899,6 +1899,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Loor", definicion:"Alabanza generalmente pública: En loor de multitudes."},
     {palabra:"Insipiente", definicion:"Falto de sabiduría o ciencia. / Falto de juicio."},
     {palabra:"Alógeno", definicion:"Dicho de una persona: Extranjera o de otra raza, en oposición a los naturales de un país."},
+    {palabra:"Devengar", definicion:"Adquirir derecho a recibir un pago."},
   ];
 
 }]);
