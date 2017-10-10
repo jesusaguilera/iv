@@ -1900,6 +1900,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Insipiente", definicion:"Falto de sabiduría o ciencia. / Falto de juicio."},
     {palabra:"Alógeno", definicion:"Dicho de una persona: Extranjera o de otra raza, en oposición a los naturales de un país."},
     {palabra:"Devengar", definicion:"Adquirir derecho a recibir un pago."},
+    {palabra:"Micosis", definicion:"Infección cutánea de hongos"},
   ];
 
 }]);
