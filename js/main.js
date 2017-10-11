@@ -212,7 +212,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"En ciernes", definicion:"En flor, estar en sus principios."},
     {palabra:"Ínfula", definicion:"Vanidad pretenciosa."},
     {palabra:"Episcooal", definicion:"Perteneciente o relativo al obispo."},
-    {palabra:"Apotegma", definicion:"Dicho breve sentencioso."},
+    {palabra:"Apotegma", definicion:"Frase o sentencia breve en la cual se expresa un pensamiento o enseñanza."},
     {palabra:"Cogitativo", definicion:"Que tiene la facultad de pensar."},
     {palabra:"Lacónico", definicion:"Breve, conciso."},
     {palabra:"Necedad", definicion:"Calidad de necio."},
