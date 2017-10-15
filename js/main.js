@@ -1919,6 +1919,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Arrobo", definicion:"Estado de la persona que siente un placer, una admiración o una alegría tan intensos que no puede pensar ni sentir nada más. (éxtasis, arrobamiento)"},
     {palabra:"Pendencia", definicion:"Pelea, riña."},
     {palabra:"Motejar", definicion:"Aplicar a alguien o algo un apelativo o un calificativo despectivo o reprobatorio. (mote)"},
+    {palabra:"Exogamia", definicion:"Sistema que prohibe la relación marital entre miembros de un mismo grupo. Antónimo de Endogamia."},
+    {palabra:"Excusatio non petita, accusatio manifesta", definicion:"Latín: excusa no pedida, acusación manifiesta. Quiere decir que si te exculpas de una acusación que no se te ha hecho ya te estás señalando como autor de la falta."},
   ];
 
 }]);
