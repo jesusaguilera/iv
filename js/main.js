@@ -1125,7 +1125,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Montaraz", definicion:"Que vive en el campo o la montaña."},
     {palabra:"Inter alia", definicion:"Latín: Entre otros."},
     {palabra:"Prolepsis", definicion:"En la doctrina de los epicúreos y los estoicos, conocimiento anticipado de algo. / Anticipación mental de una acción por realizar. / Pasaje de una obra literaria que anticipa una escena posterior rompiendo la secuencia cronológica."},
-    {palabra:"Praeter", definicion:"Además de, después, excepto, más, salvo."},
+    {palabra:"Praeter-", definicion:"Más alla de, Fuera de, Más que, Por delante de, Además de, después, excepto, más, salvo. Ej: Praeterracionales (cosa más allá de la razón, metafísicas, divinas, etc.)"},
     {palabra:"Extrasómico", definicion:"Fuera del cuerpo o sin relación con él."},
     {palabra:"Apotropaico", definicion:"Decho de un rito que por su carácter mágico se cree que aleja el mal o propicia el bien."},
     {palabra:"Inmanente", definicion:"Que es interno a un ser. Inherente, unido."},
@@ -1396,7 +1396,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Deletéreo", definicion:"Mortífero, venenoso."},
     {palabra:"Pilatuna", definicion:"Travesura, acción propia de niños que, en busca de diversión, ocasiona molestia."},
     {palabra:"Ciclotimia", definicion:"Trastorno del estado de ánimo considerado como un trastorno bipolar leve."},
-    {palabra:"Ordalía", definicion:"Prueba ritual usada en la Europa medieval y en ciertas sociedades para averiguar la culpabilidad o inocencia de una persona acusada, y una de cuyas formas es el juicio de Dios."},
+    {palabra:"Ordalía", definicion:"Juicios. Prueba ritual usada en la Europa medieval y en ciertas sociedades para averiguar la culpabilidad o inocencia de una persona acusada, y una de cuyas formas es el juicio de Dios."},
     {palabra:"Accesión", definicion:"Coito."},
     {palabra:"Hontanar", definicion:"Sitio en el que nacen fuentes o manantiales."},
     {palabra:"Preterir", definicion:"Omitir."},
@@ -1897,6 +1897,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Virtual", definicion:"Que tiene virtud para producir un efecto."},
     {palabra:"Loor", definicion:"Alabanza generalmente pública: En loor de multitudes."},
     {palabra:"Insipiente", definicion:"Falto de sabiduría o ciencia. / Falto de juicio."},
+    {palabra:"Insipiencia", definicion:"Falta de sabiduría o ciencia. / Falta de juicio."},
     {palabra:"Alógeno", definicion:"Dicho de una persona: Extranjera o de otra raza, en oposición a los naturales de un país."},
     {palabra:"Devengar", definicion:"Adquirir derecho a recibir un pago."},
     {palabra:"Micosis", definicion:"Infección cutánea de hongos"},
@@ -1921,6 +1922,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Motejar", definicion:"Aplicar a alguien o algo un apelativo o un calificativo despectivo o reprobatorio. (mote)"},
     {palabra:"Exogamia", definicion:"Sistema que prohibe la relación marital entre miembros de un mismo grupo. Antónimo de Endogamia."},
     {palabra:"Excusatio non petita, accusatio manifesta", definicion:"Latín: excusa no pedida, acusación manifiesta. Quiere decir que si te exculpas de una acusación que no se te ha hecho ya te estás señalando como autor de la falta."},
+    {palabra:"Impugnar", definicion:"Solicitar la nulidad de una decisión. / Rechazar la validez de una idea o afirmación de otra persona mediante razones y argumentos."},
+    {palabra:"Asebeia", definicion:"Impiedad, entendida en sentido amplio como irreligiosidad."},
+    {palabra:"Determinismo", definicion:"Corriente filosófica según la cual todo fenómeno está prefijado de una manera necesaria por las circunstancias o condiciones en que se producen."},
+    {palabra:"Hiper-", definicion:"Significa 'exceso' o 'grado superior al normal'."},
   ];
 
 }]);
