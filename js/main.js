@@ -1926,6 +1926,14 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Asebeia", definicion:"Impiedad, entendida en sentido amplio como irreligiosidad."},
     {palabra:"Determinismo", definicion:"Corriente filosófica según la cual todo fenómeno está prefijado de una manera necesaria por las circunstancias o condiciones en que se producen."},
     {palabra:"Hiper-", definicion:"Significa 'exceso' o 'grado superior al normal'."},
+    {palabra:"Dioscúrico", definicion:"Que implica una relación en la que para que uno brille el otro se apaga. Nietzsche, El nacimiento de la tragedia."},
+    {palabra:"Sine ira et studio", definicion:"Latín: Sin ira y con pasión."},
+    {palabra:"Sottovoce", definicion:"Adverbio italiano que significa 'en voz baja'."},
+    {palabra:"Eo ipso", definicion:"Latín: Por sí mismo."},
+    {palabra:"Asunción", definicion:"Acción y efecto de asumir."},
+    {palabra:"Vitando", definicion:"Odisoso, execrable o abominable."},
+    {palabra:"Agorafobia", definicion:"Temor obsesivo ante los espacios abiertos o descubiertos que puede constituir una enfermedad."},
+    {palabra:"Particularismo", definicion:"Preferencia que se le da a lo particular sobre lo general."},
   ];
 
 }]);
