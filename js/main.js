@@ -1936,6 +1936,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Particularismo", definicion:"Preferencia que se le da a lo particular sobre lo general."},
     {palabra:"Unicidad", definicion:"Cualidad de único."},
     {palabra:"Canoro", definicion:"Canto agradable y melodioso."},
+    {palabra:"Regalía", definicion:"Preeminencia, prerrogativa o excepción particular y privativa que en virtud de suprema potestad ejerce un soberano en su reino o Estado. / Privilegio o excepción privativa o particular que alguien tiene en cualquier línea."},
+    {palabra:"Trasegar", definicion:"Pasar un líquido de un recipiente a otro. / Tomar una bebida en exceso."},
+    {palabra:"Heresiologo", definicion:"El que combate las herejías."},
+    {palabra:"Remanente", definicion:"Que queda o se reserva para algo."},
   ];
 
 }]);
