@@ -1934,6 +1934,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Vitando", definicion:"Odisoso, execrable o abominable."},
     {palabra:"Agorafobia", definicion:"Temor obsesivo ante los espacios abiertos o descubiertos que puede constituir una enfermedad."},
     {palabra:"Particularismo", definicion:"Preferencia que se le da a lo particular sobre lo general."},
+    {palabra:"Unicidad", definicion:"Cualidad de único."},
+    {palabra:"Canoro", definicion:"Canto agradable y melodioso."},
   ];
 
 }]);
