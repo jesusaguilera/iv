@@ -1947,6 +1947,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Deculturación", definicion:"Proceso de pérdida de la cultura propia para adaptarse a otra."},
     {palabra:"Cubil", definicion:"Lugar cubierto que sirve a las fieras y otros animales salvajes para refugiarse habitualmente y tener sus crías."},
     {palabra:"Alteridad", definicion:"Condición o capacidad de ser otro."},
+    {palabra:"Diagnosis", definicion:"Diagnóstico."},
+    {palabra:"Hijra", definicion:"Eunuco hindú."},
   ];
 
 }]);
