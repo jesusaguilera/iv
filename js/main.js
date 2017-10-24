@@ -1058,7 +1058,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Concitar", definicion:"Provocar o causar algo, como un sentimiento o una reacción. / Reunir personas o cosas. / Instigar a alguien contra otra persona."},
     {palabra:"Haragán", definicion:"Que rehuye del trabajo."},
     {palabra:"Ralea", definicion:"Especie, género, cualidad. / Raza, casta o linaje de una persona."},
-    {palabra:"Gerifalte", definicion:"Jefe, autoridad. / Persona que roba."},
+    {palabra:"Gerifalte", definicion:"Persona que destaca en alguna actividad. / Jefe, autoridad. / Persona que roba."},
     {palabra:"Grey", definicion:"Rebaño. / Reunión de fieles cristianos."},
     {palabra:"Omertá", definicion:"Ley del silencio."},
     {palabra:"Acuidad", definicion:"Agudeza."},
@@ -1949,6 +1949,16 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Alteridad", definicion:"Condición o capacidad de ser otro."},
     {palabra:"Diagnosis", definicion:"Diagnóstico."},
     {palabra:"Hijra", definicion:"Eunuco hindú."},
+    {palabra:"Discrasia", definicion:"Fase final de algunas enfermedades caracterizada por desnutrición, deterioro orgánico y debilitamiento físico."},
+    {palabra:"Caquexia", definicion:"Discrasia, cacoquimia."},
+    {palabra:"Cacoquimia", definicion:"Discrasia, caquexia."},
+    {palabra:"Apoltronarse", definicion:"Sentarse con comodidad."},
+    {palabra:"Trasunto", definicion:"Fiel reflejo de algo."},
+    {palabra:"Ad vitam aeternam", definicion:"Por la vida eterna."},
+    {palabra:"Uxoricidio", definicion:"Asesinato de una mujer a manos de su marido."},
+    {palabra:"Añagaza", definicion:"Asesinato de una mujer a manos de su marido."},
+    {palabra:"Ad nauseam", definicion:"Latín: Falacia que se repite para hacerse verdadera. (hasta la náusea)"},
+    {palabra:"Clitoridectomía", definicion:"Amputación del prepucio del clíctoris."},
   ];
 
 }]);
