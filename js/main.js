@@ -1972,6 +1972,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Ectoparásitos", definicion:"Organismo que vive en el exterior de otro (pulgas, piojos, garrapatas)"},
     {palabra:"Ítem", definicion:"También."},
     {palabra:"Ítem más", definicion:"Además."},
+    {palabra:"Estafermo", definicion:"Persona que está parada y como embobada y sin acción."},
   ];
 
 }]);
