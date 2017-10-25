@@ -1959,6 +1959,19 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Añagaza", definicion:"Asesinato de una mujer a manos de su marido."},
     {palabra:"Ad nauseam", definicion:"Latín: Falacia que se repite para hacerse verdadera. (hasta la náusea)"},
     {palabra:"Clitoridectomía", definicion:"Amputación del prepucio del clíctoris."},
+    {palabra:"Hipo-", definicion:"Significa 'debajo de' o 'ecasez de' (Hipotensión, hipogatrio)"},
+    {palabra:"Inasible", definicion:"Que no se puede asir."},
+    {palabra:"Onírico", definicion:"Relacionado con el sueño o las imágenes que éste produce."},
+    {palabra:"Sextante", definicion:"Intrumento de medición que sirve para guiarte."},
+    {palabra:"Factótum", definicion:"Persona que desempeña todas las funciones de la casa, la empresa o el negocio."},
+    {palabra:"Sine díe", definicion:"Latín: 'Sin plazo o fecha determinados'."},
+    {palabra:"Facineroso", definicion:"Delincuente habitual."},
+    {palabra:"Mentoría", definicion:"Relación con una persona de mayor experiencia o conocimiento."},
+    {palabra:"Epatante", definicion:"Que pretnede causar o causa asombro o admiración"},
+    {palabra:"Punible", definicion:"Que merece castigo."},
+    {palabra:"Ectoparásitos", definicion:"Organismo que vive en el exterior de otro (pulgas, piojos, garrapatas)"},
+    {palabra:"Ítem", definicion:"También."},
+    {palabra:"Ítem más", definicion:"Además."},
   ];
 
 }]);
