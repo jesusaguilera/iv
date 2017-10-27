@@ -1289,7 +1289,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Periclitar", definicion:"Decaer, declinar. / Estar en peligro."},
     {palabra:"Florilegio", definicion:"Colección constituida por fragmentos literarios seleccionados de uno o varios autores."},
     {palabra:"Somático", definicion:"De la parte material o corpórea de un ser animado o relacionado con ella."},
-    {palabra:"Baldragas", definicion:"Hombre insustancial, simple y de poco carácter."},
+    {palabra:"Baldragas", definicion:"Hombre débil, sin fuerza física, insustancial, simple y de poco carácter."},
     {palabra:"Bergante", definicion:"Persona granuja, sinvergüenza, falta de escrúpulos y, en ocasiones, delincuente."},
     {palabra:"Cipayo", definicion:"Secuaz a sueldo."},
     {palabra:"Taimado", definicion:"Bellaco, astuto, disimulado y pronto en advertirlo todo."},
@@ -1956,7 +1956,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Trasunto", definicion:"Fiel reflejo de algo."},
     {palabra:"Ad vitam aeternam", definicion:"Por la vida eterna."},
     {palabra:"Uxoricidio", definicion:"Asesinato de una mujer a manos de su marido."},
-    {palabra:"Añagaza", definicion:"Asesinato de una mujer a manos de su marido."},
+    {palabra:"Añagaza", definicion:"Astucia, medio para engañar, artimaña, ardid."},
     {palabra:"Ad nauseam", definicion:"Latín: Falacia que se repite para hacerse verdadera. (hasta la náusea)"},
     {palabra:"Clitoridectomía", definicion:"Amputación del prepucio del clíctoris."},
     {palabra:"Hipo-", definicion:"Significa 'debajo de' o 'ecasez de' (Hipotensión, hipogatrio)"},
@@ -1973,6 +1973,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Ítem", definicion:"También."},
     {palabra:"Ítem más", definicion:"Además."},
     {palabra:"Estafermo", definicion:"Persona que está parada y como embobada y sin acción."},
+    {palabra:"Prestancia", definicion:"Elegancia./ Excelencia o superioridad."},
   ];
 
 }]);
