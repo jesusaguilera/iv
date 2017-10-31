@@ -1597,7 +1597,6 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Erística", definicion:"El arte del conflicto y del debate."},
     {palabra:"Ínsito", definicion:"Propio y connatural a algo y como nacido en ello."},
     {palabra:"Negligir", definicion:"Descuidar, pasar por alto, abandonar algo."},
-    {palabra:"Oneroso", definicion:"Descuidar, pasar por alto, abandonar algo."},
     {palabra:"Chanza", definicion:"Dicho que tiene gracia y agudeza y que no guarda mala intención."},
     {palabra:"Ex novo", definicion:"De nuevo."},
     {palabra:"Granjear", definicion:"Captar o atraer un sentimiento o una actitud determinada."},
