@@ -1988,6 +1988,11 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Paganos", definicion:"Habitante del campo o rústico. En las costumbres cristianas aquellos que adoraban a dioses y rechazaban la creencia de un Dios único."},
     {palabra:"Eximente", definicion:"Que exime de una carga u obligación."},
     {palabra:"Adamismo", definicion:"Doctrina herética surgida en el siglo II en el norte de África y que pretendía, mediante la práctica del nudismo, retorna a la inocencia originarioa del Edén descrita en el Génesis."},
+    {palabra:"Hipoacusia", definicion:"Disminución de la capacidad auditiva."},
+    {palabra:"Hiperacusia", definicion:"Aumento de la capacidad auditiva."},
+    {palabra:"Disfonía", definicion:"Trastorno en la fonación de la voz."},
+    {palabra:"Afonía", definicion:"Pérdida de la voz."},
+    {palabra:"Fonación", definicion:"Proceso por el cual se produce la voz humana o se pronuncian las palabras."},
   ];
 
 }]);
