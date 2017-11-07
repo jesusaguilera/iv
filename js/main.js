@@ -2010,6 +2010,20 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Embelecar", definicion:"Engañar con artificios y falsas apariencias."},
     {palabra:"Amartelamiento", definicion:"Manifestación profunda y excesiva del sentimiento amoroso."},
     {palabra:"Inficionar", definicion:"Infectar, corromper o envenenar."},
+    {palabra:"Tropología", definicion:"Mezcla de moralidad y droctrina en el discurso."},
+    {palabra:"Demérito", definicion:"Falta de mérito."},
+    {palabra:"Circunstante", definicion:"Que está alrededor. / Dicho de una persona que está presente."},
+    {palabra:"Faltriquera / Faldriquera", definicion:"Bolsillo."},
+    {palabra:"Vianda", definicion:"Comida."},
+    {palabra:"Nihil", definicion:"Latín: Nada."},
+    {palabra:"Vulpeja", definicion:"Zorra."},
+    {palabra:"Ferino", definicion:"Pertenciente a la fiera."},
+    {palabra:"Cejar", definicion:"Aflojar o ceder en un empeño."},
+    {palabra:"Basquiña", definicion:"De vasco. Falda larga hasta los pies."},
+    {palabra:"Empellón", definicion:"Empujón."},
+    {palabra:"Bonetada", definicion:"Cortesía que se hacía quitándose el bonete o el sombrero."},
+    {palabra:"Desorejada", definicion:"Mujer vil y ruin."},
+    {palabra:"Ministra", definicion:"Administrar, sumisnistrar."},
   ];
 
 }]);
