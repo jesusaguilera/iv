@@ -2040,6 +2040,14 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Malsinar", definicion:"Acusar. / Hablar mal de algo con dañina intención."},
     {palabra:"Borra", definicion:"Parte más grosera de la lana."},
     {palabra:"Adamado", definicion:"Afeminado, azerolado."},
+    {palabra:"Albañar", definicion:"Albañal."},
+    {palabra:"Albañal", definicion:"Depósito de inmundicias. / Canal o conducto que da salida a las aguas residuales."},
+    {palabra:"Jimio", definicion:"Mono. (simio)"},
+    {palabra:"Chanza", definicion:"Dicho festivo y gracioso. / Hecho burlesco para recrear el ánimo o ejercitar el ingenio."},
+    {palabra:"Hazañería", definicion:"Demostración o expresión afectada con que alguien da a entender que teme, se admira o se siente entusiasmo, no teniendo motivo para ello."},
+    {palabra:"Alambicar", definicion:"Sutilizar o complicar excesivamente el lenguaje, el estilo, los conceptos, etc."},
+    {palabra:"Proselitismo", definicion:"Empeño o afán con que una persona o una institución tratan de convencer o ganar seguidores o partidarios para una causa o una doctrina."},
+
   ];
 
 }]);
