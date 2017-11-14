@@ -2047,6 +2047,11 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Hazañería", definicion:"Demostración o expresión afectada con que alguien da a entender que teme, se admira o se siente entusiasmo, no teniendo motivo para ello."},
     {palabra:"Alambicar", definicion:"Sutilizar o complicar excesivamente el lenguaje, el estilo, los conceptos, etc."},
     {palabra:"Proselitismo", definicion:"Empeño o afán con que una persona o una institución tratan de convencer o ganar seguidores o partidarios para una causa o una doctrina."},
+    {palabra:"Modorro", definicion:"Que tiene modorra o somnolencia."},
+    {palabra:"Bezoar, Bezar, Bezaar", definicion:"Concreción calculcosa que suele encontrarse en las vías digestivas y en las urinarias de algunos mamíferos, y a la que se les atribuyen cualidades curativas."},
+    {palabra:"Feriar", definicion:"Comprar en la feria. / Vender, comprar o permutar algo por otra cosa."},
+    {palabra:"Anacoreta", definicion:"Religioso que vive solo en un lugar apartado, dedicado enteramente a la contemplación, la oración y la penitencia."},
+    {palabra:"Ceñar", definicion:"Guiñar, hacer señas."},
 
   ];
 
