@@ -2068,6 +2068,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Premática", definicion:"Pragmática."},
     {palabra:"Regalía", definicion:"Excepción que un soberano ejerce en virtud suprema."},
     {palabra:"Áspid", definicion:"Víbora venenosa."},
+    {palabra:"Fárrago", definicion:"Mezcla de cosas desordenadas e inconexas."},
+    {palabra:"Francachela", definicion:"Juerga o diversión desmesurada. / Reunión de varias personas para divertirse comiendo o bebiendo, normalmente sin moderación."},
   ];
 
 }]);
