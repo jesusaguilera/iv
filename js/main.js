@@ -2110,6 +2110,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Postema", definicion:"Persona pesada o molesta. / Apostema."},
     {palabra:"Apostema", definicion:"Absceso supurado."},
     {palabra:"Flemático", definicion:"Persona que tiene un temperamento apático y se comporta o actúa con tranquilidad excesiva."},
+    {palabra:"Lenitivo", definicion:"Cosa o medio que mitiga un padecimiento físico o moral."},
   ];
 
 }]);
