@@ -950,7 +950,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Oligofrenia", definicion:"Discapacidad mental grave que se caracteriza por una deficiencia en el desarrollo intelectual y alteraciones del sistema nervioso."},
     {palabra:"Permuta", definicion:"Intercambio de una cosa por otra sin meidación de dinero, salvo excepciones. / Intercambio de empleo entre dos personas que ocupan un puesto público."},
     {palabra:"Concomitancia", definicion:"Coincidencia deliberada o casual de dos más factores en la producción de un efeto. / Relación, afinidad o punto en común."},
-    {palabra:"Marchamo", definicion:"Estilo especial que caracteriza algo."},
+    {palabra:"Marchamo", definicion:"Marca que se le pone a algo, en especial a los embutidos."},
     {palabra:"Pánfilo", definicion:"Ingenuo, que tarda en comprender las cosas."},
     {palabra:"Defenestrar", definicion:"Destituir o expulsar de un cargo. / Arrojar a alguien por una ventana."},
     {palabra:"Medrar", definicion:"Mejorar de fortuna aumentando sus bienes, reputación, etc. especialmente cuando lo hace con artimañas o aprovechándose de las circunstancias."},
@@ -2112,6 +2112,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Flemático", definicion:"Persona que tiene un temperamento apático y se comporta o actúa con tranquilidad excesiva."},
     {palabra:"Lenitivo", definicion:"Cosa o medio que mitiga un padecimiento físico o moral."},
     {palabra:"Nepiofilia o infantofilia", definicion:"Parafilia, atracción sexual hacia niños de 0 a 5 años."},
+    {palabra:"Opósito", definicion:"Defensa, posición, impedimento."},
+    {palabra:"Redrojo", definicion:"Muchacho que medra poco. / Cada uno de los racimos pequeños que van dejando atrás los vendimiadores."},
+    {palabra:"Marchamo", definicion:"Muchacho que medra poco. / Cada uno de los racimos pequeños que van dejando atrás los vendimiadores."},
+    {palabra:"Pítima", definicion:"Trastorno temporal de las capacidades físicas y mentales a causa del consumo excesivo de alcohol."},
   ];
 
 }]);
