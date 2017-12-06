@@ -2116,6 +2116,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Redrojo", definicion:"Muchacho que medra poco. / Cada uno de los racimos pequeños que van dejando atrás los vendimiadores."},
     {palabra:"Marchamo", definicion:"Muchacho que medra poco. / Cada uno de los racimos pequeños que van dejando atrás los vendimiadores."},
     {palabra:"Pítima", definicion:"Trastorno temporal de las capacidades físicas y mentales a causa del consumo excesivo de alcohol."},
+    {palabra:"Convoyar", definicion:"Escoltar, acompañar."},
+    {palabra:"Librear", definicion:"Adornar, embellecer con galas."},
   ];
 
 }]);
