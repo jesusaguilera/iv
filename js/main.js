@@ -1329,6 +1329,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Escarpadura", definicion:"Escarpe ( pendiente, inclinación )"},
     {palabra:"Connotar", definicion:"Tener algo un sentido o significado indirecto que puede interpretarse de algún modo. / Sugerir (una  palabra) un significado secundario y subjetivo por su asociación con otras ideas."},
     {palabra:"Omnisciencia", definicion:"Conocimiento de todas las cosas reales y posibles."},
+    {palabra:"Omnisapiente", definicion:"Que posee omnisapiencia."},
     {palabra:"Orto", definicion:"Salidaa del sol por el horizonte. / Principio u origen de algo, especialmente una ideologíua, movimiento, etc."},
     {palabra:"Inducción", definicion:"Forma de razonamiento que consiste en establecer una ley o conclusión general a partir de la observación de hechos o casos particulares. / Suposición o conclusión a la que se llega con esta forma de razonamiento."},
     {palabra:"Prontuario", definicion:"Compendio de las reglas de una ciencia o un arte."},
@@ -2118,6 +2119,17 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Pítima", definicion:"Trastorno temporal de las capacidades físicas y mentales a causa del consumo excesivo de alcohol."},
     {palabra:"Convoyar", definicion:"Escoltar, acompañar."},
     {palabra:"Librear", definicion:"Adornar, embellecer con galas."},
+    {palabra:"Mediato", definicion:"Que en tiempo, lugar o grado está próximo a una cosa, mediando otra entre las dos, como el nieto respecto del abuelo."},
+    {palabra:"Zahúrda", definicion:"Pocilga, cochiquera, pocilga, porqueriza."},
+    {palabra:"Amulatado", definicion:"Que parece mulato."},
+    {palabra:"Viático", definicion:"Conjunto de provisiones o dinero que se le da a una persona, especialmente a un funcionario, para realizar un viaje. / Extremaunción, sacramento que de la eucaristía que se administra a las personas que están próximas a la muerte."},
+    {palabra:"Prestatario", definicion:"Que toma algo a préstamo, especialmente dinero."},
+    {palabra:"Lición", definicion:"Lección."},
+    {palabra:"Crasicie", definicion:"Grosura."},
+    {palabra:"Tundir", definicion:"Igualar con la tijera el pelo o los paños o telas de lana."},
+    {palabra:"Casquilucio/a", definicion:"Alegre de cascos."},
+    {palabra:"Corvo", definicion:"Arqueada o combado."},
+    {palabra:"Amartelar", definicion:"Enamorar, acaramelarse o ponerse muy cariñoso."},
   ];
 
 }]);
