@@ -2139,6 +2139,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Poligamia", definicion:"Del griego Muchos matrimonios. Varias parejas a lo largo de toda su vida."},
     {palabra:"Monogamia", definicion:"Una única pareja a lo largo de toda su vida."},
     {palabra:"Animal de bellota", definicion:"Cerdo."},
+    {palabra:"Sintomático", definicion:"Que es un indicio de una cosa que está ocurriendo o va a ocurrir. / Relativo al síntoma."},
   ];
 
 }]);
