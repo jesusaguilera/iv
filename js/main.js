@@ -1142,7 +1142,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Anfictionía", definicion:"Liga griega más conocida como la liga délfica."},
     {palabra:"Eutaxia", definicion:"Buen orden ( en sentido político, no moral. )"},
     {palabra:"Dialelo", definicion:"Círculo que se produce en una argumentación, según el cual, se comienza admitiendo lo que se va a demostrar."},
-    {palabra:"Holomérico", definicion:"Tipos de totalidad en lso que puede decirse que el todo se reproduce en sus partes."},
+    {palabra:"Holomérico", definicion:"Tipos de totalidad en los que puede decirse que el todo se reproduce en sus partes. (Las estructuras generales del gobierno en las partes de su sociedad: autonomías, municipios.)"},
     {palabra:"Diversificar", definicion:"Hacer diversa una cosa que era única o uniforme. / Variar los bienes que se producen, compran o venden con objeto de aumentar la clientela."},
     {palabra:"Otear", definicion:"Registrar desde un lugar alto lo que está abajo. / Escudriñar, registrar o mirar con cuidado."},
     {palabra:"Cornúpeta", definicion:"Animal dotado de cuernos."},
@@ -2130,6 +2130,15 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Casquilucio/a", definicion:"Alegre de cascos."},
     {palabra:"Corvo", definicion:"Arqueada o combado."},
     {palabra:"Amartelar", definicion:"Enamorar, acaramelarse o ponerse muy cariñoso."},
+    {palabra:"Poliandria", definicion:"Condición de la hembra que vive con varios machos como parejas."},
+    {palabra:"Poliginandria, Poliginia", definicion:"Condición del macho que vive con varias hembras como parejas."},
+    {palabra:"Monoginia", definicion:"Condición del macho que vive una hembra como pareja."},
+    {palabra:"Monogénesis", definicion:"Un origen."},
+    {palabra:"Poligénesis", definicion:"Varios origen."},
+    {palabra:"Monogenético", definicion:"Modo de reproducción único, por huevos u ovarios. Generación asexual. Producción de descencencia masculina o femenína solamente."},
+    {palabra:"Poligamia", definicion:"Del griego Muchos matrimonios. Varias parejas a lo largo de toda su vida."},
+    {palabra:"Monogamia", definicion:"Una única pareja a lo largo de toda su vida."},
+    {palabra:"Animal de bellota", definicion:"Cerdo."},
   ];
 
 }]);
