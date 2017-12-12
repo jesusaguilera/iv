@@ -2141,6 +2141,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Animal de bellota", definicion:"Cerdo."},
     {palabra:"Sintomático", definicion:"Que es un indicio de una cosa que está ocurriendo o va a ocurrir. / Relativo al síntoma."},
     {palabra:"Esquivo", definicion:"Que rehuye del trato de la gente y rechaza sus atenciones y muestras de cariño."},
+    {palabra:"Querencia", definicion:"Cariño profesado hacia algo o alguien. / Tendencia de hombre y animales a volver al sitio donde se han criado o tienen costumbre acudir."},
+    {palabra:"Intersticio", definicion:"Intervalo (espacio o tiempo entre dos espacios o dos lugares). / Hendidura o espacio, por lo común pequeño, que media entre dos cuerpos o entre dos partes de un mismo cuerpo."},
+    {palabra:"Diglosia", definicion:"Intervalo (espacio o tiempo entre dos espacios o dos lugares). / Hendidura o espacio, por lo común pequeño, que media entre dos cuerpos o entre dos partes de un mismo cuerpo."},
+    {palabra:"Manguta", definicion:"Hombre muy grande como un armario."},
   ];
 
 }]);
