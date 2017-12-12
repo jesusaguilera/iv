@@ -2140,6 +2140,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Monogamia", definicion:"Una única pareja a lo largo de toda su vida."},
     {palabra:"Animal de bellota", definicion:"Cerdo."},
     {palabra:"Sintomático", definicion:"Que es un indicio de una cosa que está ocurriendo o va a ocurrir. / Relativo al síntoma."},
+    {palabra:"Esquivo", definicion:"Que rehuye del trato de la gente y rechaza sus atenciones y muestras de cariño."},
   ];
 
 }]);
