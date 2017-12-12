@@ -2145,6 +2145,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Intersticio", definicion:"Intervalo (espacio o tiempo entre dos espacios o dos lugares). / Hendidura o espacio, por lo común pequeño, que media entre dos cuerpos o entre dos partes de un mismo cuerpo."},
     {palabra:"Diglosia", definicion:"Intervalo (espacio o tiempo entre dos espacios o dos lugares). / Hendidura o espacio, por lo común pequeño, que media entre dos cuerpos o entre dos partes de un mismo cuerpo."},
     {palabra:"Manguta", definicion:"Hombre muy grande como un armario."},
+    {palabra:"Erial", definicion:"Lugar o cosa que no tiene nada que se pueda aprovechar. / Terreno que no se cultiva ni se labra especialmente cuando se abandona."},
   ];
 
 }]);
