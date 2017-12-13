@@ -1274,7 +1274,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Pregnante", definicion:"Que está lleno de significado."},
     {palabra:"Lancinante", definicion:"Dolor que es muy agudo o intenso."},
     {palabra:"Inveterado", definicion:"Que es antiguo y está arraigado a costumbres o creencias."},
-    {palabra:"Réprobo", definicion:"Que está condenado al infierno."},
+    {palabra:"Réprobo", definicion:"Malvado. / Condenado a penas eterna. / Condenado por su heterodoxia religiosa."},
     {palabra:"Interdecir", definicion:"Prohibir."},
     {palabra:"Interdicción", definicion:"Acción y efecto de interdecir."},
     {palabra:"Futesa", definicion:"Insignificancia."},
@@ -2146,6 +2146,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Diglosia", definicion:"Intervalo (espacio o tiempo entre dos espacios o dos lugares). / Hendidura o espacio, por lo común pequeño, que media entre dos cuerpos o entre dos partes de un mismo cuerpo."},
     {palabra:"Manguta", definicion:"Hombre muy grande como un armario."},
     {palabra:"Erial", definicion:"Lugar o cosa que no tiene nada que se pueda aprovechar. / Terreno que no se cultiva ni se labra especialmente cuando se abandona."},
+    {palabra:"Pacta Sunt Servanda", definicion:"Locución latina: Lo pactado obliga."},
+    {palabra:"Salutación", definicion:"Acción y efecto de saludar."},
   ];
 
 }]);
