@@ -1745,7 +1745,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"De facto", definicion:"De hecho, sin reconocimiento jurídico, por la fuerza de los hechos."},
     {palabra:"De iure", definicion:"De derecho, ( opuesto a 'de facto' )con reconocimiento jurídico, legalmente."},
     {palabra:"Precámbrico", definicion:"La primera etapa en la historia el planeta."},
-    {palabra:"Filogenia", definicion:"Ciencia que estudia el origen y el desarrollo evolutivo de un grupo."},
+    {palabra:"Filogenia", definicion:"Relación de parentesco entre especies o taxones en general."},
+    {palabra:"Taxón", definicion:"Del griego ordenamiento. Conjunto de organismos emparentados que en una clasificación han sido agrupados en especies o tipos."},
     {palabra:"Prostético", definicion:"Protético, pertienecientea a la prótesis."},
     {palabra:"Ablución", definicion:"Lavatorio ritual del cuerpo con el fin de purifciarlo."},
     {palabra:"Lato", definicion:"Amplio, extenso ( En el sentido más lato significa... )."},
@@ -2148,6 +2149,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Erial", definicion:"Lugar o cosa que no tiene nada que se pueda aprovechar. / Terreno que no se cultiva ni se labra especialmente cuando se abandona."},
     {palabra:"Pacta Sunt Servanda", definicion:"Locución latina: Lo pactado obliga."},
     {palabra:"Salutación", definicion:"Acción y efecto de saludar."},
+    {palabra:"Filogenia", definicion:"Acción y efecto de saludar."},
+    {palabra:"Anagrama", definicion:"Alteración del orden de las letras de una palabra."},
   ];
 
 }]);
