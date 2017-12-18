@@ -2152,6 +2152,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Pacta Sunt Servanda", definicion:"Locución latina: Lo pactado obliga."},
     {palabra:"Salutación", definicion:"Acción y efecto de saludar."},
     {palabra:"Anagrama", definicion:"Alteración del orden de las letras de una palabra."},
+    {palabra:"Mendacidad", definicion:"Hábito o costrumbre de mentir."},
+    {palabra:"Prontuario", definicion:"Resumen o anotación de cosas para tenerlas presentes. / Compendio de las reglas de una ciencia o un arte."},
   ];
 
 }]);
