@@ -2155,6 +2155,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Mendacidad", definicion:"Hábito o costrumbre de mentir."},
     {palabra:"Prontuario", definicion:"Resumen o anotación de cosas para tenerlas presentes. / Compendio de las reglas de una ciencia o un arte."},
     {palabra:"Urticante", definicion:"Que provoca picor o escozor semejante al que causa la ortiga."},
+    {palabra:"Res nata", definicion:"Cosa nacida."},
   ];
 
 }]);
