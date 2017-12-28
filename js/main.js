@@ -2207,6 +2207,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Ruar", definicion:"Andar por las calles y otros sitios públicos. / Pasear la calle con el objeto de cortejar y hacer obsequio a las damas."},
     {palabra:"Obsequiar", definicion:"Agasajar a alguien con atenciones, servicios o regalos. / Enamorar, requebrar a una mujer, galantear."},
     {palabra:"Requebrar", definicion:"Halagar a alguien con piropos o palabras que destaquen sus atractivos. / Volver a quebrar."},
+    {palabra:"Pregnante", definicion:"Que está lleno de significado."},
+    {palabra:"Hominal", definicion:"Perteneciente o relativo al hombre."},
+    {palabra:"Mitopoesis / Mitopoeia", definicion:"Género literario en el cual el autor crea todo un conjunto de conceptos, regiones, personajes, sucesos y arquetipos interrelacionados con una mitología propia."},
+    {palabra:"Protopático", definicion:"Biología. Dicese de la sensibilidad cutánea originada por un estímulo fuerte, como dolor, temperatura, etc., la cual provoca una reacción de defensa del organismo, con independencia del estímulo o de su punto de aplicación."},
   ];
 
 }]);
