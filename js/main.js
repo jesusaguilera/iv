@@ -2161,7 +2161,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Res nata", definicion:"Cosa nacida."},
     {palabra:"Magnicidio", definicion:"Muerte violenta dada a persona muy importante."},
     {palabra:"Avant la lettre", definicion:"Francés: Anticipadamente, Que está avanzado a su tiempo, precursor."},
-    {palabra:"Bonacible", definicion:"Que es tranquilo, sereno y suave."},
+    {palabra:"Bonancible", definicion:"Que es tranquilo, sereno y suave."},
     {palabra:"Ayes", definicion:"Quejas, muchos ay!"},
     {palabra:"Neonatología", definicion:"Rama de la pediatría dedicada al diagnóstico y tratamiento de las enfermedades en los seres humanos los primeros 28 días de vida."},
     {palabra:"Búa", definicion:"Buba (postilla), Bubas (tumores blandos)"},
@@ -2215,6 +2215,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Filético", definicion:"Del fílum o relacionado con él."},
     {palabra:"Fílum", definicion:"División, representa el agrupamiento de grandes animales y seres vivos con determinados tratos evolutivos."},
     {palabra:"Anagénesis", definicion:"También llamado evolución filética, es el proceso evolutivo de especiación por el que a partir de una especie ancestro sólo hay una especie descendiente."},
+    {palabra:"Matrimonio morganático", definicion:"Matrimonio contraido entre personas de rango social desigual (noble y plebeyo, príncipe y condesa)"},
   ];
 
 }]);
