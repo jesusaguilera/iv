@@ -2211,6 +2211,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Hominal", definicion:"Perteneciente o relativo al hombre."},
     {palabra:"Mitopoesis / Mitopoeia", definicion:"Género literario en el cual el autor crea todo un conjunto de conceptos, regiones, personajes, sucesos y arquetipos interrelacionados con una mitología propia."},
     {palabra:"Protopático", definicion:"Biología. Dicese de la sensibilidad cutánea originada por un estímulo fuerte, como dolor, temperatura, etc., la cual provoca una reacción de defensa del organismo, con independencia del estímulo o de su punto de aplicación."},
+    {palabra:"Braquiación", definicion:"Es una modalidad de locomoción arbórea en la cual algunos primates se desplazan balanceándose entre las ramas de los árboles, solamente usando sus brazos."},
+    {palabra:"Filético", definicion:"Del fílum o relacionado con él."},
+    {palabra:"Fílum", definicion:"División, representa el agrupamiento de grandes animales y seres vivos con determinados tratos evolutivos."},
+    {palabra:"Anagénesis", definicion:"También llamado evolución filética, es el proceso evolutivo de especiación por el que a partir de una especie ancestro sólo hay una especie descendiente."},
   ];
 
 }]);
