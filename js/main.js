@@ -2216,6 +2216,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Fílum", definicion:"División, representa el agrupamiento de grandes animales y seres vivos con determinados tratos evolutivos."},
     {palabra:"Anagénesis", definicion:"También llamado evolución filética, es el proceso evolutivo de especiación por el que a partir de una especie ancestro sólo hay una especie descendiente."},
     {palabra:"Matrimonio morganático", definicion:"Matrimonio contraido entre personas de rango social desigual (noble y plebeyo, príncipe y condesa)"},
+    {palabra:"Nasciturus", definicion:"Persona antes de nacer, mientras permanece en el claustro materno."},
   ];
 
 }]);
