@@ -2223,6 +2223,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Propender", definicion:"Tener [una persona o una cosa] inclinación o disposición natural a algo."},
     {palabra:"Antropoide", definicion:"[animal] Que se parece al ser humano en sus caracteres morfológicos externos."},
     {palabra:"Vexilología", definicion:"El estudio de las banderas en su más amplio sentido. Es una disciplina auxiliar de la historia"},
+    {palabra:"Subrogar", definicion:"Sustituir o poner a alguien en el lugar de otro."},
   ];
 
 }]);
