@@ -2219,6 +2219,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Anagénesis", definicion:"También llamado evolución filética, es el proceso evolutivo de especiación por el que a partir de una especie ancestro sólo hay una especie descendiente."},
     {palabra:"Matrimonio morganático", definicion:"Matrimonio contraido entre personas de rango social desigual (noble y plebeyo, príncipe y condesa)"},
     {palabra:"Nasciturus", definicion:"Persona antes de nacer, mientras permanece en el claustro materno."},
+    {palabra:"Dacroniano/a", definicion:"Ley o medida que extremadamente severa."},
+    {palabra:"Propender", definicion:"Tener [una persona o una cosa] inclinación o disposición natural a algo."},
+    {palabra:"Antropoide", definicion:"[animal] Que se parece al ser humano en sus caracteres morfológicos externos."},
+    {palabra:"Vexilología", definicion:"El estudio de las banderas en su más amplio sentido. Es una disciplina auxiliar de la historia"},
   ];
 
 }]);
