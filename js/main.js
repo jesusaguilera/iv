@@ -2224,6 +2224,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Antropoide", definicion:"[animal] Que se parece al ser humano en sus caracteres morfológicos externos."},
     {palabra:"Vexilología", definicion:"El estudio de las banderas en su más amplio sentido. Es una disciplina auxiliar de la historia"},
     {palabra:"Subrogar", definicion:"Sustituir o poner a alguien en el lugar de otro."},
+    {palabra:"Distingo", definicion:"Reparo, restricción, limitación que se pone con cierta sutileza, meticulosidad o malicia."},
   ];
 
 }]);
