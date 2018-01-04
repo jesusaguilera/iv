@@ -2230,6 +2230,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Liminal", definicion:"Que concierne al comienzo de alguna cosa."},
     {palabra:"Mohíno", definicion:"Que está triste, abatido o disgustado. / Que deonta abatimiento, tristeza o disgusto."},
     {palabra:"Orlar", definicion:"Poner una orla o adorno alrededor de una cosa. / Adornar el borde de una tela o vestido."},
+    {palabra:"Asertividad", definicion:"Conocer los derechos propios y respetarlos frente a los demás."},
+    {palabra:"Edadismo", definicion:"Discriminación a la tercera edad."},
   ];
 
 }]);
