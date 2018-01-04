@@ -2225,6 +2225,11 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Vexilología", definicion:"El estudio de las banderas en su más amplio sentido. Es una disciplina auxiliar de la historia"},
     {palabra:"Subrogar", definicion:"Sustituir o poner a alguien en el lugar de otro."},
     {palabra:"Distingo", definicion:"Reparo, restricción, limitación que se pone con cierta sutileza, meticulosidad o malicia."},
+    {palabra:"Pedúnculo", definicion:"Tallo de una hoja, fruto o flor por el cual se une el tallo a la planta."},
+    {palabra:"Contractil", definicion:"Que es capaz de contraerse."},
+    {palabra:"Liminal", definicion:"Que concierne al comienzo de alguna cosa."},
+    {palabra:"Mohíno", definicion:"Que está triste, abatido o disgustado. / Que deonta abatimiento, tristeza o disgusto."},
+    {palabra:"Orlar", definicion:"Poner una orla o adorno alrededor de una cosa. / Adornar el borde de una tela o vestido."},
   ];
 
 }]);
