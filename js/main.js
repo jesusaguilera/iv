@@ -2232,6 +2232,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Orlar", definicion:"Poner una orla o adorno alrededor de una cosa. / Adornar el borde de una tela o vestido."},
     {palabra:"Asertividad", definicion:"Conocer los derechos propios y respetarlos frente a los demás."},
     {palabra:"Edadismo", definicion:"Discriminación a la tercera edad."},
+    {palabra:"Fetua", definicion:"Decisión que da el muftí a una cuestión jurídica."},
+    {palabra:"Muftí", definicion:"Jurisconsulto musulmán con autoridad pública, cuyas decisiones son consideradas como leyes."},
+    {palabra:"Proemio", definicion:"Prólogo, discurso antepuesto al cuerpo de un libro."},
+    {palabra:"Columbrar", definicion:"Ver desde lejos una cosa sin distinguierla bien. / Suponer o conjeturar una cosa."},
   ];
 
 }]);
