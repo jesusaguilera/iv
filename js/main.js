@@ -2236,6 +2236,9 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Muftí", definicion:"Jurisconsulto musulmán con autoridad pública, cuyas decisiones son consideradas como leyes."},
     {palabra:"Proemio", definicion:"Prólogo, discurso antepuesto al cuerpo de un libro."},
     {palabra:"Columbrar", definicion:"Ver desde lejos una cosa sin distinguierla bien. / Suponer o conjeturar una cosa."},
+    {palabra:"Heteronimia", definicion:"Fenómeno en el cual palabras de gran proximidad semántica tienen formas y etimologías diferentes."},
+    {palabra:"Inviabilidad", definicion:"Imposibilidad de que algo ocurra o pueda realizarse."},
+    {palabra:"Vademécum", definicion:"Libro o manual de poco volumen y fácil de consultar que contiene las nociones elementales de una ciencia o técnica."},
   ];
 
 }]);
