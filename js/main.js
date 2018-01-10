@@ -2240,6 +2240,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Inviabilidad", definicion:"Imposibilidad de que algo ocurra o pueda realizarse."},
     {palabra:"Vademécum", definicion:"Libro o manual de poco volumen y fácil de consultar que contiene las nociones elementales de una ciencia o técnica."},
     {palabra:"Entomología", definicion:"Parte de la zoología que estudia a los insectos."},
+    {palabra:"Heptalogía", definicion:"Saga de 7 entregas. Poco comunes, las más comunes son trilogías o tetralogías"},
+    {palabra:"Zascandil", definicion:"Hombre que va de un lado a otro sin hacer nada de provecho. / Hombre despreciable, ligero y enredador."},
   ];
 
 }]);
