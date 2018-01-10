@@ -2239,6 +2239,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Heteronimia", definicion:"Fenómeno en el cual palabras de gran proximidad semántica tienen formas y etimologías diferentes."},
     {palabra:"Inviabilidad", definicion:"Imposibilidad de que algo ocurra o pueda realizarse."},
     {palabra:"Vademécum", definicion:"Libro o manual de poco volumen y fácil de consultar que contiene las nociones elementales de una ciencia o técnica."},
+    {palabra:"Entomología", definicion:"Parte de la zoología que estudia a los insectos."},
   ];
 
 }]);
