@@ -2242,6 +2242,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Entomología", definicion:"Parte de la zoología que estudia a los insectos."},
     {palabra:"Heptalogía", definicion:"Saga de 7 entregas. Poco comunes, las más comunes son trilogías o tetralogías"},
     {palabra:"Zascandil", definicion:"Hombre que va de un lado a otro sin hacer nada de provecho. / Hombre despreciable, ligero y enredador."},
+    {palabra:"Barrabasada", definicion:"Desaguisado, disparate, acción que produce gran daño o perjuicio."},
   ];
 
 }]);
