@@ -2243,6 +2243,12 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Heptalogía", definicion:"Saga de 7 entregas. Poco comunes, las más comunes son trilogías o tetralogías"},
     {palabra:"Zascandil", definicion:"Hombre que va de un lado a otro sin hacer nada de provecho. / Hombre despreciable, ligero y enredador."},
     {palabra:"Barrabasada", definicion:"Desaguisado, disparate, acción que produce gran daño o perjuicio."},
+    {palabra:"Trufar", definicion:"Engañar. / Introducir elementos extraños en un conjunto determinado, algunas veces de manera subrepticia."},
+    {palabra:"Verbosidad", definicion:"Verborrea."},
+    {palabra:"Undular", definicion:"Ondular o formar ondas en una cosa."},
+    {palabra:"Monomanía", definicion:"Obsesión por una idea determinada recurrente."},
+    {palabra:"Renitente", definicion:"Que se resiste a hacer o admitir algo."},
+    {palabra:"Irrogar", definicion:"Causar daño o perjuicio a alguien."},
   ];
 
 }]);
