@@ -2249,6 +2249,15 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Monomanía", definicion:"Obsesión por una idea determinada recurrente."},
     {palabra:"Renitente", definicion:"Que se resiste a hacer o admitir algo."},
     {palabra:"Irrogar", definicion:"Causar daño o perjuicio a alguien."},
+    {palabra:"Conativo", definicion:"Función lingüistica: Que intenta dirigir la conducta del oyente."},
+    {palabra:"Volición", definicion:"Deseo, determinación. / Acto de voluntad."},
+    {palabra:"Gresca", definicion:"Confusión y desorden. / Disputa o riña."},
+    {palabra:"Retambufa", definicion:"Bujarrón, homosexual activo"},
+    {palabra:"Demoscopia", definicion:"Parte de la sociología que estudia las orientaciones y la opinión pública sobre alguna cuestión."},
+    {palabra:"Rilar", definicion:"Temblar, tiritar."},
+    {palabra:"Rilarse", definicion:"Hecharse atrás, no hacer lo que tenía previsto a causa del miedo."},
+    {palabra:"Oreo", definicion:"Soplo de aire que da suavemente en algo. / Acción de orear u orearse."},
+    {palabra:"Provecto", definicion:"Maduro."},
   ];
 
 }]);
