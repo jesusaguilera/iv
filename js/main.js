@@ -1946,7 +1946,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Trasegar", definicion:"Pasar un líquido de un recipiente a otro. / Tomar una bebida en exceso."},
     {palabra:"Heresiologo", definicion:"El que combate las herejías."},
     {palabra:"Remanente", definicion:"Que queda o se reserva para algo."},
-    {palabra:"Inerrancia", definicion:"Falta de error. Doctrina que consiste básicamente en la falta de error o de fallas en las Sagradas Escrituras, las que, al ser inspiradas por Dios mismo, siempre dicen la verdad, y no se equivocan"},
+    {palabra:"Inerrancia", definicion:"Cualidad de estar exento de error."},
     {palabra:"Ideocracia", definicion:"Sistema de gobierno o de organización política y social basado en una ideología monística. Se presenta como un sistema absoluto, universal y supremo para la comprensión de la vida social"},
     {palabra:"-maquia", definicion:"Lucha, combate, batalla."},
     {palabra:"Aculturación", definicion:"Proceso de recepción de otra cultura y de adaptación a ella, en especial con pérdida de la cultura propia."},
