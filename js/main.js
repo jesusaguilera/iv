@@ -1866,7 +1866,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Quintaesencia Quinta esencia", definicion:"Extracto más depurado o concentrado de algo."},
     {palabra:"Deux ex machina", definicion:"Latín: Dios en la máquina, Actualmente es utilizada para referirse a un elemento externo que resuelve una historia sin seguir su lógica interna."},
     {palabra:"Efecto Pneumónido", definicion:"Los pneumónidos son esas larvas de insecto, generalmente avispas, que se alimentan del cuerpo que parasitan hasta que lo matan."},
-    {palabra:"Agro", definicion:"De sabro ácido."},
+    {palabra:"Agro", definicion:"De sabro ácido. / Campo, tierra de labranza."},
     {palabra:"More suo", definicion:"Latín: Costumbre."},
     {palabra:"Nomina numina", definicion:"Latín: Divinización de ciertas palabras, nombres o expresiones a las que se otorga un valor numinoso y completamente resistente a la crítica. Ej: 'Democracia'."},
     {palabra:"Precopernicano", definicion:"Sistema anterior a la teoría copernicana. Creencia que todo gira alrededor nuestro."},
@@ -2156,7 +2156,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Erial", definicion:"Lugar o cosa que no tiene nada que se pueda aprovechar. / Terreno que no se cultiva ni se labra especialmente cuando se abandona."},
     {palabra:"Pacta Sunt Servanda", definicion:"Locución latina: Lo pactado obliga."},
     {palabra:"Salutación", definicion:"Acción y efecto de saludar."},
-    {palabra:"Anagrama", definicion:"Alteración del orden de las letras de una palabra."},
+    {palabra:"Anagrama", definicion:"Alteración del reordenación de las letras de una palabra. Ej: 'Onidi = Indio'"},
     {palabra:"Mendacidad", definicion:"Hábito o costrumbre de mentir."},
     {palabra:"Prontuario", definicion:"Resumen o anotación de cosas para tenerlas presentes. / Compendio de las reglas de una ciencia o un arte."},
     {palabra:"Urticante", definicion:"Que provoca picor o escozor semejante al que causa la ortiga."},
@@ -2258,6 +2258,13 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Rilarse", definicion:"Hecharse atrás, no hacer lo que tenía previsto a causa del miedo."},
     {palabra:"Oreo", definicion:"Soplo de aire que da suavemente en algo. / Acción de orear u orearse."},
     {palabra:"Provecto", definicion:"Maduro."},
+    {palabra:"Arcádico", definicion:"Bucólico, idílico."},
+    {palabra:"Intelligentsia", definicion:"En transliteración al español, inteliguentsia es una clase social compuesta por personas involucradas en complejas actividades mentales y creativas orientadas al desarrollo y la diseminación de la cultura, incluyendo intelectuales y grupos sociales cercanos a ellos."},
+    {palabra:"Lleco", definicion:"Dicese de la tierra o un campo sin roturar."},
+    {palabra:"Purria", definicion:"Gente despreciable."},
+    {palabra:"Quid pro quo", definicion:"Una cosa por otra."},
+    {palabra:"Desbarrar", definicion:"Decir o hacer cosas fuera de razón y regla; decir disparates."},
+
   ];
 
 }]);
