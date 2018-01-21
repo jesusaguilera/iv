@@ -2264,6 +2264,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Purria", definicion:"Gente despreciable."},
     {palabra:"Quid pro quo", definicion:"Una cosa por otra."},
     {palabra:"Desbarrar", definicion:"Decir o hacer cosas fuera de razón y regla; decir disparates."},
+    {palabra:"hipálage", definicion:"Es una figura retórica que consiste en atribuir a un sustantivo una cualidad o acción propia de otro sustantivo cercano en el mismo texto. Ej: El oro temeroso del avaro. Su barba soplando al viento"},
 
   ];
 
