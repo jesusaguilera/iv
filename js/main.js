@@ -2266,6 +2266,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Desbarrar", definicion:"Decir o hacer cosas fuera de razón y regla; decir disparates."},
     {palabra:"Hipálage", definicion:"Es una figura retórica que consiste en atribuir a un sustantivo una cualidad o acción propia de otro sustantivo cercano en el mismo texto. Ej: El oro temeroso del avaro. Su barba soplando al viento"},
     {palabra:"Ciclotimia", definicion:"Estado mental caracterizado por variaciones del humor en que se pasa de la euforia a la depresión, tristeza o melancolía. (puede dar lugar a trastornos de carácter psicótico.)"},
+    {palabra:"Checa", definicion:"Comité de policía secreta en la Rusia soviética."},
 
   ];
 
