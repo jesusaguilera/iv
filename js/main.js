@@ -2275,6 +2275,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Inexpiable", definicion:"Que no puede ser expiado, que no se le pueden borrar las culpas."},
     {palabra:"Aldabonazo", definicion:"Golpe fuerte con la aldaba o el aldabón de una puerta para llamar."},
     {palabra:"Intelectual", definicion:"Es el que se dedica al estudio y la reflexión crítica sobre la realidad, y comunica sus ideas con la pretensión de influir en ella, alcanzando cierto estatus de autoridad ante la opinión pública. Concepto acuñado en el S. XIX en el caso Deyfrus para calificar de manera despectiva, por los anitdeyfusistas, al conjunto de personajes de la ciencia, el arte y la cultura que apoyaban la liberación del capitán judío Dreyfus."},
+    {palabra:"Rábula", definicion:"Abogado indocto, charlatán y vocinglero."},
 
   ];
 
