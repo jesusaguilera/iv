@@ -1860,7 +1860,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Conmilitón", definicion:"Soldado compañero de otro en la guerra."},
     {palabra:"Nemesis", definicion:"Castigo o venganza."},
     {palabra:"Asertórico", definicion:"Aquel juicio o proposición que no necesariamente es verdadero y que puede caer en una contradicción. Que puede ser falso."},
-    {palabra:"Transido", definicion:"Fatigado, acongjado o consumido de alguna penalidad, angustia o necesidad. / Miserable, escaso y ridículo en el modo de portarse y gastar."},
+    {palabra:"Transido", definicion:"Fatigado, acongojado o consumido de alguna penalidad, angustia o necesidad. / Miserable, escaso y ridículo en el modo de portarse y gastar."},
     {palabra:"Advenedizo", definicion:"Persona que se ha introducido en una posición, ambiente o actividad que no le corresponde."},
     {palabra:"Abrogación", definicion:"Anulación o modificación de una ley. Abolición. Abolición."},
     {palabra:"Quintaesencia Quinta esencia", definicion:"Extracto más depurado o concentrado de algo."},
@@ -1885,7 +1885,6 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Heteróclito", definicion:"Que destaca por lo extraño de sus características, que se sale de lo habitual."},
     {palabra:"Atrabiliario", definicion:"Que tiene mal carácter y se irrita con facilidad. / Que es raro o extravagante."},
     {palabra:"Adventicio", definicion:"Que tiene mal carácter y se irrita con facilidad. / Que es raro o extravagante."},
-    {palabra:"Cáustico", definicion:"Dicho de una cosa: Que quema y destruye los tejidos animales. / Mordaz o agresivo en lo que dice."},
     {palabra:"Greguescos", definicion:"Calazones bombachos muy anchos que cubrían hasta debajo de la rodilla."},
     {palabra:"Enrigidecer", definicion:"Poner rígido algo."},
     {palabra:"Agro-", definicion:"Campo: Agropecuario, agroquímica."},
@@ -2276,6 +2275,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Aldabonazo", definicion:"Golpe fuerte con la aldaba o el aldabón de una puerta para llamar."},
     {palabra:"Intelectual", definicion:"Es el que se dedica al estudio y la reflexión crítica sobre la realidad, y comunica sus ideas con la pretensión de influir en ella, alcanzando cierto estatus de autoridad ante la opinión pública. Concepto acuñado en el S. XIX en el caso Deyfrus para calificar de manera despectiva, por los anitdeyfusistas, al conjunto de personajes de la ciencia, el arte y la cultura que apoyaban la liberación del capitán judío Dreyfus."},
     {palabra:"Rábula", definicion:"Abogado indocto, charlatán y vocinglero."},
+    {palabra:"Acerado", definicion:"De acero. / Fuerte, de mucha resistencia. / Incisivo, mordaz, penetrante."},
 
   ];
 
