@@ -2267,6 +2267,14 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Hipálage", definicion:"Es una figura retórica que consiste en atribuir a un sustantivo una cualidad o acción propia de otro sustantivo cercano en el mismo texto. Ej: El oro temeroso del avaro. Su barba soplando al viento"},
     {palabra:"Ciclotimia", definicion:"Estado mental caracterizado por variaciones del humor en que se pasa de la euforia a la depresión, tristeza o melancolía. (puede dar lugar a trastornos de carácter psicótico.)"},
     {palabra:"Checa", definicion:"Comité de policía secreta en la Rusia soviética."},
+    {palabra:"Foniatría", definicion:"Parte de otorrinolaringologia que se ocupa de la emisión de la voz y sus alteraciones."},
+    {palabra:"Cachaza", definicion:"Tranquilidad excesiva cuando se desarrolla uan actividad."},
+    {palabra:"Finisecular", definicion:"Del fin de un siglo o relacionado con él."},
+    {palabra:"Tea", definicion:"borrachera."},
+    {palabra:"Trust", definicion:"Grupo de empresas unidas para monopolizar el mercado y controlar los precios en su propio beneficio."},
+    {palabra:"Inexpiable", definicion:"Que no puede ser expiado, que no se le pueden borrar las culpas."},
+    {palabra:"Aldabonazo", definicion:"Golpe fuerte con la aldaba o el aldabón de una puerta para llamar."},
+    {palabra:"Intelectual", definicion:"Es el que se dedica al estudio y la reflexión crítica sobre la realidad, y comunica sus ideas con la pretensión de influir en ella, alcanzando cierto estatus de autoridad ante la opinión pública. Concepto acuñado en el S. XIX en el caso Deyfrus para calificar de manera despectiva, por los anitdeyfusistas, al conjunto de personajes de la ciencia, el arte y la cultura que apoyaban la liberación del capitán judío Dreyfus."},
 
   ];
 
