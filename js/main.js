@@ -2276,6 +2276,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Intelectual", definicion:"Es el que se dedica al estudio y la reflexión crítica sobre la realidad, y comunica sus ideas con la pretensión de influir en ella, alcanzando cierto estatus de autoridad ante la opinión pública. Concepto acuñado en el S. XIX en el caso Deyfrus para calificar de manera despectiva, por los anitdeyfusistas, al conjunto de personajes de la ciencia, el arte y la cultura que apoyaban la liberación del capitán judío Dreyfus."},
     {palabra:"Rábula", definicion:"Abogado indocto, charlatán y vocinglero."},
     {palabra:"Acerado", definicion:"De acero. / Fuerte, de mucha resistencia. / Incisivo, mordaz, penetrante."},
+    {palabra:"Hipermnesia o Hipertimesia", definicion:"Aumento considerable de la capacidad de memoria y por ende del recuerdo."},
 
   ];
 
