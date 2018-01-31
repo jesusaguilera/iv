@@ -2279,6 +2279,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Hipermnesia o Hipertimesia", definicion:"Aumento considerable de la capacidad de memoria y por ende del recuerdo."},
     {palabra:"Isagoría", definicion:"Derecho a intervenir con la palabra."},
 
+
   ];
 
 }]);
