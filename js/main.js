@@ -1786,7 +1786,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Senescencia", definicion:"Envejecimiento. Cambios irreversible que se da en los elementos de un sistemas por el paso del tiempo, incapaz de mantener el orden o la integridad. Opuesto a evolución."},
     {palabra:"Neblinosa", definicion:"Que tiene mucha neblina."},
     {palabra:"Deíctico", definicion:"Relativo a la deixis."},
-    {palabra:"Deixis", definicion:"Señalameinto."},
+    {palabra:"Deixis", definicion:"Señalar algo fuera del discurso o presente sólo en la memoria."},
     {palabra:"Estamento", definicion:"Estrato de una sociedad definido por un estilo de vida análoga función social."},
     {palabra:"Encomienda", definicion:"Encargo o petición."},
     {palabra:"Redivivo", definicion:"Resucitado."},
@@ -2278,7 +2278,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Acerado", definicion:"De acero. / Fuerte, de mucha resistencia. / Incisivo, mordaz, penetrante."},
     {palabra:"Hipermnesia o Hipertimesia", definicion:"Aumento considerable de la capacidad de memoria y por ende del recuerdo."},
     {palabra:"Isagoría", definicion:"Derecho a intervenir con la palabra."},
-
+    {palabra:"Jeribeque", definicion:"Contorsión o movimiento de brazos en el aire, sin objeto aparente. / Adorno, dibujo o línea complicados."},
+    {palabra:"Mollar", definicion:"Persona que se deja engañar con facilidad. / Cosa que da mucha utilidad sin carga considerable. / Blando y fácil de partir."},
   ];
 
 }]);
