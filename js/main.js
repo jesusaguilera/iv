@@ -2280,6 +2280,14 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Isagoría", definicion:"Derecho a intervenir con la palabra."},
     {palabra:"Jeribeque", definicion:"Contorsión o movimiento de brazos en el aire, sin objeto aparente. / Adorno, dibujo o línea complicados."},
     {palabra:"Mollar", definicion:"Persona que se deja engañar con facilidad. / Cosa que da mucha utilidad sin carga considerable. / Blando y fácil de partir."},
+    {palabra:"Prerrogativa", definicion:"Privilegio, gracia o exención que se concede a alguien para que goce de ello."},
+    {palabra:"Descreer", definicion:"Dejar de creer una cosa."},
+    {palabra:"Rayano/a", definicion:"Que raya o linda con otra cosa o está muy cerca de ella."},
+    {palabra:"Frenología", definicion:"Es una antigua teoría pseudocientífica, sin ninguna validez en la actualidad, que afirmaba la posible determinación del carácter y los rasgos de la personalidad, así como las tendencias criminales, basándose en la forma del cráneo, cabeza y facciones."},
+    {palabra:"Animus iocandi", definicion:"Latín: ánimo de broma, con intención jocosa. Es usado en la jurisprudencia penal como un eximiente del delito de injurias."},
+    {palabra:"Politburó", definicion:"Máximo órgano ejecutivo de distintios partidos políticos, especialmente los comunistas. Máximo órgano de poder."},
+    {palabra:"Prosaismo", definicion:"Cualidad de lo que es prosaico."},
+    {palabra:"Para-", definicion:"Significa junot a, semejante a, al margen o en contra de."},
   ];
 
 }]);
