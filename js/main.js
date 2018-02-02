@@ -2288,6 +2288,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Politburó", definicion:"Máximo órgano ejecutivo de distintios partidos políticos, especialmente los comunistas. Máximo órgano de poder."},
     {palabra:"Prosaismo", definicion:"Cualidad de lo que es prosaico."},
     {palabra:"Para-", definicion:"Significa junot a, semejante a, al margen o en contra de."},
+    {palabra:"Tribulación", definicion:"Pena, congoja, tormento o aflicción moral. / Persecución o adversidad que padece una persona."},
   ];
 
 }]);
