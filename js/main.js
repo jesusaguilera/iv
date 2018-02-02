@@ -517,7 +517,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Adumbrar", definicion:"Sombrear ( en dibujo )."},
     {palabra:"Misandria", definicion:"Aversión a los varones."},
     {palabra:"Indolente", definicion:"Que no se afecta o conmueve."},
-    {palabra:"Pandemonio", definicion:"Lugar de mucho ruido y confusión."},
+    {palabra:"Pandemónium Pandemonio", definicion:"Reunión de demonios. / Lugar de mucho ruido y confusión."},
     {palabra:"Ripiar", definicion:"Hacer pedazos algo."},
     {palabra:"Aseverar", definicion:"Afirmar, asegurar algo que se dice."},
     {palabra:"Sinecura", definicion:"Empleo o cargo retribuido que ocasiona poco o ningún trabajo."},
