@@ -2289,6 +2289,15 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Prosaismo", definicion:"Cualidad de lo que es prosaico."},
     {palabra:"Para-", definicion:"Significa junot a, semejante a, al margen o en contra de."},
     {palabra:"Tribulación", definicion:"Pena, congoja, tormento o aflicción moral. / Persecución o adversidad que padece una persona."},
+    {palabra:"A fortiori", definicion:"Latín: Significa 'Con mayor motivo', se usa para referirse a una forma de argumentación por la que se saca una consecuencia."},
+    {palabra:"Pretorio", definicion:"Palacio en que habitaba y juzgaba el pretor romano o el presidente de una provincia."},
+    {palabra:"Espídico", definicion:"Que es o está artificialmente agitado o nervioso."},
+    {palabra:"Portavocía", definicion:"Cargo o condición de un portavoz."},
+    {palabra:"Trust", definicion:"Grupo de empresas unidas para monopolizar el mercado y controlar los precios en su propio beneficio."},
+    {palabra:"Cesarismo", definicion:"Régimen político en el cual una persona gobierna con poder total."},
+    {palabra:"Complotar", definicion:"Confabularse, tramar una conjura, por lo general con fines políticos."},
+    {palabra:"Reputar", definicion:"Juzgar o hacer concepto del estado o calidad de alguien o algo. / Apreciar o estiamr el mérito."},
+    {palabra:"Ciar", definicion:"Andar hacia atrás, retroceder. / Abandonar un empeño o negocio."},
   ];
 
 }]);
