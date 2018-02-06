@@ -902,7 +902,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Mediato", definicion:"Que en tiempo, lugar o grado está próximo a una cosa, mediando otra entre las dos, como el nieto respecto del abuelo."},
     {palabra:"Dación", definicion:"Acción y efecto de dar algo."},
     {palabra:"Azorar", definicion:"Dicho de un azor: Asustar, perseguir o alcanzar a otras aves. / Conturbar, sobresaltar. / Irritar, encender, infundir ánimo."},
-    {palabra:"Conturbar", definicion:"Alterar o inquietar a alguien o causar intranquilidad en su ánimo."},
+    {palabra:"Conturbar", definicion:"Alterar [algo] el ánimo de una persona de manera que pierda la serenidad o que no acierte a hablar ni a proseguir lo que hacía."},
     {palabra:"Disentir", definicion:"No ajustarse al sentir o parecer de alguien."},
     {palabra:"Glosa", definicion:"Explicación que se pone al margen como aclaración de un texto escrito."},
     {palabra:"Glosar", definicion:"Poner glosas en algo. / Comentar palabras y dichos propios o ajenos, ampliándolos. / Interpretar o tomar en mal sentido y con intención siniestra una palabra, una proposición o un acto."},
@@ -1977,7 +1977,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Ectoparásitos", definicion:"Organismo que vive en el exterior de otro (pulgas, piojos, garrapatas)"},
     {palabra:"Ítem", definicion:"También."},
     {palabra:"Ítem más", definicion:"Además."},
-    {palabra:"Estafermo", definicion:"Persona que está parada y como embobada y sin acción."},
+    {palabra:"Estafermo", definicion:"Muñeco giratorio usado en los torneos medievales. Persona que está parada y como embobada y sin acción."},
     {palabra:"Prestancia", definicion:"Elegancia./ Excelencia o superioridad."},
     {palabra:"Recidivante", definicion:"Enfermedad o trastorno que tiende a reaparecer después de un periodo de curación."},
     {palabra:"Autonepiofilia", definicion:"Infantilismo parafílico caraceterizado por el deseo de llevar pañales y ropa de bebé."},
@@ -2298,6 +2298,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Complotar", definicion:"Confabularse, tramar una conjura, por lo general con fines políticos."},
     {palabra:"Reputar", definicion:"Juzgar o hacer concepto del estado o calidad de alguien o algo. / Apreciar o estiamr el mérito."},
     {palabra:"Ciar", definicion:"Andar hacia atrás, retroceder. / Abandonar un empeño o negocio."},
+    {palabra:"Acta est fabula", definicion:"Latín: 'La función ha terminado'."},
   ];
 
 }]);
