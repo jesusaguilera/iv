@@ -2299,6 +2299,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Reputar", definicion:"Juzgar o hacer concepto del estado o calidad de alguien o algo. / Apreciar o estiamr el mérito."},
     {palabra:"Ciar", definicion:"Andar hacia atrás, retroceder. / Abandonar un empeño o negocio."},
     {palabra:"Acta est fabula", definicion:"Latín: 'La función ha terminado'."},
+    {palabra:"Perspicuo", definicion:"Claro, transparente, terso."},
+    {palabra:"Zyclon B", definicion:"Pesticida a base de cianuro. Usado como instrumento para acabar con la vida de humanos por los Nazis."},
   ];
 
 }]);
