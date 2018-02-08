@@ -2303,6 +2303,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Zyclon B", definicion:"Pesticida a base de cianuro. Usado como instrumento para acabar con la vida de humanos por los Nazis."},
     {palabra:"Paródico", definicion:"Relativo a la parodia."},
     {palabra:"Chamorra", definicion:"Cabeza esquildada."},
+    {palabra:"Innúmero", definicion:"Que no se puede reducir a un número."},
   ];
 
 }]);
