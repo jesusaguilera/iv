@@ -2304,6 +2304,11 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Paródico", definicion:"Relativo a la parodia."},
     {palabra:"Chamorra", definicion:"Cabeza esquildada."},
     {palabra:"Innúmero", definicion:"Que no se puede reducir a un número."},
+    {palabra:"Retardatario", definicion:"Que tiende a producir retraso. / Persona que se opone al progreso o desarrollo cultural."},
+    {palabra:"Valladar", definicion:"Vallado, cerca."},
+    {palabra:"Monolitismo", definicion:"Característica de las personas o colectivos sin fisuras internas, poco flexibles y que no ceden ni se adaptan a los cambios con facilidad."},
+    {palabra:"Trastueque", definicion:"Cambio de ser o estado de una cosa."},
+    {palabra:"Noli me tanguere", definicion:"Latín: 'No me toques'."},
   ];
 
 }]);
