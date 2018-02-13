@@ -2310,6 +2310,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Trastueque", definicion:"Cambio de ser o estado de una cosa."},
     {palabra:"Noli me tanguere", definicion:"Latín: 'No me toques'."},
     {palabra:"Alma máter", definicion:"Persona que impulsa algo."},
+    {palabra:"Naumaquia", definicion:"Representación de un combate naval en época romana."},
   ];
 
 }]);
