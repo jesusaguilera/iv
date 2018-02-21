@@ -2314,6 +2314,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Maula", definicion:"Persona tramposa, mal pagadora. / Persona perezosa, inepta, que no cumple sus ocupaciones o no vale para ellas. / Cosa de poco valor, utilidad o importancia. / Engaño, artimaña o artificio encubiertoa. / Pedazo de tela, piel o chapa que se vende como resto."},
     {palabra:"Epiceno", definicion:"Gramática:  Que se aplica a los sustantivos que denotan indistintamente animales o personas de sexo masculino o femenino; el sexo se distingue añadiendo algún especificador al sustantivo (en los animales, las palabras ‘macho’ o ‘hembra’). Ej: Búho, rata"},
     {palabra:"Febrícula", definicion:"Fiebre prolongada, moderada, casi siempre vespertina, de origen infeccioso o nervioso."},
+    {palabra:"Balandrón", definicion:"Fanfarrón, truhan."},
+    {palabra:"Bravata", definicion:"Dicho o hecho presuntuoso, propio de balandrones."},
   ];
 
 }]);
