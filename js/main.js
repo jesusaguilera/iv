@@ -2316,6 +2316,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Febrícula", definicion:"Fiebre prolongada, moderada, casi siempre vespertina, de origen infeccioso o nervioso."},
     {palabra:"Balandrón", definicion:"Fanfarrón, truhan."},
     {palabra:"Bravata", definicion:"Dicho o hecho presuntuoso, propio de balandrones."},
+    {palabra:"Infatuación", definicion:"En algunos textos sobre psicología alude específicamente a cierto estado emocional caracterizado por el dejarse llevar por una pasión irracional, especialmente por el amor adictivo"},
+    {palabra:"Peritorio", definicion:"De la petición o de la súplica oq ue la contiene. 'carta peritoria'"},
   ];
 
 }]);
