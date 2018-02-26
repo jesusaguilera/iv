@@ -2321,8 +2321,12 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Idolátrico", definicion:"De la idolatría o que implica idolatría."},
     {palabra:"Undoso", definicion:"Que se mueve haciendo olas."},
     {palabra:"Flagelo", definicion:"Instrumento para golpear que esta formado por cuerdas anudadas. / Cosa, hecho o suceso que tiene efeto muy negativos."},
+    {palabra:"Pacato", definicion:"Que tiene un carácter tranquilo y moderado en exceso."},
+    {palabra:"Radioso", definicion:"Que despide rayos de luz."},
   {palabra:"Indino", definicion:"Que es travieso y descarado. / Tacaño."},
   {palabra:"Infrutuoso", definicion:"Que no es de utilidad ni produce buenos resultados."},
+
+
   ];
 
 }]);
