@@ -2325,7 +2325,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Pacato", definicion:"Que tiene un carácter tranquilo y moderado en exceso."},
     {palabra:"Radioso", definicion:"Que despide rayos de luz."},
   {palabra:"Indino", definicion:"Que es travieso y descarado. / Tacaño."},
-  {palabra:"Infrutuoso", definicion:"Que no es de utilidad ni produce buenos resultados."},
+  {palabra:"Infructuoso", definicion:"Que no es de utilidad ni produce buenos resultados."},
 
 
   ];
