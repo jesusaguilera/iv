@@ -2,6 +2,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
   // Lista de definiciones
   $scope.definiciones = [
     {palabra:"Supino", definicion:"Que está tendido sobre la espalda. / Que es muy grande y evidente."},
+    {palabra:"Genitor", definicion:"Que engendra."},
     {palabra:"Estólido", definicion:"Falto de razón y discuros."},
     {palabra:"Estoicismo", definicion:"Dominio sobre la propia sensibilidad."},
     {palabra:"Ecuánime", definicion:"Constante en ánimo."},
