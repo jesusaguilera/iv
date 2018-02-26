@@ -1382,7 +1382,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Chocarrería", definicion:"Dicho o hecho de mal gusto o imporpia de personas educadas."},
     {palabra:"Gabela", definicion:"Impuesto que se paga al Estado. / Carga, servidumbre, gravamen."},
     {palabra:"Emolumento", definicion:"Impuesto que se paga al Estado. / Carga, servidumbre, gravamen."},
-    {palabra:"Caución", definicion:"Grarantía que da una persona del cumplimeinto de un eacto, obligación o contrato mediante la presentación de fiadores, juramento u otra medida."},
+    {palabra:"Caución", definicion:"Grarantía que da una persona del cumplimeinto de un acto, obligación o contrato mediante la presentación de fiadores, juramento u otra medida."},
     {palabra:"Filomatía", definicion:"Amor a las ciencias."},
     {palabra:"Pericia", definicion:"Sabiduría, práctica, experiencia y habilidad en una ciencia o arte."},
     {palabra:"Paleo-", definicion:"Antiguo o primitivo."},
@@ -2318,6 +2318,11 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Bravata", definicion:"Dicho o hecho presuntuoso, propio de balandrones."},
     {palabra:"Infatuación", definicion:"En algunos textos sobre psicología alude específicamente a cierto estado emocional caracterizado por el dejarse llevar por una pasión irracional, especialmente por el amor adictivo"},
     {palabra:"Peritorio", definicion:"De la petición o de la súplica oq ue la contiene. 'carta peritoria'"},
+    {palabra:"Idolátrico", definicion:"De la idolatría o que implica idolatría."},
+    {palabra:"Undoso", definicion:"Que se mueve haciendo olas."},
+    {palabra:"Flagelo", definicion:"Instrumento para golpear que esta formado por cuerdas anudadas. / Cosa, hecho o suceso que tiene efeto muy negativos."},
+  {palabra:"Indino", definicion:"Que es travieso y descarado. / Tacaño."},
+  {palabra:"Infrutuoso", definicion:"Que no es de utilidad ni produce buenos resultados."},
   ];
 
 }]);
