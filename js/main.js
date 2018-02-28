@@ -2323,11 +2323,12 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Undoso", definicion:"Que se mueve haciendo olas."},
     {palabra:"Flagelo", definicion:"Instrumento para golpear que esta formado por cuerdas anudadas. / Cosa, hecho o suceso que tiene efeto muy negativos."},
     {palabra:"Pacato", definicion:"Que tiene un carácter tranquilo y moderado en exceso."},
-    {palabra:"Radioso", definicion:"Que despide rayos de luz."},
-  {palabra:"Indino", definicion:"Que es travieso y descarado. / Tacaño."},
-  {palabra:"Infructuoso", definicion:"Que no es de utilidad ni produce buenos resultados."},
-
-
+    {palabra:"Radioso", definicion:"Que despide rayos de luz."}, 
+    {palabra:"Indino", definicion:"Que es travieso y descarado. / Tacaño."}, 
+    {palabra:"Infructuoso", definicion:"Que no es de utilidad ni produce buenos resultados."},
+    {palabra:"Algazara", definicion:"Ruido producido por voces alegres y festivas. Algarabía."},
+    {palabra:"Sistémico", definicion:"Perteneciente o relativo a la totalidad de un sistema; general, por oposición a local."},
+    {palabra:"Perjurio", definicion:"Acción de jurar en falso."},
   ];
 
 }]);
