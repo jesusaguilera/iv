@@ -2329,6 +2329,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Algazara", definicion:"Ruido producido por voces alegres y festivas. Algarabía."},
     {palabra:"Sistémico", definicion:"Perteneciente o relativo a la totalidad de un sistema; general, por oposición a local."},
     {palabra:"Perjurio", definicion:"Acción de jurar en falso."},
+    {palabra:"Burricie", definicion:"Cualidad de burro, torpeza, rudeza."},
   ];
 
 }]);
