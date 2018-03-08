@@ -2331,6 +2331,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Perjurio", definicion:"Acción de jurar en falso."},
     {palabra:"Burricie", definicion:"Cualidad de burro, torpeza, rudeza."},
     {palabra:"Hibris", definicion:"Concepto griego que puede traducirse como 'desmesura', transgredir los límites racionalmente."},
+    {palabra:"Tremebundo", definicion:"Espantable, horrendo, que hace temblar."},
   ];
 
 }]);
