@@ -2332,6 +2332,14 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Burricie", definicion:"Cualidad de burro, torpeza, rudeza."},
     {palabra:"Hibris", definicion:"Concepto griego que puede traducirse como 'desmesura', transgredir los límites racionalmente."},
     {palabra:"Tremebundo", definicion:"Espantable, horrendo, que hace temblar."},
+    {palabra:"Edecan", definicion:"Ayudante, auxiliar, acompañante, correveidile."},
+    {palabra:"Ailurofilia", definicion:"Amor por los gatos o felinos."},
+    {palabra:"Barbacana", definicion:"Obra de fortificación, avanzada y aislada, para defender puertas, cabezas de puente, etc. / Abertura en el muro de una fortificación desde donde se disparaban los cañones."},
+    {palabra:"Recensión", definicion:"Noticia y comentario, generalmente de corta extensión, que se hace sobre una obra literaria."},
+    {palabra:"De iure", definicion:"Latín: 'De derecho'."},
+    {palabra:"Atinente", definicion:"Que atañe a algo o que se atiene a lo que se expresa."},
+    {palabra:"Hic et nunc", definicion:"Latín: Aquí y ahora."},
+    {palabra:"Enajenar", definicion:"Vender, donar o ceder el derecho o el doominio que se tiene sobre algo. / Hacer que una persona pierda la razón."},
   ];
 
 }]);
