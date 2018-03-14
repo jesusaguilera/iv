@@ -2342,6 +2342,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Enajenar", definicion:"Vender, donar o ceder el derecho o el doominio que se tiene sobre algo. / Hacer que una persona pierda la razón."},
     {palabra:"Esclerodermia", definicion:"Dureza de la piel."},
     {palabra:"Hiperqueratosis", definicion:"Dureza de la piel en los pies."},
+  {palabra:"Cui prodest / Cui bono", definicion:"Latín: ¿Quién se beneficia?. Cuando se realiza un acto y se pregunta por quién será el beneficiario del resultado de ese acto."},
   ];
 
 }]);
