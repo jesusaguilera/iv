@@ -2340,6 +2340,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Atinente", definicion:"Que atañe a algo o que se atiene a lo que se expresa."},
     {palabra:"Hic et nunc", definicion:"Latín: Aquí y ahora."},
     {palabra:"Enajenar", definicion:"Vender, donar o ceder el derecho o el doominio que se tiene sobre algo. / Hacer que una persona pierda la razón."},
+    {palabra:"Esclerodermia", definicion:"Dureza de la piel."},
+    {palabra:"Hiperqueratosis", definicion:"Dureza de la piel en los pies."},
   ];
 
 }]);
