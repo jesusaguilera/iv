@@ -2342,7 +2342,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Enajenar", definicion:"Vender, donar o ceder el derecho o el doominio que se tiene sobre algo. / Hacer que una persona pierda la razón."},
     {palabra:"Esclerodermia", definicion:"Dureza de la piel."},
     {palabra:"Hiperqueratosis", definicion:"Dureza de la piel en los pies."},
-  {palabra:"Cui prodest / Cui bono", definicion:"Latín: ¿Quién se beneficia?. Cuando se realiza un acto y se pregunta por quién será el beneficiario del resultado de ese acto."},
+    {palabra:"Cui prodest / Cui bono", definicion:"Latín: ¿Quién se beneficia?. Cuando se realiza un acto y se pregunta por quién será el beneficiario del resultado de ese acto."},
+    {palabra:"Macguffing", definicion:"MacGuffin es una expresión acuñada por Alfred Hitchcock que designa una excusa argumental que motiva a los personajes y al desarrollo de una historia, pero carece de relevancia por sí misma."},
   ];
 
 }]);
