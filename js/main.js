@@ -2344,6 +2344,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Hiperqueratosis", definicion:"Dureza de la piel en los pies."},
     {palabra:"Cui prodest / Cui bono", definicion:"Latín: ¿Quién se beneficia?. Cuando se realiza un acto y se pregunta por quién será el beneficiario del resultado de ese acto."},
     {palabra:"Macguffing", definicion:"MacGuffin es una expresión acuñada por Alfred Hitchcock que designa una excusa argumental que motiva a los personajes y al desarrollo de una historia, pero carece de relevancia por sí misma."},
+    {palabra:"Verba volant scripta manent", definicion:"Latín: 'Las palabras vuelan, lo escrito queda.'"},
   ];
 
 }]);
