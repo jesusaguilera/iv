@@ -2346,6 +2346,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Macguffing", definicion:"MacGuffin es una expresión acuñada por Alfred Hitchcock que designa una excusa argumental que motiva a los personajes y al desarrollo de una historia, pero carece de relevancia por sí misma."},
     {palabra:"Verba volant scripta manent", definicion:"Latín: 'Las palabras vuelan, lo escrito queda.'"},
     {palabra:"Boutade", definicion:"Dicho o hecho paradójico pero poco eficaz o adecuado."},
+    {palabra:"Cimbrar", definicion:"Mover una vara / Hacer vibrar algo / Dar a alguien con una vara o palo."},
   ];
 
 }]);
