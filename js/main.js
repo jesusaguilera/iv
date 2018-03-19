@@ -2347,6 +2347,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Verba volant scripta manent", definicion:"Latín: 'Las palabras vuelan, lo escrito queda.'"},
     {palabra:"Boutade", definicion:"Dicho o hecho paradójico pero poco eficaz o adecuado."},
     {palabra:"Cimbrar", definicion:"Mover una vara / Hacer vibrar algo / Dar a alguien con una vara o palo."},
+    {palabra:"Seudópodo", definicion:"Prolongacion protoplasmática emitida por alguno seres unicelulares que sirve para la ejecución de movimientos."},
   ];
 
 }]);
