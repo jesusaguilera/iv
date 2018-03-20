@@ -1547,7 +1547,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Disimétrico", definicion:"Que no tiene simetría. Asimétrico."},
     {palabra:"Palaciego", definicion:"Del palacio o relacionado con él."},
     {palabra:"Epítome", definicion:"Resumen de una obra extensa en el que se exponen idead fundamentales."},
-    {palabra:"Lítote", definicion:"Figura retória de pensamiento que consiste en no expresar todo lo que se quiere dar a entender sin que por ello deje de comprenderse la intención del hablante."},
+    {palabra:"Lítote", definicion:"Atenuación. Figura retória de pensamiento que consiste en no expresar todo lo que se quiere dar a entender sin que por ello deje de comprenderse la intención del hablante."},
     {palabra:"Heterogonía", definicion:"Reproducción de especies por dos formas, uan por cruzamiento sexual y otra por partenogénesis."},
     {palabra:"Partenogénesis", definicion:"Tipo de reproducción sexual que consiste en el desarrollo de una célula reproductora hasta llegar a formarse un nuevo individuo, sin que se produzca fecundación."},
     {palabra:"Exención", definicion:"Efecto de eximir a una persona de una carga, culpa, obligación o compromiso."},
