@@ -2348,6 +2348,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Boutade", definicion:"Dicho o hecho paradójico pero poco eficaz o adecuado."},
     {palabra:"Cimbrar", definicion:"Mover una vara / Hacer vibrar algo / Dar a alguien con una vara o palo."},
     {palabra:"Seudópodo", definicion:"Prolongacion protoplasmática emitida por alguno seres unicelulares que sirve para la ejecución de movimientos."},
+    {palabra:"Orquiectomía", definicion:"Extirpación de uno o de los dos testículos."},
   ];
 
 }]);
