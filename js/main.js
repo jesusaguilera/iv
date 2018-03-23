@@ -2353,6 +2353,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Hemistiquio", definicion:"Cada una de las partes de un verso mayor, separadas por una cesura o una pausa interna. 'Las glorias tuyas y las penas mías.'"},
     {palabra:"Cesura", definicion:"Espacio o pausa de un verso."},
     {palabra:"Vocativo", definicion:"Sustantivo o grupo nominal que sirve para llamar la atención del oyente o para dirigirse a él. 'Ernesto, ven aquí', Ernesto es un vocativo."},
+    {palabra:"Anáfora", definicion:"Gramática: referencia a un término 'ése'. / Literatura: Repetición."},
   ];
 
 }]);
