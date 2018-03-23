@@ -2350,6 +2350,9 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Seudópodo", definicion:"Prolongacion protoplasmática emitida por alguno seres unicelulares que sirve para la ejecución de movimientos."},
     {palabra:"Orquiectomía", definicion:"Extirpación de uno o de los dos testículos."},
     {palabra:"Babieca", definicion:"Persona boba y de poco carácter."},
+    {palabra:"Hemistiquio", definicion:"Cada una de las partes de un verso mayor, separadas por una cesura o una pausa interna. 'Las glorias tuyas y las penas mías.'"},
+    {palabra:"Cesura", definicion:"Espacio o pausa de un verso."},
+    {palabra:"Vocativo", definicion:"Sustantivo o grupo nominal que sirve para llamar la atención del oyente o para dirigirse a él. 'Ernesto, ven aquí', Ernesto es un vocativo."},
   ];
 
 }]);
