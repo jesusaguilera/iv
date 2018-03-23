@@ -2354,6 +2354,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Cesura", definicion:"Espacio o pausa de un verso."},
     {palabra:"Vocativo", definicion:"Sustantivo o grupo nominal que sirve para llamar la atención del oyente o para dirigirse a él. 'Ernesto, ven aquí', Ernesto es un vocativo."},
     {palabra:"Anáfora", definicion:"Gramática: referencia a un término 'ése'. / Literatura: Repetición."},
+    {palabra:"Zangolotino", definicion:"Que ya está crecido y se hace pasar por niño."},
   ];
 
 }]);
