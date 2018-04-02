@@ -2355,6 +2355,22 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Vocativo", definicion:"Sustantivo o grupo nominal que sirve para llamar la atención del oyente o para dirigirse a él. 'Ernesto, ven aquí', Ernesto es un vocativo."},
     {palabra:"Anáfora", definicion:"Gramática: referencia a un término 'ése'. / Literatura: Repetición."},
     {palabra:"Zangolotino", definicion:"Que ya está crecido y se hace pasar por niño."},
+    {palabra:"Desiderata", definicion:"Latín: 'Cosas deseadas'"},
+    {palabra:"Concusión", definicion:"Exacción hecha por un funcionario en provecho propio."},
+    {palabra:"Exacción", definicion:"Exigir impuestos, prestaciones o multas. / Cobro injusto y violento."},
+    {palabra:"Damnatio memoriae", definicion:"Latín: 'Condena de la memoria.'"},
+    {palabra:"Peculado", definicion:"Malversación de fondos públicos."},
+    {palabra:"Alacre", definicion:"Alegre, ligero, vivo."},
+    {palabra:"Casus belli", definicion:"Latín: 'Motivo de guerra.'"},
+    {palabra:"Ameritar", definicion:"Merecer. / Dar méritos."},
+    {palabra:"Denuesto", definicion:"Palabra o expresión que se emplea para insultar."},
+    {palabra:"IAM", definicion:"Infarto agudo de miocardio."},
+    {palabra:"Enviscar", definicion:"Azuzar. / Irritar, enconar los ánimos."},
+    {palabra:"Concisión", definicion:"Cualidad de conciso."},
+    {palabra:"Seminal", definicion:"Del semen o relacionado con él."},
+    {palabra:"Proteico", definicion:"Que cambia de forma o ideas."},
+    {palabra:"Engolamiento", definicion:"Afecctación en el habla o la actitud."},
+    {palabra:"Hosco", definicion:"Fosco, oscuro, áspero."},
   ];
 
 }]);
