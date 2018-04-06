@@ -2371,6 +2371,9 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Proteico", definicion:"Que cambia de forma o ideas."},
     {palabra:"Engolamiento", definicion:"Afecctación en el habla o la actitud."},
     {palabra:"Hosco", definicion:"Fosco, oscuro, áspero."},
+    {palabra:"Licuar", definicion:"Volver una cosa líquida."},
+    {palabra:"Nervudo", definicion:"Que tiene nervios fuertes y robustos. / Fuerte, robusto."},
+    {palabra:"Proscenio", definicion:"Lugar de antiguo teatro griego o latino que estaba situado entre la escena y la orquesta. / Parte del escenario que está más cerca del público."},
   ];
 
 }]);
