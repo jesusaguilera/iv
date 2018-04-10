@@ -56,7 +56,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Impúdico", definicion:"Sin pudor."},
     {palabra:"Cosificar", definicion:"Reducir a la condición de cosa lo que no es."},
     {palabra:"Miscible", definicion:"Mezclable."},
-    {palabra:"elucidación", definicion:"Explicación."},
+    {palabra:"Elucidación", definicion:"Explicación."},
     {palabra:"Inopia", definicion:"Pobreza, ignorancia, escasez intelectual."},
     {palabra:"Abulia", definicion:"Falta de voluntad."},
     {palabra:"Tautología", definicion:"Repetición inutil y viciosa"},
@@ -2378,6 +2378,9 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Lascasiano", definicion:"Relativo al pensamiento del Bartolomé de las Casas."},
     {palabra:"Dídimo", definicion:"Dicho de algunas estructuras lobuladas o de algunos órganos de los seres vivos: Que se presentan emparejados. (tetas) / Testículo / Gemelo."},
     {palabra:"Pro domo sua", definicion:"Latín: 'Por su casa', se usa para signifacar el modo egoísta con que obra alguien."},
+    {palabra:"Prima facie", definicion:"Latín: 'A primera vista'"},
+    {palabra:"Incuria", definicion:"Negligencia, abandono o falta de cuidado."},
+    {palabra:"In aeternum", definicion:"Latín: 'Para toda la eternidad.'"},
 
   ];
 
