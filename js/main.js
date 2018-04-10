@@ -2374,6 +2374,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Licuar", definicion:"Volver una cosa líquida."},
     {palabra:"Nervudo", definicion:"Que tiene nervios fuertes y robustos. / Fuerte, robusto."},
     {palabra:"Proscenio", definicion:"Lugar de antiguo teatro griego o latino que estaba situado entre la escena y la orquesta. / Parte del escenario que está más cerca del público."},
+    {palabra:"Incensar", definicion:"Dirigir con el incensario. / Lisonjar o adular a alguien."},
   ];
 
 }]);
