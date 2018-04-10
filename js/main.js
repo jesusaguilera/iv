@@ -2381,6 +2381,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Prima facie", definicion:"Latín: 'A primera vista'"},
     {palabra:"Incuria", definicion:"Negligencia, abandono o falta de cuidado."},
     {palabra:"In aeternum", definicion:"Latín: 'Para toda la eternidad.'"},
+    {palabra:"Coludir", definicion:"Pactar 2 en contra de un tercero."},
 
   ];
 
