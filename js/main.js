@@ -2375,6 +2375,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Nervudo", definicion:"Que tiene nervios fuertes y robustos. / Fuerte, robusto."},
     {palabra:"Proscenio", definicion:"Lugar de antiguo teatro griego o latino que estaba situado entre la escena y la orquesta. / Parte del escenario que está más cerca del público."},
     {palabra:"Incensar", definicion:"Dirigir con el incensario. / Lisonjar o adular a alguien."},
+    {palabra:"Lascasiano", definicion:"Relativo al pensamiento del Bartolomé de las Casas."},
+    {palabra:"Dídimo", definicion:"Dicho de algunas estructuras lobuladas o de algunos órganos de los seres vivos: Que se presentan emparejados. (tetas) / Testículo / Gemelo."},
+    {palabra:"Pro domo sua", definicion:"Latín: 'Por su casa', se usa para signifacar el modo egoísta con que obra alguien."},
+
   ];
 
 }]);
