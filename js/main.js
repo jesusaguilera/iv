@@ -2382,6 +2382,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Incuria", definicion:"Negligencia, abandono o falta de cuidado."},
     {palabra:"In aeternum", definicion:"Latín: 'Para toda la eternidad.'"},
     {palabra:"Coludir", definicion:"Pactar 2 en contra de un tercero."},
+    {palabra:"Pecio", definicion:"Pedazo o resto de una nave que ha naufragado."},
 
   ];
 
