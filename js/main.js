@@ -2385,6 +2385,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Pecio", definicion:"Pedazo o resto de una nave que ha naufragado."},
     {palabra:"Ultramontano", definicion:"Integrista católico. / Más alla de los montes."},
     {palabra:"Circunvalar", definicion:"Cercar, ceñir o rodear una ciudad, una fortaleza, etc."},
+    {palabra:"Laissez faire", definicion:"Francés: Significa 'Dejen hacer, dejen pasar.'"},
+    {palabra:"Neocon", definicion:"Neoconservador."},
   ];
 
 }]);
