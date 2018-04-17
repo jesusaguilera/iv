@@ -1,5 +1,5 @@
-angular.module('definicionesModule', []).controller ('definicionesController', ['$scope', function($scope) { 
   // Lista de definiciones
+angular.module('definicionesModule', []).controller ('definicionesController', ['$scope', function($scope) { 
   $scope.definiciones = [
     {palabra:"Supino", definicion:"Que está tendido sobre la espalda. / Que es muy grande y evidente."},
     {palabra:"Genitor", definicion:"Que engendra."},
@@ -2384,7 +2384,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Coludir", definicion:"Pactar 2 en contra de un tercero."},
     {palabra:"Pecio", definicion:"Pedazo o resto de una nave que ha naufragado."},
     {palabra:"Ultramontano", definicion:"Integrista católico. / Más alla de los montes."},
-
+    {palabra:"Circunvalar", definicion:"Cercar, ceñir o rodear una ciudad, una fortaleza, etc."},
   ];
 
 }]);
