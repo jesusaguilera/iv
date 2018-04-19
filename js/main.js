@@ -2388,6 +2388,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Laissez faire", definicion:"Francés: Significa 'Dejen hacer, dejen pasar.'"},
     {palabra:"Neocon", definicion:"Neoconservador."},
     {palabra:"Prelación", definicion:"Orden de prioridad o preferencia con que una cosa o persona debe ser atendida o considerada."},
+    {palabra:"Citadino", definicion:"Ciudadano."},
   ];
 
 }]);
