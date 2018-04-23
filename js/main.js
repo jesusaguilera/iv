@@ -2390,6 +2390,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Prelación", definicion:"Orden de prioridad o preferencia con que una cosa o persona debe ser atendida o considerada."},
     {palabra:"Citadino", definicion:"Ciudadano."},
     {palabra:"Inteligir", definicion:"Entender"},
+    {palabra:"Iatrogenia", definicion:"Daño a la salud causado por un acto médico."},
   ];
 
 }]);
