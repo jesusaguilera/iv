@@ -2391,6 +2391,9 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Citadino", definicion:"Ciudadano."},
     {palabra:"Inteligir", definicion:"Entender"},
     {palabra:"Iatrogenia", definicion:"Daño a la salud causado por un acto médico."},
+    {palabra:"Votivo", definicion:"Que es ofrecido por voto. / Del voto."},
+    {palabra:"Maliciar", definicion:"Pensar una cosa con malicia, sospechando algo oculto, inmoral, incoveniente, etc. / Malear o pervertir."},
+    {palabra:"Covalencia", definicion:"Enlace químico entre dos átomoms por el que comparten un par de electrones."},
   ];
 
 }]);
