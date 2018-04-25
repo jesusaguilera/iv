@@ -2394,6 +2394,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Votivo", definicion:"Que es ofrecido por voto. / Del voto."},
     {palabra:"Maliciar", definicion:"Pensar una cosa con malicia, sospechando algo oculto, inmoral, incoveniente, etc. / Malear o pervertir."},
     {palabra:"Covalencia", definicion:"Enlace químico entre dos átomoms por el que comparten un par de electrones."},
+    {palabra:"Compost o Composta", definicion:"Producto obtenido a partir de diferentes materiales orgánicos(estiércol, residuos, etc.) para abonar la tierra."},
   ];
 
 }]);
