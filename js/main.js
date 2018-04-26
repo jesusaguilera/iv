@@ -2397,6 +2397,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Compost o Composta", definicion:"Producto obtenido a partir de diferentes materiales orgánicos(estiércol, residuos, etc.) para abonar la tierra."},
     {palabra:"Matritense", definicion:"Relativo a Madrid. / Que es de Madrid."},
     {palabra:"Fatigado", definicion:"Que está en mal estado de conservación."},
+    {palabra:"Presbítero", definicion:"Sacerdote."},
+    {palabra:"Diacono", definicion:"Futuro sacerdote que aún no puede celebrar potestades sacramentales, lee en la eucaristía y cosas por el estilo."},
   ];
 
 }]);
