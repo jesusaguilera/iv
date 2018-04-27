@@ -2399,6 +2399,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Fatigado", definicion:"Que está en mal estado de conservación."},
     {palabra:"Presbítero", definicion:"Sacerdote."},
     {palabra:"Diacono", definicion:"Futuro sacerdote que aún no puede celebrar potestades sacramentales, lee en la eucaristía y cosas por el estilo."},
+    {palabra:"Estofa", definicion:"Especie, clase o condición de una persona. Ralea."},
+    {palabra:"Primus inter pares", definicion:"Latín: El primero entre iguales. Hace referencia al caudillo o emperador."},
   ];
 
 }]);
