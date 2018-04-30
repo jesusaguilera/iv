@@ -2401,6 +2401,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Diacono", definicion:"Futuro sacerdote que aún no puede celebrar potestades sacramentales, lee en la eucaristía y cosas por el estilo."},
     {palabra:"Estofa", definicion:"Especie, clase o condición de una persona. Ralea."},
     {palabra:"Primus inter pares", definicion:"Latín: El primero entre iguales. Hace referencia al caudillo o emperador."},
+    {palabra:"Detraer", definicion:"Restar, sustraer o quitar algo."},
   ];
 
 }]);
