@@ -2403,6 +2403,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Primus inter pares", definicion:"Latín: El primero entre iguales. Hace referencia al caudillo o emperador."},
     {palabra:"Detraer", definicion:"Restar, sustraer o quitar algo."},
     {palabra:"Nahual", definicion:"Brujo o ser sobrenatural de mesoamérica con capacidad para tomar forma animal."},
+    {palabra:"Fabular", definicion:"Imaginar"},
   ];
 
 }]);
