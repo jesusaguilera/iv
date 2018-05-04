@@ -2402,6 +2402,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Estofa", definicion:"Especie, clase o condición de una persona. Ralea."},
     {palabra:"Primus inter pares", definicion:"Latín: El primero entre iguales. Hace referencia al caudillo o emperador."},
     {palabra:"Detraer", definicion:"Restar, sustraer o quitar algo."},
+    {palabra:"Nahual", definicion:"Brujo o ser sobrenatural de mesoamérica con capacidad para tomar forma animal."},
   ];
 
 }]);
