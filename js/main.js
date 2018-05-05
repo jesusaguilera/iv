@@ -1,5 +1,5 @@
-angular.module('definicionesModule', []).controller ('definicionesController', ['$scope', function($scope) { 
   // Lista de definiciones
+angular.module('definicionesModule', []).controller ('definicionesController', ['$scope', function($scope) { 
   $scope.definiciones = [
     {palabra:"Supino", definicion:"Que está tendido sobre la espalda. / Que es muy grande y evidente."},
     {palabra:"Genitor", definicion:"Que engendra."},
@@ -2383,7 +2383,27 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"In aeternum", definicion:"Latín: 'Para toda la eternidad.'"},
     {palabra:"Coludir", definicion:"Pactar 2 en contra de un tercero."},
     {palabra:"Pecio", definicion:"Pedazo o resto de una nave que ha naufragado."},
-
+    {palabra:"Ultramontano", definicion:"Integrista católico. / Más alla de los montes."},
+    {palabra:"Circunvalar", definicion:"Cercar, ceñir o rodear una ciudad, una fortaleza, etc."},
+    {palabra:"Laissez faire", definicion:"Francés: Significa 'Dejen hacer, dejen pasar.'"},
+    {palabra:"Neocon", definicion:"Neoconservador."},
+    {palabra:"Prelación", definicion:"Orden de prioridad o preferencia con que una cosa o persona debe ser atendida o considerada."},
+    {palabra:"Citadino", definicion:"Ciudadano."},
+    {palabra:"Inteligir", definicion:"Entender"},
+    {palabra:"Iatrogenia", definicion:"Daño a la salud causado por un acto médico."},
+    {palabra:"Votivo", definicion:"Que es ofrecido por voto. / Del voto."},
+    {palabra:"Maliciar", definicion:"Pensar una cosa con malicia, sospechando algo oculto, inmoral, incoveniente, etc. / Malear o pervertir."},
+    {palabra:"Covalencia", definicion:"Enlace químico entre dos átomoms por el que comparten un par de electrones."},
+    {palabra:"Compost o Composta", definicion:"Producto obtenido a partir de diferentes materiales orgánicos(estiércol, residuos, etc.) para abonar la tierra."},
+    {palabra:"Matritense", definicion:"Relativo a Madrid. / Que es de Madrid."},
+    {palabra:"Fatigado", definicion:"Que está en mal estado de conservación."},
+    {palabra:"Presbítero", definicion:"Sacerdote."},
+    {palabra:"Diacono", definicion:"Futuro sacerdote que aún no puede celebrar potestades sacramentales, lee en la eucaristía y cosas por el estilo."},
+    {palabra:"Estofa", definicion:"Especie, clase o condición de una persona. Ralea."},
+    {palabra:"Primus inter pares", definicion:"Latín: El primero entre iguales. Hace referencia al caudillo o emperador."},
+    {palabra:"Detraer", definicion:"Restar, sustraer o quitar algo."},
+    {palabra:"Nahual", definicion:"Brujo o ser sobrenatural de mesoamérica con capacidad para tomar forma animal."},
+    {palabra:"Fabular", definicion:"Imaginar"},
   ];
 
 }]);
