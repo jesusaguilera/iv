@@ -2404,6 +2404,12 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Detraer", definicion:"Restar, sustraer o quitar algo."},
     {palabra:"Nahual", definicion:"Brujo o ser sobrenatural de mesoamérica con capacidad para tomar forma animal."},
     {palabra:"Fabular", definicion:"Imaginar"},
+    {palabra:"Pesaroso", definicion:"Que siente un pesar o una pena."},
+    {palabra:"Pesante", definicion:"Que pesa. / Pesaroso."},
+    {palabra:"Guiñapo", definicion:"Harapo, andrajo. / Persona andrajosa."},
+    {palabra:"Sardónico", definicion:"Sarcástico."},
+    {palabra:"Artero/a", definicion:"Astuto, malintencionado."},
+    {palabra:"Coriáceo", definicion:"Que tiene aspecto y el tacto semejante al cuero."},
   ];
 
 }]);
