@@ -2410,6 +2410,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Sardónico", definicion:"Sarcástico."},
     {palabra:"Artero/a", definicion:"Astuto, malintencionado."},
     {palabra:"Coriáceo", definicion:"Que tiene aspecto y el tacto semejante al cuero."},
+    {palabra:"Cefalea", definicion:"Dolor de cabeza"},
   ];
 
 }]);
