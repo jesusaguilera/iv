@@ -2411,6 +2411,14 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Artero/a", definicion:"Astuto, malintencionado."},
     {palabra:"Coriáceo", definicion:"Que tiene aspecto y el tacto semejante al cuero."},
     {palabra:"Cefalea", definicion:"Dolor de cabeza"},
+    {palabra:"Catalepsia", definicion:"Trastorno repentino del sistema nervioso caracterizado por la pérdida de la movilidad y sensibilidad del cuerpo."},
+    {palabra:"Macartismo", definicion:"Conjunto de acciones emprendidas contra un grupo de personas por sus ideas políticas y sociales, generalmente progresistas."},
+    {palabra:"Vaciedad", definicion:"Cualidad de vacío. / Necedad, sandez, simpleza."},
+    {palabra:"Salmodiar", definicion:"Cantar un salmo."},
+    {palabra:"Cogitativo", definicion:"Que tiene la falcultad de pensar."},
+    {palabra:"Mazorral", definicion:"Que es groseo o tosco."},
+    {palabra:"Caletre", definicion:"Talento."},
+    {palabra:"Parentela", definicion:"Conjunto de parientes."},
   ];
 
 }]);
