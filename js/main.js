@@ -2419,6 +2419,13 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Mazorral", definicion:"Que es groseo o tosco."},
     {palabra:"Caletre", definicion:"Talento."},
     {palabra:"Parentela", definicion:"Conjunto de parientes."},
+    {palabra:"Ferolítico", definicion:"Extremadamente delicado, fino o primoroso."},
+    {palabra:"Turiferario", definicion:"Pelota, que alaba de forma exagerada."},
+    {palabra:"Dolicocéfalo", definicion:"Tipo de cráneo estrecho alargado, de cara alargada."},
+    {palabra:"Mesaticéfalo", definicion:"Tipo de cráneo normal, de cara propocionada."},
+    {palabra:"Braquicéfalo", definicion:"Tipo de cráneo ancho corto, de cara corta y ancha."},
+    {palabra:"Lotófago", definicion:"Mitología griega: 'Los que comen loto'. Los griegos que llegaron a la isla de los lotófagos se aficionaron al loto y olvidaron su patria y de dónde venían."},
+    {palabra:"Peccata minuta", definicion:"Latín: 'Falta pequeña'. Indica un error o falta leve."},
   ];
 
 }]);
