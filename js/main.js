@@ -2427,6 +2427,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Lotófago", definicion:"Mitología griega: 'Los que comen loto'. Los griegos que llegaron a la isla de los lotófagos se aficionaron al loto y olvidaron su patria y de dónde venían."},
     {palabra:"Peccata minuta", definicion:"Latín: 'Falta pequeña'. Indica un error o falta leve."},
     {palabra:"Flexibilidad cérea", definicion:"Disminución de respuesta a estímulos, tendencia a inmovilidad. Con movimientos como un muñeco de cera."},
+    {palabra:"Infatuar", definicion:"Volver fatua o engreida una cosa."},
+    {palabra:"Infatuación", definicion:"Acción de infatuar."},
   ];
 
 }]);
