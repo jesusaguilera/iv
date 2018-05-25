@@ -2429,6 +2429,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Flexibilidad cérea", definicion:"Disminución de respuesta a estímulos, tendencia a inmovilidad. Con movimientos como un muñeco de cera."},
     {palabra:"Infatuar", definicion:"Volver fatua o engreida una cosa."},
     {palabra:"Infatuación", definicion:"Acción de infatuar."},
+    {palabra:"Vermiforme", definicion:"Que tiene forma de gusano."},
+    {palabra:"Zollipo", definicion:"Sollozo con hipo, y regularmente con llanto y aflicción."},
   ];
 
 }]);
