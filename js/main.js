@@ -2431,6 +2431,14 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Infatuación", definicion:"Acción de infatuar."},
     {palabra:"Vermiforme", definicion:"Que tiene forma de gusano."},
     {palabra:"Zollipo", definicion:"Sollozo con hipo, y regularmente con llanto y aflicción."},
+    {palabra:"Cicardiano", definicion:"Espacio de tiempo que consta aprox. de 24h. / Que ocurre cada día a la misma hora."},
+    {palabra:"Gemebundo", definicion:"Que gime profundamente."},
+    {palabra:"Mutagénesis", definicion:"Aparición de mutaciones."},
+    {palabra:"Carcinogénesis", definicion:"Conjunto de fenómenos que determinan la aparición y desarrollo de un cáncer."},
+    {palabra:"Odre", definicion:"Borracho o persona muy bebedora."},
+    {palabra:"Enuclear", definicion:"Extirpar un órgano globoso como un ojo"},
+    {palabra:"Decuplicar", definicion:"Multiplicar por diez una cantidad."},
+    {palabra:"Ergástulo", definicion:"Cárcel de la antigua Roma destinada a esclavos."},
   ];
 
 }]);
