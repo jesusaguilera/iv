@@ -2439,6 +2439,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Enuclear", definicion:"Extirpar un órgano globoso como un ojo"},
     {palabra:"Decuplicar", definicion:"Multiplicar por diez una cantidad."},
     {palabra:"Ergástulo", definicion:"Cárcel de la antigua Roma destinada a esclavos."},
+    {palabra:"Parva", definicion:"Cantidad grande de una cosa."},
+    {palabra:"Alifafe", definicion:"Achaque (indisposición)."},
+    {palabra:"Faramalla", definicion:"Situación exagerada, aparatosa o escandalosa, en ocasiones falsa, con que se pretende llamar la atención."},
+    {palabra:"Zurupeto", definicion:"Persona que sin título ejerce funciones de notario y abogado."},
   ];
 
 }]);
