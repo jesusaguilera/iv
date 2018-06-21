@@ -2443,6 +2443,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Alifafe", definicion:"Achaque (indisposición)."},
     {palabra:"Faramalla", definicion:"Situación exagerada, aparatosa o escandalosa, en ocasiones falsa, con que se pretende llamar la atención."},
     {palabra:"Zurupeto", definicion:"Persona que sin título ejerce funciones de notario y abogado."},
+    {palabra:"Chirrigueresco", definicion:"Que tiene excesivos ornatos."},
+    {palabra:"Motejar", definicion:"Aplicar a algo o alguien un apelativo o un calificativo despectivo o reprobatorio."},
   ];
 
 }]);
