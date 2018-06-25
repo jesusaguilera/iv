@@ -2445,6 +2445,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Zurupeto", definicion:"Persona que sin título ejerce funciones de notario y abogado."},
     {palabra:"Chirrigueresco", definicion:"Que tiene excesivos ornatos."},
     {palabra:"Motejar", definicion:"Aplicar a algo o alguien un apelativo o un calificativo despectivo o reprobatorio."},
+    {palabra:"Koinonía", definicion:"Concepto teológico que que significa comunión, vínculo que se genera entre los miembros de una iglesia."},
+    {palabra:"Condónmino", definicion:"Derecho: Propietario junto con otros."},
   ];
 
 }]);
