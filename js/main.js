@@ -2447,6 +2447,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Motejar", definicion:"Aplicar a algo o alguien un apelativo o un calificativo despectivo o reprobatorio."},
     {palabra:"Koinonía", definicion:"Concepto teológico que que significa comunión, vínculo que se genera entre los miembros de una iglesia."},
     {palabra:"Condónmino", definicion:"Derecho: Propietario junto con otros."},
+    {palabra:"Heril", definicion:"Perteneciente o relativo al amo."},
+    {palabra:"Mirmecófago", definicion:"Animal que se alimenta de hormigas ( Oso hormiguero )."},
   ];
 
 }]);
