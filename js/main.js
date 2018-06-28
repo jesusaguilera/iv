@@ -1533,7 +1533,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Rejo", definicion:"Robustez o fortaleza. / Soga. / Punta o aguijón de hierro."},
     {palabra:"Andrina / Endrino", definicion:"De color negro azulado, parecido al de la endrina."},
     {palabra:"Procaz", definicion:"Desvergonzado, atrevido."},
-    {palabra:"Impostado", definicion:"Artificial, fingido."},
+    {palabra:"Impostado", definicion:"Falso, artificial, fingido."},
     {palabra:"Plancheta", definicion:"Instrumento de topografía para levantar planos sobre el terreno que consiste en un tablero cubierto con papel de dibujo."},
     {palabra:"Gatuperio", definicion:"Embrollo o intriga."},
     {palabra:"Morfema", definicion:"Fragemento mínimo capaz de expresar un significado."},
@@ -2452,6 +2452,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Nomen est omen", definicion:"Latín: 'El nombre es el destino'. Los romanos pensaban que el nombre determinaba en gran medida el destino de quien lo llevaba; por ello afirmaban: nomen est omen (el nombre es destino)."},
     {palabra:"Barbado", definicion:"Que tiene barba."},
     {palabra:"Frailuno", definicion:"Que es propio de frailes."},
+    {palabra:"Villorio", definicion:"Población pequeña o poco urbanizada."},
+    {palabra:"Liofilización", definicion:"Proceso de deshidratación para conservar los alimentos."},
+    {palabra:"Lepidóptero", definicion:"Insectos holometábolos como la mariposa, palomas y polillas."},
+    {palabra:"Holometábolo", definicion:"Que sufre un proceso de metamorfosis completa."},
   ];
 
 }]);
