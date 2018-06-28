@@ -2456,6 +2456,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Liofilización", definicion:"Proceso de deshidratación para conservar los alimentos."},
     {palabra:"Lepidóptero", definicion:"Insectos holometábolos como la mariposa, palomas y polillas."},
     {palabra:"Holometábolo", definicion:"Que sufre un proceso de metamorfosis completa."},
+    {palabra:"Acidia", definicion:"Pereza."},
   ];
 
 }]);
