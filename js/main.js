@@ -2449,6 +2449,9 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Condónmino", definicion:"Derecho: Propietario junto con otros."},
     {palabra:"Heril", definicion:"Perteneciente o relativo al amo."},
     {palabra:"Mirmecófago", definicion:"Animal que se alimenta de hormigas ( Oso hormiguero )."},
+    {palabra:"Nomen est omen", definicion:"Latín: 'El nombre es el destino'. Los romanos pensaban que el nombre determinaba en gran medida el destino de quien lo llevaba; por ello afirmaban: nomen est omen (el nombre es destino)."},
+    {palabra:"Barbado", definicion:"Que tiene barba."},
+    {palabra:"Frailuno", definicion:"Que es propio de frailes."},
   ];
 
 }]);
