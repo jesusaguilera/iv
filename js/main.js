@@ -524,7 +524,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Sinecura", definicion:"Empleo o cargo retribuido que ocasiona poco o ningún trabajo."},
     {palabra:"Pecuniario", definicion:"Relativo al dinero en efectivo."},
     {palabra:"Momio", definicion:"Sin gordura. / Chollo. / Momía."},
-    {palabra:"Fielato", definicion:"Oficio de fiel."},
+    {palabra:"Fielato", definicion:"Oficio de fiel. / Oficina a la entrada de las poblaciones en la cual se pagaban los derechos de consumo."},
     {palabra:"Sevicia", definicion:"Trato cruel. / Crueldad excesiva."},
     {palabra:"Triunvirato", definicion:"Junta de 3 personas para cualquier empresa o asunto."},
     {palabra:"Exhabrupto", definicion:"Salida de tono."},
@@ -2457,6 +2457,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Lepidóptero", definicion:"Insectos holometábolos como la mariposa, palomas y polillas."},
     {palabra:"Holometábolo", definicion:"Que sufre un proceso de metamorfosis completa."},
     {palabra:"Acidia", definicion:"Pereza."},
+    {palabra:"Diégesis", definicion:"Relato, expoisición."},
+    {palabra:"Diegético", definicion:"Todo lo que tiene que ver con la narración, el relato o la exposición."},
   ];
 
 }]);
