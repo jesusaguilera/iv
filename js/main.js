@@ -2473,6 +2473,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Concusión", definicion:"Acción de remover."},
     {palabra:"Ut supra", definicion:"Latín: 'Como arriba', se usa para referirse en texto a algo que ya ha sido expuesto anteriormente ( Fecha ut supra )."},
     {palabra:"Mitones", definicion:"Guantes de dedos cortados."},
+    {palabra:"Hodierno", definicion:"Que pertenece o está relacionado con el día de hoy o al tiempo presente."},
   ];
 
 }]);
