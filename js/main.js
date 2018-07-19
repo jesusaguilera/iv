@@ -2475,6 +2475,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Mitones", definicion:"Guantes de dedos cortados."},
     {palabra:"Hodierno", definicion:"Que pertenece o está relacionado con el día de hoy o al tiempo presente."},
     {palabra:"Endófobo", definicion:"Rechazo a lo propio, familia, patria, raíces, etc."},
+    {palabra:"Parresía", definicion:"Hablar con franqueza o excusarse por hablar así."},
+    {palabra:"Anaideia", definicion:"Desvergüenza, provocación, irreverencia."},
   ];
 
 }]);
