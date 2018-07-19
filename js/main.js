@@ -2477,6 +2477,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Endófobo", definicion:"Rechazo a lo propio, familia, patria, raíces, etc."},
     {palabra:"Parresía", definicion:"Hablar con franqueza o excusarse por hablar así."},
     {palabra:"Anaideia", definicion:"Desvergüenza, provocación, irreverencia."},
+    {palabra:"Perfunctorio", definicion:"Hecho sin cuidado, a la ligera."},
   ];
 
 }]);
