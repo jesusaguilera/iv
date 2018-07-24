@@ -2478,6 +2478,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Parresía", definicion:"Hablar con franqueza o excusarse por hablar así."},
     {palabra:"Anaideia", definicion:"Desvergüenza, provocación, irreverencia."},
     {palabra:"Perfunctorio", definicion:"Hecho sin cuidado, a la ligera."},
+    {palabra:"Hipotiposis", definicion:"Descripción figurada de algo. Según Quintiliano es 'la imagen de las cosas, tan bien representada por la palabra (o la música, pintura, etc) que el oyente cree verla mejor que sentirla' "},
   ];
 
 }]);
