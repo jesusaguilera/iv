@@ -2479,6 +2479,15 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Anaideia", definicion:"Desvergüenza, provocación, irreverencia."},
     {palabra:"Perfunctorio", definicion:"Hecho sin cuidado, a la ligera."},
     {palabra:"Hipotiposis", definicion:"Descripción figurada de algo. Según Quintiliano es 'la imagen de las cosas, tan bien representada por la palabra (o la música, pintura, etc) que el oyente cree verla mejor que sentirla' "},
+    {palabra:"Catábasis", definicion:"Descenso, hacia abajo."},
+    {palabra:"Freje", definicion:"Tira de chapa de hierro."},
+    {palabra:"Sit tibi terra levis", definicion:"Que la tierra te sea ligera."},
+    {palabra:"Mesnada", definicion:"Conjunto de hombres armados de la Edad Media. / Conjunto de seguidores o partidarios de una persona."},
+    {palabra:"Especular", definicion:"Hacer suposiciones sobre algo. / Meditar. / Relacionado con el espejo."},
+    {palabra:"Embolicar", definicion:"Embrollar."},
+    {palabra:"Ciclópeo", definicion:"De los cíclopes. / Gigantesco."},
+    {palabra:"Dixit", definicion:"Latín: 'dijo', que alguien dixit algo se considera verdadero porque esa persona tiene autoridad."},
+    {palabra:"Alfarje", definicion:"Techo de madera horziontal y entralazada que se labra y se pinta."},
   ];
 
 }]);
