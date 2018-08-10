@@ -2488,6 +2488,20 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Ciclópeo", definicion:"De los cíclopes. / Gigantesco."},
     {palabra:"Dixit", definicion:"Latín: 'dijo', que alguien dixit algo se considera verdadero porque esa persona tiene autoridad."},
     {palabra:"Alfarje", definicion:"Techo de madera horziontal y entralazada que se labra y se pinta."},
+    {palabra:"Jabelgar o Jalbegar", definicion:"Enjabelgar, maquillar. / Blanquear las paredes con cal."},
+    {palabra:"Esportillero", definicion:"Persona que llevaba en su espuerta lo que se le mandaba. / Operario que acarrea con la espuerta los materiales."},
+    {palabra:"Espuerta", definicion:"Recipiente de esparto o cubo grande plastico donde  se transportan materiales o se meten escombros."},
+    {palabra:"Poltronería", definicion:"Pereza, haraganería, flojedad o aversión al trabajo."},
+    {palabra:"Acíbar", definicion:"Aloe. / Amargura, sinsabor, disgusto."},
+    {palabra:"Trastejar", definicion:"Reponer o arreglar las tejas de un edificio. / Revisar o examinar algo para arreglarlo o componerlo."},
+    {palabra:"Ad pendem literae", definicion:"Latín: Al pie de la letra."},
+    {palabra:"Valija", definicion:"Maleta."},
+    {palabra:"Jácaro", definicion:"Fanfarrón."},
+    {palabra:"Dimes y diretes", definicion:"Cotilleos o comentarios sobre algo intrascendente. 'Andan entre dimes y dieretes sobre las parejas de ese famoso.'"},
+    {palabra:"Zahareño", definicion:"Que es desdeñoso, arisco y de trato difícil."},
+    {palabra:"Torniscón", definicion:"Pellizco."},
+    {palabra:"Tráfago", definicion:"Ajetreo, actividad intensa y agitada."},
+    {palabra:"Enjaezar", definicion:"Embellecer una caballería colocándole ornatos y jaeces."},
   ];
 
 }]);
