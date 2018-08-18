@@ -2469,7 +2469,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Volatería", definicion:"Conjunto de diversas aves."},
     {palabra:"Sisar", definicion:"Robar."},
     {palabra:"Remoción", definicion:"Acción de remover."},
-    {palabra:"Concusión", definicion:"Acción de remover."},
+    {palabra:"Concusión", definicion:"Exacción arbitraria hecha por un funcionario público en provecho propio."},
     {palabra:"Ut supra", definicion:"Latín: 'Como arriba', se usa para referirse en texto a algo que ya ha sido expuesto anteriormente ( Fecha ut supra )."},
     {palabra:"Mitones", definicion:"Guantes de dedos cortados."},
     {palabra:"Hodierno", definicion:"Que pertenece o está relacionado con el día de hoy o al tiempo presente."},
@@ -2489,7 +2489,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Alfarje", definicion:"Techo de madera horziontal y entralazada que se labra y se pinta."},
     {palabra:"Jabelgar o Jalbegar", definicion:"Enjabelgar, maquillar. / Blanquear las paredes con cal."},
     {palabra:"Esportillero", definicion:"Persona que llevaba en su espuerta lo que se le mandaba. / Operario que acarrea con la espuerta los materiales."},
-    {palabra:"Espuerta", definicion:"Recipiente de esparto o cubo grande plastico donde  se transportan materiales o se meten escombros."},
+    {palabra:"Espuerta", definicion:"Recipiente de esparto o cubo grande plastico donde se transportan materiales o se meten escombros."},
     {palabra:"Poltronería", definicion:"Pereza, haraganería, flojedad o aversión al trabajo."},
     {palabra:"Acíbar", definicion:"Aloe. / Amargura, sinsabor, disgusto."},
     {palabra:"Trastejar", definicion:"Reponer o arreglar las tejas de un edificio. / Revisar o examinar algo para arreglarlo o componerlo."},
@@ -2501,6 +2501,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Torniscón", definicion:"Pellizco."},
     {palabra:"Tráfago", definicion:"Ajetreo, actividad intensa y agitada."},
     {palabra:"Enjaezar", definicion:"Embellecer una caballería colocándole ornatos y jaeces."},
+    {palabra:"Apocatástasis", definicion:"Que todos, pecadores y no pecadores serán uno con Dios. El perdón para todos."},
   ];
 
 }]);
