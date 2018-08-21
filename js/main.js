@@ -263,7 +263,6 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Pústula", definicion:"Vejiga inflamatoria llena de pús."},
     {palabra:"Semántica", definicion:"Significado de las palabras."},
     {palabra:"Semiótica", definicion:"Teoría de los signos."},
-    {palabra:"Sine qua non", definicion:"Sin la cual no..."},
     {palabra:"Pedestre", definicion:"Vulgar, llano, inculto, bajo."},
     {palabra:"Endónimo", definicion:"Designa el hecho que un grupo de personas empela de manera regular un nombre para indeticarse. Ej: Americanos, Hélade."},
     {palabra:"Prosaico", definicion:"Adocenado, vulgar, tosco. / Práctico, útil."},
