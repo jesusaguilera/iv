@@ -2501,6 +2501,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Tráfago", definicion:"Ajetreo, actividad intensa y agitada."},
     {palabra:"Enjaezar", definicion:"Embellecer una caballería colocándole ornatos y jaeces."},
     {palabra:"Apocatástasis", definicion:"Que todos, pecadores y no pecadores serán uno con Dios. El perdón para todos."},
+    {palabra:"Terebrante", definicion:"Dicho de un dolor: Que produce sensación semejante a la que resultaría de taladrar la parte dolorida."},
   ];
 
 }]);
