@@ -2505,6 +2505,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Bubón", definicion:"Tumefacción inflamatoria supurada de un ganglio linfático, especialmente en la ingle; aparece en enfermedades infecciosas, como la sífilis, la peste, etc."},
     {palabra:"Escolopendra", definicion:"Ciempiés venenoso."},
     {palabra:"Escolopendromorfo", definicion:"Con forma de ciempiés"},
+    {palabra:"Ergotismo", definicion:"Enfermedad por ingesta de alimentos contaminados. Los efectos del envenenamiento pueden traducirse en alucinaciones, convulsiones y contracción arterial, que puede conducir a la necrosis de los tejidos y la aparición de gangrena en las extremidades principalmente."},
   ];
 
 }]);
