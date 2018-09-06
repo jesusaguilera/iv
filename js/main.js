@@ -2503,6 +2503,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Apocatástasis", definicion:"Que todos, pecadores y no pecadores serán uno con Dios. El perdón para todos."},
     {palabra:"Terebrante", definicion:"Dicho de un dolor: Que produce sensación semejante a la que resultaría de taladrar la parte dolorida."},
     {palabra:"Bubón", definicion:"Tumefacción inflamatoria supurada de un ganglio linfático, especialmente en la ingle; aparece en enfermedades infecciosas, como la sífilis, la peste, etc."},
+    {palabra:"Escolopendra", definicion:"Ciempiés venenoso."},
+    {palabra:"Escolopendromorfo", definicion:"Con forma de ciempiés"},
   ];
 
 }]);
