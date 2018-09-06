@@ -2506,6 +2506,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Escolopendra", definicion:"Ciempiés venenoso."},
     {palabra:"Escolopendromorfo", definicion:"Con forma de ciempiés"},
     {palabra:"Ergotismo", definicion:"Enfermedad por ingesta de alimentos contaminados. Los efectos del envenenamiento pueden traducirse en alucinaciones, convulsiones y contracción arterial, que puede conducir a la necrosis de los tejidos y la aparición de gangrena en las extremidades principalmente."},
+    {palabra:"Izas, rabizas y colipoterras", definicion:"Putas"},
   ];
 
 }]);
