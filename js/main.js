@@ -2507,6 +2507,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Escolopendromorfo", definicion:"Con forma de ciempiés"},
     {palabra:"Ergotismo", definicion:"Enfermedad por ingesta de alimentos contaminados. Los efectos del envenenamiento pueden traducirse en alucinaciones, convulsiones y contracción arterial, que puede conducir a la necrosis de los tejidos y la aparición de gangrena en las extremidades principalmente."},
     {palabra:"Izas, rabizas y colipoterras", definicion:"Putas"},
+    {palabra:"Liber iudiciorum", definicion:"Cuerpo de leyes visigodo tomado del derecho romano, dispuesto por el rey Recesvinto y promulgado probablemente el año 654"},
   ];
 
 }]);
