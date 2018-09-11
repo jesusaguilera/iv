@@ -2532,6 +2532,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Filfa", definicion:"Mentira, engaño, noticia falsa."},
     {palabra:"Opíparo", definicion:"Referido a comida. Que es abundante y espléndida."},
     {palabra:"Desquijarar", definicion:"Dislocar la articulación de la boca de una persona. (de la risa)"},
+    {palabra:"Mastuerzo", definicion:"Majadero, necio, torpe."},
   ];
 
 }]);
