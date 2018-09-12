@@ -2533,6 +2533,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Opíparo", definicion:"Referido a comida. Que es abundante y espléndida."},
     {palabra:"Desquijarar", definicion:"Dislocar la articulación de la boca de una persona. (de la risa)"},
     {palabra:"Mastuerzo", definicion:"Majadero, necio, torpe."},
+    {palabra:"Pertinacia", definicion:"Cualidad de la persona o cosa que es pertinaz."},
+    {palabra:"Pertinaz", definicion:"Duradero, pertinente, obstinado, terco, contumaz."},
   ];
 
 }]);
