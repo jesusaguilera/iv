@@ -2533,6 +2533,14 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Opíparo", definicion:"Referido a comida. Que es abundante y espléndida."},
     {palabra:"Desquijarar", definicion:"Dislocar la articulación de la boca de una persona. (de la risa)"},
     {palabra:"Mastuerzo", definicion:"Majadero, necio, torpe."},
+    {palabra:"Pertinacia", definicion:"Cualidad de la persona o cosa que es pertinaz."},
+    {palabra:"Pertinaz", definicion:"Duradero, pertinente, obstinado, terco, contumaz."},
+    {palabra:"Verdad factual", definicion:"Una verdad factualmente refutable, en el sentido que puede ser siempre desmentida por ulteriores investigaciones o experiencias empíricas que conduzcan a determinar nuevos hechos o elemenentos."},
+    {palabra:"Verdad lógica", definicion:"También verdad matemática es una fórmula bien formada de un lenguaje formal que es verdadera bajo todas las intrepretaciones de los componentes."},
+    {palabra:"Lógica formal", definicion:"Trata de encontrar el método correcto para derivar una verdad a partir de otra. Lo que le interesa a la lógica formal es asegurar que el paso de las premisas a la conclusión esté bien fundamentado. (Apartir de argumentos verdaderos dados (premisas) -> juicio nuevo verdadero). Campo de ciencias exactas(matemáticas, intrepretación jurídicas, mecánica)."},
+    {palabra:"Lógica material", definicion:"Trata de dirimir la verdad de los términos y propopsiciones de un argumento. La consideración de si los argumentos son reales o no debe conducir a una verdad material, una conclusión que sea concordante con la realidad."},
+    {palabra:"Obseder", definicion:"Obsesionar"},
+    {palabra:"Risum teneatis", definicion:"Latín: 'Hay que aguantar la carcajada'."},
   ];
 
 }]);
