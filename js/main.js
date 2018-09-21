@@ -2541,6 +2541,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Lógica material", definicion:"Trata de dirimir la verdad de los términos y propopsiciones de un argumento. La consideración de si los argumentos son reales o no debe conducir a una verdad material, una conclusión que sea concordante con la realidad."},
     {palabra:"Obseder", definicion:"Obsesionar"},
     {palabra:"Risum teneatis", definicion:"Latín: 'Hay que aguantar la carcajada'."},
+    {palabra:"Desasnar", definicion:"Educar a una persona para que pierda su rudeza y tosquedad."},
   ];
 
 }]);
