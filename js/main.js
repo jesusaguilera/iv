@@ -2542,6 +2542,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Obseder", definicion:"Obsesionar"},
     {palabra:"Risum teneatis", definicion:"Latín: 'Hay que aguantar la carcajada'."},
     {palabra:"Desasnar", definicion:"Educar a una persona para que pierda su rudeza y tosquedad."},
+    {palabra:"Hipergamia", definicion:"Es el acto de buscar pareja o cónyuge de mejor nivel socioeconómico, o casta social que uno mismo."},
   ];
 
 }]);
