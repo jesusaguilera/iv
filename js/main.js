@@ -2543,6 +2543,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Risum teneatis", definicion:"Latín: 'Hay que aguantar la carcajada'."},
     {palabra:"Desasnar", definicion:"Educar a una persona para que pierda su rudeza y tosquedad."},
     {palabra:"Hipergamia", definicion:"Es el acto de buscar pareja o cónyuge de mejor nivel socioeconómico, o casta social que uno mismo."},
+    {palabra:"Disonancia cognitiva", definicion:"Tensión o desarmonía interna del sistema de ideas, creencias y emociones (cogniciones) que percibe una persona que tiene al mismo tiempo dos pensamientos que están en conflicto"},
   ];
 
 }]);
