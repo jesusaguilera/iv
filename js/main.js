@@ -2545,6 +2545,13 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Hipergamia", definicion:"Es el acto de buscar pareja o cónyuge de mejor nivel socioeconómico, o casta social que uno mismo."},
     {palabra:"Disonancia cognitiva", definicion:"Tensión o desarmonía interna del sistema de ideas, creencias y emociones (cogniciones) que percibe una persona que tiene al mismo tiempo dos pensamientos que están en conflicto"},
     {palabra:"Estragar", definicion:"Descomponer físicamente algo. / Causar estragos en determinada cosa."},
+    {palabra:"Gaznápiro", definicion:"Tonto, torpe."},
+    {palabra:"Plan hipodámico, trazado en damero", definicion:"Aquel que organiza una ciudad mediante el diseño de sus calles en ángulo recto creando manzanas rectangulares"},
+    {palabra:"Quandoque bonus dormitat Homerus", definicion:"Latín: De vez en cuando incluso el gran Homero se despista."},
+    {palabra:"Poliomelisis", definicion:"Enfermedad en la médula espinal."},
+    {palabra:"Debelar", definicion:"Vencer por las armas al enemigo."},
+    {palabra:"Subusmir", definicion:"Incluir algo como coponente en una síntesis o clasificación más amplia. / Considerar algo como parte de un conjunto más amplio o como caso particular sometido a un principio o norma general."},
+    {palabra:"Lenocinio", definicion:"Casa, inmueble o domicilio en el que se ejerce la prostitución."},
   ];
 
 }]);
