@@ -2552,6 +2552,10 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Debelar", definicion:"Vencer por las armas al enemigo."},
     {palabra:"Subusmir", definicion:"Incluir algo como coponente en una síntesis o clasificación más amplia. / Considerar algo como parte de un conjunto más amplio o como caso particular sometido a un principio o norma general."},
     {palabra:"Lenocinio", definicion:"Casa, inmueble o domicilio en el que se ejerce la prostitución."},
+    {palabra:"Desventrar", definicion:"Destripar"},
+    {palabra:"Perorar", definicion:"Pronunciar un discurso."},
+    {palabra:"Noli me tangere", definicion:"Latín: No me toques"},
+    {palabra:"Leontina", definicion:"Cadena colgante para sujetar el reloj de bolsillo."},
   ];
 
 }]);
