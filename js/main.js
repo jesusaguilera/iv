@@ -2556,6 +2556,12 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Perorar", definicion:"Pronunciar un discurso."},
     {palabra:"Noli me tangere", definicion:"Latín: No me toques"},
     {palabra:"Leontina", definicion:"Cadena colgante para sujetar el reloj de bolsillo."},
+    {palabra:"Miramelindo", definicion:"Planta de flores decorativas."},
+    {palabra:"Corcova", definicion:"Corvatura de la columna vertebral."},
+    {palabra:"Befa", definicion:"Burla grosera cuya finalidad es ofensiva."},
+    {palabra:"Instilar", definicion:"Verter un líquido gota a gota. / Infundir o engendrar una idea o sentimiento de modo sutil."},
+    {palabra:"Fosfatina", definicion:"Polvo que se usaba para hacer papillas."},
+    {palabra:"Capitoste", definicion:"Persona de influencia, mando y poder."},
   ];
 
 }]);
