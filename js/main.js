@@ -2562,6 +2562,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Instilar", definicion:"Verter un líquido gota a gota. / Infundir o engendrar una idea o sentimiento de modo sutil."},
     {palabra:"Fosfatina", definicion:"Polvo que se usaba para hacer papillas."},
     {palabra:"Capitoste", definicion:"Persona de influencia, mando y poder."},
+    {palabra:"Cenáculo", definicion:"Reunión de pocas personas con las mismas ideas e intereses. / Sala en que Jesús celebró su última cena."},
+    {palabra:"Montante", definicion:"Pieza que sostiene una construcción."},
   ];
 
 }]);
