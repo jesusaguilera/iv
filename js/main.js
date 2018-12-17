@@ -2583,6 +2583,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Dispepsia, pirosis", definicion:"Ardentía, flatos, etc."},
     {palabra:"Fementido", definicion:"Que no tiene palabra ni fe. / Que es engañoso o falso, trapcero."},
     {palabra:"Sinapismo", definicion:"Remedio o solución para estimular a alguien. / Remido tópico hecho con mostaza."},
+    {palabra:"Leonino", definicion:"Que es injusto y abusivo por favorecer a una de las dos partes. / Relacionado con el león."},
   ];
 
 }]);
