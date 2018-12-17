@@ -2581,6 +2581,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Hispania citerior", definicion:"Zona del levante peninsular de Murcia a Cataluña en tiempos de la Rep. Romana."},
     {palabra:"Hispania ulterior", definicion:"Zona sur de la peninsula en tiempos de la Rep. Romana"},
     {palabra:"Dispepsia, pirosis", definicion:"Ardentía, flatos, etc."},
+    {palabra:"Fementido", definicion:"Que no tiene palabra ni fe. / Que es engañoso o falso, trapcero."},
+    {palabra:"Sinapismo", definicion:"Remedio o solución para estimular a alguien. / Remido tópico hecho con mostaza."},
   ];
 
 }]);
