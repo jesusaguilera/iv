@@ -2588,6 +2588,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"In púribus", definicion:"Latín: Desnudo completamente."},
     {palabra:"In puris naturálibus", definicion:"Latín: En estado puro natural"},
     {palabra:"Abrojos", definicion:"Sufrimientos, dificultades. / Malas hierbas."},
+    {palabra:"A quo", definicion:"A partir del cual. Desde el cual. Que marca el principio de un periodo de tiempo, un proceso, etc...'552 es el año a quo de esta obra'"},
+    {palabra:"Ad quem", definicion:"Hasta el cual. Que marca el final de un proceso o un periodo. '552 es el año ad quem de esta obra'"},
   ];
 
 }]);
