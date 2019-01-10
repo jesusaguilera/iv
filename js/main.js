@@ -1432,7 +1432,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Composible", definicion:"Compatible."},
     {palabra:"Enuresis", definicion:"Micciones incontroladas."},
     {palabra:"Componibilidad", definicion:"Poner juntos."},
-    {palabra:"Exacción", definicion:"Exigencia de pago de impuestos, multas, deudas, etc."},
+    {palabra:"Exacción", definicion:"Exigencia de pago de impuestos, multas, deudas, etc. / Cobro injusto y violento."},
     {palabra:"Hilemorfismo", definicion:"Doctrina aristotélica según la cual los cuerpos se hallan constituidos por materia y forma."},
     {palabra:"Individualizar", definicion:"Señalar las caracteristicas particulares que hacen qeu un individuo o grupo sea diferente de los demás de su clase."},
     {palabra:"Individuación", definicion:"Acción de distinguir una cosa o una persona detalladamente de otras coasas o personas, por tener cualidades particulares."},
@@ -2590,6 +2590,9 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Abrojos", definicion:"Sufrimientos, dificultades. / Malas hierbas."},
     {palabra:"A quo", definicion:"A partir del cual. Desde el cual. Que marca el principio de un periodo de tiempo, un proceso, etc...'552 es el año a quo de esta obra'"},
     {palabra:"Ad quem", definicion:"Hasta el cual. Que marca el final de un proceso o un periodo. '552 es el año ad quem de esta obra'"},
+    {palabra:"Recamar", definicion:"Bordar con realces."},
+    {palabra:"Jocundo", definicion:"Agradable, ameno, apacible."},
+    {palabra:"Trebejo", definicion:"Utensilio, instrumento. / Pieza del ajedrez."},
   ];
 
 }]);
