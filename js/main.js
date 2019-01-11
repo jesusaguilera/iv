@@ -2593,6 +2593,20 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Recamar", definicion:"Bordar con realces."},
     {palabra:"Jocundo", definicion:"Agradable, ameno, apacible."},
     {palabra:"Trebejo", definicion:"Utensilio, instrumento. / Pieza del ajedrez."},
+    {palabra:"Sensorio", definicion:"Centro común de todas las sensaciones en un organismo."},
+    {palabra:"Sidéreo", definicion:"Sideral."},
+    {palabra:"Vacar", definicion:"Cesar a una persona por un tiempo en sus negocios o trabajos habituales. / Quedar un empleo sin alguien que lo desempeñe."},
+    {palabra:"Adehala", definicion:"Gratificación, propina."},
+    {palabra:"Légamo", definicion:"Barro pegajoso que se forma en el suelo con el agua de la lluvia o donde ha habido circunstancialmente agua estancada."},
+    {palabra:"Lacustre", definicion:"Del lago o relacionado con él. / Animal o planta que tiene como habitat los lagos o sus orillas."},
+    {palabra:"Cinglar", definicion:"Hacer navegar bote, canoa, etc., con un remo."},
+    {palabra:"Puericia", definicion:"Periodo de vida de un persona comprendida entrea la infancia y la adolescencia (desde los 7 a los 14 años)."},
+    {palabra:"Filiar", definicion:"Fichar. Afiliar."},
+    {palabra:"Hipogeo", definicion:"Que se desarrolla bajo el suelo. / Construcción subterránea de civilizaciones antiguas."},
+    {palabra:"Agitprop", definicion:"Estrategia política de tendencia comunista difundida a través del arte y la literatura."},
+    {palabra:"Licuefaccion", definicion:"Licuación, licuarse, hacerse de sólido a líquido."},
+    {palabra:"Guirigay", definicion:"Lenguaje incomprensible. / Griterío, confusión de varias personas hablando sin orden."},
+    {palabra:"Cinocéfalo", definicion:"Cabeza de perro."},
   ];
 
 }]);
