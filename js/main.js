@@ -2607,6 +2607,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Licuefaccion", definicion:"Licuación, licuarse, hacerse de sólido a líquido."},
     {palabra:"Guirigay", definicion:"Lenguaje incomprensible. / Griterío, confusión de varias personas hablando sin orden."},
     {palabra:"Cinocéfalo", definicion:"Cabeza de perro."},
+    {palabra:"Álalo", definicion:"Mudo, que carece de habla."},
   ];
 
 }]);
