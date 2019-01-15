@@ -2608,6 +2608,23 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Guirigay", definicion:"Lenguaje incomprensible. / Griterío, confusión de varias personas hablando sin orden."},
     {palabra:"Cinocéfalo", definicion:"Cabeza de perro."},
     {palabra:"Álalo", definicion:"Mudo, que carece de habla."},
+    {palabra:"Espiritado", definicion:"Excesivamente delgado."},
+    {palabra:"Subitáneo", definicion:"Repetino, que ocurre de forma súbita."},
+    {palabra:"Centuplicar", definicion:"Multiplicar por cien."},
+    {palabra:"Dintorno", definicion:"Delineación de una figura dentro de su contorno."},
+    {palabra:"Amencia", definicion:"Falta de inteligencia, idiotez."},
+    {palabra:"Semoviente", definicion:"Que se mueve por sí mismo, se aplica especialmente al ganado."},
+    {palabra:"Vagido", definicion:"Llanto o gemido de un recién nacido."},
+    {palabra:"Delictuoso", definicion:"Delictivo."},
+    {palabra:"Dilacerar", definicion:"Desgarrar. / Perjudicar moralmente a alguien."},
+    {palabra:"Berrendo", definicion:"Antílope americano."},
+    {palabra:"Capriforme", definicion:"Con forma de cabra."},
+    {palabra:"Animálculo", definicion:"Animal que sólo se ve con microscopio"},
+    {palabra:"Testuz", definicion:"Frente del toro."},
+    {palabra:"Pesantez", definicion:"Cualidad de lo que es o resulta pesado."},
+    {palabra:"Yerto", definicion:"Que está rígido o inmóvil, especialmente si es a causa de la muerte, el frío o una emoción fuerte."},
+    {palabra:"Légamo", definicion:"Barro pegajoso que se forma en el suelo por lluvia o agua estancada."},
+    {palabra:"Bóvido", definicion:"Familia de los animales con cuertons: toros, cabras, gacelas, ñu, etc.."},
   ];
 
 }]);
