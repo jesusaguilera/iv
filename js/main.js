@@ -2625,6 +2625,9 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Yerto", definicion:"Que está rígido o inmóvil, especialmente si es a causa de la muerte, el frío o una emoción fuerte."},
     {palabra:"Légamo", definicion:"Barro pegajoso que se forma en el suelo por lluvia o agua estancada."},
     {palabra:"Bóvido", definicion:"Familia de los animales con cuertons: toros, cabras, gacelas, ñu, etc.."},
+    {palabra:"Magufo", definicion:"Homeópata, astrologo, ufólogo y los practicantes de pseudociencia."},
+    {palabra:"Telegenia", definicion:"Cualidad de una persona para salir favorecido y causar efecto agradable en televisión."},
+    {palabra:"Lupanaria", definicion:"Latín: Prostíbulos"},
   ];
 
 }]);
