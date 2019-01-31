@@ -2628,6 +2628,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Magufo", definicion:"Homeópata, astrologo, ufólogo y los practicantes de pseudociencia."},
     {palabra:"Telegenia", definicion:"Cualidad de una persona para salir favorecido y causar efecto agradable en televisión."},
     {palabra:"Lupanaria", definicion:"Latín: Prostíbulos"},
+    {palabra:"Blasé", definicion:"Francés: Hastiado, desganado."},
   ];
 
 }]);
