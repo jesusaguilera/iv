@@ -2629,6 +2629,11 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Telegenia", definicion:"Cualidad de una persona para salir favorecido y causar efecto agradable en televisión."},
     {palabra:"Lupanaria", definicion:"Latín: Prostíbulos"},
     {palabra:"Blasé", definicion:"Francés: Hastiado, desganado."},
+    {palabra:"Tafanario", definicion:"Nalgas, culo, trasero."},
+    {palabra:"Írrito", definicion:"Nulo, sin valor alguno."},
+    {palabra:"Melopea", definicion:"Canto monótono."},
+    {palabra:"Mucilaginoso", definicion:"Que tiene mucílago."},
+    {palabra:"Mucílago", definicion:"Sustancia orgánica de textura viscosa"},
   ];
 
 }]);
