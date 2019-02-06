@@ -2634,6 +2634,8 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Melopea", definicion:"Canto monótono."},
     {palabra:"Mucilaginoso", definicion:"Que tiene mucílago."},
     {palabra:"Mucílago", definicion:"Sustancia orgánica de textura viscosa"},
+    {palabra:"Sístole", definicion:"Contracción, movimiento al exterior."},
+    {palabra:"Diástole", definicion:"Relajación, movimiento sanguíneo al interior."},
   ];
 
 }]);
