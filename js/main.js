@@ -2636,6 +2636,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Mucílago", definicion:"Sustancia orgánica de textura viscosa"},
     {palabra:"Sístole", definicion:"Contracción, movimiento al exterior."},
     {palabra:"Diástole", definicion:"Relajación, movimiento sanguíneo al interior."},
+    {palabra:"Epónimo", definicion:"Es una persona o lugar cuyo nombre es usado para nombrar a un pueblo, concepto u objeto de cualquier clase"},
   ];
 
 }]);
