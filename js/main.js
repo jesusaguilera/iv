@@ -2637,6 +2637,17 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Sístole", definicion:"Contracción, movimiento al exterior."},
     {palabra:"Diástole", definicion:"Relajación, movimiento sanguíneo al interior."},
     {palabra:"Epónimo", definicion:"Es una persona o lugar cuyo nombre es usado para nombrar a un pueblo, concepto u objeto de cualquier clase"},
+    {palabra:"Reblar", definicion:"Retroceder."},
+    {palabra:"Admonitorio", definicion:"Que sirve para amonestar o tiene caracter de amonestación."},
+    {palabra:"Himplar", definicion:"Emitir ( la pantera o el ocelote ) su voz."},
+    {palabra:"Batahola", definicion:"Bulla o ruido grande."},
+    {palabra:"Pari passu", definicion:"Latín: 'Con igual paso' se traduce como 'en igualdad de condiciones'"},
+    {palabra:"Demediar", definicion:"Usar una cosa hasta que pierda la mitad de su valor. / Promediar, dividir las cosas en partes iguales."},
+    {palabra:"Mitocondria", definicion:"Orgánulo citoplasmático de las células con función principal función la producción de energía mediante el consumo de oxígeno."},
+    {palabra:"Cérvidos", definicion:"Familia de mamíferos que incluye a los ciervos o venados."},
+    {palabra:"Torvo", definicion:"Que tiene aspecto fiero y airado."},
+    {palabra:"Socapa", definicion:"Pretexto que sirve para ocultar la intención de conseguir una cosa."},
+    {palabra:"Calambur", definicion:"Juego de palabras basándose en la homonimia, en la paronimia o la en la polisémia. Ej: 'plata no es'."},
   ];
 
 }]);
