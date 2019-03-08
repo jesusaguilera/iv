@@ -2648,6 +2648,11 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Torvo", definicion:"Que tiene aspecto fiero y airado."},
     {palabra:"Socapa", definicion:"Pretexto que sirve para ocultar la intención de conseguir una cosa."},
     {palabra:"Calambur", definicion:"Juego de palabras basándose en la homonimia, en la paronimia o la en la polisémia. Ej: 'plata no es'."},
+    {palabra:"Aventar", definicion:"Echar algo al viento."},
+    {palabra:"Encocorar", definicion:"Crispar, molestar mucho."},
+    {palabra:"Conclusivo", definicion:"Que finaliza con lógica y argumentativamente una cosa. Concluyente."},
+    {palabra:"Poliarquía", definicion:"Gobierno de muchos."},
+    {palabra:"Dilución", definicion:"Pérdida de sustancia, acción de diluirse."},
   ];
 
 }]);
