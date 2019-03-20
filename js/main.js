@@ -2653,6 +2653,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Conclusivo", definicion:"Que finaliza con lógica y argumentativamente una cosa. Concluyente."},
     {palabra:"Poliarquía", definicion:"Gobierno de muchos."},
     {palabra:"Dilución", definicion:"Pérdida de sustancia, acción de diluirse."},
+    {palabra:"Hato", definicion:"Conjunto de ganado de mayor o menor."},
   ];
 
 }]);
