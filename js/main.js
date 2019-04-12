@@ -2516,7 +2516,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Priscilianismo", definicion:"Doctrina cristiana creada por el español avilés Prisciliano basda en los ideales de austeridad y pobreza. (Germen del Franciscanos y Dominicos.)"},
     {palabra:"Perimetral", definicion:"Contorno. Situado en el perímetro. / Perteneciente al perímetro."},
     {palabra:"Denticulado", definicion:"Herramientas líticas fabricadas con piedras mediante percusión o golpeo de las misma ( puntas de flechas, hachas, cuchillos )"},
-    {palabra:"Estrgar", definicion:"Viciar / Causar un estrago."},
+    {palabra:"Estragar", definicion:"Descomponer físicamente a alguien o algo. / Viciar / Causar un estrago."},
     {palabra:"Psicomaquía", definicion:"Contienda, pendencia entre vicio y virtudes. (Concepto creado por el Vascón de Calahorra.)"},
     {palabra:"Retortero", definicion:"Expresión 'andar o ir al retortero' significa andar sin descanso de aquí para allá trabajando o atendiendo alguna obligación."},
     {palabra:"Hierofante o Girofante", definicion:"Rango de sumo sacerdote dentro de los sacerdotes de la antigua religión griega."},
@@ -2677,6 +2677,16 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Contrafactual", definicion:"Acontecimiento que no ha sucedido nunca pero que podría haber ocurrido."},
     {palabra:"Lítote", definicion:"Figura retórica que consiste en no expresar todo lo que se quiere dar a entender sin por ello deje de comprenderse la intención del hablante."},
     {palabra:"Enfebrecido", definicion:"Que está muy exaltado o entusiasmado."},
+    {palabra:"Bausán", definicion:"Figura de paja para ser embestida a modo de combate. / Persona boba, simple, necia."},
+    {palabra:"Prorrumpir", definicion:"Proferir una voz repentinamente, suspiro, lamento u otra demostración de dolor o pasión vehemente. / Salir algo con ímpetu."},
+    {palabra:"Trastulo", definicion:"Pasatiempo, juguete."},
+    {palabra:"Cotufa", definicion:"Golosina."},
+    {palabra:"Abarraganarse", definicion:"Amancebarse, hacer vida en pareja sin estar casados."},
+    {palabra:"Magín", definicion:"Ingenio, inteligencia, imaginación."},
+    {palabra:"Vocable", definicion:"Vocablo"},
+    {palabra:"Refacción", definicion:"Compostura o reparación."},
+    {palabra:"Jayán", definicion:"Persona robusta y de mucha fuerza."},
+    {palabra:"Parusía", definicion:"Advenimiento glorioso de Jesús al final de los tiempos."},
 
   ];
 
