@@ -1577,7 +1577,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Consuetudinario", definicion:"Que se rige por la costumbre, aplicado normalmente al derecho."},
     {palabra:"Diádoco / Proclo", definicion:"Sucesor."},
     {palabra:"Hénada", definicion:"Uno, unidad."},
-    {palabra:"Asíntota", definicion:"Línea recta que, prolongada indefinidamente, se acerca de continuo a una curva, sin llegar nunca a encontrarla."},
+    {palabra:"Asíntota", definicion:"Algo que no tiene coincidencia."},
     {palabra:"Dimorfismo", definicion:"Dos formas o dos aspectos anatómicos diferentes."},
     {palabra:"Excipiente", definicion:"Sustancia inerte que se utiliza para dar solidez a otra."},
     {palabra:"Prognato", definicion:"Que tiene mandíbulas salientes. / Que tiene las partes bucales prominentes."},
@@ -2687,7 +2687,12 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Refacción", definicion:"Compostura o reparación."},
     {palabra:"Jayán", definicion:"Persona robusta y de mucha fuerza."},
     {palabra:"Parusía", definicion:"Advenimiento glorioso de Jesús al final de los tiempos."},
-
+    {palabra:"Guarismos", definicion:"Números."},
+    {palabra:"Asíntota", definicion:"Números."},
+    {palabra:"Descuidero", definicion:"Ratero, ladrón."},
+    {palabra:"Monomanía", definicion:"Obsesión por una idea determinada y recurrente. / Manía, paranoia." },
+    {palabra:"Palúdico", definicion:"De los terrenos pantanosos o relacionado con ellos." },
+    {palabra:"Circunfuso", definicion:"Difundido o extendido alrededor. (higiene circunfusa: temperatura, aire mefítico, etc..)" },
   ];
 
 }]);
