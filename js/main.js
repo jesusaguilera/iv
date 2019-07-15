@@ -2720,6 +2720,14 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Albo/a", definicion:"Blanco. / Amanecer." },
     {palabra:"Esquilmar", definicion:"Empobrecer, agotar." },
     {palabra:"Trasijado", definicion:"Delgado, flaco." },
+    {palabra:"Mascullar", definicion:"Hablar entre dientes." },
+    {palabra:"Abrogar", definicion:"Abolir, revocar." },
+    {palabra:"Adelfopoiesis", definicion:"Ceremonia de iglesias cristianas de la Edad Media para unir dos personas del mismo sexo." },
+    {palabra:"Emporcarse", definicion:"Emporcar, enmugrecer, ensuciar, macular, manchar." },
+    {palabra:"Tórrido", definicion:"Caliente, ardiente, sofocante, abrasador." },
+    {palabra:"Filiforme", definicion:"Que tiene forma de hilo." },
+    {palabra:"Quincalla", definicion:"Conjunto de objetos de metal de poco valor." },
+    {palabra:"Astroso", definicion:"Persona que presenta un aspecto descuidado, va mal vestido y sucio." },
   ];
 
 }]);
