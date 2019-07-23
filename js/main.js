@@ -2728,6 +2728,11 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Filiforme", definicion:"Que tiene forma de hilo." },
     {palabra:"Quincalla", definicion:"Conjunto de objetos de metal de poco valor." },
     {palabra:"Astroso", definicion:"Persona que presenta un aspecto descuidado, va mal vestido y sucio." },
+    {palabra:"Plurimorfa", definicion:"Muchas formas." },
+    {palabra:"Clerigalla", definicion:"Clero ( despectivo )" },
+    {palabra:"Bálano", definicion:"Glande, cabeza del pene." },
+    {palabra:"Extravasarse", definicion:"Salirse un líquido de su conducto normal." },
+    {palabra:"Óbolo", definicion:"Moneda antigua griega de plata." },
   ];
 
 }]);
