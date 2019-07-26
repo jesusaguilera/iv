@@ -2733,6 +2733,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Bálano", definicion:"Glande, cabeza del pene." },
     {palabra:"Extravasarse", definicion:"Salirse un líquido de su conducto normal." },
     {palabra:"Óbolo", definicion:"Moneda antigua griega de plata." },
+    {palabra:"Diorama", definicion:"Maqueta que muestra figuras humanas, vehículos, animales o incluso seres imaginarios." },
   ];
 
 }]);
