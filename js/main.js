@@ -2743,6 +2743,16 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Receptación", definicion:"Oculatción o encubrimiento de un delicuente o delito." },
     {palabra:"Borborigmo", definicion:"Ruido estomacal" },
     {palabra:"Borboritar", definicion:"Borbotar, borbollar." },
+    {palabra:"Urofilia", definicion:"Parafilia sexual relacionada con la orina." },
+    {palabra:"Clismafilia", definicion:"Parafilia sexual relacionada con poner enemas" },
+    {palabra:"Salacidad", definicion:"Inclinación vehemente a la lascivia." },
+    {palabra:"Pilífero", definicion:"Botanica: se aplica a órgano que tiene pelos." },
+    {palabra:"Hetaira", definicion:"Hetera, prostituta de lujo en la antigua grecia" },
+    {palabra:"Incunable", definicion:"Libro que ha sido impreso antes del año 1500" },
+    {palabra:"Tomografía", definicion:"TAC. inserción en tubo para realizar una exploración y diagnosticar una enfermedad" },
+    {palabra:"Querulantes", definicion:"Persona que se queja o querella." },
+
+
   ];
 
 }]);
