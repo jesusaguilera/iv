@@ -2734,6 +2734,15 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Extravasarse", definicion:"Salirse un líquido de su conducto normal." },
     {palabra:"Óbolo", definicion:"Moneda antigua griega de plata." },
     {palabra:"Diorama", definicion:"Maqueta que muestra figuras humanas, vehículos, animales o incluso seres imaginarios." },
+    {palabra:"Híspido", definicion:"Pleo que es áspero, duro y tieso." },
+    {palabra:"Post quem", definicion:"Es la fecha más antigua o lejana de la aparaciión de un objeto o fenómeno." },
+    {palabra:"Ante quem", definicion:"Es la fecha más nueva o cercana de la apacición de un objeto o fenómeno." },
+    {palabra:"Dispeptico", definicion:"De la dispepsia. Indigesto" },
+    {palabra:"Intonso", definicion:"Que no tiene el pelo cortado. / Libro que está encuadernado sin cortar los pliegos." },
+    {palabra:"Fisípedos", definicion:"Animales carnívoros que tiene los dedos de sus patas separados( perros, hienas, lobos, tigres, leones)" },
+    {palabra:"Receptación", definicion:"Oculatción o encubrimiento de un delicuente o delito." },
+    {palabra:"Borborigmo", definicion:"Ruido estomacal" },
+    {palabra:"Borboritar", definicion:"Borbotar, borbollar." },
   ];
 
 }]);
