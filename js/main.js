@@ -2734,7 +2734,12 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Extravasarse", definicion:"Salirse un líquido de su conducto normal." },
     {palabra:"Óbolo", definicion:"Moneda antigua griega de plata." },
     {palabra:"Diorama", definicion:"Maqueta que muestra figuras humanas, vehículos, animales o incluso seres imaginarios." },
-    {palabra:"Híspido", definicion:"Pleo que es áspero, duro y tieso." },
+    {palabra:"Columbrar", definicion:"Suponer, entrever, conjeturar, etc." },
+    {palabra:"Ojizarco", definicion:"De ojos azules." },
+    {palabra:"Catalepsia", definicion:"Inmovilidad, rigidez." },
+    {palabra:"Pedomorfismo", definicion:"Prolongación de rasgos juveniles en la edad adulta ( Errejón )" },
+    {palabra:"Ansiógeno", definicion:"Que genera ansiedad." },
+    {palabra:"Híspido", definicion:"Pelo que es áspero, duro y tieso." },
     {palabra:"Post quem", definicion:"Es la fecha más antigua o lejana de la aparaciión de un objeto o fenómeno." },
     {palabra:"Ante quem", definicion:"Es la fecha más nueva o cercana de la apacición de un objeto o fenómeno." },
     {palabra:"Dispeptico", definicion:"De la dispepsia. Indigesto" },
@@ -2751,8 +2756,6 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Incunable", definicion:"Libro que ha sido impreso antes del año 1500" },
     {palabra:"Tomografía", definicion:"TAC. inserción en tubo para realizar una exploración y diagnosticar una enfermedad" },
     {palabra:"Querulantes", definicion:"Persona que se queja o querella." },
-
-
   ];
 
 }]);
