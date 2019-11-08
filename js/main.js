@@ -2739,6 +2739,23 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Catalepsia", definicion:"Inmovilidad, rigidez." },
     {palabra:"Pedomorfismo", definicion:"Prolongación de rasgos juveniles en la edad adulta ( Errejón )" },
     {palabra:"Ansiógeno", definicion:"Que genera ansiedad." },
+    {palabra:"Híspido", definicion:"Pelo que es áspero, duro y tieso." },
+    {palabra:"Post quem", definicion:"Es la fecha más antigua o lejana de la aparaciión de un objeto o fenómeno." },
+    {palabra:"Ante quem", definicion:"Es la fecha más nueva o cercana de la apacición de un objeto o fenómeno." },
+    {palabra:"Dispeptico", definicion:"De la dispepsia. Indigesto" },
+    {palabra:"Intonso", definicion:"Que no tiene el pelo cortado. / Libro que está encuadernado sin cortar los pliegos." },
+    {palabra:"Fisípedos", definicion:"Animales carnívoros que tiene los dedos de sus patas separados( perros, hienas, lobos, tigres, leones)" },
+    {palabra:"Receptación", definicion:"Oculatción o encubrimiento de un delicuente o delito." },
+    {palabra:"Borborigmo", definicion:"Ruido estomacal" },
+    {palabra:"Borboritar", definicion:"Borbotar, borbollar." },
+    {palabra:"Urofilia", definicion:"Parafilia sexual relacionada con la orina." },
+    {palabra:"Clismafilia", definicion:"Parafilia sexual relacionada con poner enemas" },
+    {palabra:"Salacidad", definicion:"Inclinación vehemente a la lascivia." },
+    {palabra:"Pilífero", definicion:"Botanica: se aplica a órgano que tiene pelos." },
+    {palabra:"Hetaira", definicion:"Hetera, prostituta de lujo en la antigua grecia" },
+    {palabra:"Incunable", definicion:"Libro que ha sido impreso antes del año 1500" },
+    {palabra:"Tomografía", definicion:"TAC. inserción en tubo para realizar una exploración y diagnosticar una enfermedad" },
+    {palabra:"Querulantes", definicion:"Persona que se queja o querella." },
   ];
 
 }]);
