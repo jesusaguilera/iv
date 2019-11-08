@@ -2734,6 +2734,11 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Extravasarse", definicion:"Salirse un líquido de su conducto normal." },
     {palabra:"Óbolo", definicion:"Moneda antigua griega de plata." },
     {palabra:"Diorama", definicion:"Maqueta que muestra figuras humanas, vehículos, animales o incluso seres imaginarios." },
+    {palabra:"Columbrar", definicion:"Suponer, entrever, conjeturar, etc." },
+    {palabra:"Ojizarco", definicion:"De ojos azules." },
+    {palabra:"Catalepsia", definicion:"Inmovilidad, rigidez." },
+    {palabra:"Pedomorfismo", definicion:"Prolongación de rasgos juveniles en la edad adulta ( Errejón )" },
+    {palabra:"Ansiógeno", definicion:"Que genera ansiedad." },
   ];
 
 }]);
