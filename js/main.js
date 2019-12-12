@@ -2756,6 +2756,7 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Incunable", definicion:"Libro que ha sido impreso antes del año 1500" },
     {palabra:"Tomografía", definicion:"TAC. inserción en tubo para realizar una exploración y diagnosticar una enfermedad" },
     {palabra:"Querulantes", definicion:"Persona que se queja o querella." },
+    {palabra:"Diaforesis", definicion:"Sudoración abundante." },
   ];
 
 }]);
