@@ -2757,6 +2757,9 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Tomografía", definicion:"TAC. inserción en tubo para realizar una exploración y diagnosticar una enfermedad" },
     {palabra:"Querulantes", definicion:"Persona que se queja o querella." },
     {palabra:"Diaforesis", definicion:"Sudoración abundante." },
+    {palabra:"Inexorable", definicion:"Que no se puede evitar o detener. Ineludible. / Inflexible, duro. implacable. " },
+    {palabra:"Orillar", definicion:"Dejar apartada o al margen alguna cosa. / Reforzar los extremos de una tela o prenda. / Resolver, concluir, arreglar." },
+    {palabra:"Cacumen", definicion:"Inteligencia, agudeza, perspicacia." },
   ];
 
 }]);
