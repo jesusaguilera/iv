@@ -2777,6 +2777,23 @@ angular.module('definicionesModule', []).controller ('definicionesController', [
     {palabra:"Diégesis", definicion:"Latín: Mientras tanto, en tanto." },
     {palabra:"Etiología", definicion:"Estudio sobre las causas de las cosas." },
     {palabra:"Escolio", definicion:"Nota que se pone a un texto para explicarlo." },
+    {palabra:"Cimbrar", definicion:"Mover el cuerpo con garbo y gracia." },
+    {palabra:"Gorrinada", definicion:"Guarrada." },
+    {palabra:"Asperjar", definicion:"Hisopear, rociar. (esparcir gotas menudas)" },
+    {palabra:"Innominado", definicion:"Que no tiene nombre." },
+    {palabra:"Paidocracia", definicion:"Gobierno en manos de los niños o jóvenes" },
+    {palabra:"Gerontocracia", definicion:"Gobierno en manos de los ancianos." },
+    {palabra:"Mentideros", definicion:"Sitio donde la gente se reúne para conversar o hacer tertulia. / Sitio donde concurre la gente ociosa para chismorrear." },
+    {palabra:"Turbamulta", definicion:"Multitud confusa y desordenada." },
+    {palabra:"Recidiva", definicion:"Algo que reaparece o reverdece. Se suele usar aplicado a las enfermedades ( recidivantes ) que vuelven a aparecer." },
+    {palabra:"Zozobra", definicion:"Inquietud." },
+    {palabra:"Ocluir", definicion:"Tapar un conducto." },
+    {palabra:"Atópico", definicion:"Que no tiene lugar preciso." },
+    {palabra:"Concurdáneo", definicion:"Borracho que se suele reunir con otros para embriagarse." },
+    {palabra:"Moyatoso", definicion:"Borracho bebedor de vino." },
+    {palabra:"Demodé", definicion:"Pasado de moda." },
+    {palabra:"Pluviosidad", definicion:"Lluvia." },
+    {palabra:"Vespasiana", definicion:"Urinario público. Se construyó por el emperador Vespasino que volvió a impulsar el impuesto a la orina creado por Nerón." },
   ];
 
 }]);
