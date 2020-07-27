@@ -9358,6 +9358,10 @@ angular.module("definicionesModule", []).controller("definicionesController", [
         palabra: "Malum quidem nullum esse sine aliquo bono",
         definicion: "No hay ningún mal sin algo bueno.",
       },
+      {
+        palabra: "Impasse",
+        definicion: "Callejón sin salida.",
+      },
     ];
   },
 ]);
