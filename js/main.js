@@ -9362,6 +9362,10 @@ angular.module("definicionesModule", []).controller("definicionesController", [
         palabra: "Impasse",
         definicion: "Callejón sin salida.",
       },
+      {
+        palabra: "Putrefactivo",
+        definicion: "Que causa putrefacción.",
+      },
     ];
   },
 ]);
