@@ -9366,6 +9366,14 @@ angular.module("definicionesModule", []).controller("definicionesController", [
         palabra: "Putrefactivo",
         definicion: "Que causa putrefacción.",
       },
+      {
+        palabra: "Facundia",
+        definicion: "Abundancia y facilidad de palabra",
+      },
+      {
+        palabra: "Locuaz",
+        definicion: "Verboso, hablador, charlatán",
+      },
     ];
   },
 ]);
