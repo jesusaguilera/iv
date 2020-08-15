@@ -2840,7 +2840,7 @@ angular.module("definicionesModule", []).controller("definicionesController", [
       {
         palabra: "Azorar",
         definicion:
-          "Dicho de un azor: Asustar, perseguir o alcanzar a otras aves. / Conturbar, sobresaltar. / Irritar, encender, infundir ánimo.",
+          "Turbar o hacer perder la serenidad a alguien de modo que no pueda obrar acertadamente.",
       },
       {
         palabra: "Conturbar",
@@ -9373,6 +9373,22 @@ angular.module("definicionesModule", []).controller("definicionesController", [
       {
         palabra: "Locuaz",
         definicion: "Verboso, hablador, charlatán",
+      },
+      {
+        palabra: "Anoxia",
+        definicion: "Falta o disminución de oxígeno en las células.",
+      },
+      {
+        palabra: "Atribular",
+        definicion: "Causar atribulación (pena, disgusto, aflicción).",
+      },
+      {
+        palabra: "Avizorar",
+        definicion: "Mirar con atención, acechar, observar, atisbar.",
+      },
+      {
+        palabra: "Angosto",
+        definicion: "Estrecho, reducido, escaso.",
       },
     ];
   },
