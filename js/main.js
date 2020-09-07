@@ -632,7 +632,10 @@ angular.module("definicionesModule", []).controller("definicionesController", [
         definicion:
           "Moderación económica y prudrente de las cosas. Moderación, sobriedad.",
       },
-      { palabra: "Casquivana", definicion: "Alegre de cascos. (cachonda)" },
+      {
+        palabra: "Casquivana",
+        definicion: "Mujer alegre de cascos. Melusina.",
+      },
       {
         palabra: "Providencia",
         definicion: "Disposición anticipada que conduce a un fín",
@@ -2415,7 +2418,7 @@ angular.module("definicionesModule", []).controller("definicionesController", [
         definicion: "Palabra que tiene un único significado.",
       },
       { palabra: "Parafilia", definicion: "Desviación sexual." },
-      { palabra: "Inquina", definicion: "Aversión, mala voluntad." },
+      { palabra: "Inquina", definicion: "Aversión, mala voluntad. Ojeriza." },
       {
         palabra: "Monacato",
         definicion: "Estado o profesión de monje. / Institución monástica.",
@@ -9389,6 +9392,14 @@ angular.module("definicionesModule", []).controller("definicionesController", [
       {
         palabra: "Angosto",
         definicion: "Estrecho, reducido, escaso.",
+      },
+      {
+        palabra: "Pláceme",
+        definicion: "Enhorabuena, congratulación, felicitación.",
+      },
+      {
+        palabra: "Enteco",
+        definicion: "Flaco, débil, enfermizo.",
       },
     ];
   },
